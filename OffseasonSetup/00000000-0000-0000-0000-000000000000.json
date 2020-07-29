@@ -6,7 +6,7 @@
       "title": "Performance Enhancing Demons",
       "type": 4,
       "value": 0.08,
-      "votes": 231
+      "votes": 233
     },
     {
       "_id": "team_improve_hitting",
@@ -14,7 +14,7 @@
       "title": "Yes Plz!",
       "type": 0,
       "value": 0.1,
-      "votes": 69
+      "votes": 71
     },
     {
       "_id": "team_improve_pitching",
@@ -22,7 +22,7 @@
       "title": "Pseudo-Thumbs",
       "type": 1,
       "value": 0.1,
-      "votes": 48
+      "votes": 49
     },
     {
       "_id": "team_improve_baserunning",
@@ -30,7 +30,7 @@
       "title": "Wind Sprints",
       "type": 2,
       "value": 0.15,
-      "votes": 26
+      "votes": 27
     },
     {
       "_id": "team_improve_defense",
@@ -46,7 +46,7 @@
       "title": "Seduction",
       "type": 27,
       "value": 1,
-      "votes": 113
+      "votes": 114
     },
     {
       "_id": "steal_best_pitcher",
@@ -62,7 +62,7 @@
       "title": "Bloodlust",
       "type": 22,
       "value": 1,
-      "votes": 110
+      "votes": 111
     },
     {
       "_id": "max_random_hitter",
@@ -86,14 +86,14 @@
       "title": "Soul Swap",
       "type": 10,
       "value": 5,
-      "votes": 286
+      "votes": 289
     },
     {
       "_id": "tiebreaker_boost",
       "description": "Your team sacrifices a fan from the stands. The Gods show favor. Your team will win all tiebreakers.",
       "title": "Blood Sacrifice",
       "type": 20,
-      "votes": 73
+      "votes": 75
     }
   ],
   "decrees": [
@@ -102,28 +102,28 @@
       "description": "The last place team in the league will be eliminated from the league, and replaced with a new team.",
       "title": "Relegation",
       "type": 1,
-      "votes": 182
+      "votes": 185
     },
     {
       "_id": "popular_evolution",
       "description": "The team with the most fans will Evolve.",
       "title": "Popular Evolution",
       "type": 4,
-      "votes": 402
+      "votes": 404
     },
     {
       "_id": "peanuts",
       "description": "Peanuts",
       "title": "Peanuts",
       "type": 5,
-      "votes": 639
+      "votes": 648
     },
     {
       "_id": "four_for_four",
       "description": "The bottom four teams in the league gain the Fourth Strike. It will take Four Strikes to strike out any batter on their team for the following Season and Postseason.",
       "title": "The Fourth Strike",
       "type": 3,
-      "votes": 278
+      "votes": 280
     },
     {
       "_id": "enhanced_shame",
