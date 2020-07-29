@@ -14,7 +14,7 @@
       "title": "Yes Plz!",
       "type": 0,
       "value": 0.1,
-      "votes": 67
+      "votes": 69
     },
     {
       "_id": "team_improve_pitching",
@@ -46,7 +46,7 @@
       "title": "Seduction",
       "type": 27,
       "value": 1,
-      "votes": 111
+      "votes": 112
     },
     {
       "_id": "steal_best_pitcher",
@@ -54,7 +54,7 @@
       "title": "Defection",
       "type": 26,
       "value": 1,
-      "votes": 100
+      "votes": 101
     },
     {
       "_id": "max_random_player",
@@ -70,7 +70,7 @@
       "title": "Gunblade Bat",
       "type": 24,
       "value": 1,
-      "votes": 82
+      "votes": 85
     },
     {
       "_id": "max_random_pitcher",
@@ -86,14 +86,14 @@
       "title": "Soul Swap",
       "type": 10,
       "value": 5,
-      "votes": 281
+      "votes": 283
     },
     {
       "_id": "tiebreaker_boost",
       "description": "Your team sacrifices a fan from the stands. The Gods show favor. Your team will win all tiebreakers.",
       "title": "Blood Sacrifice",
       "type": 20,
-      "votes": 71
+      "votes": 72
     }
   ],
   "decrees": [
@@ -109,21 +109,21 @@
       "description": "The team with the most fans will Evolve.",
       "title": "Popular Evolution",
       "type": 4,
-      "votes": 391
+      "votes": 396
     },
     {
       "_id": "peanuts",
       "description": "Peanuts",
       "title": "Peanuts",
       "type": 5,
-      "votes": 632
+      "votes": 636
     },
     {
       "_id": "four_for_four",
       "description": "The bottom four teams in the league gain the Fourth Strike. It will take Four Strikes to strike out any batter on their team for the following Season and Postseason.",
       "title": "The Fourth Strike",
       "type": 3,
-      "votes": 272
+      "votes": 276
     },
     {
       "_id": "enhanced_shame",
