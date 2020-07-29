@@ -5,12 +5,6 @@
     "msg": "The Discipline Era has begun"
   },
   {
-    "__v": 0,
-    "_id": "mourning_best_player",
-    "expire": "2020-07-29T19:00:02.379Z",
-    "msg": "In Memoriam: Jaylen Hotdogfingers, Fitzgerald Massey, Tyreek Olive, Jenna Maldonado, Nora Perez, Scrap Murphy"
-  },
-  {
     "_id": "darkness_forecast",
     "msg": "THE COMMISSIONER IS DOING A GREAT JOB"
   },
@@ -21,11 +15,11 @@
   {
     "__v": 0,
     "_id": "hitting_stat_leaders_update",
-    "msg": "On Base Percentage Leaders: ... Jacob Haynes, Boston Flowers - 0.543 ..... Aldon Cashmoney, Breckenridge Jazz Hands - 0.492 ..... Jessi Wise, Hawaii Fridays - 0.476 ..... Baby Urlacher, Chicago Firefighters - 0.475 ..... Washer Barajas, Yellowstone Magic - 0.471 ..... "
+    "msg": "Stolen Base Leaders: ... Eizabeth Guerra, Kansas City Breath Mints - 7 ..... Baby Urlacher, Chicago Firefighters - 7 ..... Beck Whitney, Boston Flowers - 6 ..... Washer Barajas, Yellowstone Magic - 6 ..... Sutton Picklestein, Yellowstone Magic - 6 ..... "
   },
   {
     "__v": 0,
     "_id": "pitching_stat_leaders_update",
-    "msg": "Pitcher Win Leaders: ... Cornelius Games, Charleston Shoe Thieves - 7 ..... Dunn Keyes, Boston Flowers - 6 ..... Jenkins Good, Canada Moist Talkers - 6 ..... Nagomi Meng, Hades Tigers - 6 ..... Justice Spoon, Chicago Firefighters - 6 ..... "
+    "msg": "Pitcher Loss Leaders: ... Theodore Cervantes, New York Millennials - 7 ..... Oliver Notarobot, Canada Moist Talkers - 6 ..... Francisca Sasquatch, Miami Dalé - 6 ..... Ruslan Greatness, Philly Pies - 6 ..... Percival Wheeler, San Francisco Lovers - 6 ..... "
   }
 ]
