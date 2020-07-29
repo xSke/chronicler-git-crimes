@@ -1,0 +1,52 @@
+{
+  "_id": "3f8bbb15-61c0-4e3f-8e4a-907a5fb1565e",
+  "bench": [
+    "d9a072f5-1cbb-45ce-87fb-b138e4d8f769",
+    "de67b585-9bf4-4e49-b410-101483ca2fbc",
+    "81b25b16-3370-4eb0-9d1b-6d630194c680"
+  ],
+  "bullpen": [
+    "51985516-5033-4ab8-a185-7bda07829bdb",
+    "98f26a25-905f-4850-8960-b741b0c583a4",
+    "4b73367f-b2bb-4df6-b2eb-2a0dd373eead",
+    "a938f586-f5c1-4a35-9e7f-8eaab6de67a6",
+    "c771abab-f468-46e9-bac5-43db4c5b410f",
+    "a98917bc-e9df-4b0e-bbde-caa6168aa3d7",
+    "2cadc28c-88a5-4e25-a6eb-cdab60dd446d",
+    "e3e1d190-2b94-40c0-8e88-baa3fd198d0f"
+  ],
+  "championships": 0,
+  "emoji": "0x1F339",
+  "fullName": "Boston Flowers",
+  "lineup": [
+    "0fe896e1-108c-4ce9-97be-3470dde73c21",
+    "718dea1a-d9a8-4c2b-933a-f0667b5250e6",
+    "b86237bb-ade6-4b1d-9199-a3cc354118d9",
+    "defbc540-a36d-460b-afd8-07da2375ee63",
+    "51c5473a-7545-4a9a-920d-d9b718d0e8d1",
+    "7a75d626-d4fd-474f-a862-473138d8c376",
+    "3064c7d6-91cc-4c2a-a433-1ce1aabc1ad4",
+    "ab9eb213-0917-4374-a259-458295045021",
+    "2b1cb8a2-9eba-4fce-85cf-5d997ec45714"
+  ],
+  "location": "Boston",
+  "mainColor": "#f7d1ff",
+  "nickname": "Flowers",
+  "permanentAttributes": [],
+  "rotation": [
+    "ff5a37d9-a6dd-49aa-b6fb-b935fd670820",
+    "3e008f60-6842-42e7-b125-b88c7e5c1a95",
+    "dfd5ccbb-90ed-4bfe-83e0-dae9cc763f10",
+    "24f6829e-7bb4-4e1e-8b59-a07514657e72",
+    "a647388d-fc59-4c1b-90d3-8c1826e07775"
+  ],
+  "seasonAttributes": [],
+  "seasonShames": 0,
+  "seasonShamings": 2,
+  "secondaryColor": "#ffbaba",
+  "shameRuns": 0,
+  "shorthand": "BOF",
+  "slogan": "Bloom Goes The Dynamite!",
+  "totalShames": 0,
+  "totalShamings": 0
+}

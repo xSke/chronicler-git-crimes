@@ -1,0 +1,52 @@
+{
+  "_id": "bfd38797-8404-4b38-8b82-341da28b1f83",
+  "bench": [
+    "d6e9a211-7b33-45d9-8f09-6d1a1a7a3c78",
+    "3531c282-cb48-43df-b549-c5276296aaa7",
+    "b056a825-b629-4856-856b-53a15ad34acb"
+  ],
+  "bullpen": [
+    "5b5bcc6c-d011-490f-b084-6fdc2c52f958",
+    "99e7de75-d2b8-4330-b897-a7334708aff9",
+    "50154d56-c58a-461f-976d-b06a4ae467f9",
+    "5b3f0a43-45e7-44e7-9496-512c24c040f0",
+    "93502db3-85fa-4393-acae-2a5ff3980dde",
+    "eaaef47e-82cc-4c90-b77d-75c3fb279e83",
+    "2d22f026-2873-410b-a45f-3b1dac665ffd",
+    "d002946f-e7ed-4ce4-a405-63bdaf5eabb5"
+  ],
+  "championships": 0,
+  "emoji": "0x1F45F",
+  "fullName": "Charleston Shoe Thieves",
+  "lineup": [
+    "18798b8f-6391-4cb2-8a5f-6fb540d646d5",
+    "198fd9c8-cb75-482d-873e-e6b91d42a446",
+    "4ca52626-58cd-449d-88bb-f6d631588640",
+    "248ccf3d-d5f6-4b69-83d9-40230ca909cd",
+    "d47dd08e-833c-4302-a965-a391d345455c",
+    "b4505c48-fc75-4f9e-8419-42b28dcc5273",
+    "bd4c6837-eeaa-4675-ae48-061efa0fd11a",
+    "b8ab86c6-9054-4832-9b96-508dbd4eb624",
+    "7b0f91aa-4d66-4362-993d-6ff60f7ce0ef"
+  ],
+  "location": "Charleston",
+  "mainColor": "#ffce0a",
+  "nickname": "Shoe Thieves",
+  "permanentAttributes": [],
+  "rotation": [
+    "2ae8cbfc-2155-4647-9996-3f2591091baf",
+    "f9c0d3cb-d8be-4f53-94c9-fc53bcbce520",
+    "36786f44-9066-4028-98d9-4fa84465ab9e",
+    "03f920cc-411f-44ef-ae66-98a44e883291",
+    "5e4dfa16-f1b9-400f-b8ef-a1613c2b026a"
+  ],
+  "seasonAttributes": [],
+  "seasonShames": 2,
+  "seasonShamings": 6,
+  "secondaryColor": "#E2DBAC",
+  "shameRuns": 0,
+  "shorthand": "CHST",
+  "slogan": "Your Kicks are My Kicks.",
+  "totalShames": 2,
+  "totalShamings": 0
+}

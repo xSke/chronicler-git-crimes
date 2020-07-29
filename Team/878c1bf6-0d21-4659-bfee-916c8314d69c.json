@@ -1,0 +1,52 @@
+{
+  "_id": "878c1bf6-0d21-4659-bfee-916c8314d69c",
+  "bench": [
+    "5149c919-48fe-45c6-b7ee-bb8e5828a095",
+    "63a31035-2e6d-4922-a3f9-fa6e659b54ad",
+    "937c1a37-4b05-4dc5-a86d-d75226f8490a"
+  ],
+  "bullpen": [
+    "0ecf6190-f869-421a-b339-29195d30d37c",
+    "d81ce662-07b6-4a73-baa4-acbbb41f9dc5",
+    "10ea5d50-ec88-40a0-ab53-c6e11cc1e479",
+    "d8758c1b-afbb-43a5-b00b-6004d419e2c5",
+    "f0594932-8ef7-4d70-9894-df4be64875d8",
+    "dfe3bc1b-fca8-47eb-965f-6cf947c35447",
+    "3db02423-92af-485f-b30f-78256721dcc6",
+    "6192daab-3318-44b5-953f-14d68cdb2722"
+  ],
+  "championships": 0,
+  "emoji": "0x1F32E",
+  "fullName": "Los Angeles Tacos",
+  "lineup": [
+    "27c68d7f-5e40-4afa-8b6f-9df47b79e7dd",
+    "63df8701-1871-4987-87d7-b55d4f1df2e9",
+    "1f159bab-923a-4811-b6fa-02bfde50925a",
+    "bf6a24d1-4e89-4790-a4ba-eeb2870cbf6f",
+    "ea44bd36-65b4-4f3b-ac71-78d87a540b48",
+    "e4034192-4dc6-4901-bb30-07fe3cf77b5e",
+    "a1ed3396-114a-40bc-9ff0-54d7e1ad1718",
+    "5ca7e854-dc00-4955-9235-d7fcd732ddcf",
+    "75f9d874-5e69-438d-900d-a3fcb1d429b3"
+  ],
+  "location": "Los Angeles",
+  "mainColor": "#64376e",
+  "nickname": "Tacos",
+  "permanentAttributes": [],
+  "rotation": [
+    "773712f6-d76d-4caa-8a9b-56fe1d1a5a68",
+    "0bb35615-63f2-4492-80ec-b6b322dc5450",
+    "0d5300f6-0966-430f-903f-a4c2338abf00",
+    "f741dc01-2bae-4459-bfc0-f97536193eea",
+    "e16c3f28-eecd-4571-be1a-606bbac36b2b"
+  ],
+  "seasonAttributes": [],
+  "seasonShames": 0,
+  "seasonShamings": 6,
+  "secondaryColor": "#dbd26e",
+  "shameRuns": 0,
+  "shorthand": "LATA",
+  "slogan": "72° and Spicy",
+  "totalShames": 0,
+  "totalShamings": 0
+}

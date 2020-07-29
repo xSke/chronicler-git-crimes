@@ -1,0 +1,52 @@
+{
+  "_id": "105bc3ff-1320-4e37-8ef0-8d595cb95dd0",
+  "bench": [
+    "061b209a-9cda-44e8-88ce-6a4a37251970",
+    "1c73f91e-0562-480d-9543-2aab1d5e5acd",
+    "b88d313f-e546-407e-8bc6-94040499daa5"
+  ],
+  "bullpen": [
+    "4ed61b18-c1f6-4d71-aea3-caac01470b5c",
+    "ce58415f-4e62-47e2-a2c9-4d6a85961e1e",
+    "efa73de4-af17-4f88-99d6-d0d69ed1d200",
+    "f6b38e56-0d98-4e00-a96e-345aaac1e653",
+    "a3947fbc-50ec-45a4-bca4-49ffebb77dbe",
+    "f968532a-bf06-478e-89e0-3856b7f4b124",
+    "864b3be8-e836-426e-ae56-20345b41d03d",
+    "dd0b48fe-2d49-4344-83ed-9f0770b370a8"
+  ],
+  "championships": 0,
+  "emoji": "0x1F3B8",
+  "fullName": "Seattle Garages",
+  "lineup": [
+    "1301ee81-406e-43d9-b2bb-55ca6e0f7765",
+    "f3ddfd87-73a2-4681-96fe-829476c97886",
+    "8cf78b49-d0ca-4703-88e8-4bcad26c44b1",
+    "425f3f84-bab0-4cf2-91c1-96e78cf5cd02",
+    "495a6bdc-174d-4ad6-8d51-9ee88b1c2e4a",
+    "da0bbbe6-d13c-40cc-9594-8c476975d93d",
+    "8b53ce82-4b1a-48f0-999d-1774b3719202",
+    "1068f44b-34a0-42d8-a92e-2be748681a6f",
+    "03097200-0d48-4236-a3d2-8bdb153aa8f7"
+  ],
+  "location": "Seattle",
+  "mainColor": "#2b4075",
+  "nickname": "Garages",
+  "permanentAttributes": [],
+  "rotation": [
+    "c6a277c3-d2b5-4363-839b-950896a5ec5e",
+    "e3c514ae-f813-470e-9c91-d5baf5ffcf16",
+    "6f9de777-e812-4c84-915c-ef283c9f0cde",
+    "41949d4d-b151-4f46-8bf7-73119a48fac8",
+    "bd9d1d6e-7822-4ad9-bac4-89b8afd8a630"
+  ],
+  "seasonAttributes": [],
+  "seasonShames": 1,
+  "seasonShamings": 2,
+  "secondaryColor": "#543d04",
+  "shameRuns": 0,
+  "shorthand": "SEA",
+  "slogan": "Smells like Team Spirit.",
+  "totalShames": 1,
+  "totalShamings": 0
+}

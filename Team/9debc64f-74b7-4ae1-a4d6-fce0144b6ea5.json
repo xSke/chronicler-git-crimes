@@ -1,0 +1,52 @@
+{
+  "_id": "9debc64f-74b7-4ae1-a4d6-fce0144b6ea5",
+  "bench": [
+    "e972984c-2895-451c-b518-f06a0d8bd375",
+    "07ac91e9-0269-4e2c-a62d-a87ef61e3bbe",
+    "6bac62ad-7117-4e41-80f9-5a155a434856"
+  ],
+  "bullpen": [
+    "a8530be5-8923-4f74-9675-bf8a1a8f7878",
+    "57b4827b-26b0-4384-a431-9f63f715bc5b",
+    "7dca7137-b872-46f5-8e59-8c9c996e9d22",
+    "97981e86-4a42-4f85-8783-9f29833c192b",
+    "b7c4f986-e62a-4a8f-b5f0-8f30ecc35c5d",
+    "b7c1ddda-945c-4b2e-8831-ad9f2ec4a608",
+    "24ad200d-a45f-4286-bfa5-48909f98a1f7",
+    "68462bfa-9006-4637-8830-2e7840d9089a"
+  ],
+  "championships": 0,
+  "emoji": "0x1F575",
+  "fullName": "Houston Spies",
+  "lineup": [
+    "503a235f-9fa6-41b5-8514-9475c944273f",
+    "3afb30c1-1b12-466a-968a-5a9a21458c7f",
+    "90c6e6ca-77fc-42b7-94d8-d8afd6d299e5",
+    "fa477c92-39b6-4a52-b065-40af2f29840a",
+    "285ce77d-e5cd-4daa-9784-801347140d48",
+    "e111a46d-5ada-4311-ac4f-175cca3357da",
+    "ecb8d2f5-4ff5-4890-9693-5654e00055f6",
+    "446a3366-3fe3-41bb-bfdd-d8717f2152a9",
+    "f38c5d80-093f-46eb-99d6-942aa45cd921"
+  ],
+  "location": "Houston",
+  "mainColor": "#67556b",
+  "nickname": "Spies",
+  "permanentAttributes": [],
+  "rotation": [
+    "32551e28-3a40-47ae-aed1-ff5bc66be879",
+    "d2d76815-cbdc-4c4b-9c9e-32ebf2297cc7",
+    "3a8c52d7-4124-4a65-a20d-d51abcbe6540",
+    "30218684-7fa1-41a5-a3b3-5d9cd97dd36b",
+    "ceb8f8cd-80b2-47f0-b43e-4d885fa48aa4"
+  ],
+  "seasonAttributes": [],
+  "seasonShames": 1,
+  "seasonShamings": 2,
+  "secondaryColor": "#d1bece",
+  "shameRuns": 0,
+  "shorthand": "HOU",
+  "slogan": "Bang BANG",
+  "totalShames": 1,
+  "totalShamings": 0
+}

@@ -1,0 +1,52 @@
+{
+  "_id": "57ec08cc-0411-4643-b304-0e80dbc15ac7",
+  "bench": [
+    "f4ca437c-c31c-4508-afe7-6dae4330d717",
+    "7951836f-581a-49d5-ae2f-049c6bcc575e",
+    "4542f0b0-3409-4a4a-a9e1-e8e8e5d73fcf"
+  ],
+  "bullpen": [
+    "aa7ac9cb-e9db-4313-9941-9f3431728dce",
+    "1750de38-8f5f-426a-9e23-2899a15a2031",
+    "e919dfae-91c3-475c-b5d5-8b0c14940c41",
+    "ceac785e-55fd-4a4e-9bc8-17a662a58a38",
+    "ca709205-226d-4d92-8be6-5f7871f48e26",
+    "6bd4cf6e-fefe-499a-aa7a-890bcc7b53fa",
+    "094ad9a1-e2c7-49a0-af18-da0e3eb656ba",
+    "19af0d67-c73b-4ef2-bc84-e923c1336db5"
+  ],
+  "championships": 0,
+  "emoji": "0x1F357",
+  "fullName": "Mexico City Wild Wings",
+  "lineup": [
+    "80e474a3-7d2b-431d-8192-2f1e27162607",
+    "cd68d3a6-7fbc-445d-90f1-970c955e32f4",
+    "2b9f9c25-43ec-4f0b-9937-a5aa23be0d9e",
+    "b7267aba-6114-4d53-a519-bf6c99f4e3a9",
+    "ce0e57a7-89f5-41ea-80f9-6e649dd54089",
+    "4204c2d1-ca48-4af7-b827-e99907f12d61",
+    "e4f1f358-ee1f-4466-863e-f329766279d0",
+    "bd8778e5-02e8-4d1f-9c31-7b63942cc570",
+    "bd8d58b6-f37f-48e6-9919-8e14ec91f92a"
+  ],
+  "location": "Mexico City",
+  "mainColor": "#d15700",
+  "nickname": "Wild Wings",
+  "permanentAttributes": [],
+  "rotation": [
+    "316abea7-9890-4fb8-aaea-86b35e24d9be",
+    "ad1e670a-f346-4bf7-a02f-a91649c41ccb",
+    "7007cbd3-7c7b-44fd-9d6b-393e82b1c06e",
+    "65273615-22d5-4df1-9a73-707b23e828d5",
+    "089af518-e27c-4256-adc8-62e3f4b30f43"
+  ],
+  "seasonAttributes": [],
+  "seasonShames": 3,
+  "seasonShamings": 4,
+  "secondaryColor": "#e8e8e8",
+  "shameRuns": 0,
+  "shorthand": "MCWW",
+  "slogan": "Wings. Beer. Blaseball.",
+  "totalShames": 3,
+  "totalShamings": 0
+}

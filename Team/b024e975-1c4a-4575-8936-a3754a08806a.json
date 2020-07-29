@@ -1,0 +1,52 @@
+{
+  "_id": "b024e975-1c4a-4575-8936-a3754a08806a",
+  "bench": [
+    "de52d5c0-cba4-4ace-8308-e2ed3f8799d0",
+    "13cfbadf-b048-4c4f-903d-f9b52616b15c",
+    "732899a3-2082-4d9f-b1c2-74c8b75e15fb"
+  ],
+  "bullpen": [
+    "fdfd36c7-e0c1-4fce-98f7-921c3d17eafe",
+    "dd7e710f-da4e-475b-b870-2c29fe9d8c00",
+    "3f08f8cd-6418-447a-84d3-22a981c68f16",
+    "721fb947-7548-49ea-8cbe-7721b0ed49e0",
+    "c6bd21a8-7880-4c00-8abe-33560fe84ac5",
+    "4fe28bc1-f690-4ad6-ad09-1b2e984bf30b",
+    "ebf2da50-7711-46ba-9e49-341ce3487e00",
+    "d796d287-77ef-49f0-89ef-87bcdeb280ee"
+  ],
+  "championships": 0,
+  "emoji": "0x1F969",
+  "fullName": "Dallas Steaks",
+  "lineup": [
+    "17397256-c28c-4cad-85f2-a21768c66e67",
+    "c83f0fe0-44d1-4342-81e8-944bb38f8e23",
+    "c83a13f6-ee66-4b1c-9747-faa67395a6f1",
+    "81a0889a-4606-4f49-b419-866b57331383",
+    "14d88771-7a96-48aa-ba59-07bae1733e96",
+    "82d1b7b4-ce00-4536-8631-a025f05150ce",
+    "05bd08d5-7d9f-450b-abfa-1788b8ee8b91",
+    "c17a4397-4dcc-440e-8c53-d897e971cae9",
+    "76c4853b-7fbc-4688-8cda-c5b8de1724e4"
+  ],
+  "location": "Dallas",
+  "mainColor": "#8c8d8f",
+  "nickname": "Steaks",
+  "permanentAttributes": [],
+  "rotation": [
+    "b7ca8f3f-2fdc-477b-84f4-157f2802e9b5",
+    "6b8d128f-ed51-496d-a965-6614476f8256",
+    "740d5fef-d59f-4dac-9a75-739ec07f91cf",
+    "042962c8-4d8b-44a6-b854-6ccef3d82716",
+    "94baa9ac-ff96-4f56-a987-10358e917d91"
+  ],
+  "seasonAttributes": [],
+  "seasonShames": 1,
+  "seasonShamings": 8,
+  "secondaryColor": "#ededed",
+  "shameRuns": 0,
+  "shorthand": "DAL",
+  "slogan": "Well Done.",
+  "totalShames": 1,
+  "totalShamings": 0
+}

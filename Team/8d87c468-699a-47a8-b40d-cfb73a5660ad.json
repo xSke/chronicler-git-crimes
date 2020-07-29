@@ -1,0 +1,52 @@
+{
+  "_id": "8d87c468-699a-47a8-b40d-cfb73a5660ad",
+  "bench": [
+    "7afedcd8-870d-4655-9659-3bdfb2e17730",
+    "4e63cb5d-4fce-441b-b9e4-dc6a467cf2fd",
+    "5915b7bb-e532-4036-9009-79f1e80c0e28"
+  ],
+  "bullpen": [
+    "dd8a43a4-a024-44e9-a522-785d998b29c3",
+    "d2f827a5-0133-4d96-b403-85a5e50d49e0",
+    "34e1b683-ecd5-477f-b9e3-dd4bca76db45",
+    "e1e33aab-df8c-4f53-b30a-ca1cea9f046e",
+    "ce3fb736-d20e-4e2a-88cb-e136783d3a47",
+    "093af82c-84aa-4bd6-ad1a-401fae1fce44",
+    "7e160e9f-2c79-4e08-8b76-b816de388a98",
+    "dd6ba7f1-a97a-4374-a3a7-b3596e286bb3"
+  ],
+  "championships": 0,
+  "emoji": "0x1F980",
+  "fullName": "Baltimore Crabs",
+  "lineup": [
+    "1a93a2d2-b5b6-479b-a595-703e4a2f3885",
+    "c675fcdf-6117-49a6-ac32-99a89a3a88aa",
+    "7dcf6902-632f-48c5-936a-7cf88802b93a",
+    "84a2b5f6-4955-4007-9299-3d35ae7135d3",
+    "f8c20693-f439-4a29-a421-05ed92749f10",
+    "4ecee7be-93e4-4f04-b114-6b333e0e6408",
+    "d35ccee1-9559-49a1-aaa4-7809f7b5c46e",
+    "d6c69d2d-9344-4b19-85a4-6cfcbaead5d2",
+    "817dee99-9ccf-4f41-84e3-dc9773237bc8"
+  ],
+  "location": "Baltimore",
+  "mainColor": "#593037",
+  "nickname": "Crabs",
+  "permanentAttributes": [],
+  "rotation": [
+    "97dfc1f6-ac94-4cdc-b0d5-1cb9f8984aa5",
+    "338694b7-6256-4724-86b6-3884299a5d9e",
+    "1ffb1153-909d-44c7-9df1-6ed3a9a45bbd",
+    "d0d7b8fe-bad8-481f-978e-cb659304ed49",
+    "f70dd57b-55c4-4a62-a5ea-7cc4bf9d8ac1"
+  ],
+  "seasonAttributes": [],
+  "seasonShames": 5,
+  "seasonShamings": 4,
+  "secondaryColor": "#c48b41",
+  "shameRuns": 0,
+  "shorthand": "BALC",
+  "slogan": "Soft Shells. Hard Balls.",
+  "totalShames": 5,
+  "totalShamings": 0
+}

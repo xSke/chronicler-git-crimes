@@ -1,0 +1,52 @@
+{
+  "_id": "ca3f1c8c-c025-4d8e-8eef-5be6accbeb16",
+  "bench": [
+    "a7edbf19-caf6-45dd-83d5-46496c99aa88",
+    "7e4f012e-828c-43bb-8b8a-6c33bdfd7e3f",
+    "64aaa3cb-7daf-47e3-89a8-e565a3715b5d"
+  ],
+  "bullpen": [
+    "f071889c-f10f-4d2f-a1dd-c5dda34b3e2b",
+    "ce0a156b-ba7b-4313-8fea-75807b4bc77f",
+    "3c051b92-4a86-4157-988a-e334bf6dc691",
+    "c8de53a4-d90f-4192-955b-cec1732d920e",
+    "54e5f222-fb16-47e0-adf9-21813218dafa",
+    "88ca603e-b2e5-4916-bef5-d6bba03235f5",
+    "520e6066-b14b-45cf-985c-0a6ee2dc3f7a",
+    "5f3b5dc2-351a-4dee-a9d6-fa5f44f2a365"
+  ],
+  "championships": 0,
+  "emoji": "0x1F525",
+  "fullName": "Chicago Firefighters",
+  "lineup": [
+    "c0177f76-67fc-4316-b650-894159dede45",
+    "bfd9ff52-9bf6-4aaf-a859-d308d8f29616",
+    "69196296-f652-42ff-b2ca-0d9b50bd9b7b",
+    "68f98a04-204f-4675-92a7-8823f2277075",
+    "d23a1f7e-0071-444e-8361-6ae01f13036f",
+    "4bf352d2-6a57-420a-9d45-b23b2b947375",
+    "ad8d15f4-e041-4a12-a10e-901e6285fdc5",
+    "20e13b56-599b-4a22-b752-8059effc81dc",
+    "e4e4c17d-8128-4704-9e04-f244d4573c4d"
+  ],
+  "location": "Chicago",
+  "mainColor": "#8c2a3e",
+  "nickname": "Firefighters",
+  "permanentAttributes": [],
+  "rotation": [
+    "1513aab6-142c-48c6-b43e-fbda65fd64e8",
+    "43d5da5f-c6a1-42f1-ab7f-50ea956b6cd5",
+    "d46abb00-c546-4952-9218-4f16084e3238",
+    "c182f33c-aea5-48a2-97ed-dc74fa29b3c0",
+    "16aff709-e855-47c8-8818-b9ba66e90fe8"
+  ],
+  "seasonAttributes": [],
+  "seasonShames": 1,
+  "seasonShamings": 4,
+  "secondaryColor": "#d6cbb0",
+  "shameRuns": 0,
+  "shorthand": "CHIF",
+  "slogan": "We're From Chicago.",
+  "totalShames": 1,
+  "totalShamings": 0
+}

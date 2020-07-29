@@ -1,0 +1,52 @@
+{
+  "_id": "747b8e4a-7e50-4638-a973-ea7950a3e739",
+  "bench": [
+    "7cf83bdc-f95f-49d3-b716-06f2cf60a78d",
+    "695daf02-113d-4e76-b802-0862df16afbd",
+    "db3ff6f0-1045-4223-b3a8-a016ca987af9"
+  ],
+  "bullpen": [
+    "5fc4713c-45e1-4593-a968-7defeb00a0d4",
+    "77a41c29-8abd-4456-b6e0-a034252700d2",
+    "a73427b3-e96a-4156-a9ab-844edc696fed",
+    "04f955fe-9cc9-4482-a4d2-07fe033b59ee",
+    "6e744b21-c4fa-4fa8-b4ea-e0e97f68ded5",
+    "37efef78-2df4-4c76-800c-43d4faf07737",
+    "58fca5fa-e559-4f5e-ac87-dc99dd19e410",
+    "2727215d-3714-438d-b1ba-2ed15ec481c0"
+  ],
+  "championships": 0,
+  "emoji": "0x1F405",
+  "fullName": "Hades Tigers",
+  "lineup": [
+    "d89da2d2-674c-4b85-8959-a4bd406f760a",
+    "d74a2473-1f29-40fa-a41e-66fa2281dfca",
+    "7e9a514a-7850-4ed0-93ab-f3a6e2f41c03",
+    "80de2b05-e0d4-4d33-9297-9951b2b5c950",
+    "5ff66eae-7111-4e3b-a9b8-a9579165b0a5",
+    "70ccff1e-6b53-40e2-8844-0a28621cb33e",
+    "32c9bce6-6e52-40fa-9f64-3629b3d026a8",
+    "2e86de11-a2dd-4b28-b5fe-f4d0c38cd20b",
+    "7932c7c7-babb-4245-b9f5-cdadb97c99fb"
+  ],
+  "location": "Hades",
+  "mainColor": "#5c1c1c",
+  "nickname": "Tigers",
+  "permanentAttributes": [],
+  "rotation": [
+    "9abe02fb-2b5a-432f-b0af-176be6bd62cf",
+    "afc90398-b891-4cdf-9dea-af8a3a79d793",
+    "2720559e-9173-4042-aaa0-d3852b72ab2e",
+    "7aeb8e0b-f6fb-4a9e-bba2-335dada5f0a3",
+    "b3e512df-c411-4100-9544-0ceadddb28cf"
+  ],
+  "seasonAttributes": [],
+  "seasonShames": 0,
+  "seasonShamings": 6,
+  "secondaryColor": "#919191",
+  "shameRuns": 0,
+  "shorthand": "HAT",
+  "slogan": "Never Look Back.",
+  "totalShames": 0,
+  "totalShamings": 0
+}

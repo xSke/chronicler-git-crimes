@@ -1,0 +1,52 @@
+{
+  "_id": "b63be8c2-576a-4d6e-8daf-814f8bcea96f",
+  "bench": [
+    "fcbe1d14-04c4-4331-97ad-46e170610633",
+    "1aec2c01-b766-4018-a271-419e5371bc8f",
+    "0daf04fc-8d0d-4513-8e98-4f610616453b"
+  ],
+  "bullpen": [
+    "b019fb2b-9f4b-4deb-bf78-6bee2f16d98d",
+    "c4418663-7aa4-4c9f-ae73-0e81e442e8a2",
+    "4aa843a4-baa1-4f35-8748-63aa82bd0e03",
+    "97ec5a2f-ac1a-4cde-86b7-897c030a1fa8",
+    "d5192d95-a547-498a-b4ea-6770dde4b9f5",
+    "b7adbbcc-0679-43f3-a939-07f009a393db",
+    "7fed72df-87de-407d-8253-2295a2b60d3b",
+    "889c9ef9-d521-4436-b41c-9021b81b4dfb"
+  ],
+  "championships": 0,
+  "emoji": "0x1F6A4",
+  "fullName": "Miami Dalé",
+  "lineup": [
+    "0eddd056-9d72-4804-bd60-53144b785d5c",
+    "5a26fc61-d75d-4c01-9ce2-1880ffb5550f",
+    "12577256-bc4e-4955-81d6-b422d895fb12",
+    "4bda6584-6c21-4185-8895-47d07e8ad0c0",
+    "c22e3af5-9001-465f-b450-864d7db2b4a0",
+    "f0bcf4bb-74b3-412e-a54c-04c12ad28ecb",
+    "2e6d4fa9-f930-47bd-971a-dd54a3cf7db1",
+    "64b055d1-b691-4e0c-8583-fc08ba663846",
+    "bbf9543f-f100-445a-a467-81d7aab12236"
+  ],
+  "location": "Miami",
+  "mainColor": "#9141ba",
+  "nickname": "Dalé",
+  "permanentAttributes": [],
+  "rotation": [
+    "af6b3edc-ed52-4edc-b0c9-14e0a5ae0ee3",
+    "9820f2c5-f9da-4a07-b610-c2dd7bee2ef6",
+    "8903a74f-f322-41d2-bd75-dbf7563c4abb",
+    "20be1c34-071d-40c6-8824-dde2af184b4d",
+    "0cc5bd39-e90d-42f9-9dd8-7e703f316436"
+  ],
+  "seasonAttributes": [],
+  "seasonShames": 0,
+  "seasonShamings": 6,
+  "secondaryColor": "#bfe9ff",
+  "shameRuns": 0,
+  "shorthand": "MIA",
+  "slogan": "¡Dalé!",
+  "totalShames": 0,
+  "totalShamings": 0
+}

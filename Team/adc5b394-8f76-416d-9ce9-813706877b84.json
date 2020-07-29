@@ -1,0 +1,52 @@
+{
+  "_id": "adc5b394-8f76-416d-9ce9-813706877b84",
+  "bench": [
+    "a8a5cf36-d1a9-47d1-8d22-4a665933a7cc",
+    "35d5b43f-8322-4666-aab1-d466b4a5a388",
+    "849e13dc-6eb1-40a8-b55c-d4b4cd160aab"
+  ],
+  "bullpen": [
+    "6e373fca-b8ab-4848-9dcc-50e92cd732b7",
+    "9fd1f392-d492-4c48-8d46-27fb4283b2db",
+    "aae38811-122c-43dd-b59c-d0e203154dbe",
+    "113f47b2-3111-4abb-b25e-18f7889e2d44",
+    "fa5b54d2-b488-47cd-a529-592831e4813d",
+    "a8e757c6-e299-4a2e-a370-4f7c3da98bd1",
+    "6598e40a-d76d-413f-ad06-ac4872875bde",
+    "90c8be89-896d-404c-945e-c135d063a74e"
+  ],
+  "championships": 0,
+  "emoji": "0x1F36C",
+  "fullName": "Kansas City Breath Mints",
+  "lineup": [
+    "88cd6efa-dbf2-4309-aabe-ec1d6f21f98a",
+    "b39b5aae-8571-4c90-887a-6a00f2a2f6fd",
+    "33fbfe23-37bd-4e37-a481-a87eadb8192d",
+    "64f4cd75-0c1e-42cf-9ff0-e41c4756f22a",
+    "4b6f0a4e-de18-44ad-b497-03b1f470c43c",
+    "cd417f8a-ce01-4ab2-921d-42e2e445bbe2",
+    "c73d59dd-32a0-49ce-8ab4-b2dbb7dc94ec",
+    "493a83de-6bcf-41a1-97dd-cc5e150548a3",
+    "53e701c7-e3c8-4e18-ba05-9b41b4b64cda"
+  ],
+  "location": "Kansas City",
+  "mainColor": "#178f55",
+  "nickname": "Breath Mints",
+  "permanentAttributes": [],
+  "rotation": [
+    "a199a681-decf-4433-b6ab-5454450bbe5e",
+    "138fccc3-e66f-4b07-8327-d4b6f372f654",
+    "f2a27a7e-bf04-4d31-86f5-16bfa3addbe7",
+    "3af96a6b-866c-4b03-bc14-090acf6ecee5",
+    "7663c3ca-40a1-4f13-a430-14637dce797a"
+  ],
+  "seasonAttributes": [],
+  "seasonShames": 1,
+  "seasonShamings": 0,
+  "secondaryColor": "#e6ffec",
+  "shameRuns": 0,
+  "shorthand": "KCBM",
+  "slogan": "Fresh Breath, Here We Come.",
+  "totalShames": 1,
+  "totalShamings": 0
+}

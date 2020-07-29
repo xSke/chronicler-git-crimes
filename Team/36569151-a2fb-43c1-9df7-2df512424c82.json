@@ -1,0 +1,52 @@
+{
+  "_id": "36569151-a2fb-43c1-9df7-2df512424c82",
+  "bench": [
+    "1e7b02b7-6981-427a-b249-8e9bd35f3882",
+    "6a869b40-be99-4520-89e5-d382b07e4a3c",
+    "8d81b190-d3b8-4cd9-bcec-0e59fdd7f2bc"
+  ],
+  "bullpen": [
+    "ab9b2592-a64a-4913-bf6c-3ae5bd5d26a5",
+    "29bf512a-cd8c-4ceb-b25a-d96300c184bb",
+    "94d772c7-0254-4f08-814c-f6fc58fcfb9b",
+    "1e229fe5-a191-48ef-a7dd-6f6e13d6d73f",
+    "9e724d9a-92a0-436e-bde1-da0b2af85d8f",
+    "5c60f834-a133-4dc6-9c07-392fb37b3e6a",
+    "b7cdb93b-6f9d-468a-ae00-54cbc324ee84",
+    "c4951cae-0b47-468b-a3ac-390cc8e9fd05"
+  ],
+  "championships": 0,
+  "emoji": "0x1F4F1",
+  "fullName": "New York Millennials",
+  "lineup": [
+    "7310c32f-8f32-40f2-b086-54555a2c0e86",
+    "a311c089-0df4-46bd-9f5d-8c45c7eb5ae2",
+    "5dbf11c0-994a-4482-bd1e-99379148ee45",
+    "4b3e8e9b-6de1-4840-8751-b1fb45dc5605",
+    "4ffd2e50-bb5b-45d0-b7c4-e24d41b2ff5d",
+    "f967d064-0eaf-4445-b225-daed700e044b",
+    "b1b141fc-e867-40d1-842a-cea30a97ca4f",
+    "413b3ddb-d933-4567-a60e-6d157480239d",
+    "a1628d97-16ca-4a75-b8df-569bae02bef9"
+  ],
+  "location": "New York",
+  "mainColor": "#ffd4d8",
+  "nickname": "Millennials",
+  "permanentAttributes": [],
+  "rotation": [
+    "ae4acebd-edb5-4d20-bf69-f2d5151312ff",
+    "81d7d022-19d6-427d-aafc-031fcb79b29e",
+    "378c07b0-5645-44b5-869f-497d144c7b35",
+    "9965eed5-086c-4977-9470-fe410f92d353",
+    "40db1b0b-6d04-4851-adab-dd6320ad2ed9"
+  ],
+  "seasonAttributes": [],
+  "seasonShames": 3,
+  "seasonShamings": 0,
+  "secondaryColor": "#543d04",
+  "shameRuns": 0,
+  "shorthand": "NYMI",
+  "slogan": "Youth Will Save Us",
+  "totalShames": 3,
+  "totalShamings": 0
+}

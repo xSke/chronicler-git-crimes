@@ -1,0 +1,52 @@
+{
+  "_id": "eb67ae5e-c4bf-46ca-bbbc-425cd34182ff",
+  "bench": [
+    "6524e9e0-828a-46c4-935d-0ee2edeb7e9a",
+    "51cba429-13e8-487e-9568-847b7b8b9ac5",
+    "24cb35c1-c24c-45ca-ac0b-f99a2e650d89"
+  ],
+  "bullpen": [
+    "64f59d5f-8740-4ebf-91bd-d7697b542a9f",
+    "8f11ad58-e0b9-465c-9442-f46991274557",
+    "3ebb5361-3895-4a50-801e-e7a0ee61750c",
+    "7853aa8c-e86d-4483-927d-c1d14ea3a34d",
+    "ceb5606d-ea3f-4471-9ca7-3d2e71a50dde",
+    "27faa5a7-d3a8-4d2d-8e62-47cfeba74ff0",
+    "c57222fd-df55-464c-a44e-b15443e61b70",
+    "c3b1b4e5-4b88-4245-b2b1-ae3ade57349e"
+  ],
+  "championships": 0,
+  "emoji": "0x1F5E3",
+  "fullName": "Canada Moist Talkers",
+  "lineup": [
+    "5b9727f7-6a20-47d2-93d9-779f0a85c4ee",
+    "d744f534-2352-472b-9e42-cd91fa540f1b",
+    "d1a7c13f-8e78-4d2e-9cae-ebf3a5fcdb5d",
+    "70a458ed-25ca-4ff8-97fc-21cbf58f2c2a",
+    "1f145436-b25d-49b9-a1e3-2d3c91626211",
+    "9be56060-3b01-47aa-a090-d072ef109fbf",
+    "90768354-957e-4b4c-bb6d-eab6bbda0ba3",
+    "d4a10c2a-0c28-466a-9213-38ba3339b65e",
+    "25f3a67c-4ed5-45b6-94b1-ce468d3ead21"
+  ],
+  "location": "Canada",
+  "mainColor": "#f5feff",
+  "nickname": "Moist Talkers",
+  "permanentAttributes": [],
+  "rotation": [
+    "542af915-79c5-431c-a271-f7185e37c6ae",
+    "e6502bc7-5b76-4939-9fb8-132057390b30",
+    "a691f2ba-9b69-41f8-892c-1acd42c336e4",
+    "d8742d68-8fce-4d52-9a49-f4e33bd2a6fc",
+    "9ba361a1-16d5-4f30-b590-fc4fc2fb53d2"
+  ],
+  "seasonAttributes": [],
+  "seasonShames": 2,
+  "seasonShamings": 4,
+  "secondaryColor": "#757575",
+  "shameRuns": 0,
+  "shorthand": "CAN",
+  "slogan": "SPRAY IT, DON'T SAY IT",
+  "totalShames": 2,
+  "totalShamings": 0
+}
