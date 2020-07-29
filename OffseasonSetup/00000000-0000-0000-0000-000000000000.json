@@ -6,7 +6,7 @@
       "title": "Performance Enhancing Demons",
       "type": 4,
       "value": 0.08,
-      "votes": 230
+      "votes": 231
     },
     {
       "_id": "team_improve_hitting",
@@ -38,7 +38,7 @@
       "title": "The Rack",
       "type": 3,
       "value": 0.15,
-      "votes": 30
+      "votes": 31
     },
     {
       "_id": "steal_best_hitter",
@@ -46,7 +46,7 @@
       "title": "Seduction",
       "type": 27,
       "value": 1,
-      "votes": 112
+      "votes": 113
     },
     {
       "_id": "steal_best_pitcher",
@@ -54,7 +54,7 @@
       "title": "Defection",
       "type": 26,
       "value": 1,
-      "votes": 101
+      "votes": 102
     },
     {
       "_id": "max_random_player",
@@ -62,7 +62,7 @@
       "title": "Bloodlust",
       "type": 22,
       "value": 1,
-      "votes": 109
+      "votes": 110
     },
     {
       "_id": "max_random_hitter",
@@ -86,14 +86,14 @@
       "title": "Soul Swap",
       "type": 10,
       "value": 5,
-      "votes": 283
+      "votes": 286
     },
     {
       "_id": "tiebreaker_boost",
       "description": "Your team sacrifices a fan from the stands. The Gods show favor. Your team will win all tiebreakers.",
       "title": "Blood Sacrifice",
       "type": 20,
-      "votes": 72
+      "votes": 73
     }
   ],
   "decrees": [
@@ -102,28 +102,28 @@
       "description": "The last place team in the league will be eliminated from the league, and replaced with a new team.",
       "title": "Relegation",
       "type": 1,
-      "votes": 178
+      "votes": 182
     },
     {
       "_id": "popular_evolution",
       "description": "The team with the most fans will Evolve.",
       "title": "Popular Evolution",
       "type": 4,
-      "votes": 396
+      "votes": 402
     },
     {
       "_id": "peanuts",
       "description": "Peanuts",
       "title": "Peanuts",
       "type": 5,
-      "votes": 636
+      "votes": 639
     },
     {
       "_id": "four_for_four",
       "description": "The bottom four teams in the league gain the Fourth Strike. It will take Four Strikes to strike out any batter on their team for the following Season and Postseason.",
       "title": "The Fourth Strike",
       "type": 3,
-      "votes": 276
+      "votes": 278
     },
     {
       "_id": "enhanced_shame",
