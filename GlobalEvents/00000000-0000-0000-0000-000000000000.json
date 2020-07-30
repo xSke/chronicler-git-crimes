@@ -15,12 +15,12 @@
   {
     "__v": 0,
     "_id": "hitting_stat_leaders_update",
-    "msg": "Batting Average Leaders: ... Zi Delacruz, Dallas Steaks - 0.377 ..... Tyreek Olive, Chicago Firefighters - 0.364 ..... Bennett Browning, Seattle Garages - 0.362 ..... Jessi Wise, Hawaii Fridays - 0.361 ..... Baby Urlacher, Chicago Firefighters - 0.360 ..... "
+    "msg": "Home Run Leaders: ... Jessica Telephone, Philly Pies - 19 ..... Dominic Marijuana, New York Millennials - 18 ..... Thomas Dracaena, New York Millennials - 17 ..... Beck Whitney, Boston Flowers - 16 ..... Moody Cookbook, Hades Tigers - 16 ..... "
   },
   {
     "__v": 0,
     "_id": "pitching_stat_leaders_update",
-    "msg": "Strikeout Leaders: ... Leach Herman, Dallas Steaks - 94 ..... PolkaDot Patterson, Baltimore Crabs - 86 ..... Sandoval Crossing, Hellmouth Sunbeams - 85 ..... Cornelius Games, Charleston Shoe Thieves - 73 ..... Silvia Rugrat, Mexico City Wild Wings - 73 ..... "
+    "msg": "Earned Run Average Leaders: ... PolkaDot Patterson, Baltimore Crabs - 1.929 ..... Dunlap Figueroa, Hades Tigers - 2.282 ..... Orville Manco, Dallas Steaks - 2.475 ..... Nagomi Meng, Hades Tigers - 2.516 ..... Greer Lott, Canada Moist Talkers - 2.679 ..... "
   },
   {
     "_id": "bigger_machines",
@@ -32,6 +32,6 @@
   },
   {
     "_id": "did_ya_see_it",
-    "msg": "Wow did you see that game or what"
+    "msg": "Where is the sun?"
   }
 ]
