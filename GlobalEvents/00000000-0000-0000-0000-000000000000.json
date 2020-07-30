@@ -15,12 +15,12 @@
   {
     "__v": 0,
     "_id": "hitting_stat_leaders_update",
-    "msg": "Batting Average Leaders: ... Jessica Telephone, Philly Pies - 0.367 ..... Tyreek Olive, Chicago Firefighters - 0.364 ..... Zi Delacruz, Dallas Steaks - 0.359 ..... Bennett Browning, Seattle Garages - 0.354 ..... Baby Urlacher, Chicago Firefighters - 0.354 ..... "
+    "msg": "Home Run Leaders: ... Jessica Telephone, Philly Pies - 24 ..... Dominic Marijuana, New York Millennials - 21 ..... Thomas Dracaena, New York Millennials - 20 ..... Fish Summer, Hades Tigers - 17 ..... Moody Cookbook, Hades Tigers - 17 ..... "
   },
   {
     "__v": 0,
     "_id": "pitching_stat_leaders_update",
-    "msg": "Strikeout Leaders: ... Leach Herman, Dallas Steaks - 101 ..... PolkaDot Patterson, Baltimore Crabs - 92 ..... Sandoval Crossing, Hellmouth Sunbeams - 92 ..... Silvia Rugrat, Mexico City Wild Wings - 84 ..... Cornelius Games, Charleston Shoe Thieves - 82 ..... "
+    "msg": "Earned Run Average Leaders: ... PolkaDot Patterson, Baltimore Crabs - 2.271 ..... Dunlap Figueroa, Hades Tigers - 2.362 ..... Nagomi Meng, Hades Tigers - 2.471 ..... Leach Herman, Dallas Steaks - 2.545 ..... Jenkins Good, Canada Moist Talkers - 2.667 ..... "
   },
   {
     "_id": "bigger_machines",
@@ -33,11 +33,5 @@
   {
     "_id": "did_ya_see_it",
     "msg": "Where is the sun?"
-  },
-  {
-    "__v": 0,
-    "_id": "21a9c239-9c01-435d-a6eb-dfebee54d92e",
-    "expire": "2020-07-30T13:27:20.718Z",
-    "msg": "Rogue Umpire incinerated Spies hitter Dickerson Greatness! Replaced by Collins Melon"
   }
 ]
