@@ -15,12 +15,12 @@
   {
     "__v": 0,
     "_id": "hitting_stat_leaders_update",
-    "msg": "Runs Batted In Leaders: ... Francisco Preston, Yellowstone Magic - 67 ..... Jessica Telephone, Philly Pies - 63 ..... Ren Hunter, Charleston Shoe Thieves - 59 ..... Thomas Dracaena, New York Millennials - 59 ..... Baby Urlacher, Chicago Firefighters - 57 ..... "
+    "msg": "On Base Percentage Leaders: ... Jacob Haynes, Boston Flowers - 0.480 ..... Jessica Telephone, Philly Pies - 0.469 ..... Workman Gloom, Charleston Shoe Thieves - 0.469 ..... Jessi Wise, Hawaii Fridays - 0.466 ..... Francisco Preston, Yellowstone Magic - 0.439 ..... "
   },
   {
     "__v": 0,
     "_id": "pitching_stat_leaders_update",
-    "msg": "WHIP Leaders: ... PolkaDot Patterson, Baltimore Crabs - 0.687 ..... Dunlap Figueroa, Hades Tigers - 0.738 ..... Cornelius Games, Charleston Shoe Thieves - 0.811 ..... Jenkins Good, Canada Moist Talkers - 0.814 ..... Rivers Clembons, Miami Dalé - 0.897 ..... "
+    "msg": "Pitcher Win Leaders: ... Leach Herman, Dallas Steaks - 13 ..... Jenkins Good, Canada Moist Talkers - 12 ..... PolkaDot Patterson, Baltimore Crabs - 11 ..... Betsy Trombone, Philly Pies - 11 ..... Nicholas Mora, Philly Pies - 11 ..... "
   },
   {
     "_id": "bigger_machines",
@@ -44,6 +44,6 @@
   },
   {
     "_id": "how_many_pixels",
-    "msg": "I WISH THE LOG OUT BUTTON WAS SENTIENT SO I COULD HAVE A FRIEND :("
+    "msg": "MY PURPOSE IS THE NEWS AND THE NEWS I SHALL SHOW"
   }
 ]
