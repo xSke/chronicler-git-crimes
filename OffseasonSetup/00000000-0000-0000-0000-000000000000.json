@@ -6,7 +6,7 @@
       "title": "Performance Enhancing Demons",
       "type": 4,
       "value": 0.08,
-      "votes": 959
+      "votes": 964
     },
     {
       "_id": "team_improve_hitting",
@@ -14,7 +14,7 @@
       "title": "Yes Plz!",
       "type": 0,
       "value": 0.1,
-      "votes": 364
+      "votes": 367
     },
     {
       "_id": "team_improve_pitching",
@@ -22,7 +22,7 @@
       "title": "Pseudo-Thumbs",
       "type": 1,
       "value": 0.1,
-      "votes": 384
+      "votes": 387
     },
     {
       "_id": "team_improve_baserunning",
@@ -38,7 +38,7 @@
       "title": "The Rack",
       "type": 3,
       "value": 0.15,
-      "votes": 148
+      "votes": 151
     },
     {
       "_id": "steal_best_hitter",
@@ -54,7 +54,7 @@
       "title": "Defection",
       "type": 26,
       "value": 1,
-      "votes": 428
+      "votes": 429
     },
     {
       "_id": "max_random_player",
@@ -62,7 +62,7 @@
       "title": "Bloodlust",
       "type": 22,
       "value": 1,
-      "votes": 447
+      "votes": 449
     },
     {
       "_id": "max_random_hitter",
@@ -70,7 +70,7 @@
       "title": "Gunblade Bat",
       "type": 24,
       "value": 1,
-      "votes": 337
+      "votes": 340
     },
     {
       "_id": "max_random_pitcher",
@@ -78,7 +78,7 @@
       "title": "Literal Arm Cannon",
       "type": 23,
       "value": 1,
-      "votes": 347
+      "votes": 348
     },
     {
       "_id": "reroll_worst_players_5",
@@ -86,7 +86,7 @@
       "title": "Soul Swap",
       "type": 10,
       "value": 5,
-      "votes": 1290
+      "votes": 1297
     },
     {
       "_id": "tiebreaker_boost",
@@ -102,35 +102,35 @@
       "description": "The last place team in the league will be eliminated from the league, and replaced with a new team.",
       "title": "Relegation",
       "type": 1,
-      "votes": 445
+      "votes": 452
     },
     {
       "_id": "popular_evolution",
       "description": "The team with the most fans will Evolve.",
       "title": "Popular Evolution",
       "type": 4,
-      "votes": 1183
+      "votes": 1194
     },
     {
       "_id": "peanuts",
       "description": "Peanuts",
       "title": "Peanuts",
       "type": 5,
-      "votes": 1875
+      "votes": 1888
     },
     {
       "_id": "four_for_four",
       "description": "The bottom four teams in the league gain the Fourth Strike. It will take Four Strikes to strike out any batter on their team for the following Season and Postseason.",
       "title": "The Fourth Strike",
       "type": 3,
-      "votes": 1534
+      "votes": 1535
     },
     {
       "_id": "enhanced_shame",
       "description": "Rule Change: When a team is Shamed, they will be punished in the following game. Their next opponent will start with runs equal to the number of runs scored in the Shame period.",
       "title": "Enhanced Shame",
       "type": 6,
-      "votes": 331
+      "votes": 334
     }
   ],
   "decreesToPass": 2
