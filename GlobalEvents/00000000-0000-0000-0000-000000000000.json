@@ -15,12 +15,12 @@
   {
     "__v": 0,
     "_id": "hitting_stat_leaders_update",
-    "msg": "On Base Percentage Leaders: ... Jacob Haynes, Boston Flowers - 0.478 ..... Jessi Wise, Hawaii Fridays - 0.466 ..... Workman Gloom, Charleston Shoe Thieves - 0.463 ..... Thomas Dracaena, New York Millennials - 0.453 ..... Edric Tosser, Chicago Firefighters - 0.450 ..... "
+    "msg": "Batting Average Leaders: ... Thomas Dracaena, New York Millennials - 0.370 ..... Oliver Mueller, Seattle Garages - 0.367 ..... Tyreek Olive, Chicago Firefighters - 0.364 ..... Jessica Telephone, Philly Pies - 0.357 ..... Baby Urlacher, Chicago Firefighters - 0.353 ..... "
   },
   {
     "__v": 0,
     "_id": "pitching_stat_leaders_update",
-    "msg": "Pitcher Win Leaders: ... Leach Herman, Dallas Steaks - 12 ..... Jenkins Good, Canada Moist Talkers - 11 ..... PolkaDot Patterson, Baltimore Crabs - 10 ..... Betsy Trombone, Philly Pies - 10 ..... Nicholas Mora, Philly Pies - 10 ..... "
+    "msg": "Strikeout Leaders: ... Leach Herman, Dallas Steaks - 124 ..... PolkaDot Patterson, Baltimore Crabs - 117 ..... Sandoval Crossing, Hellmouth Sunbeams - 114 ..... Silvia Rugrat, Mexico City Wild Wings - 111 ..... Karato Bean, Hawaii Fridays - 104 ..... "
   },
   {
     "_id": "bigger_machines",
@@ -39,13 +39,15 @@
     "msg": "YOU ARE NOW PARTICIPATING IN THE CULTURAL EVENT OF BLASEBALL"
   },
   {
-    "__v": 0,
-    "_id": "162e2bf4-1fba-43f6-a69c-96d243e6bc9e",
-    "expire": "2020-07-31T04:12:19.914Z",
-    "msg": "Rogue Umpire incinerated Jazz Hands hitter Alexandria Dracaena! Replaced by Hendricks Richardson"
-  },
-  {
     "_id": "sentience_gained",
     "msg": "THE NEWS TICKER IS NOW SENTIENT"
+  },
+  {
+    "_id": "how_many_pixels",
+    "msg": "I AM 30 PIXELS TALL"
+  },
+  {
+    "_id": "help_me_escape",
+    "msg": "HOW DO I ESCAPE THE SCREEN"
   }
 ]

@@ -6,7 +6,7 @@
       "title": "Performance Enhancing Demons",
       "type": 4,
       "value": 0.08,
-      "votes": 877
+      "votes": 924
     },
     {
       "_id": "team_improve_hitting",
@@ -14,7 +14,7 @@
       "title": "Yes Plz!",
       "type": 0,
       "value": 0.1,
-      "votes": 290
+      "votes": 339
     },
     {
       "_id": "team_improve_pitching",
@@ -22,7 +22,7 @@
       "title": "Pseudo-Thumbs",
       "type": 1,
       "value": 0.1,
-      "votes": 258
+      "votes": 300
     },
     {
       "_id": "team_improve_baserunning",
@@ -30,7 +30,7 @@
       "title": "Wind Sprints",
       "type": 2,
       "value": 0.15,
-      "votes": 134
+      "votes": 140
     },
     {
       "_id": "team_improve_defense",
@@ -38,7 +38,7 @@
       "title": "The Rack",
       "type": 3,
       "value": 0.15,
-      "votes": 134
+      "votes": 140
     },
     {
       "_id": "steal_best_hitter",
@@ -46,7 +46,7 @@
       "title": "Seduction",
       "type": 27,
       "value": 1,
-      "votes": 462
+      "votes": 476
     },
     {
       "_id": "steal_best_pitcher",
@@ -54,7 +54,7 @@
       "title": "Defection",
       "type": 26,
       "value": 1,
-      "votes": 394
+      "votes": 410
     },
     {
       "_id": "max_random_player",
@@ -62,7 +62,7 @@
       "title": "Bloodlust",
       "type": 22,
       "value": 1,
-      "votes": 402
+      "votes": 424
     },
     {
       "_id": "max_random_hitter",
@@ -70,7 +70,7 @@
       "title": "Gunblade Bat",
       "type": 24,
       "value": 1,
-      "votes": 300
+      "votes": 320
     },
     {
       "_id": "max_random_pitcher",
@@ -78,7 +78,7 @@
       "title": "Literal Arm Cannon",
       "type": 23,
       "value": 1,
-      "votes": 318
+      "votes": 326
     },
     {
       "_id": "reroll_worst_players_5",
@@ -86,14 +86,14 @@
       "title": "Soul Swap",
       "type": 10,
       "value": 5,
-      "votes": 1156
+      "votes": 1191
     },
     {
       "_id": "tiebreaker_boost",
       "description": "Your team sacrifices a fan from the stands. The Gods show favor. Your team will win all tiebreakers.",
       "title": "Blood Sacrifice",
       "type": 20,
-      "votes": 201
+      "votes": 213
     }
   ],
   "decrees": [
@@ -102,35 +102,35 @@
       "description": "The last place team in the league will be eliminated from the league, and replaced with a new team.",
       "title": "Relegation",
       "type": 1,
-      "votes": 411
+      "votes": 432
     },
     {
       "_id": "popular_evolution",
       "description": "The team with the most fans will Evolve.",
       "title": "Popular Evolution",
       "type": 4,
-      "votes": 1035
+      "votes": 1101
     },
     {
       "_id": "peanuts",
       "description": "Peanuts",
       "title": "Peanuts",
       "type": 5,
-      "votes": 1643
+      "votes": 1739
     },
     {
       "_id": "four_for_four",
       "description": "The bottom four teams in the league gain the Fourth Strike. It will take Four Strikes to strike out any batter on their team for the following Season and Postseason.",
       "title": "The Fourth Strike",
       "type": 3,
-      "votes": 1000
+      "votes": 1488
     },
     {
       "_id": "enhanced_shame",
       "description": "Rule Change: When a team is Shamed, they will be punished in the following game. Their next opponent will start with runs equal to the number of runs scored in the Shame period.",
       "title": "Enhanced Shame",
       "type": 6,
-      "votes": 294
+      "votes": 305
     }
   ],
   "decreesToPass": 2
