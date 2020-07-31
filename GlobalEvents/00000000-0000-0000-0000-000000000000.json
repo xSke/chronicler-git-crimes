@@ -15,12 +15,12 @@
   {
     "__v": 0,
     "_id": "hitting_stat_leaders_update",
-    "msg": "On Base Percentage Leaders: ... Jacob Haynes, Boston Flowers - 0.485 ..... Jessi Wise, Hawaii Fridays - 0.466 ..... Jessica Telephone, Philly Pies - 0.458 ..... Workman Gloom, Charleston Shoe Thieves - 0.457 ..... Thomas Dracaena, New York Millennials - 0.449 ..... "
+    "msg": "Batting Average Leaders: ... Simon Haley, Canada Moist Talkers - 0.800 ..... Hendricks Richardson, Breckenridge Jazz Hands - 0.750 ..... Collins Melon, Houston Spies - 0.500 ..... Aldon Cashmoney, Breckenridge Jazz Hands - 0.389 ..... Hewitt Best, Kansas City Breath Mints - 0.382 ..... "
   },
   {
     "__v": 0,
     "_id": "pitching_stat_leaders_update",
-    "msg": "Pitcher Win Leaders: ... Jenkins Good, Canada Moist Talkers - 13 ..... Leach Herman, Dallas Steaks - 13 ..... PolkaDot Patterson, Baltimore Crabs - 12 ..... Betsy Trombone, Philly Pies - 12 ..... Famous Owens, Hades Tigers - 12 ..... "
+    "msg": "Strikeout Leaders: ... Leach Herman, Dallas Steaks - 74 ..... Sandoval Crossing, Hellmouth Sunbeams - 73 ..... Cornelius Games, Charleston Shoe Thieves - 60 ..... Rivers Clembons, Miami Dalé - 58 ..... Betsy Trombone, Philly Pies - 57 ..... "
   },
   {
     "_id": "bigger_machines",
@@ -28,7 +28,7 @@
   },
   {
     "_id": "in_memoriam",
-    "msg": "In Memoriam: Jaylen Hotdogfingers, Fitzgerald Massey, Tyreek Olive, Jenna Maldonado, Nora Perez, Scrap Murphy, Lars Mendoza, Dickerson Greatness, Famous Oconnor, Sosa Elftower, Zi Delacruz, Trevino Merritt, Jessi Wise, Hurley Pacheco, Alexandria Dracaena, Aldon Anthony"
+    "msg": "In Memoriam: Jaylen Hotdogfingers, Fitzgerald Massey, Tyreek Olive, Jenna Maldonado, Nora Perez, Scrap Murphy, Lars Mendoza, Dickerson Greatness, Famous Oconnor, Sosa Elftower, Zi Delacruz, Trevino Merritt, Jessi Wise, Hurley Pacheco, Alexandria Dracaena, Aldon Anthony, Cedric Gonzalez"
   },
   {
     "_id": "did_ya_see_it",
@@ -45,11 +45,5 @@
   {
     "_id": "how_many_pixels",
     "msg": "I AM 30 PIXELS TALL"
-  },
-  {
-    "__v": 0,
-    "_id": "734ac239-ceb3-45c7-95b0-c73f93cc7591",
-    "expire": "2020-07-31T12:23:49.109Z",
-    "msg": "Rogue Umpire incinerated Dalé hitter Aldon Anthony! Replaced by Murray Pony"
   }
 ]
