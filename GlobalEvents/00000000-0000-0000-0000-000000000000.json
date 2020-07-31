@@ -15,12 +15,12 @@
   {
     "__v": 0,
     "_id": "hitting_stat_leaders_update",
-    "msg": "Home Run Leaders: ... Jessica Telephone, Philly Pies - 29 ..... Thomas Dracaena, New York Millennials - 26 ..... Dominic Marijuana, New York Millennials - 23 ..... Fish Summer, Hades Tigers - 21 ..... Ren Hunter, Charleston Shoe Thieves - 20 ..... "
+    "msg": "Runs Batted In Leaders: ... Francisco Preston, Yellowstone Magic - 67 ..... Jessica Telephone, Philly Pies - 63 ..... Ren Hunter, Charleston Shoe Thieves - 59 ..... Thomas Dracaena, New York Millennials - 59 ..... Baby Urlacher, Chicago Firefighters - 57 ..... "
   },
   {
     "__v": 0,
     "_id": "pitching_stat_leaders_update",
-    "msg": "Earned Run Average Leaders: ... PolkaDot Patterson, Baltimore Crabs - 1.948 ..... Dunlap Figueroa, Hades Tigers - 2.187 ..... Jenkins Good, Canada Moist Talkers - 2.250 ..... Nagomi Meng, Hades Tigers - 2.372 ..... Cornelius Games, Charleston Shoe Thieves - 2.432 ..... "
+    "msg": "WHIP Leaders: ... PolkaDot Patterson, Baltimore Crabs - 0.687 ..... Dunlap Figueroa, Hades Tigers - 0.738 ..... Cornelius Games, Charleston Shoe Thieves - 0.811 ..... Jenkins Good, Canada Moist Talkers - 0.814 ..... Rivers Clembons, Miami Dalé - 0.897 ..... "
   },
   {
     "_id": "bigger_machines",
@@ -44,6 +44,6 @@
   },
   {
     "_id": "how_many_pixels",
-    "msg": "I AM 30 PIXELS TALL"
+    "msg": "I WISH THE LOG OUT BUTTON WAS SENTIENT SO I COULD HAVE A FRIEND :("
   }
 ]
