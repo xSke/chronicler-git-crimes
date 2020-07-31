@@ -15,12 +15,12 @@
   {
     "__v": 0,
     "_id": "hitting_stat_leaders_update",
-    "msg": "Stolen Base Leaders: ... Sutton Picklestein, Yellowstone Magic - 11 ..... Stu Trololol, Charleston Shoe Thieves - 10 ..... Workman Gloom, Charleston Shoe Thieves - 10 ..... Dickerson Morse, Kansas City Breath Mints - 10 ..... Washer Barajas, Yellowstone Magic - 10 ..... "
+    "msg": "On Base Percentage Leaders: ... Jacob Haynes, Boston Flowers - 0.478 ..... Jessi Wise, Hawaii Fridays - 0.466 ..... Workman Gloom, Charleston Shoe Thieves - 0.463 ..... Thomas Dracaena, New York Millennials - 0.453 ..... Edric Tosser, Chicago Firefighters - 0.450 ..... "
   },
   {
     "__v": 0,
     "_id": "pitching_stat_leaders_update",
-    "msg": "Pitcher Loss Leaders: ... Theodore Cervantes, New York Millennials - 11 ..... Francisca Sasquatch, Miami Dalé - 11 ..... Eugenia Bickle, Hellmouth Sunbeams - 10 ..... Denzel Scott, Houston Spies - 10 ..... Percival Wheeler, San Francisco Lovers - 10 ..... "
+    "msg": "Pitcher Win Leaders: ... Leach Herman, Dallas Steaks - 12 ..... Jenkins Good, Canada Moist Talkers - 11 ..... PolkaDot Patterson, Baltimore Crabs - 10 ..... Betsy Trombone, Philly Pies - 10 ..... Nicholas Mora, Philly Pies - 10 ..... "
   },
   {
     "_id": "bigger_machines",
@@ -28,16 +28,24 @@
   },
   {
     "_id": "in_memoriam",
-    "msg": "In Memoriam: Jaylen Hotdogfingers, Fitzgerald Massey, Tyreek Olive, Jenna Maldonado, Nora Perez, Scrap Murphy, Lars Mendoza, Dickerson Greatness, Famous Oconnor, Sosa Elftower, Zi Delacruz, Trevino Merritt, Jessi Wise"
+    "msg": "In Memoriam: Jaylen Hotdogfingers, Fitzgerald Massey, Tyreek Olive, Jenna Maldonado, Nora Perez, Scrap Murphy, Lars Mendoza, Dickerson Greatness, Famous Oconnor, Sosa Elftower, Zi Delacruz, Trevino Merritt, Jessi Wise, Hurley Pacheco, Alexandria Dracaena"
   },
   {
     "_id": "did_ya_see_it",
     "msg": "Where is the sun?"
   },
   {
+    "_id": "is_it_the_same",
+    "msg": "YOU ARE NOW PARTICIPATING IN THE CULTURAL EVENT OF BLASEBALL"
+  },
+  {
     "__v": 0,
-    "_id": "650ac840-f1ab-490f-bd0f-92f3242a5dcd",
-    "expire": "2020-07-30T22:24:15.32Z",
-    "msg": "Rogue Umpire incinerated Fridays hitter Jessi Wise! Replaced by York Silk"
+    "_id": "162e2bf4-1fba-43f6-a69c-96d243e6bc9e",
+    "expire": "2020-07-31T04:12:19.914Z",
+    "msg": "Rogue Umpire incinerated Jazz Hands hitter Alexandria Dracaena! Replaced by Hendricks Richardson"
+  },
+  {
+    "_id": "sentience_gained",
+    "msg": "THE NEWS TICKER IS NOW SENTIENT"
   }
 ]
