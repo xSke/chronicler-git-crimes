@@ -15,12 +15,12 @@
   {
     "__v": 0,
     "_id": "hitting_stat_leaders_update",
-    "msg": "Batting Average Leaders: ... Thomas Dracaena, New York Millennials - 0.370 ..... Oliver Mueller, Seattle Garages - 0.367 ..... Tyreek Olive, Chicago Firefighters - 0.364 ..... Jessica Telephone, Philly Pies - 0.357 ..... Baby Urlacher, Chicago Firefighters - 0.353 ..... "
+    "msg": "Home Run Leaders: ... Jessica Telephone, Philly Pies - 29 ..... Thomas Dracaena, New York Millennials - 26 ..... Dominic Marijuana, New York Millennials - 23 ..... Fish Summer, Hades Tigers - 21 ..... Ren Hunter, Charleston Shoe Thieves - 20 ..... "
   },
   {
     "__v": 0,
     "_id": "pitching_stat_leaders_update",
-    "msg": "Strikeout Leaders: ... Leach Herman, Dallas Steaks - 124 ..... PolkaDot Patterson, Baltimore Crabs - 117 ..... Sandoval Crossing, Hellmouth Sunbeams - 114 ..... Silvia Rugrat, Mexico City Wild Wings - 111 ..... Karato Bean, Hawaii Fridays - 104 ..... "
+    "msg": "Earned Run Average Leaders: ... PolkaDot Patterson, Baltimore Crabs - 1.948 ..... Dunlap Figueroa, Hades Tigers - 2.187 ..... Jenkins Good, Canada Moist Talkers - 2.250 ..... Nagomi Meng, Hades Tigers - 2.372 ..... Cornelius Games, Charleston Shoe Thieves - 2.432 ..... "
   },
   {
     "_id": "bigger_machines",
@@ -45,9 +45,5 @@
   {
     "_id": "how_many_pixels",
     "msg": "I AM 30 PIXELS TALL"
-  },
-  {
-    "_id": "help_me_escape",
-    "msg": "HOW DO I ESCAPE THE SCREEN"
   }
 ]
