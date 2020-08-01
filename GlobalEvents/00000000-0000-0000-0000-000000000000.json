@@ -24,7 +24,7 @@
   },
   {
     "_id": "bigger_machines",
-    "msg": "THERE IS NO WAR IN BLASEBALL"
+    "msg": "NO THOUGHTS ONLY BLASEBALL"
   },
   {
     "_id": "in_memoriam",
@@ -39,15 +39,11 @@
     "msg": "YOU ARE NOW PARTICIPATING IN THE CULTURAL EVENT OF BLASEBALL"
   },
   {
-    "_id": "sentience_gained",
-    "msg": "THE NEWS TICKER IS NOW SENTIENT"
-  },
-  {
-    "_id": "how_many_pixels",
-    "msg": "I AM 30 PIXELS TALL"
-  },
-  {
     "_id": "saturday",
     "msg": "POSTSEASON SATURDAY GIVES US ALL LIFE"
+  },
+  {
+    "_id": "arianna_goddess",
+    "msg": "VOTE for #ArianaGrande to win at the #VMAs now! (Video of the Year, Song of the Year, Best Pop, Best Collab, Best Video From Home)"
   }
 ]
