@@ -2,7 +2,7 @@
   {
     "__v": 0,
     "_id": "the_discipline_era",
-    "msg": "The Discipline Era has begun"
+    "msg": "The Discipline Era continues"
   },
   {
     "_id": "darkness_forecast",
@@ -45,5 +45,15 @@
   {
     "_id": "arianna_goddess",
     "msg": "VOTE for #ArianaGrande to win at the #VMAs now! (Video of the Year, Song of the Year, Best Pop, Best Collab, Best Video From Home)"
+  },
+  {
+    "__v": 0,
+    "_id": "current_labour",
+    "msg": "The First Labour"
+  },
+  {
+    "__v": 0,
+    "_id": "peanuts_are_everywhere",
+    "msg": "Everything is Peanuts"
   }
 ]

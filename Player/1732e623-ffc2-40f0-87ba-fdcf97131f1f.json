@@ -1,10 +1,10 @@
 {
   "_id": "1732e623-ffc2-40f0-87ba-fdcf97131f1f",
-  "anticapitalism": 0.3333932436989364,
+  "anticapitalism": 0.4833932436989365,
   "baseThirst": 0.016986546344093467,
   "bat": "",
   "buoyancy": 0.8267466077900696,
-  "chasiness": 0.31889236881684413,
+  "chasiness": 0.46889236881684415,
   "cinnamon": 0.934924793480022,
   "coldness": 0.872848831945386,
   "continuation": 0.7914469736255476,
@@ -18,7 +18,7 @@
   "moxie": 0.8506050189829093,
   "musclitude": 0.2953982471920851,
   "name": "Betsy Trombone",
-  "omniscience": 0.04848632803289665,
+  "omniscience": 0.19848632803289665,
   "overpowerment": 0.47366414083200525,
   "patheticism": 0.6777060542972428,
   "peanutAllergy": true,
@@ -27,10 +27,10 @@
   "shakespearianism": 0.4749002512112459,
   "soul": 3,
   "suppression": 0.02175303641092885,
-  "tenaciousness": 0.4729168176582932,
+  "tenaciousness": 0.6229168176582932,
   "thwackability": 0.7641399884791478,
   "totalFingers": 10,
   "tragicness": 0.1,
   "unthwackability": 0.4185482371382203,
-  "watchfulness": 0.0917071560446514
+  "watchfulness": 0.2417071560446514
 }

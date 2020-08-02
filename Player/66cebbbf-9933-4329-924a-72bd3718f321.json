@@ -1,10 +1,10 @@
 {
   "_id": "66cebbbf-9933-4329-924a-72bd3718f321",
-  "anticapitalism": 0.5675170593669698,
+  "anticapitalism": 0.7175170593669699,
   "baseThirst": 0.439998870698282,
   "bat": "",
   "buoyancy": 0.17978069041392297,
-  "chasiness": 0.9487743366133164,
+  "chasiness": 1.0987743366133162,
   "cinnamon": 0.657491034652482,
   "coldness": 0.2931454634699837,
   "continuation": 0.838144810313604,
@@ -18,7 +18,7 @@
   "moxie": 0.4478996779949296,
   "musclitude": 0.7801343463508277,
   "name": "Kennedy Cena",
-  "omniscience": 0.9509325710195567,
+  "omniscience": 1.1009325710195568,
   "overpowerment": 0.8260308898644133,
   "patheticism": 0.33330406246142297,
   "peanutAllergy": true,
@@ -27,10 +27,10 @@
   "shakespearianism": 0.9173213545773562,
   "soul": 6,
   "suppression": 0.9004684843462387,
-  "tenaciousness": 0.1702571411121696,
+  "tenaciousness": 0.32025714111216963,
   "thwackability": 0.43474454367616966,
   "totalFingers": 10,
   "tragicness": 0.1,
   "unthwackability": 0.7999133768454478,
-  "watchfulness": 0.6179038615868464
+  "watchfulness": 0.7679038615868464
 }

@@ -1,10 +1,10 @@
 {
   "_id": "1ba715f2-caa3-44c0-9118-b045ea702a34",
-  "anticapitalism": 0.22083607963084173,
+  "anticapitalism": 0.37083607963084175,
   "baseThirst": 0.2567450240376663,
   "bat": "",
   "buoyancy": 0.5704539863180131,
-  "chasiness": 0.45220067395227703,
+  "chasiness": 0.602200673952277,
   "cinnamon": 0.8272791947066915,
   "coldness": 0.8728283012639908,
   "continuation": 0.05203350816128083,
@@ -18,7 +18,7 @@
   "moxie": 0.7902667065860169,
   "musclitude": 0.761296177150365,
   "name": "Juan Rangel",
-  "omniscience": 0.8030959144190009,
+  "omniscience": 0.9530959144190008,
   "overpowerment": 0.5742813697105611,
   "patheticism": 0.5600703314870863,
   "peanutAllergy": false,
@@ -27,10 +27,10 @@
   "shakespearianism": 0.042643577818908485,
   "soul": 7,
   "suppression": 0.6315923651209989,
-  "tenaciousness": 0.05779127133944528,
+  "tenaciousness": 0.20779127133944528,
   "thwackability": 0.5768468959098274,
   "totalFingers": 10,
   "tragicness": 0.1,
   "unthwackability": 0.02624770155449463,
-  "watchfulness": 0.483012047119856
+  "watchfulness": 0.633012047119856
 }

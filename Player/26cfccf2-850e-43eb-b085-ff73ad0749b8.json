@@ -1,10 +1,10 @@
 {
   "_id": "26cfccf2-850e-43eb-b085-ff73ad0749b8",
-  "anticapitalism": 0.25851172907829967,
+  "anticapitalism": 0.4085117290782997,
   "baseThirst": 0.9716688761224026,
   "bat": "",
   "buoyancy": 0.7636715920818513,
-  "chasiness": 0.3351822986456432,
+  "chasiness": 0.4851822986456432,
   "cinnamon": 0.02002247909817023,
   "coldness": 0.4277741780587592,
   "continuation": 0.42622108945969606,
@@ -18,7 +18,7 @@
   "moxie": 0.21847893618360725,
   "musclitude": 0.08766872597987896,
   "name": "Beasley Day",
-  "omniscience": 0.17034040121857277,
+  "omniscience": 0.32034040121857277,
   "overpowerment": 0.6391487424170927,
   "patheticism": 0.4589637303345073,
   "peanutAllergy": false,
@@ -27,10 +27,10 @@
   "shakespearianism": 0.916547020757832,
   "soul": 7,
   "suppression": 0.027565210773816684,
-  "tenaciousness": 0.20210984819198607,
+  "tenaciousness": 0.3521098481919861,
   "thwackability": 0.6949999691666375,
   "totalFingers": 10,
   "tragicness": 0.1,
   "unthwackability": 0.5582072005100558,
-  "watchfulness": 0.9944423319354664
+  "watchfulness": 1.1444423319354664
 }

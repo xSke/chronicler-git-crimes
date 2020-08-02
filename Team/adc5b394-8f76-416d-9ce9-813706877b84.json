@@ -40,7 +40,9 @@
     "3af96a6b-866c-4b03-bc14-090acf6ecee5",
     "7663c3ca-40a1-4f13-a430-14637dce797a"
   ],
-  "seasonAttributes": [],
+  "seasonAttributes": [
+    "EXTRA_STRIKE"
+  ],
   "seasonShames": 4,
   "seasonShamings": 2,
   "secondaryColor": "#e6ffec",

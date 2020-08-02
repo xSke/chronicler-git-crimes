@@ -1,10 +1,10 @@
 {
   "_id": "b082ca6e-eb11-4eab-8d6a-30f8be522ec4",
-  "anticapitalism": 0.9107954544092892,
+  "anticapitalism": 1.060795454409289,
   "baseThirst": 0.3427064590855966,
   "bat": "",
   "buoyancy": 0.36917796934116986,
-  "chasiness": 0.5507119757800671,
+  "chasiness": 0.7007119757800672,
   "cinnamon": 0.38907423388214424,
   "coldness": 0.3477948418685758,
   "continuation": 0.5230133223380473,
@@ -18,7 +18,7 @@
   "moxie": 0.6245762864428941,
   "musclitude": 0.21515290717797764,
   "name": "Nicholas Mora",
-  "omniscience": 0.9658698619476536,
+  "omniscience": 1.1158698619476537,
   "overpowerment": 0.3774542154308068,
   "patheticism": 0.1788722089641026,
   "peanutAllergy": false,
@@ -27,10 +27,10 @@
   "shakespearianism": 0.22343980794689436,
   "soul": 9,
   "suppression": 0.2691181491717106,
-  "tenaciousness": 0.4033451708494939,
+  "tenaciousness": 0.553345170849494,
   "thwackability": 0.9706643954623206,
   "totalFingers": 11,
   "tragicness": 0.1,
   "unthwackability": 0.9705582516530392,
-  "watchfulness": 0.5289983858504459
+  "watchfulness": 0.6789983858504459
 }

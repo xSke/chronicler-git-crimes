@@ -1,10 +1,10 @@
 {
   "_id": "15ae64cd-f698-4b00-9d61-c9fffd037ae2",
-  "anticapitalism": 0.9822432200909246,
+  "anticapitalism": 1.1322432200909245,
   "baseThirst": 0.49670014370186943,
   "bat": "",
   "buoyancy": 0.6985810897611886,
-  "chasiness": 0.9197797502918548,
+  "chasiness": 1.069779750291855,
   "cinnamon": 0.8789600232370574,
   "coldness": 0.40507403414030874,
   "continuation": 0.3652258517241605,
@@ -18,7 +18,7 @@
   "moxie": 0.2890269139582906,
   "musclitude": 0.34656898625798127,
   "name": "Mickey Woods",
-  "omniscience": 0.6642324804650381,
+  "omniscience": 0.8142324804650382,
   "overpowerment": 0.3558625754862925,
   "patheticism": 0.005840907993729161,
   "peanutAllergy": false,
@@ -27,10 +27,10 @@
   "shakespearianism": 0.9154691147302344,
   "soul": 4,
   "suppression": 0.7122905143896505,
-  "tenaciousness": 0.4822468488306879,
+  "tenaciousness": 0.6322468488306879,
   "thwackability": 0.50176169265881,
   "totalFingers": 10,
   "tragicness": 0.1,
   "unthwackability": 0.5991497958990193,
-  "watchfulness": 0.8340084576017894
+  "watchfulness": 0.9840084576017896
 }
