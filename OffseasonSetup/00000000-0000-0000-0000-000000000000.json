@@ -1,59 +1,25 @@
 {
   "bonuses": [
     {
-      "_id": "team_improve_overall",
-      "description": "Mggoka match ng strike fm'latghor. Fm'latgh. +8% Team Overall",
-      "title": "Performance Enhancing Demons",
-      "type": 4,
-      "value": 0.08,
-      "votes": 0
+      "_id": "anticapitalism",
+      "description": "Your team will become fully anticapitalist.",
+      "title": "Anticapitalism, brought to you by Friends at the Table",
+      "type": 31,
+      "value": 1
     },
     {
-      "_id": "team_improve_hitting",
-      "description": "Wake up your hitters with a cup of Yes Plz coffee. +10% Team Hitting",
-      "title": "Yes Plz!",
-      "type": 0,
-      "value": 0.1,
-      "votes": 0
-    },
-    {
-      "_id": "team_improve_pitching",
-      "description": "Pseudo-Thumbs burst from the skin on the opposite of your pitchers' hands. +10% Team Pitching",
-      "title": "Pseudo-Thumbs",
-      "type": 1,
-      "value": 0.1,
-      "votes": 0
+      "_id": "division_baserunning_cut",
+      "description": "Stiff Limbs. -10% team baserunning to your team's division opponents.",
+      "title": "Riguer Mortis",
+      "type": 44,
+      "value": 0.15
     },
     {
       "_id": "team_improve_baserunning",
-      "description": "Run. +15% Team Baserunning",
-      "title": "Wind Sprints",
+      "description": "The Wind can be Evil. Run. +15% Team Baserunning",
+      "title": "Evil Wind Sprints",
       "type": 2,
       "value": 0.15,
-      "votes": 0
-    },
-    {
-      "_id": "team_improve_defense",
-      "description": "[cartilage and bone snapping]  +15% Team Defense",
-      "title": "The Rack",
-      "type": 3,
-      "value": 0.15,
-      "votes": 0
-    },
-    {
-      "_id": "steal_best_hitter",
-      "description": "Swing Away. The best hitter in the league joins your team.",
-      "title": "Seduction",
-      "type": 27,
-      "value": 1,
-      "votes": 0
-    },
-    {
-      "_id": "steal_best_pitcher",
-      "description": "It's business. The best pitcher in the league joins your team.",
-      "title": "Defection",
-      "type": 26,
-      "value": 1,
       "votes": 0
     },
     {
@@ -65,72 +31,121 @@
       "votes": 0
     },
     {
-      "_id": "max_random_hitter",
-      "description": "A random hitter on your team will gain the Gun Blade bat, maxing out their hitting stats.",
-      "title": "Gunblade Bat",
-      "type": 24,
-      "value": 1,
-      "votes": 0
+      "_id": "steal_best_player",
+      "description": "The best player in the league joins your team.",
+      "title": "Highway Robbery",
+      "type": 25,
+      "value": 1
     },
     {
-      "_id": "max_random_pitcher",
-      "description": "A random pitcher on your team will gain an arm cannon, maxing out their pitching stats.",
-      "title": "Literal Arm Cannon",
-      "type": 23,
-      "value": 1,
-      "votes": 0
+      "_id": "steal_best_player_subleague",
+      "description": "The best hitter in your team's subleague (Good or Evil) joins your team.",
+      "title": "Headhunter",
+      "type": 34,
+      "value": 1
     },
     {
-      "_id": "reroll_worst_players_5",
-      "description": "They won't stop screaming. Randomizes your team's 5 worst players.",
-      "title": "Soul Swap",
+      "_id": "steal_best_player_division",
+      "description": "The best player in your team's division joins your team.",
+      "title": "Vulture",
+      "type": 35,
+      "value": 1
+    },
+    {
+      "_id": "variable_team_hitting",
+      "description": "Feed your hitters coffee grounds. Team hitting changes from -5% to +15%",
+      "title": "Pretty Plz?"
+    },
+    {
+      "_id": "reroll_worst_players_3",
+      "description": "Re-rolls your team's three worst players",
+      "title": "Team-Building Exercise",
       "type": 10,
-      "value": 5,
+      "value": 3
+    },
+    {
+      "_id": "summoning_circle",
+      "description": "Re-rolls your team's 3 worst hitters",
+      "title": "Summoning Circle",
+      "type": 12,
+      "value": 3
+    },
+    {
+      "_id": "exploratory_surgeries",
+      "description": "Re-rolls your team's worst 3 pitchers",
+      "title": "Exploratory Surgeries",
+      "type": 11,
+      "value": 3
+    },
+    {
+      "_id": "team_improve_overall",
+      "description": "Mggoka match ng strike fm'latghor. Fm'latgh. +8% Team Overall",
+      "title": "Performance Enhancing Demons",
+      "type": 4,
+      "value": 0.08,
       "votes": 0
     },
     {
-      "_id": "tiebreaker_boost",
-      "description": "Your team sacrifices a fan from the stands. The Gods show favor. Your team will win all tiebreakers.",
-      "title": "Blood Sacrifice",
-      "type": 20,
+      "_id": "team_improve_pitching",
+      "description": "Pseudo-Thumbs burst from the skin on the opposite of your pitchers' hands. +10% Team Pitching",
+      "title": "Pseudo-Thumbs",
+      "type": 1,
+      "value": 0.1,
       "votes": 0
+    },
+    {
+      "_id": "team_improve_defense",
+      "description": "[cartilage and bone snapping]  +15% Team Defense",
+      "title": "The Rack",
+      "type": 3,
+      "value": 0.15,
+      "votes": 0
+    },
+    {
+      "_id": "send_worst_hitter",
+      "description": "Send your team's worst hitter to a random other team. Receive a random player back.",
+      "title": "Exile",
+      "type": 30,
+      "value": 1
+    },
+    {
+      "_id": "send_worst_pitcher",
+      "description": "Send your team's worst pitcher to a random team. Receive a random player back.",
+      "title": "Go Away",
+      "type": 29,
+      "value": 1
     }
   ],
   "decrees": [
     {
-      "_id": "eliminate_team",
-      "description": "The last place team in the league will be eliminated from the league, and replaced with a new team.",
-      "title": "Relegation",
-      "type": 1,
-      "votes": 0
+      "_id": "eat_the_rich",
+      "description": "Redistribute the funds from the Top 1% of Fans at the end of each Season",
+      "title": "Eat the Rich",
+      "type": 7
     },
     {
-      "_id": "popular_evolution",
-      "description": "The team with the most fans will Evolve.",
-      "title": "Popular Evolution",
-      "type": 4,
-      "votes": 0
+      "_id": "eat_the_crust",
+      "description": "5 Players from the 2-Time Champion Pies will be reassigned to Random Teams",
+      "title": "Eat the Crust",
+      "type": 8
     },
     {
-      "_id": "peanuts",
-      "description": "Peanuts",
-      "title": "Peanuts",
-      "type": 5,
-      "votes": 0
+      "_id": "interviews",
+      "description": "GET TO KNOW THE PLAYERS",
+      "title": "Interviews",
+      "type": 9
     },
     {
-      "_id": "four_for_four",
-      "description": "The bottom four teams in the league gain the Fourth Strike. It will take Four Strikes to strike out any batter on their team for the following Season and Postseason.",
-      "title": "The Fourth Strike",
-      "type": 3,
-      "votes": 0
+      "_id": "late_stage",
+      "description": "Postseason Bet Payouts increase each round: 2x, 3x, 5x",
+      "title": "Late Stage",
+      "type": 10
     },
     {
-      "_id": "enhanced_shame",
-      "description": "Rule Change: When a team is Shamed, they will be punished in the following game. Their next opponent will start with runs equal to the number of runs scored in the Shame period.",
-      "title": "Enhanced Shame",
-      "type": 6,
-      "votes": 0
+      "_id": "blaserunning",
+      "description": "Stolen Bases are worth 0.1 Runs",
+      "title": "Blaserunning",
+      "type": 11
     }
   ],
   "decreesToPass": 2
