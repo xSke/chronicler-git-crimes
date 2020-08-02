@@ -21,7 +21,7 @@
   "omniscience": 0.20462126368997507,
   "overpowerment": 0.07448060547951729,
   "patheticism": 0.8877214808795161,
-  "peanutAllergy": false,
+  "peanutAllergy": true,
   "pressurization": 0.10248119805293276,
   "ruthlessness": 0.8789348594052959,
   "shakespearianism": 0.4170904732305447,
@@ -30,7 +30,7 @@
   "tenaciousness": 0.7305009347487762,
   "thwackability": 0.36354798487409584,
   "totalFingers": 10,
-  "tragicness": 0.020000000000000004,
+  "tragicness": 0.1,
   "unthwackability": 0.5211059559456686,
   "watchfulness": 0.4485649518048295
 }
