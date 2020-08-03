@@ -6,7 +6,7 @@
       "title": "Anticapitalism, brought to you by Friends at the Table",
       "type": 31,
       "value": 1,
-      "votes": 25
+      "votes": 39
     },
     {
       "_id": "division_baserunning_cut",
@@ -21,7 +21,7 @@
       "title": "Evil Wind Sprints",
       "type": 2,
       "value": 0.15,
-      "votes": 1
+      "votes": 2
     },
     {
       "_id": "max_random_player",
@@ -37,7 +37,7 @@
       "title": "Highway Robbery",
       "type": 25,
       "value": 1,
-      "votes": 4
+      "votes": 5
     },
     {
       "_id": "steal_best_player_subleague",
@@ -72,7 +72,8 @@
       "description": "Re-rolls your team's 3 worst hitters",
       "title": "Summoning Circle",
       "type": 12,
-      "value": 3
+      "value": 3,
+      "votes": 1
     },
     {
       "_id": "exploratory_surgeries",
@@ -80,7 +81,7 @@
       "title": "Exploratory Surgeries",
       "type": 11,
       "value": 3,
-      "votes": 3
+      "votes": 5
     },
     {
       "_id": "team_improve_overall",
@@ -96,7 +97,7 @@
       "title": "Pseudo-Thumbs",
       "type": 1,
       "value": 0.1,
-      "votes": 1
+      "votes": 6
     },
     {
       "_id": "team_improve_defense",
@@ -104,7 +105,7 @@
       "title": "The Rack",
       "type": 3,
       "value": 0.15,
-      "votes": 0
+      "votes": 1
     },
     {
       "_id": "send_worst_hitter",
@@ -119,7 +120,7 @@
       "title": "Go Away",
       "type": 29,
       "value": 1,
-      "votes": 1
+      "votes": 2
     }
   ],
   "decrees": [
@@ -128,35 +129,35 @@
       "description": "Redistribute the funds from the Top 1% of Fans at the end of each Season",
       "title": "Eat the Rich",
       "type": 7,
-      "votes": 41
+      "votes": 67
     },
     {
       "_id": "eat_the_crust",
       "description": "5 Players from the 2-Time Champion Pies will be reassigned to Random Teams",
       "title": "Eat the Crust",
       "type": 8,
-      "votes": 11
+      "votes": 16
     },
     {
       "_id": "interviews",
       "description": "GET TO KNOW THE PLAYERS",
       "title": "Interviews",
       "type": 9,
-      "votes": 41
+      "votes": 59
     },
     {
       "_id": "late_stage",
       "description": "Postseason Bet Payouts increase each round: 2x, 3x, 5x",
       "title": "Late Stage",
       "type": 10,
-      "votes": 4
+      "votes": 6
     },
     {
       "_id": "blaserunning",
       "description": "Stolen Bases are worth 0.1 Runs",
       "title": "Blaserunning",
       "type": 11,
-      "votes": 2
+      "votes": 9
     }
   ],
   "decreesToPass": 2
