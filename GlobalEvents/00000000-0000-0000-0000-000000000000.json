@@ -15,12 +15,12 @@
   {
     "__v": 0,
     "_id": "hitting_stat_leaders_update",
-    "msg": "Runs Batted In Leaders: ... Schneider Bendie, New York Millennials - 8 ..... Theo King, San Francisco Lovers - 7 ..... Bevan Wise, Yellowstone Magic - 6 ..... Peanutiel Duffy, Hades Tigers - 6 ..... Antonio Wallace, Charleston Shoe Thieves - 5 ..... "
+    "msg": "On Base Percentage Leaders: ... Kichiro Guerra, San Francisco Lovers - 1.000 ..... Kennedy Loser, Baltimore Crabs - 0.857 ..... Elijah Valenzuela, Hawaii Fridays - 0.833 ..... Stevenson Monstera, Dallas Steaks - 0.833 ..... Conrad Vaughan, New York Millennials - 0.750 ..... "
   },
   {
     "__v": 0,
     "_id": "pitching_stat_leaders_update",
-    "msg": "WHIP Leaders: ... Theodore Holloway, Houston Spies - 0.444 ..... Caleb Alvarado, Chicago Firefighters - 0.556 ..... Oscar Vaughan, Kansas City Breath Mints - 0.556 ..... Zack Sanders, Hellmouth Sunbeams - 0.556 ..... Peanut Bong, Miami Dalé - 0.667 ..... "
+    "msg": "Pitcher Win Leaders: ... Caleb Alvarado, Chicago Firefighters - 1 ..... Axel Trololol, Kansas City Breath Mints - 1 ..... Theodore Cervantes, New York Millennials - 1 ..... Bates Bentley, New York Millennials - 1 ..... Natha Kath, Los Angeles Tacos - 1 ..... "
   },
   {
     "_id": "bigger_machines",
@@ -78,5 +78,27 @@
     "_id": "65edaab3-c0d5-4c3a-bf0c-e6d469bc68ce",
     "expire": "2020-08-04T00:23:44.588Z",
     "msg": "Steaks hitter Marco Stink swallowed a stray Peanut and had a yummy reaction!"
+  },
+  {
+    "_id": "the_birds",
+    "msg": "you seeing all these birds??"
+  },
+  {
+    "__v": 0,
+    "_id": "26ad64de-8b83-4c27-8fc0-263c4c2dd85b",
+    "expire": "2020-08-04T01:04:17.757Z",
+    "msg": "Rogue Umpire incinerated Lovers pitcher Paul Barnes! Replaced by Sandford Garner"
+  },
+  {
+    "__v": 0,
+    "_id": "438188d5-f576-4db1-b6cd-9be4d40ecd1a",
+    "expire": "2020-08-04T01:10:40.767Z",
+    "msg": "Rogue Umpire incinerated Flowers hitter Bryanayah Chang! Replaced by Hotbox Sato"
+  },
+  {
+    "__v": 0,
+    "_id": "aeb61aaf-4736-4880-91f0-350c6164bf0c",
+    "expire": "2020-08-04T01:11:01.339Z",
+    "msg": "Rogue Umpire incinerated Pies hitter Juan Rangel! Replaced by Eduardo Woodman"
   }
 ]
