@@ -15,12 +15,12 @@
   {
     "__v": 0,
     "_id": "hitting_stat_leaders_update",
-    "msg": "On Base Percentage Leaders: ... Hendricks Richardson, Breckenridge Jazz Hands - 0.529 ..... Jacob Haynes, Boston Flowers - 0.500 ..... Jessi Wise, Hawaii Fridays - 0.479 ..... Baby Urlacher, Chicago Firefighters - 0.473 ..... Aldon Cashmoney, Breckenridge Jazz Hands - 0.471 ..... "
+    "msg": "Batting Average Leaders: ... Kichiro Guerra, San Francisco Lovers - 1.000 ..... Ren Hunter, Charleston Shoe Thieves - 0.800 ..... Winnie Mccall, New York Millennials - 0.800 ..... Emmett Internet, Hellmouth Sunbeams - 0.800 ..... Theodore Duende, Seattle Garages - 0.800 ..... "
   },
   {
     "__v": 0,
     "_id": "pitching_stat_leaders_update",
-    "msg": "Pitcher Win Leaders: ... Cornelius Games, Charleston Shoe Thieves - 7 ..... Dunn Keyes, Boston Flowers - 7 ..... Jenkins Good, Canada Moist Talkers - 7 ..... Nagomi Meng, Hades Tigers - 7 ..... Betsy Trombone, Philly Pies - 6 ..... "
+    "msg": "Strikeout Leaders: ... PolkaDot Patterson, Canada Moist Talkers - 9 ..... Rivers Clembons, Miami Dalé - 8 ..... Dunn Keyes, Boston Flowers - 7 ..... Yeong-Ho Garcia, Yellowstone Magic - 7 ..... Nagomi Meng, Hades Tigers - 7 ..... "
   },
   {
     "_id": "bigger_machines",
@@ -43,5 +43,16 @@
     "__v": 0,
     "_id": "peanuts_are_everywhere",
     "msg": "Everything is Peanuts"
+  },
+  {
+    "__v": 0,
+    "_id": "peanuts_eaten",
+    "msg": "We have eaten 24810 collective peanuts."
+  },
+  {
+    "__v": 0,
+    "_id": "caa4a2fd-b0f5-4e97-861d-edd9aca10461",
+    "expire": "2020-08-03T19:20:50.023Z",
+    "msg": "Rogue Umpire incinerated Sunbeams hitter Rhys Trombone! Replaced by Dudley Mueller"
   }
 ]
