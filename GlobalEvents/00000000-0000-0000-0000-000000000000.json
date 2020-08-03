@@ -15,12 +15,12 @@
   {
     "__v": 0,
     "_id": "hitting_stat_leaders_update",
-    "msg": "Batting Average Leaders: ... Kichiro Guerra, San Francisco Lovers - 1.000 ..... Ren Hunter, Charleston Shoe Thieves - 0.800 ..... Winnie Mccall, New York Millennials - 0.800 ..... Emmett Internet, Hellmouth Sunbeams - 0.800 ..... Theodore Duende, Seattle Garages - 0.800 ..... "
+    "msg": "Runs Batted In Leaders: ... Schneider Bendie, New York Millennials - 8 ..... Theo King, San Francisco Lovers - 7 ..... Bevan Wise, Yellowstone Magic - 6 ..... Peanutiel Duffy, Hades Tigers - 6 ..... Antonio Wallace, Charleston Shoe Thieves - 5 ..... "
   },
   {
     "__v": 0,
     "_id": "pitching_stat_leaders_update",
-    "msg": "Strikeout Leaders: ... PolkaDot Patterson, Canada Moist Talkers - 9 ..... Rivers Clembons, Miami Dalé - 8 ..... Dunn Keyes, Boston Flowers - 7 ..... Yeong-Ho Garcia, Yellowstone Magic - 7 ..... Nagomi Meng, Hades Tigers - 7 ..... "
+    "msg": "WHIP Leaders: ... Theodore Holloway, Houston Spies - 0.444 ..... Caleb Alvarado, Chicago Firefighters - 0.556 ..... Oscar Vaughan, Kansas City Breath Mints - 0.556 ..... Zack Sanders, Hellmouth Sunbeams - 0.556 ..... Peanut Bong, Miami Dalé - 0.667 ..... "
   },
   {
     "_id": "bigger_machines",
@@ -28,7 +28,7 @@
   },
   {
     "_id": "in_memoriam",
-    "msg": "In Memoriam: Jaylen Hotdogfingers, Fitzgerald Massey, Tyreek Olive, Jenna Maldonado, Nora Perez, Scrap Murphy, Lars Mendoza, Dickerson Greatness, Famous Oconnor, Sosa Elftower, Zi Delacruz, Trevino Merritt, Jessi Wise, Hurley Pacheco, Alexandria Dracaena, Aldon Anthony, Cedric Gonzalez"
+    "msg": "In Memoriam: Jaylen Hotdogfingers, Fitzgerald Massey, Tyreek Olive, Jenna Maldonado, Nora Perez, Scrap Murphy, Lars Mendoza, Dickerson Greatness, Famous Oconnor, Sosa Elftower, Zi Delacruz, Trevino Merritt, Jessi Wise, Hurley Pacheco, Alexandria Dracaena, Aldon Anthony, Cedric Gonzalez, Rhys Trombone"
   },
   {
     "_id": "is_it_the_same",
@@ -47,12 +47,36 @@
   {
     "__v": 0,
     "_id": "peanuts_eaten",
-    "msg": "We have eaten 24810 collective peanuts."
+    "msg": "We have eaten 38356 collective peanuts."
   },
   {
     "__v": 0,
-    "_id": "caa4a2fd-b0f5-4e97-861d-edd9aca10461",
-    "expire": "2020-08-03T19:20:50.023Z",
-    "msg": "Rogue Umpire incinerated Sunbeams hitter Rhys Trombone! Replaced by Dudley Mueller"
+    "_id": "182184c8-8d85-4098-aa66-2acc1462347c",
+    "expire": "2020-08-03T23:51:06.602Z",
+    "msg": "Wild Wings hitter Summers Preston swallowed a stray Peanut and had an allergic reaction!"
+  },
+  {
+    "__v": 0,
+    "_id": "0b8ca861-ef8e-4754-b58e-9e495cb7e654",
+    "expire": "2020-08-03T23:51:06.715Z",
+    "msg": "Steaks hitter Cory Ross swallowed a stray Peanut and had an allergic reaction!"
+  },
+  {
+    "__v": 0,
+    "_id": "82a08840-0413-4a91-a8ea-76675bd29a5c",
+    "expire": "2020-08-04T00:00:03.954Z",
+    "msg": "Steaks hitter Cory Ross swallowed a stray Peanut and had an allergic reaction!"
+  },
+  {
+    "__v": 0,
+    "_id": "7eaa2eb4-6475-47e6-9378-7f2d73eaaaf7",
+    "expire": "2020-08-04T00:20:56.598Z",
+    "msg": "Rogue Umpire incinerated Garages hitter Bennett Browning! Replaced by Tiana Cash"
+  },
+  {
+    "__v": 0,
+    "_id": "65edaab3-c0d5-4c3a-bf0c-e6d469bc68ce",
+    "expire": "2020-08-04T00:23:44.588Z",
+    "msg": "Steaks hitter Marco Stink swallowed a stray Peanut and had a yummy reaction!"
   }
 ]
