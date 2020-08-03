@@ -5,7 +5,8 @@
       "description": "Your team will become fully anticapitalist.",
       "title": "Anticapitalism, brought to you by Friends at the Table",
       "type": 31,
-      "value": 1
+      "value": 1,
+      "votes": 25
     },
     {
       "_id": "division_baserunning_cut",
@@ -20,7 +21,7 @@
       "title": "Evil Wind Sprints",
       "type": 2,
       "value": 0.15,
-      "votes": 0
+      "votes": 1
     },
     {
       "_id": "max_random_player",
@@ -28,21 +29,23 @@
       "title": "Bloodlust",
       "type": 22,
       "value": 1,
-      "votes": 0
+      "votes": 3
     },
     {
       "_id": "steal_best_player",
       "description": "The best player in the league joins your team.",
       "title": "Highway Robbery",
       "type": 25,
-      "value": 1
+      "value": 1,
+      "votes": 4
     },
     {
       "_id": "steal_best_player_subleague",
       "description": "The best hitter in your team's subleague (Good or Evil) joins your team.",
       "title": "Headhunter",
       "type": 34,
-      "value": 1
+      "value": 1,
+      "votes": 1
     },
     {
       "_id": "steal_best_player_division",
@@ -61,7 +64,8 @@
       "description": "Re-rolls your team's three worst players",
       "title": "Team-Building Exercise",
       "type": 10,
-      "value": 3
+      "value": 3,
+      "votes": 4
     },
     {
       "_id": "summoning_circle",
@@ -75,7 +79,8 @@
       "description": "Re-rolls your team's worst 3 pitchers",
       "title": "Exploratory Surgeries",
       "type": 11,
-      "value": 3
+      "value": 3,
+      "votes": 3
     },
     {
       "_id": "team_improve_overall",
@@ -83,7 +88,7 @@
       "title": "Performance Enhancing Demons",
       "type": 4,
       "value": 0.08,
-      "votes": 0
+      "votes": 3
     },
     {
       "_id": "team_improve_pitching",
@@ -91,7 +96,7 @@
       "title": "Pseudo-Thumbs",
       "type": 1,
       "value": 0.1,
-      "votes": 0
+      "votes": 1
     },
     {
       "_id": "team_improve_defense",
@@ -113,7 +118,8 @@
       "description": "Send your team's worst pitcher to a random team. Receive a random player back.",
       "title": "Go Away",
       "type": 29,
-      "value": 1
+      "value": 1,
+      "votes": 1
     }
   ],
   "decrees": [
@@ -121,31 +127,36 @@
       "_id": "eat_the_rich",
       "description": "Redistribute the funds from the Top 1% of Fans at the end of each Season",
       "title": "Eat the Rich",
-      "type": 7
+      "type": 7,
+      "votes": 41
     },
     {
       "_id": "eat_the_crust",
       "description": "5 Players from the 2-Time Champion Pies will be reassigned to Random Teams",
       "title": "Eat the Crust",
-      "type": 8
+      "type": 8,
+      "votes": 11
     },
     {
       "_id": "interviews",
       "description": "GET TO KNOW THE PLAYERS",
       "title": "Interviews",
-      "type": 9
+      "type": 9,
+      "votes": 41
     },
     {
       "_id": "late_stage",
       "description": "Postseason Bet Payouts increase each round: 2x, 3x, 5x",
       "title": "Late Stage",
-      "type": 10
+      "type": 10,
+      "votes": 4
     },
     {
       "_id": "blaserunning",
       "description": "Stolen Bases are worth 0.1 Runs",
       "title": "Blaserunning",
-      "type": 11
+      "type": 11,
+      "votes": 2
     }
   ],
   "decreesToPass": 2
