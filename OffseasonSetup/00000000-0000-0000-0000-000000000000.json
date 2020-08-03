@@ -6,7 +6,7 @@
       "title": "Anticapitalism, brought to you by Friends at the Table",
       "type": 31,
       "value": 1,
-      "votes": 70
+      "votes": 94
     },
     {
       "_id": "division_baserunning_cut",
@@ -14,7 +14,7 @@
       "title": "Rigour Mortis",
       "type": 44,
       "value": 0.15,
-      "votes": 1
+      "votes": 5
     },
     {
       "_id": "team_improve_baserunning",
@@ -22,7 +22,7 @@
       "title": "Evil Wind Sprints",
       "type": 2,
       "value": 0.15,
-      "votes": 6
+      "votes": 8
     },
     {
       "_id": "max_random_player",
@@ -30,7 +30,7 @@
       "title": "Bloodlust",
       "type": 22,
       "value": 1,
-      "votes": 7
+      "votes": 9
     },
     {
       "_id": "steal_best_player",
@@ -38,7 +38,7 @@
       "title": "Highway Robbery",
       "type": 25,
       "value": 1,
-      "votes": 5
+      "votes": 7
     },
     {
       "_id": "steal_best_player_subleague",
@@ -46,7 +46,7 @@
       "title": "Headhunter",
       "type": 34,
       "value": 1,
-      "votes": 1
+      "votes": 2
     },
     {
       "_id": "steal_best_player_division",
@@ -66,7 +66,7 @@
       "title": "Team-Building Exercise",
       "type": 10,
       "value": 3,
-      "votes": 10
+      "votes": 11
     },
     {
       "_id": "summoning_circle",
@@ -82,7 +82,7 @@
       "title": "Exploratory Surgeries",
       "type": 11,
       "value": 3,
-      "votes": 14
+      "votes": 16
     },
     {
       "_id": "team_improve_overall",
@@ -98,7 +98,7 @@
       "title": "Pseudo-Thumbs",
       "type": 1,
       "value": 0.1,
-      "votes": 14
+      "votes": 15
     },
     {
       "_id": "team_improve_defense",
@@ -106,7 +106,7 @@
       "title": "The Rack",
       "type": 3,
       "value": 0.15,
-      "votes": 6
+      "votes": 7
     },
     {
       "_id": "send_worst_hitter",
@@ -122,7 +122,7 @@
       "title": "Go Away",
       "type": 29,
       "value": 1,
-      "votes": 3
+      "votes": 4
     }
   ],
   "decrees": [
@@ -131,21 +131,21 @@
       "description": "Redistribute the funds from the Top 1% of Fans at the end of each Season",
       "title": "Eat the Rich",
       "type": 7,
-      "votes": 104
+      "votes": 120
     },
     {
       "_id": "eat_the_crust",
       "description": "5 Players from the 2-Time Champion Pies will be reassigned to Random Teams",
       "title": "Eat the Crust",
       "type": 8,
-      "votes": 19
+      "votes": 21
     },
     {
       "_id": "interviews",
       "description": "GET TO KNOW THE PLAYERS",
       "title": "Interviews",
       "type": 9,
-      "votes": 77
+      "votes": 97
     },
     {
       "_id": "late_stage",
@@ -159,7 +159,7 @@
       "description": "Stolen Bases are worth 0.1 Runs",
       "title": "Blaserunning",
       "type": 11,
-      "votes": 12
+      "votes": 14
     }
   ],
   "decreesToPass": 2
