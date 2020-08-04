@@ -6,7 +6,7 @@
       "title": "Anticapitalism, brought to you by Friends at the Table",
       "type": 31,
       "value": 1,
-      "votes": 903
+      "votes": 908
     },
     {
       "_id": "division_baserunning_cut",
@@ -83,7 +83,7 @@
       "title": "Exploratory Surgeries",
       "type": 11,
       "value": 3,
-      "votes": 190
+      "votes": 191
     },
     {
       "_id": "team_improve_overall",
@@ -91,7 +91,7 @@
       "title": "Performance Enhancing Demons",
       "type": 4,
       "value": 0.08,
-      "votes": 119
+      "votes": 120
     },
     {
       "_id": "team_improve_pitching",
@@ -99,7 +99,7 @@
       "title": "Pseudo-Thumbs",
       "type": 1,
       "value": 0.1,
-      "votes": 79
+      "votes": 80
     },
     {
       "_id": "team_improve_defense",
@@ -132,7 +132,7 @@
       "description": "Redistribute the funds from the Top 1% of Fans at the end of each Season",
       "title": "Eat the Rich",
       "type": 7,
-      "votes": 1386
+      "votes": 1389
     },
     {
       "_id": "eat_the_crust",
@@ -146,21 +146,21 @@
       "description": "GET TO KNOW THE PLAYERS",
       "title": "Interviews",
       "type": 9,
-      "votes": 1031
+      "votes": 1037
     },
     {
       "_id": "late_stage",
       "description": "Postseason Bet Payouts increase each round: 2x, 3x, 5x",
       "title": "Late Stage",
       "type": 10,
-      "votes": 128
+      "votes": 130
     },
     {
       "_id": "blaserunning",
       "description": "Stolen Bases are worth 0.1 Runs",
       "title": "Blaserunning",
       "type": 11,
-      "votes": 255
+      "votes": 257
     }
   ],
   "decreesToPass": 2
