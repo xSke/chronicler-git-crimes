@@ -6,7 +6,7 @@
       "title": "Anticapitalism, brought to you by Friends at the Table",
       "type": 31,
       "value": 1,
-      "votes": 890
+      "votes": 891
     },
     {
       "_id": "division_baserunning_cut",
@@ -38,7 +38,7 @@
       "title": "Highway Robbery",
       "type": 25,
       "value": 1,
-      "votes": 88
+      "votes": 89
     },
     {
       "_id": "steal_best_player_subleague",
@@ -67,7 +67,7 @@
       "title": "Team-Building Exercise",
       "type": 10,
       "value": 3,
-      "votes": 139
+      "votes": 140
     },
     {
       "_id": "summoning_circle",
@@ -75,7 +75,7 @@
       "title": "Summoning Circle",
       "type": 12,
       "value": 3,
-      "votes": 82
+      "votes": 83
     },
     {
       "_id": "exploratory_surgeries",
@@ -91,7 +91,7 @@
       "title": "Performance Enhancing Demons",
       "type": 4,
       "value": 0.08,
-      "votes": 117
+      "votes": 119
     },
     {
       "_id": "team_improve_pitching",
@@ -132,7 +132,7 @@
       "description": "Redistribute the funds from the Top 1% of Fans at the end of each Season",
       "title": "Eat the Rich",
       "type": 7,
-      "votes": 1356
+      "votes": 1358
     },
     {
       "_id": "eat_the_crust",
@@ -146,7 +146,7 @@
       "description": "GET TO KNOW THE PLAYERS",
       "title": "Interviews",
       "type": 9,
-      "votes": 1020
+      "votes": 1021
     },
     {
       "_id": "late_stage",
@@ -160,7 +160,7 @@
       "description": "Stolen Bases are worth 0.1 Runs",
       "title": "Blaserunning",
       "type": 11,
-      "votes": 252
+      "votes": 253
     }
   ],
   "decreesToPass": 2
