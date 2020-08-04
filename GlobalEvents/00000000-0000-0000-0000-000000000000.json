@@ -15,12 +15,12 @@
   {
     "__v": 0,
     "_id": "hitting_stat_leaders_update",
-    "msg": "On Base Percentage Leaders: ... Kichiro Guerra, San Francisco Lovers - 1.000 ..... Kennedy Loser, Baltimore Crabs - 0.857 ..... Elijah Valenzuela, Hawaii Fridays - 0.833 ..... Stevenson Monstera, Dallas Steaks - 0.833 ..... Conrad Vaughan, New York Millennials - 0.750 ..... "
+    "msg": "Stolen Base Leaders: ... Sebastian Telephone, Dallas Steaks - 2 ..... Sosa Hayes, Mexico City Wild Wings - 2 ..... Antonio Wallace, Charleston Shoe Thieves - 1 ..... Mclaughlin Scorpler, New York Millennials - 1 ..... Winnie Mccall, New York Millennials - 1 ..... "
   },
   {
     "__v": 0,
     "_id": "pitching_stat_leaders_update",
-    "msg": "Pitcher Win Leaders: ... Caleb Alvarado, Chicago Firefighters - 1 ..... Axel Trololol, Kansas City Breath Mints - 1 ..... Theodore Cervantes, New York Millennials - 1 ..... Bates Bentley, New York Millennials - 1 ..... Natha Kath, Los Angeles Tacos - 1 ..... "
+    "msg": "Pitcher Loss Leaders: ... Leach Ingram, Kansas City Breath Mints - 1 ..... PolkaDot Zavala, Kansas City Breath Mints - 1 ..... Forrest Bookbaby, Charleston Shoe Thieves - 1 ..... Dunn Keyes, Boston Flowers - 1 ..... Chambers Simmons, Boston Flowers - 1 ..... "
   },
   {
     "_id": "bigger_machines",
@@ -50,36 +50,6 @@
     "msg": "We have eaten 38356 collective peanuts."
   },
   {
-    "__v": 0,
-    "_id": "182184c8-8d85-4098-aa66-2acc1462347c",
-    "expire": "2020-08-03T23:51:06.602Z",
-    "msg": "Wild Wings hitter Summers Preston swallowed a stray Peanut and had an allergic reaction!"
-  },
-  {
-    "__v": 0,
-    "_id": "0b8ca861-ef8e-4754-b58e-9e495cb7e654",
-    "expire": "2020-08-03T23:51:06.715Z",
-    "msg": "Steaks hitter Cory Ross swallowed a stray Peanut and had an allergic reaction!"
-  },
-  {
-    "__v": 0,
-    "_id": "82a08840-0413-4a91-a8ea-76675bd29a5c",
-    "expire": "2020-08-04T00:00:03.954Z",
-    "msg": "Steaks hitter Cory Ross swallowed a stray Peanut and had an allergic reaction!"
-  },
-  {
-    "__v": 0,
-    "_id": "7eaa2eb4-6475-47e6-9378-7f2d73eaaaf7",
-    "expire": "2020-08-04T00:20:56.598Z",
-    "msg": "Rogue Umpire incinerated Garages hitter Bennett Browning! Replaced by Tiana Cash"
-  },
-  {
-    "__v": 0,
-    "_id": "65edaab3-c0d5-4c3a-bf0c-e6d469bc68ce",
-    "expire": "2020-08-04T00:23:44.588Z",
-    "msg": "Steaks hitter Marco Stink swallowed a stray Peanut and had a yummy reaction!"
-  },
-  {
     "_id": "the_birds",
     "msg": "you seeing all these birds??"
   },
@@ -100,5 +70,11 @@
     "_id": "aeb61aaf-4736-4880-91f0-350c6164bf0c",
     "expire": "2020-08-04T01:11:01.339Z",
     "msg": "Rogue Umpire incinerated Pies hitter Juan Rangel! Replaced by Eduardo Woodman"
+  },
+  {
+    "__v": 0,
+    "_id": "4316d005-4ac4-45f6-b79f-1dcdaa00e81a",
+    "expire": "2020-08-04T02:04:27.788Z",
+    "msg": "Rogue Umpire incinerated Dalé hitter Theodore Passon! Replaced by Sixpack Santiago"
   }
 ]
