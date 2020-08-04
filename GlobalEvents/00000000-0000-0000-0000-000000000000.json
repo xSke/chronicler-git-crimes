@@ -15,12 +15,12 @@
   {
     "__v": 0,
     "_id": "hitting_stat_leaders_update",
-    "msg": "On Base Percentage Leaders: ... Boyfriend Monreal, Kansas City Breath Mints - 0.697 ..... Bevan Wise, Yellowstone Magic - 0.581 ..... Theodore Passon, Miami Dalé - 0.571 ..... Tiana Cash, Seattle Garages - 0.563 ..... Baby Urlacher, Chicago Firefighters - 0.550 ..... "
+    "msg": "Stolen Base Leaders: ... Paula Mason, Chicago Firefighters - 4 ..... Boyfriend Monreal, Kansas City Breath Mints - 4 ..... Hewitt Best, Kansas City Breath Mints - 3 ..... Thomas Dracaena, New York Millennials - 3 ..... Nerd Pacheco, Hellmouth Sunbeams - 3 ..... "
   },
   {
     "__v": 0,
     "_id": "pitching_stat_leaders_update",
-    "msg": "Pitcher Win Leaders: ... Theodore Cervantes, New York Millennials - 3 ..... Yeong-Ho Garcia, Yellowstone Magic - 3 ..... Mike Townsend, Seattle Garages - 3 ..... Caleb Alvarado, Chicago Firefighters - 2 ..... Justice Spoon, Chicago Firefighters - 2 ..... "
+    "msg": "Pitcher Loss Leaders: ... Leach Ingram, Kansas City Breath Mints - 3 ..... Stevenson Heat, Hawaii Fridays - 3 ..... Leach Herman, Dallas Steaks - 3 ..... Ruslan Greatness, Philly Pies - 3 ..... Derrick Krueger, Seattle Garages - 3 ..... "
   },
   {
     "_id": "bigger_machines",
@@ -55,18 +55,6 @@
   },
   {
     "__v": 0,
-    "_id": "eee03a91-6ec8-40f5-b72e-330ad0e4c2ab",
-    "expire": "2020-08-04T09:20:40.609Z",
-    "msg": "Breath Mints hitter Rodriguez Internet swallowed a stray Peanut and had an allergic reaction!"
-  },
-  {
-    "__v": 0,
-    "_id": "ebf87b44-cdce-448e-a4e8-54ced4a83180",
-    "expire": "2020-08-04T09:24:52.835Z",
-    "msg": "Breath Mints hitter Grey Alvarado swallowed a stray Peanut and had an allergic reaction!"
-  },
-  {
-    "__v": 0,
     "_id": "83b040f0-656e-40ed-9f1b-39c7a9aeb496",
     "expire": "2020-08-04T10:15:48.544Z",
     "msg": "Rogue Umpire incinerated Millennials hitter Chorby Soul! Replaced by Sandie Turner"
@@ -76,5 +64,11 @@
     "_id": "0ce86fe1-2ac4-4c5c-a011-537d6e8a6959",
     "expire": "2020-08-04T11:08:50.369Z",
     "msg": "Breath Mints hitter Eduardo Ingram swallowed a stray Peanut and had an allergic reaction!"
+  },
+  {
+    "__v": 0,
+    "_id": "f02a28fc-a41a-43a9-bdd9-f5090af8fe73",
+    "expire": "2020-08-04T11:26:49.536Z",
+    "msg": "Millennials hitter Schneider Bendie swallowed a stray Peanut and had a yummy reaction!"
   }
 ]
