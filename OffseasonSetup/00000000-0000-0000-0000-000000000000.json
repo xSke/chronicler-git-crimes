@@ -6,7 +6,7 @@
       "title": "Anticapitalism, brought to you by Friends at the Table",
       "type": 31,
       "value": 1,
-      "votes": 875
+      "votes": 881
     },
     {
       "_id": "division_baserunning_cut",
@@ -30,7 +30,7 @@
       "title": "Bloodlust",
       "type": 22,
       "value": 1,
-      "votes": 120
+      "votes": 121
     },
     {
       "_id": "steal_best_player",
@@ -67,7 +67,7 @@
       "title": "Team-Building Exercise",
       "type": 10,
       "value": 3,
-      "votes": 134
+      "votes": 135
     },
     {
       "_id": "summoning_circle",
@@ -107,7 +107,7 @@
       "title": "The Rack",
       "type": 3,
       "value": 0.15,
-      "votes": 39
+      "votes": 40
     },
     {
       "_id": "send_worst_hitter",
@@ -146,14 +146,14 @@
       "description": "GET TO KNOW THE PLAYERS",
       "title": "Interviews",
       "type": 9,
-      "votes": 1009
+      "votes": 1013
     },
     {
       "_id": "late_stage",
       "description": "Postseason Bet Payouts increase each round: 2x, 3x, 5x",
       "title": "Late Stage",
       "type": 10,
-      "votes": 125
+      "votes": 126
     },
     {
       "_id": "blaserunning",
