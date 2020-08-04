@@ -6,7 +6,7 @@
       "title": "Anticapitalism, brought to you by Friends at the Table",
       "type": 31,
       "value": 1,
-      "votes": 1225
+      "votes": 1228
     },
     {
       "_id": "division_baserunning_cut",
@@ -30,7 +30,7 @@
       "title": "Bloodlust",
       "type": 22,
       "value": 1,
-      "votes": 181
+      "votes": 182
     },
     {
       "_id": "steal_best_player",
@@ -38,7 +38,7 @@
       "title": "Highway Robbery",
       "type": 25,
       "value": 1,
-      "votes": 124
+      "votes": 126
     },
     {
       "_id": "steal_best_player_subleague",
@@ -54,7 +54,7 @@
       "title": "Vulture",
       "type": 35,
       "value": 1,
-      "votes": 31
+      "votes": 41
     },
     {
       "_id": "variable_team_hitting",
@@ -67,7 +67,7 @@
       "title": "Team-Building Exercise",
       "type": 10,
       "value": 3,
-      "votes": 230
+      "votes": 231
     },
     {
       "_id": "summoning_circle",
@@ -75,7 +75,7 @@
       "title": "Summoning Circle",
       "type": 12,
       "value": 3,
-      "votes": 146
+      "votes": 147
     },
     {
       "_id": "exploratory_surgeries",
@@ -83,7 +83,7 @@
       "title": "Exploratory Surgeries",
       "type": 11,
       "value": 3,
-      "votes": 311
+      "votes": 312
     },
     {
       "_id": "team_improve_overall",
@@ -107,7 +107,7 @@
       "title": "The Rack",
       "type": 3,
       "value": 0.15,
-      "votes": 77
+      "votes": 78
     },
     {
       "_id": "send_worst_hitter",
@@ -132,21 +132,21 @@
       "description": "Redistribute the funds from the Top 1% of Fans at the end of each Season",
       "title": "Eat the Rich",
       "type": 7,
-      "votes": 1758
+      "votes": 1776
     },
     {
       "_id": "eat_the_crust",
       "description": "5 Players from the 2-Time Champion Pies will be reassigned to Random Teams",
       "title": "Eat the Crust",
       "type": 8,
-      "votes": 412
+      "votes": 414
     },
     {
       "_id": "interviews",
       "description": "GET TO KNOW THE PLAYERS",
       "title": "Interviews",
       "type": 9,
-      "votes": 1361
+      "votes": 1369
     },
     {
       "_id": "late_stage",
@@ -160,7 +160,7 @@
       "description": "Stolen Bases are worth 0.1 Runs",
       "title": "Blaserunning",
       "type": 11,
-      "votes": 337
+      "votes": 353
     }
   ],
   "decreesToPass": 2
