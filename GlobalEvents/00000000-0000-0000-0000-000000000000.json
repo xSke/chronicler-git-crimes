@@ -15,12 +15,12 @@
   {
     "__v": 0,
     "_id": "hitting_stat_leaders_update",
-    "msg": "Stolen Base Leaders: ... Sebastian Telephone, Dallas Steaks - 2 ..... Sosa Hayes, Mexico City Wild Wings - 2 ..... Antonio Wallace, Charleston Shoe Thieves - 1 ..... Mclaughlin Scorpler, New York Millennials - 1 ..... Winnie Mccall, New York Millennials - 1 ..... "
+    "msg": "Home Run Leaders: ... Antonio Wallace, Charleston Shoe Thieves - 3 ..... Schneider Bendie, New York Millennials - 3 ..... Theodore Duende, Seattle Garages - 3 ..... Ren Hunter, Charleston Shoe Thieves - 2 ..... Workman Gloom, Charleston Shoe Thieves - 2 ..... "
   },
   {
     "__v": 0,
     "_id": "pitching_stat_leaders_update",
-    "msg": "Pitcher Loss Leaders: ... Leach Ingram, Kansas City Breath Mints - 1 ..... PolkaDot Zavala, Kansas City Breath Mints - 1 ..... Forrest Bookbaby, Charleston Shoe Thieves - 1 ..... Dunn Keyes, Boston Flowers - 1 ..... Chambers Simmons, Boston Flowers - 1 ..... "
+    "msg": "Earned Run Average Leaders: ... Matteo Prestige, Charleston Shoe Thieves - 1.000 ..... Sam Solis, Hawaii Fridays - 1.000 ..... Tot Clark, Seattle Garages - 1.000 ..... Campos Arias, Breckenridge Jazz Hands - 1.000 ..... Natha Kath, Los Angeles Tacos - 1.714 ..... "
   },
   {
     "_id": "bigger_machines",
@@ -55,26 +55,14 @@
   },
   {
     "__v": 0,
-    "_id": "26ad64de-8b83-4c27-8fc0-263c4c2dd85b",
-    "expire": "2020-08-04T01:04:17.757Z",
-    "msg": "Rogue Umpire incinerated Lovers pitcher Paul Barnes! Replaced by Sandford Garner"
+    "_id": "63ddd51e-628a-42bf-b46d-dbec8984210a",
+    "expire": "2020-08-04T04:11:41.592Z",
+    "msg": "Pies hitter Eduardo Woodman swallowed a stray Peanut and had a yummy reaction!"
   },
   {
     "__v": 0,
-    "_id": "438188d5-f576-4db1-b6cd-9be4d40ecd1a",
-    "expire": "2020-08-04T01:10:40.767Z",
-    "msg": "Rogue Umpire incinerated Flowers hitter Bryanayah Chang! Replaced by Hotbox Sato"
-  },
-  {
-    "__v": 0,
-    "_id": "aeb61aaf-4736-4880-91f0-350c6164bf0c",
-    "expire": "2020-08-04T01:11:01.339Z",
-    "msg": "Rogue Umpire incinerated Pies hitter Juan Rangel! Replaced by Eduardo Woodman"
-  },
-  {
-    "__v": 0,
-    "_id": "4316d005-4ac4-45f6-b79f-1dcdaa00e81a",
-    "expire": "2020-08-04T02:04:27.788Z",
-    "msg": "Rogue Umpire incinerated Dalé hitter Theodore Passon! Replaced by Sixpack Santiago"
+    "_id": "1a003c49-839b-43be-b185-85872c6242de",
+    "expire": "2020-08-04T04:12:56.935Z",
+    "msg": "Moist Talkers hitter Simon Haley swallowed a stray Peanut and had an allergic reaction!"
   }
 ]
