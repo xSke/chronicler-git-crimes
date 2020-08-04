@@ -6,7 +6,7 @@
       "title": "Anticapitalism, brought to you by Friends at the Table",
       "type": 31,
       "value": 1,
-      "votes": 840
+      "votes": 844
     },
     {
       "_id": "division_baserunning_cut",
@@ -30,7 +30,7 @@
       "title": "Bloodlust",
       "type": 22,
       "value": 1,
-      "votes": 114
+      "votes": 115
     },
     {
       "_id": "steal_best_player",
@@ -75,7 +75,7 @@
       "title": "Summoning Circle",
       "type": 12,
       "value": 3,
-      "votes": 75
+      "votes": 77
     },
     {
       "_id": "exploratory_surgeries",
@@ -91,7 +91,7 @@
       "title": "Performance Enhancing Demons",
       "type": 4,
       "value": 0.08,
-      "votes": 108
+      "votes": 110
     },
     {
       "_id": "team_improve_pitching",
@@ -115,7 +115,7 @@
       "title": "Exile",
       "type": 30,
       "value": 1,
-      "votes": 29
+      "votes": 30
     },
     {
       "_id": "send_worst_pitcher",
@@ -132,7 +132,7 @@
       "description": "Redistribute the funds from the Top 1% of Fans at the end of each Season",
       "title": "Eat the Rich",
       "type": 7,
-      "votes": 1296
+      "votes": 1303
     },
     {
       "_id": "eat_the_crust",
@@ -146,14 +146,14 @@
       "description": "GET TO KNOW THE PLAYERS",
       "title": "Interviews",
       "type": 9,
-      "votes": 977
+      "votes": 981
     },
     {
       "_id": "late_stage",
       "description": "Postseason Bet Payouts increase each round: 2x, 3x, 5x",
       "title": "Late Stage",
       "type": 10,
-      "votes": 121
+      "votes": 123
     },
     {
       "_id": "blaserunning",
