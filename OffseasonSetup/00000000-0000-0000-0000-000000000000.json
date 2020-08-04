@@ -6,7 +6,7 @@
       "title": "Anticapitalism, brought to you by Friends at the Table",
       "type": 31,
       "value": 1,
-      "votes": 894
+      "votes": 898
     },
     {
       "_id": "division_baserunning_cut",
@@ -67,7 +67,7 @@
       "title": "Team-Building Exercise",
       "type": 10,
       "value": 3,
-      "votes": 142
+      "votes": 143
     },
     {
       "_id": "summoning_circle",
@@ -75,7 +75,7 @@
       "title": "Summoning Circle",
       "type": 12,
       "value": 3,
-      "votes": 83
+      "votes": 84
     },
     {
       "_id": "exploratory_surgeries",
@@ -83,7 +83,7 @@
       "title": "Exploratory Surgeries",
       "type": 11,
       "value": 3,
-      "votes": 183
+      "votes": 187
     },
     {
       "_id": "team_improve_overall",
@@ -132,7 +132,7 @@
       "description": "Redistribute the funds from the Top 1% of Fans at the end of each Season",
       "title": "Eat the Rich",
       "type": 7,
-      "votes": 1367
+      "votes": 1377
     },
     {
       "_id": "eat_the_crust",
@@ -146,7 +146,7 @@
       "description": "GET TO KNOW THE PLAYERS",
       "title": "Interviews",
       "type": 9,
-      "votes": 1022
+      "votes": 1026
     },
     {
       "_id": "late_stage",
