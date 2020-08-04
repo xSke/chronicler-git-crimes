@@ -52,5 +52,17 @@
   {
     "_id": "the_birds",
     "msg": "you seeing all these birds??"
+  },
+  {
+    "__v": 0,
+    "_id": "59dbb2df-a73a-4579-9610-86a1c3f216d3",
+    "expire": "2020-08-04T19:07:19.447Z",
+    "msg": "Rogue Umpire incinerated Jazz Hands pitcher Ogden Mendoza! Replaced by August Sky"
+  },
+  {
+    "__v": 0,
+    "_id": "acdbf4a7-ca10-406d-a539-67062bac265f",
+    "expire": "2020-08-04T19:15:53.98Z",
+    "msg": "Rogue Umpire incinerated Sunbeams hitter Velasquez Meadows! Replaced by Alexander Horne"
   }
 ]
