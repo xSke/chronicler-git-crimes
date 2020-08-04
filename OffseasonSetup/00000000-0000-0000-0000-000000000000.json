@@ -6,7 +6,7 @@
       "title": "Anticapitalism, brought to you by Friends at the Table",
       "type": 31,
       "value": 1,
-      "votes": 844
+      "votes": 847
     },
     {
       "_id": "division_baserunning_cut",
@@ -22,7 +22,7 @@
       "title": "Evil Wind Sprints",
       "type": 2,
       "value": 0.15,
-      "votes": 62
+      "votes": 63
     },
     {
       "_id": "max_random_player",
@@ -30,7 +30,7 @@
       "title": "Bloodlust",
       "type": 22,
       "value": 1,
-      "votes": 115
+      "votes": 116
     },
     {
       "_id": "steal_best_player",
@@ -75,7 +75,7 @@
       "title": "Summoning Circle",
       "type": 12,
       "value": 3,
-      "votes": 77
+      "votes": 78
     },
     {
       "_id": "exploratory_surgeries",
@@ -83,7 +83,7 @@
       "title": "Exploratory Surgeries",
       "type": 11,
       "value": 3,
-      "votes": 168
+      "votes": 169
     },
     {
       "_id": "team_improve_overall",
@@ -132,7 +132,7 @@
       "description": "Redistribute the funds from the Top 1% of Fans at the end of each Season",
       "title": "Eat the Rich",
       "type": 7,
-      "votes": 1303
+      "votes": 1316
     },
     {
       "_id": "eat_the_crust",
@@ -146,7 +146,7 @@
       "description": "GET TO KNOW THE PLAYERS",
       "title": "Interviews",
       "type": 9,
-      "votes": 981
+      "votes": 987
     },
     {
       "_id": "late_stage",
@@ -160,7 +160,7 @@
       "description": "Stolen Bases are worth 0.1 Runs",
       "title": "Blaserunning",
       "type": 11,
-      "votes": 242
+      "votes": 243
     }
   ],
   "decreesToPass": 2
