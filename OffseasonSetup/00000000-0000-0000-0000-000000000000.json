@@ -6,7 +6,7 @@
       "title": "Anticapitalism, brought to you by Friends at the Table",
       "type": 31,
       "value": 1,
-      "votes": 871
+      "votes": 875
     },
     {
       "_id": "division_baserunning_cut",
@@ -67,7 +67,7 @@
       "title": "Team-Building Exercise",
       "type": 10,
       "value": 3,
-      "votes": 133
+      "votes": 134
     },
     {
       "_id": "summoning_circle",
@@ -83,7 +83,7 @@
       "title": "Exploratory Surgeries",
       "type": 11,
       "value": 3,
-      "votes": 179
+      "votes": 180
     },
     {
       "_id": "team_improve_overall",
@@ -132,14 +132,14 @@
       "description": "Redistribute the funds from the Top 1% of Fans at the end of each Season",
       "title": "Eat the Rich",
       "type": 7,
-      "votes": 1346
+      "votes": 1349
     },
     {
       "_id": "eat_the_crust",
       "description": "5 Players from the 2-Time Champion Pies will be reassigned to Random Teams",
       "title": "Eat the Crust",
       "type": 8,
-      "votes": 365
+      "votes": 370
     },
     {
       "_id": "interviews",
@@ -160,7 +160,7 @@
       "description": "Stolen Bases are worth 0.1 Runs",
       "title": "Blaserunning",
       "type": 11,
-      "votes": 250
+      "votes": 251
     }
   ],
   "decreesToPass": 2
