@@ -6,7 +6,7 @@
       "title": "Anticapitalism, brought to you by Friends at the Table",
       "type": 31,
       "value": 1,
-      "votes": 899
+      "votes": 903
     },
     {
       "_id": "division_baserunning_cut",
@@ -83,7 +83,7 @@
       "title": "Exploratory Surgeries",
       "type": 11,
       "value": 3,
-      "votes": 189
+      "votes": 190
     },
     {
       "_id": "team_improve_overall",
@@ -99,7 +99,7 @@
       "title": "Pseudo-Thumbs",
       "type": 1,
       "value": 0.1,
-      "votes": 78
+      "votes": 79
     },
     {
       "_id": "team_improve_defense",
@@ -115,7 +115,7 @@
       "title": "Exile",
       "type": 30,
       "value": 1,
-      "votes": 31
+      "votes": 33
     },
     {
       "_id": "send_worst_pitcher",
@@ -132,7 +132,7 @@
       "description": "Redistribute the funds from the Top 1% of Fans at the end of each Season",
       "title": "Eat the Rich",
       "type": 7,
-      "votes": 1383
+      "votes": 1386
     },
     {
       "_id": "eat_the_crust",
@@ -146,7 +146,7 @@
       "description": "GET TO KNOW THE PLAYERS",
       "title": "Interviews",
       "type": 9,
-      "votes": 1030
+      "votes": 1031
     },
     {
       "_id": "late_stage",
@@ -160,7 +160,7 @@
       "description": "Stolen Bases are worth 0.1 Runs",
       "title": "Blaserunning",
       "type": 11,
-      "votes": 254
+      "votes": 255
     }
   ],
   "decreesToPass": 2
