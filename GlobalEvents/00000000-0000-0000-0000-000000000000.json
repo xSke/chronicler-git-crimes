@@ -15,12 +15,12 @@
   {
     "__v": 0,
     "_id": "hitting_stat_leaders_update",
-    "msg": "On Base Percentage Leaders: ... Boyfriend Monreal, Kansas City Breath Mints - 0.577 ..... Theodore Passon, Miami Dalé - 0.571 ..... Workman Gloom, Charleston Shoe Thieves - 0.524 ..... Patel Beyonce, Los Angeles Tacos - 0.519 ..... Bevan Wise, Yellowstone Magic - 0.508 ..... "
+    "msg": "Stolen Base Leaders: ... Paula Mason, Chicago Firefighters - 4 ..... Boyfriend Monreal, Kansas City Breath Mints - 4 ..... Dudley Mueller, Hellmouth Sunbeams - 4 ..... Hewitt Best, Kansas City Breath Mints - 3 ..... Stu Trololol, Charleston Shoe Thieves - 3 ..... "
   },
   {
     "__v": 0,
     "_id": "pitching_stat_leaders_update",
-    "msg": "Pitcher Win Leaders: ... Theodore Cervantes, New York Millennials - 4 ..... Yeong-Ho Garcia, Yellowstone Magic - 4 ..... Caleb Alvarado, Chicago Firefighters - 3 ..... Oscar Vaughan, Kansas City Breath Mints - 3 ..... Axel Trololol, Kansas City Breath Mints - 3 ..... "
+    "msg": "Pitcher Loss Leaders: ... Ruslan Greatness, Philly Pies - 4 ..... Don Elliott, Miami Dalé - 4 ..... Leach Ingram, Kansas City Breath Mints - 3 ..... Bates Bentley, New York Millennials - 3 ..... Chambers Simmons, Boston Flowers - 3 ..... "
   },
   {
     "_id": "bigger_machines",
@@ -70,5 +70,11 @@
     "_id": "41866cc1-63d2-4d98-a5c5-5a43d72604e7",
     "expire": "2020-08-04T16:16:44.33Z",
     "msg": "Firefighters hitter Joshua Butt swallowed a stray Peanut and had an allergic reaction!"
+  },
+  {
+    "__v": 0,
+    "_id": "0f886049-0155-43a5-ab3c-32a1e61105d1",
+    "expire": "2020-08-04T16:24:41.053Z",
+    "msg": "Firefighters hitter Paula Mason swallowed a stray Peanut and had an allergic reaction!"
   }
 ]
