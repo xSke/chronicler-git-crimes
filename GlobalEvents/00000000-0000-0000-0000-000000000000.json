@@ -15,12 +15,12 @@
   {
     "__v": 0,
     "_id": "hitting_stat_leaders_update",
-    "msg": "Runs Batted In Leaders: ... Allison Abbott, Seattle Garages - 11 ..... Comfort Septemberish, Breckenridge Jazz Hands - 10 ..... Aldon Cashmoney, Breckenridge Jazz Hands - 10 ..... Malik Romayne, Hellmouth Sunbeams - 9 ..... Ren Hunter, Charleston Shoe Thieves - 8 ..... "
+    "msg": "On Base Percentage Leaders: ... Jorge Ito, Boston Flowers - 0.650 ..... Esme Ramsey, Charleston Shoe Thieves - 0.630 ..... Thomas Dracaena, New York Millennials - 0.586 ..... Jesús Koch, Canada Moist Talkers - 0.565 ..... Alexander Horne, Hellmouth Sunbeams - 0.550 ..... "
   },
   {
     "__v": 0,
     "_id": "pitching_stat_leaders_update",
-    "msg": "WHIP Leaders: ... Rafael Davids, Mexico City Wild Wings - 0.333 ..... James Mora, Hawaii Fridays - 0.444 ..... Caleb Alvarado, Chicago Firefighters - 0.556 ..... Adalberto Tosser, Baltimore Crabs - 0.556 ..... Gabriel Griffith, Dallas Steaks - 0.625 ..... "
+    "msg": "Pitcher Win Leaders: ... Caleb Alvarado, Chicago Firefighters - 2 ..... Cornelius Games, Charleston Shoe Thieves - 2 ..... Theodore Cervantes, New York Millennials - 2 ..... Percival Wheeler, San Francisco Lovers - 2 ..... Yeong-Ho Garcia, Yellowstone Magic - 2 ..... "
   },
   {
     "_id": "bigger_machines",
