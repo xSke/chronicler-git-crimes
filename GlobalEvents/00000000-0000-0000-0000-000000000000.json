@@ -15,12 +15,12 @@
   {
     "__v": 0,
     "_id": "hitting_stat_leaders_update",
-    "msg": "Home Run Leaders: ... Declan Suzanne, Chicago Firefighters - 5 ..... Beck Whitney, Boston Flowers - 5 ..... Baldwin Breadwinner, Los Angeles Tacos - 5 ..... Schneider Bendie, New York Millennials - 4 ..... Cory Ross, Dallas Steaks - 4 ..... "
+    "msg": "Runs Batted In Leaders: ... Cory Ross, Dallas Steaks - 14 ..... Schneider Bendie, New York Millennials - 12 ..... York Silk, Hawaii Fridays - 11 ..... Terrell Bradley, Hawaii Fridays - 11 ..... Thomas Kirby, Dallas Steaks - 11 ..... "
   },
   {
     "__v": 0,
     "_id": "pitching_stat_leaders_update",
-    "msg": "Earned Run Average Leaders: ... Cornelius Games, Charleston Shoe Thieves - 0.000 ..... Parker Meng, San Francisco Lovers - 0.000 ..... Walton Sports, Breckenridge Jazz Hands - 0.000 ..... Beasley Gloom, Charleston Shoe Thieves - 1.000 ..... Bates Bentley, New York Millennials - 1.000 ..... "
+    "msg": "WHIP Leaders: ... Sam Solis, Hawaii Fridays - 0.556 ..... Don Elliott, Miami Dalé - 0.556 ..... Walton Sports, Breckenridge Jazz Hands - 0.556 ..... Famous Owens, Hades Tigers - 0.611 ..... Swamuel Mora, Chicago Firefighters - 0.667 ..... "
   },
   {
     "_id": "bigger_machines",
@@ -52,5 +52,11 @@
   {
     "_id": "the_birds",
     "msg": "you seeing all these birds??"
+  },
+  {
+    "__v": 0,
+    "_id": "f5543302-f7d9-4679-8cd8-c8cb32418e36",
+    "expire": "2020-08-05T15:29:58.553Z",
+    "msg": "Rogue Umpire incinerated Shoe Thieves hitter Atlas Jonbois! Replaced by Sebastian Woodman"
   }
 ]
