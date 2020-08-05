@@ -52,5 +52,11 @@
   {
     "_id": "the_birds",
     "msg": "you seeing all these birds??"
+  },
+  {
+    "__v": 0,
+    "_id": "9e25169a-ca60-4a81-b4fd-06fc9a59dcaf",
+    "expire": "2020-08-05T03:14:17.619Z",
+    "msg": "Moist Talkers hitter Elijah Bates swallowed a stray Peanut and had a yummy reaction!"
   }
 ]
