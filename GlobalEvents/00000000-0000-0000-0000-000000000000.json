@@ -15,12 +15,12 @@
   {
     "__v": 0,
     "_id": "hitting_stat_leaders_update",
-    "msg": "On Base Percentage Leaders: ... Elijah Valenzuela, Hawaii Fridays - 0.692 ..... Kichiro Guerra, San Francisco Lovers - 0.683 ..... Sebastian Woodman, Charleston Shoe Thieves - 0.600 ..... York Silk, Hawaii Fridays - 0.590 ..... Sebastian Townsend, Charleston Shoe Thieves - 0.571 ..... "
+    "msg": "Stolen Base Leaders: ... Hewitt Best, Kansas City Breath Mints - 4 ..... Sosa Hayes, Mexico City Wild Wings - 4 ..... Ortiz Lopez, San Francisco Lovers - 3 ..... Sebastian Telephone, Dallas Steaks - 3 ..... Elvis Figueroa, Philly Pies - 3 ..... "
   },
   {
     "__v": 0,
     "_id": "pitching_stat_leaders_update",
-    "msg": "Pitcher Win Leaders: ... Theodore Cervantes, New York Millennials - 3 ..... PolkaDot Patterson, Canada Moist Talkers - 3 ..... Caleb Alvarado, Chicago Firefighters - 2 ..... Oscar Vaughan, Kansas City Breath Mints - 2 ..... Beasley Gloom, Charleston Shoe Thieves - 2 ..... "
+    "msg": "Pitcher Loss Leaders: ... Leach Ingram, Kansas City Breath Mints - 3 ..... Forrest Bookbaby, Charleston Shoe Thieves - 3 ..... Snyder Briggs, Charleston Shoe Thieves - 3 ..... Chambers Simmons, Boston Flowers - 3 ..... Donia Bailey, Houston Spies - 3 ..... "
   },
   {
     "_id": "bigger_machines",
@@ -55,14 +55,14 @@
   },
   {
     "__v": 0,
-    "_id": "f5543302-f7d9-4679-8cd8-c8cb32418e36",
-    "expire": "2020-08-05T15:29:58.553Z",
-    "msg": "Rogue Umpire incinerated Shoe Thieves hitter Atlas Jonbois! Replaced by Sebastian Woodman"
-  },
-  {
-    "__v": 0,
     "_id": "c303db2b-43ba-40a6-bb64-bde3aec79665",
     "expire": "2020-08-05T16:11:31.144Z",
     "msg": "Rogue Umpire incinerated Moist Talkers hitter Tyler Violet! Replaced by Ziwa Mueller"
+  },
+  {
+    "__v": 0,
+    "_id": "e783b858-1184-45ba-b44e-8c14bb8cca2a",
+    "expire": "2020-08-05T18:08:35.104Z",
+    "msg": "Jazz Hands hitter Stephens Lightner swallowed a stray Peanut and had an allergic reaction!"
   }
 ]
