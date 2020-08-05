@@ -6,7 +6,7 @@
       "title": "Anticapitalism, brought to you by Friends at the Table",
       "type": 31,
       "value": 1,
-      "votes": 1716
+      "votes": 1719
     },
     {
       "_id": "division_baserunning_cut",
@@ -70,7 +70,7 @@
       "title": "Team-Building Exercise",
       "type": 10,
       "value": 3,
-      "votes": 408
+      "votes": 409
     },
     {
       "_id": "summoning_circle",
@@ -126,7 +126,7 @@
       "title": "Go Away",
       "type": 29,
       "value": 1,
-      "votes": 77
+      "votes": 78
     }
   ],
   "decrees": [
@@ -135,7 +135,7 @@
       "description": "Redistribute the funds from the Top 1% of Fans at the end of each Season",
       "title": "Eat the Rich",
       "type": 7,
-      "votes": 2322
+      "votes": 2326
     },
     {
       "_id": "eat_the_crust",
@@ -149,7 +149,7 @@
       "description": "GET TO KNOW THE PLAYERS",
       "title": "Interviews",
       "type": 9,
-      "votes": 1793
+      "votes": 1794
     },
     {
       "_id": "late_stage",
@@ -163,7 +163,7 @@
       "description": "Stolen Bases are worth 0.1 Runs",
       "title": "Blaserunning",
       "type": 11,
-      "votes": 547
+      "votes": 550
     }
   ],
   "decreesToPass": 2
