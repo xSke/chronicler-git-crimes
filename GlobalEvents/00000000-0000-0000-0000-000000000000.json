@@ -52,5 +52,17 @@
   {
     "_id": "the_birds",
     "msg": "you seeing all these birds??"
+  },
+  {
+    "__v": 0,
+    "_id": "df68f15f-8efa-4d9e-aaa3-cb90c3624a51",
+    "expire": "2020-08-05T06:07:34.654Z",
+    "msg": "Fridays hitter Nagomi Mcdaniel swallowed a stray Peanut and had a yummy reaction!"
+  },
+  {
+    "__v": 0,
+    "_id": "5ee47bc6-3709-42ae-8ddf-e5f4f02bbb70",
+    "expire": "2020-08-05T06:16:59.33Z",
+    "msg": "Dalé hitter Randy Dennis swallowed a stray Peanut and had an allergic reaction!"
   }
 ]
