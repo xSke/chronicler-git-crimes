@@ -15,12 +15,12 @@
   {
     "__v": 0,
     "_id": "hitting_stat_leaders_update",
-    "msg": "Batting Average Leaders: ... Juan Rangel, Philly Pies - 0.500 ..... Velasquez Meadows, Hellmouth Sunbeams - 0.500 ..... Ziwa Mueller, Canada Moist Talkers - 0.429 ..... York Silk, Hawaii Fridays - 0.420 ..... Kichiro Guerra, San Francisco Lovers - 0.417 ..... "
+    "msg": "Home Run Leaders: ... Schneider Bendie, New York Millennials - 8 ..... Landry Violence, Hades Tigers - 8 ..... Ren Hunter, Charleston Shoe Thieves - 7 ..... Beasley Day, Philly Pies - 7 ..... Comfort Septemberish, Breckenridge Jazz Hands - 7 ..... "
   },
   {
     "__v": 0,
     "_id": "pitching_stat_leaders_update",
-    "msg": "Strikeout Leaders: ... Theodore Cervantes, New York Millennials - 43 ..... Sandoval Crossing, Hellmouth Sunbeams - 43 ..... Math Velazquez, Houston Spies - 43 ..... PolkaDot Patterson, Canada Moist Talkers - 40 ..... Rivers Clembons, Miami Dalé - 33 ..... "
+    "msg": "Earned Run Average Leaders: ... Parker Meng, San Francisco Lovers - 0.333 ..... Jordan Hildebert, Houston Spies - 0.667 ..... Natha Kath, Los Angeles Tacos - 1.000 ..... Bates Bentley, New York Millennials - 1.333 ..... August Sky, Breckenridge Jazz Hands - 1.333 ..... "
   },
   {
     "_id": "bigger_machines",
@@ -58,5 +58,11 @@
     "_id": "c303db2b-43ba-40a6-bb64-bde3aec79665",
     "expire": "2020-08-05T16:11:31.144Z",
     "msg": "Rogue Umpire incinerated Moist Talkers hitter Tyler Violet! Replaced by Ziwa Mueller"
+  },
+  {
+    "__v": 0,
+    "_id": "5b42b8f3-b575-4f42-bc9a-115f1c039d87",
+    "expire": "2020-08-06T00:23:01.629Z",
+    "msg": "Shoe Thieves pitcher Matteo Prestige swallowed a stray Peanut and had an allergic reaction!"
   }
 ]
