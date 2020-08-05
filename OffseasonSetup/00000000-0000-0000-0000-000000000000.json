@@ -6,7 +6,7 @@
       "title": "Anticapitalism, brought to you by Friends at the Table",
       "type": 31,
       "value": 1,
-      "votes": 1719
+      "votes": 1721
     },
     {
       "_id": "division_baserunning_cut",
@@ -30,7 +30,7 @@
       "title": "Bloodlust",
       "type": 22,
       "value": 1,
-      "votes": 376
+      "votes": 377
     },
     {
       "_id": "steal_best_player",
@@ -62,7 +62,7 @@
       "title": "Pretty Plz?",
       "type": 37,
       "value": 0.2,
-      "votes": 7
+      "votes": 8
     },
     {
       "_id": "reroll_worst_players_3",
@@ -78,7 +78,7 @@
       "title": "Summoning Circle",
       "type": 12,
       "value": 3,
-      "votes": 289
+      "votes": 290
     },
     {
       "_id": "exploratory_surgeries",
@@ -135,21 +135,21 @@
       "description": "Redistribute the funds from the Top 1% of Fans at the end of each Season",
       "title": "Eat the Rich",
       "type": 7,
-      "votes": 2326
+      "votes": 2331
     },
     {
       "_id": "eat_the_crust",
       "description": "5 Players from the 2-Time Champion Pies will be reassigned to Random Teams",
       "title": "Eat the Crust",
       "type": 8,
-      "votes": 465
+      "votes": 466
     },
     {
       "_id": "interviews",
       "description": "GET TO KNOW THE PLAYERS",
       "title": "Interviews",
       "type": 9,
-      "votes": 1794
+      "votes": 1799
     },
     {
       "_id": "late_stage",
@@ -163,7 +163,7 @@
       "description": "Stolen Bases are worth 0.1 Runs",
       "title": "Blaserunning",
       "type": 11,
-      "votes": 550
+      "votes": 557
     }
   ],
   "decreesToPass": 2
