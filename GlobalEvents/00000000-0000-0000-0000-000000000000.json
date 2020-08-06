@@ -15,12 +15,12 @@
   {
     "__v": 0,
     "_id": "hitting_stat_leaders_update",
-    "msg": "Runs Batted In Leaders: ... Ren Hunter, Charleston Shoe Thieves - 22 ..... Schneider Bendie, New York Millennials - 22 ..... Francisco Preston, Yellowstone Magic - 22 ..... Landry Violence, Hades Tigers - 21 ..... Helga Burton, San Francisco Lovers - 20 ..... "
+    "msg": "On Base Percentage Leaders: ... Sebastian Townsend, Charleston Shoe Thieves - 1.500 ..... Jorge Ito, Boston Flowers - 1.500 ..... Caleb Novak, Miami Dalé - 0.857 ..... Eduardo Woodman, Philly Pies - 0.800 ..... Jasmine Washington, Miami Dalé - 0.800 ..... "
   },
   {
     "__v": 0,
     "_id": "pitching_stat_leaders_update",
-    "msg": "WHIP Leaders: ... Hiroto Wilcox, Hades Tigers - 0.629 ..... Sam Solis, Hawaii Fridays - 0.694 ..... Don Elliott, Miami Dalé - 0.722 ..... Jordan Hildebert, Houston Spies - 0.741 ..... August Sky, Breckenridge Jazz Hands - 0.750 ..... "
+    "msg": "Pitcher Win Leaders: ... Caleb Alvarado, Chicago Firefighters - 1 ..... Cornelius Games, Charleston Shoe Thieves - 1 ..... Theodore Cervantes, New York Millennials - 1 ..... Bates Bentley, New York Millennials - 1 ..... Natha Kath, Los Angeles Tacos - 1 ..... "
   },
   {
     "_id": "bigger_machines",
@@ -52,17 +52,5 @@
   {
     "_id": "the_birds",
     "msg": "you seeing all these birds??"
-  },
-  {
-    "__v": 0,
-    "_id": "c303db2b-43ba-40a6-bb64-bde3aec79665",
-    "expire": "2020-08-05T16:11:31.144Z",
-    "msg": "Rogue Umpire incinerated Moist Talkers hitter Tyler Violet! Replaced by Ziwa Mueller"
-  },
-  {
-    "__v": 0,
-    "_id": "5b42b8f3-b575-4f42-bc9a-115f1c039d87",
-    "expire": "2020-08-06T00:23:01.629Z",
-    "msg": "Shoe Thieves pitcher Matteo Prestige swallowed a stray Peanut and had an allergic reaction!"
   }
 ]
