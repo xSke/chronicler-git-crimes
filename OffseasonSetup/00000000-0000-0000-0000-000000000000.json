@@ -6,7 +6,7 @@
       "title": "Anticapitalism, brought to you by Friends at the Table",
       "type": 31,
       "value": 1,
-      "votes": 3426
+      "votes": 3428
     },
     {
       "_id": "division_baserunning_cut",
@@ -22,7 +22,7 @@
       "title": "Evil Wind Sprints",
       "type": 2,
       "value": 0.15,
-      "votes": 615
+      "votes": 617
     },
     {
       "_id": "max_random_player",
@@ -54,7 +54,7 @@
       "title": "Vulture",
       "type": 35,
       "value": 1,
-      "votes": 646
+      "votes": 648
     },
     {
       "_id": "variable_team_hitting",
@@ -62,7 +62,7 @@
       "title": "Pretty Plz?",
       "type": 37,
       "value": 0.2,
-      "votes": 721
+      "votes": 733
     },
     {
       "_id": "reroll_worst_players_3",
@@ -70,7 +70,7 @@
       "title": "Team-Building Exercise",
       "type": 10,
       "value": 3,
-      "votes": 1541
+      "votes": 1542
     },
     {
       "_id": "summoning_circle",
@@ -78,7 +78,7 @@
       "title": "Summoning Circle",
       "type": 12,
       "value": 3,
-      "votes": 1129
+      "votes": 1132
     },
     {
       "_id": "exploratory_surgeries",
@@ -86,7 +86,7 @@
       "title": "Exploratory Surgeries",
       "type": 11,
       "value": 3,
-      "votes": 1562
+      "votes": 1570
     },
     {
       "_id": "team_improve_overall",
@@ -110,7 +110,7 @@
       "title": "The Rack",
       "type": 3,
       "value": 0.15,
-      "votes": 581
+      "votes": 584
     },
     {
       "_id": "send_worst_hitter",
@@ -126,7 +126,7 @@
       "title": "Go Away",
       "type": 29,
       "value": 1,
-      "votes": 403
+      "votes": 404
     }
   ],
   "decrees": [
@@ -135,35 +135,35 @@
       "description": "Redistribute the funds from the Top 1% of Fans at the end of each Season",
       "title": "Eat the Rich",
       "type": 7,
-      "votes": 3694
+      "votes": 3703
     },
     {
       "_id": "eat_the_crust",
       "description": "5 Players from the 2-Time Champion Pies will be reassigned to Random Teams",
       "title": "Eat the Crust",
       "type": 8,
-      "votes": 617
+      "votes": 618
     },
     {
       "_id": "interviews",
       "description": "GET TO KNOW THE PLAYERS",
       "title": "Interviews",
       "type": 9,
-      "votes": 2999
+      "votes": 3009
     },
     {
       "_id": "late_stage",
       "description": "Postseason Bet Payouts increase each round: 2x, 3x, 5x",
       "title": "Late Stage",
       "type": 10,
-      "votes": 519
+      "votes": 520
     },
     {
       "_id": "blaserunning",
       "description": "Stolen Bases are worth 0.1 Runs",
       "title": "Blaserunning",
       "type": 11,
-      "votes": 1132
+      "votes": 1133
     }
   ],
   "decreesToPass": 2
