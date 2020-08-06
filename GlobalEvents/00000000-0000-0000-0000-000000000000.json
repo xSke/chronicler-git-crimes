@@ -52,5 +52,11 @@
   {
     "_id": "the_birds",
     "msg": "you seeing all these birds??"
+  },
+  {
+    "__v": 0,
+    "_id": "1cb5390d-c12e-45e3-a9d9-242b316f85cb",
+    "expire": "2020-08-06T11:06:08.448Z",
+    "msg": "Tacos hitter Taiga Quitter swallowed a stray Peanut and had an allergic reaction!"
   }
 ]
