@@ -52,17 +52,5 @@
   {
     "_id": "the_birds",
     "msg": "you seeing all these birds??"
-  },
-  {
-    "__v": 0,
-    "_id": "1b62cbcf-fb31-4dcf-be93-ea461bc0d721",
-    "expire": "2020-08-06T06:02:37.032Z",
-    "msg": "Pies pitcher Kevin Dudley swallowed a stray Peanut and had an allergic reaction!"
-  },
-  {
-    "__v": 0,
-    "_id": "509b9c21-c750-4fce-8e34-4e740edfe3e6",
-    "expire": "2020-08-06T06:07:19.611Z",
-    "msg": "Rogue Umpire incinerated Shoe Thieves pitcher Matteo Prestige! Replaced by Gunther O'Brian"
   }
 ]
