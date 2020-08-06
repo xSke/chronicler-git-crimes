@@ -6,7 +6,7 @@
       "title": "Anticapitalism, brought to you by Friends at the Table",
       "type": 31,
       "value": 1,
-      "votes": 2803
+      "votes": 2810
     },
     {
       "_id": "division_baserunning_cut",
@@ -30,7 +30,7 @@
       "title": "Bloodlust",
       "type": 22,
       "value": 1,
-      "votes": 841
+      "votes": 842
     },
     {
       "_id": "steal_best_player",
@@ -38,7 +38,7 @@
       "title": "Highway Robbery",
       "type": 25,
       "value": 1,
-      "votes": 773
+      "votes": 774
     },
     {
       "_id": "steal_best_player_subleague",
@@ -70,7 +70,7 @@
       "title": "Team-Building Exercise",
       "type": 10,
       "value": 3,
-      "votes": 1135
+      "votes": 1154
     },
     {
       "_id": "summoning_circle",
@@ -78,7 +78,7 @@
       "title": "Summoning Circle",
       "type": 12,
       "value": 3,
-      "votes": 862
+      "votes": 865
     },
     {
       "_id": "exploratory_surgeries",
@@ -86,7 +86,7 @@
       "title": "Exploratory Surgeries",
       "type": 11,
       "value": 3,
-      "votes": 1198
+      "votes": 1199
     },
     {
       "_id": "team_improve_overall",
@@ -135,21 +135,21 @@
       "description": "Redistribute the funds from the Top 1% of Fans at the end of each Season",
       "title": "Eat the Rich",
       "type": 7,
-      "votes": 3351
+      "votes": 3355
     },
     {
       "_id": "eat_the_crust",
       "description": "5 Players from the 2-Time Champion Pies will be reassigned to Random Teams",
       "title": "Eat the Crust",
       "type": 8,
-      "votes": 580
+      "votes": 581
     },
     {
       "_id": "interviews",
       "description": "GET TO KNOW THE PLAYERS",
       "title": "Interviews",
       "type": 9,
-      "votes": 2644
+      "votes": 2651
     },
     {
       "_id": "late_stage",
