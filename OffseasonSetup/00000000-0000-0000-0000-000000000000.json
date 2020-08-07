@@ -6,7 +6,7 @@
       "title": "Anticapitalism, brought to you by Friends at the Table",
       "type": 31,
       "value": 1,
-      "votes": 5274
+      "votes": 5317
     },
     {
       "_id": "division_baserunning_cut",
@@ -14,7 +14,7 @@
       "title": "Rigour Mortis",
       "type": 44,
       "value": 0.15,
-      "votes": 715
+      "votes": 730
     },
     {
       "_id": "team_improve_baserunning",
@@ -22,7 +22,7 @@
       "title": "Evil Wind Sprints",
       "type": 2,
       "value": 0.15,
-      "votes": 1467
+      "votes": 1486
     },
     {
       "_id": "max_random_player",
@@ -30,7 +30,7 @@
       "title": "Bloodlust",
       "type": 22,
       "value": 1,
-      "votes": 1646
+      "votes": 1654
     },
     {
       "_id": "steal_best_player",
@@ -38,7 +38,7 @@
       "title": "Highway Robbery",
       "type": 25,
       "value": 1,
-      "votes": 1477
+      "votes": 1486
     },
     {
       "_id": "steal_best_player_subleague",
@@ -46,7 +46,7 @@
       "title": "Headhunter",
       "type": 34,
       "value": 1,
-      "votes": 1245
+      "votes": 1254
     },
     {
       "_id": "steal_best_player_division",
@@ -54,7 +54,7 @@
       "title": "Vulture",
       "type": 35,
       "value": 1,
-      "votes": 1368
+      "votes": 1378
     },
     {
       "_id": "variable_team_hitting",
@@ -62,7 +62,7 @@
       "title": "Pretty Plz?",
       "type": 37,
       "value": 0.2,
-      "votes": 1670
+      "votes": 1672
     },
     {
       "_id": "reroll_worst_players_3",
@@ -70,7 +70,7 @@
       "title": "Team-Building Exercise",
       "type": 10,
       "value": 3,
-      "votes": 2554
+      "votes": 2558
     },
     {
       "_id": "summoning_circle",
@@ -78,7 +78,7 @@
       "title": "Summoning Circle",
       "type": 12,
       "value": 3,
-      "votes": 2106
+      "votes": 2118
     },
     {
       "_id": "exploratory_surgeries",
@@ -86,7 +86,7 @@
       "title": "Exploratory Surgeries",
       "type": 11,
       "value": 3,
-      "votes": 3355
+      "votes": 3441
     },
     {
       "_id": "team_improve_overall",
@@ -94,7 +94,7 @@
       "title": "Performance Enhancing Demons",
       "type": 4,
       "value": 0.08,
-      "votes": 2467
+      "votes": 2482
     },
     {
       "_id": "team_improve_pitching",
@@ -102,7 +102,7 @@
       "title": "Pseudo-Thumbs",
       "type": 1,
       "value": 0.1,
-      "votes": 2234
+      "votes": 2243
     },
     {
       "_id": "team_improve_defense",
@@ -110,7 +110,7 @@
       "title": "The Rack",
       "type": 3,
       "value": 0.15,
-      "votes": 1372
+      "votes": 1382
     },
     {
       "_id": "send_worst_hitter",
@@ -118,7 +118,7 @@
       "title": "Exile",
       "type": 30,
       "value": 1,
-      "votes": 714
+      "votes": 715
     },
     {
       "_id": "send_worst_pitcher",
@@ -126,7 +126,7 @@
       "title": "Go Away",
       "type": 29,
       "value": 1,
-      "votes": 1268
+      "votes": 1272
     }
   ],
   "decrees": [
@@ -135,35 +135,35 @@
       "description": "Redistribute the funds from the Top 1% of Fans at the end of each Season",
       "title": "Eat the Rich",
       "type": 7,
-      "votes": 5327
+      "votes": 5354
     },
     {
       "_id": "eat_the_crust",
       "description": "5 Players from the 2-Time Champion Pies will be reassigned to Random Teams",
       "title": "Eat the Crust",
       "type": 8,
-      "votes": 832
+      "votes": 835
     },
     {
       "_id": "interviews",
       "description": "GET TO KNOW THE PLAYERS",
       "title": "Interviews",
       "type": 9,
-      "votes": 4533
+      "votes": 4548
     },
     {
       "_id": "late_stage",
       "description": "Postseason Bet Payouts increase each round: 2x, 3x, 5x",
       "title": "Late Stage",
       "type": 10,
-      "votes": 809
+      "votes": 813
     },
     {
       "_id": "blaserunning",
       "description": "Stolen Bases are worth 0.1 Runs",
       "title": "Blaserunning",
       "type": 11,
-      "votes": 1688
+      "votes": 1693
     }
   ],
   "decreesToPass": 2
