@@ -15,12 +15,12 @@
   {
     "__v": 0,
     "_id": "hitting_stat_leaders_update",
-    "msg": "Stolen Base Leaders: ... Sebastian Telephone, Dallas Steaks - 3 ..... Boyfriend Monreal, Kansas City Breath Mints - 2 ..... Sutton Picklestein, Yellowstone Magic - 2 ..... Moody Cookbook, Hades Tigers - 2 ..... Forrest Best, Baltimore Crabs - 2 ..... "
+    "msg": "Batting Average Leaders: ... Kichiro Guerra, San Francisco Lovers - 0.586 ..... Dickerson Morse, Kansas City Breath Mints - 0.514 ..... Sebastian Townsend, Charleston Shoe Thieves - 0.500 ..... Jorge Ito, Boston Flowers - 0.500 ..... Juan Rangel, Philly Pies - 0.500 ..... "
   },
   {
     "__v": 0,
     "_id": "pitching_stat_leaders_update",
-    "msg": "Pitcher Loss Leaders: ... Mullen Peterson, Chicago Firefighters - 2 ..... Leach Ingram, Kansas City Breath Mints - 2 ..... PolkaDot Zavala, Kansas City Breath Mints - 2 ..... Comfort Glover, Los Angeles Tacos - 2 ..... Sandford Garner, San Francisco Lovers - 2 ..... "
+    "msg": "Strikeout Leaders: ... PolkaDot Patterson, Canada Moist Talkers - 28 ..... Sandoval Crossing, Hellmouth Sunbeams - 26 ..... Rivers Clembons, Miami Dalé - 22 ..... Nagomi Meng, Hades Tigers - 20 ..... Theodore Cervantes, New York Millennials - 19 ..... "
   },
   {
     "_id": "bigger_machines",
@@ -64,5 +64,11 @@
     "_id": "c5718f49-411f-4f65-a449-7a38af43d3b6",
     "expire": "2020-08-07T08:24:59.448Z",
     "msg": "Flowers hitter Beck Whitney swallowed a stray Peanut and had a yummy reaction!"
+  },
+  {
+    "__v": 0,
+    "_id": "48efd6ba-68be-464b-9518-6bad79936e10",
+    "expire": "2020-08-07T08:30:18.864Z",
+    "msg": "Flowers pitcher Dunn Keyes swallowed a stray Peanut and had a yummy reaction!"
   }
 ]
