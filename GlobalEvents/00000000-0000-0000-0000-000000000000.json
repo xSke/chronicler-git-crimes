@@ -52,5 +52,11 @@
   {
     "_id": "the_birds",
     "msg": "you seeing all these birds??"
+  },
+  {
+    "__v": 0,
+    "_id": "966b8ef2-3b5a-4e47-90f3-fc6bd2a6099f",
+    "expire": "2020-08-07T07:20:17.455Z",
+    "msg": "Rogue Umpire incinerated Garages pitcher Derrick Krueger! Replaced by Henry Marshallow"
   }
 ]
