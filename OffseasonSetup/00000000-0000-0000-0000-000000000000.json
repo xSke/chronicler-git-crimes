@@ -6,7 +6,7 @@
       "title": "Anticapitalism, brought to you by Friends at the Table",
       "type": 31,
       "value": 1,
-      "votes": 4473
+      "votes": 4476
     },
     {
       "_id": "division_baserunning_cut",
@@ -30,7 +30,7 @@
       "title": "Bloodlust",
       "type": 22,
       "value": 1,
-      "votes": 1404
+      "votes": 1406
     },
     {
       "_id": "steal_best_player",
@@ -38,7 +38,7 @@
       "title": "Highway Robbery",
       "type": 25,
       "value": 1,
-      "votes": 1208
+      "votes": 1209
     },
     {
       "_id": "steal_best_player_subleague",
@@ -46,7 +46,7 @@
       "title": "Headhunter",
       "type": 34,
       "value": 1,
-      "votes": 1117
+      "votes": 1118
     },
     {
       "_id": "steal_best_player_division",
@@ -54,7 +54,7 @@
       "title": "Vulture",
       "type": 35,
       "value": 1,
-      "votes": 1139
+      "votes": 1141
     },
     {
       "_id": "variable_team_hitting",
@@ -62,7 +62,7 @@
       "title": "Pretty Plz?",
       "type": 37,
       "value": 0.2,
-      "votes": 1482
+      "votes": 1485
     },
     {
       "_id": "reroll_worst_players_3",
@@ -70,7 +70,7 @@
       "title": "Team-Building Exercise",
       "type": 10,
       "value": 3,
-      "votes": 2092
+      "votes": 2099
     },
     {
       "_id": "summoning_circle",
@@ -78,7 +78,7 @@
       "title": "Summoning Circle",
       "type": 12,
       "value": 3,
-      "votes": 1559
+      "votes": 1560
     },
     {
       "_id": "exploratory_surgeries",
@@ -86,7 +86,7 @@
       "title": "Exploratory Surgeries",
       "type": 11,
       "value": 3,
-      "votes": 2617
+      "votes": 2641
     },
     {
       "_id": "team_improve_overall",
@@ -94,7 +94,7 @@
       "title": "Performance Enhancing Demons",
       "type": 4,
       "value": 0.08,
-      "votes": 2071
+      "votes": 2073
     },
     {
       "_id": "team_improve_pitching",
@@ -102,7 +102,7 @@
       "title": "Pseudo-Thumbs",
       "type": 1,
       "value": 0.1,
-      "votes": 1724
+      "votes": 1729
     },
     {
       "_id": "team_improve_defense",
@@ -110,7 +110,7 @@
       "title": "The Rack",
       "type": 3,
       "value": 0.15,
-      "votes": 1109
+      "votes": 1110
     },
     {
       "_id": "send_worst_hitter",
@@ -126,7 +126,7 @@
       "title": "Go Away",
       "type": 29,
       "value": 1,
-      "votes": 612
+      "votes": 772
     }
   ],
   "decrees": [
@@ -135,7 +135,7 @@
       "description": "Redistribute the funds from the Top 1% of Fans at the end of each Season",
       "title": "Eat the Rich",
       "type": 7,
-      "votes": 4682
+      "votes": 4689
     },
     {
       "_id": "eat_the_crust",
@@ -149,14 +149,14 @@
       "description": "GET TO KNOW THE PLAYERS",
       "title": "Interviews",
       "type": 9,
-      "votes": 3962
+      "votes": 3965
     },
     {
       "_id": "late_stage",
       "description": "Postseason Bet Payouts increase each round: 2x, 3x, 5x",
       "title": "Late Stage",
       "type": 10,
-      "votes": 712
+      "votes": 713
     },
     {
       "_id": "blaserunning",
