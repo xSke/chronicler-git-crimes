@@ -6,7 +6,7 @@
       "title": "Anticapitalism, brought to you by Friends at the Table",
       "type": 31,
       "value": 1,
-      "votes": 4457
+      "votes": 4462
     },
     {
       "_id": "division_baserunning_cut",
@@ -62,7 +62,7 @@
       "title": "Pretty Plz?",
       "type": 37,
       "value": 0.2,
-      "votes": 1445
+      "votes": 1446
     },
     {
       "_id": "reroll_worst_players_3",
@@ -70,7 +70,7 @@
       "title": "Team-Building Exercise",
       "type": 10,
       "value": 3,
-      "votes": 2088
+      "votes": 2089
     },
     {
       "_id": "summoning_circle",
@@ -78,7 +78,7 @@
       "title": "Summoning Circle",
       "type": 12,
       "value": 3,
-      "votes": 1539
+      "votes": 1541
     },
     {
       "_id": "exploratory_surgeries",
@@ -86,7 +86,7 @@
       "title": "Exploratory Surgeries",
       "type": 11,
       "value": 3,
-      "votes": 2602
+      "votes": 2610
     },
     {
       "_id": "team_improve_overall",
@@ -118,7 +118,7 @@
       "title": "Exile",
       "type": 30,
       "value": 1,
-      "votes": 546
+      "votes": 571
     },
     {
       "_id": "send_worst_pitcher",
@@ -126,7 +126,7 @@
       "title": "Go Away",
       "type": 29,
       "value": 1,
-      "votes": 587
+      "votes": 610
     }
   ],
   "decrees": [
@@ -135,7 +135,7 @@
       "description": "Redistribute the funds from the Top 1% of Fans at the end of each Season",
       "title": "Eat the Rich",
       "type": 7,
-      "votes": 4663
+      "votes": 4670
     },
     {
       "_id": "eat_the_crust",
@@ -149,7 +149,7 @@
       "description": "GET TO KNOW THE PLAYERS",
       "title": "Interviews",
       "type": 9,
-      "votes": 3950
+      "votes": 3956
     },
     {
       "_id": "late_stage",
@@ -163,7 +163,7 @@
       "description": "Stolen Bases are worth 0.1 Runs",
       "title": "Blaserunning",
       "type": 11,
-      "votes": 1452
+      "votes": 1453
     }
   ],
   "decreesToPass": 2
