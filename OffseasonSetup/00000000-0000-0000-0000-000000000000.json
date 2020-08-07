@@ -6,7 +6,7 @@
       "title": "Anticapitalism, brought to you by Friends at the Table",
       "type": 31,
       "value": 1,
-      "votes": 4446
+      "votes": 4456
     },
     {
       "_id": "division_baserunning_cut",
@@ -22,7 +22,7 @@
       "title": "Evil Wind Sprints",
       "type": 2,
       "value": 0.15,
-      "votes": 1101
+      "votes": 1106
     },
     {
       "_id": "max_random_player",
@@ -78,7 +78,7 @@
       "title": "Summoning Circle",
       "type": 12,
       "value": 3,
-      "votes": 1538
+      "votes": 1539
     },
     {
       "_id": "exploratory_surgeries",
@@ -86,7 +86,7 @@
       "title": "Exploratory Surgeries",
       "type": 11,
       "value": 3,
-      "votes": 2595
+      "votes": 2600
     },
     {
       "_id": "team_improve_overall",
@@ -94,7 +94,7 @@
       "title": "Performance Enhancing Demons",
       "type": 4,
       "value": 0.08,
-      "votes": 2070
+      "votes": 2071
     },
     {
       "_id": "team_improve_pitching",
@@ -102,7 +102,7 @@
       "title": "Pseudo-Thumbs",
       "type": 1,
       "value": 0.1,
-      "votes": 1721
+      "votes": 1722
     },
     {
       "_id": "team_improve_defense",
@@ -110,7 +110,7 @@
       "title": "The Rack",
       "type": 3,
       "value": 0.15,
-      "votes": 1106
+      "votes": 1107
     },
     {
       "_id": "send_worst_hitter",
@@ -135,7 +135,7 @@
       "description": "Redistribute the funds from the Top 1% of Fans at the end of each Season",
       "title": "Eat the Rich",
       "type": 7,
-      "votes": 4656
+      "votes": 4660
     },
     {
       "_id": "eat_the_crust",
@@ -149,7 +149,7 @@
       "description": "GET TO KNOW THE PLAYERS",
       "title": "Interviews",
       "type": 9,
-      "votes": 3941
+      "votes": 3944
     },
     {
       "_id": "late_stage",
