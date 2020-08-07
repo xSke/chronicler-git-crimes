@@ -6,7 +6,7 @@
       "title": "Anticapitalism, brought to you by Friends at the Table",
       "type": 31,
       "value": 1,
-      "votes": 4440
+      "votes": 4446
     },
     {
       "_id": "division_baserunning_cut",
@@ -30,7 +30,7 @@
       "title": "Bloodlust",
       "type": 22,
       "value": 1,
-      "votes": 1394
+      "votes": 1401
     },
     {
       "_id": "steal_best_player",
@@ -70,7 +70,7 @@
       "title": "Team-Building Exercise",
       "type": 10,
       "value": 3,
-      "votes": 2086
+      "votes": 2088
     },
     {
       "_id": "summoning_circle",
@@ -78,7 +78,7 @@
       "title": "Summoning Circle",
       "type": 12,
       "value": 3,
-      "votes": 1537
+      "votes": 1538
     },
     {
       "_id": "exploratory_surgeries",
@@ -94,7 +94,7 @@
       "title": "Performance Enhancing Demons",
       "type": 4,
       "value": 0.08,
-      "votes": 2067
+      "votes": 2070
     },
     {
       "_id": "team_improve_pitching",
@@ -102,7 +102,7 @@
       "title": "Pseudo-Thumbs",
       "type": 1,
       "value": 0.1,
-      "votes": 1718
+      "votes": 1721
     },
     {
       "_id": "team_improve_defense",
@@ -118,7 +118,7 @@
       "title": "Exile",
       "type": 30,
       "value": 1,
-      "votes": 545
+      "votes": 546
     },
     {
       "_id": "send_worst_pitcher",
@@ -135,21 +135,21 @@
       "description": "Redistribute the funds from the Top 1% of Fans at the end of each Season",
       "title": "Eat the Rich",
       "type": 7,
-      "votes": 4644
+      "votes": 4656
     },
     {
       "_id": "eat_the_crust",
       "description": "5 Players from the 2-Time Champion Pies will be reassigned to Random Teams",
       "title": "Eat the Crust",
       "type": 8,
-      "votes": 741
+      "votes": 742
     },
     {
       "_id": "interviews",
       "description": "GET TO KNOW THE PLAYERS",
       "title": "Interviews",
       "type": 9,
-      "votes": 3937
+      "votes": 3941
     },
     {
       "_id": "late_stage",
@@ -163,7 +163,7 @@
       "description": "Stolen Bases are worth 0.1 Runs",
       "title": "Blaserunning",
       "type": 11,
-      "votes": 1449
+      "votes": 1451
     }
   ],
   "decreesToPass": 2
