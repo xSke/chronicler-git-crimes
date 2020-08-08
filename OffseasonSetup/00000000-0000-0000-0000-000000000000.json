@@ -6,15 +6,15 @@
       "title": "Anticapitalism, brought to you by Friends at the Table",
       "type": 31,
       "value": 1,
-      "votes": 9912
+      "votes": 9941
     },
     {
       "_id": "division_baserunning_cut",
       "description": "Stiff Limbs. -10% team baserunning to your team's division opponents.",
       "title": "Rigour Mortis",
       "type": 44,
-      "value": 0.15,
-      "votes": 3079
+      "value": 0.1,
+      "votes": 3106
     },
     {
       "_id": "team_improve_baserunning",
@@ -22,7 +22,7 @@
       "title": "Evil Wind Sprints",
       "type": 2,
       "value": 0.15,
-      "votes": 7838
+      "votes": 7874
     },
     {
       "_id": "max_random_player",
@@ -30,7 +30,7 @@
       "title": "Bloodlust",
       "type": 22,
       "value": 1,
-      "votes": 4552
+      "votes": 4569
     },
     {
       "_id": "steal_best_player",
@@ -46,7 +46,7 @@
       "title": "Headhunter",
       "type": 34,
       "value": 1,
-      "votes": 4623
+      "votes": 4626
     },
     {
       "_id": "steal_best_player_division",
@@ -54,7 +54,7 @@
       "title": "Vulture",
       "type": 35,
       "value": 1,
-      "votes": 5055
+      "votes": 5062
     },
     {
       "_id": "variable_team_hitting",
@@ -62,7 +62,7 @@
       "title": "Pretty Plz?",
       "type": 37,
       "value": 0.2,
-      "votes": 4893
+      "votes": 4939
     },
     {
       "_id": "reroll_worst_players_3",
@@ -70,7 +70,7 @@
       "title": "Team-Building Exercise",
       "type": 10,
       "value": 3,
-      "votes": 9190
+      "votes": 9263
     },
     {
       "_id": "summoning_circle",
@@ -78,7 +78,7 @@
       "title": "Summoning Circle",
       "type": 12,
       "value": 3,
-      "votes": 8923
+      "votes": 8953
     },
     {
       "_id": "exploratory_surgeries",
@@ -86,7 +86,7 @@
       "title": "Exploratory Surgeries",
       "type": 11,
       "value": 3,
-      "votes": 13566
+      "votes": 13583
     },
     {
       "_id": "team_improve_overall",
@@ -94,7 +94,7 @@
       "title": "Performance Enhancing Demons",
       "type": 4,
       "value": 0.08,
-      "votes": 9267
+      "votes": 9300
     },
     {
       "_id": "team_improve_pitching",
@@ -102,7 +102,7 @@
       "title": "Pseudo-Thumbs",
       "type": 1,
       "value": 0.1,
-      "votes": 10771
+      "votes": 10798
     },
     {
       "_id": "team_improve_defense",
@@ -110,7 +110,7 @@
       "title": "The Rack",
       "type": 3,
       "value": 0.15,
-      "votes": 8450
+      "votes": 8500
     },
     {
       "_id": "send_worst_hitter",
@@ -118,7 +118,7 @@
       "title": "Exile",
       "type": 30,
       "value": 1,
-      "votes": 1895
+      "votes": 1896
     },
     {
       "_id": "send_worst_pitcher",
@@ -126,7 +126,7 @@
       "title": "Go Away",
       "type": 29,
       "value": 1,
-      "votes": 4127
+      "votes": 4138
     }
   ],
   "decrees": [
@@ -135,35 +135,35 @@
       "description": "Redistribute the funds from the Top 1% of Fans at the end of each Season",
       "title": "Eat the Rich",
       "type": 7,
-      "votes": 8141
+      "votes": 8154
     },
     {
       "_id": "eat_the_crust",
       "description": "5 Players from the 2-Time Champion Pies will be reassigned to Random Teams",
       "title": "Eat the Crust",
       "type": 8,
-      "votes": 1337
+      "votes": 1339
     },
     {
       "_id": "interviews",
       "description": "GET TO KNOW THE PLAYERS",
       "title": "Interviews",
       "type": 9,
-      "votes": 7736
+      "votes": 7747
     },
     {
       "_id": "late_stage",
       "description": "Postseason Bet Payouts increase each round: 2x, 3x, 5x",
       "title": "Late Stage",
       "type": 10,
-      "votes": 1560
+      "votes": 1563
     },
     {
       "_id": "blaserunning",
       "description": "Stolen Bases are worth 0.1 Runs",
       "title": "Blaserunning",
       "type": 11,
-      "votes": 4090
+      "votes": 4104
     }
   ],
   "decreesToPass": 2
