@@ -40,11 +40,9 @@
     "20fd71e7-4fa0-4132-9f47-06a314ed539a",
     "333067fd-c2b4-4045-a9a4-e87a8d0332d0"
   ],
-  "seasonAttributes": [
-    "EXTRA_STRIKE"
-  ],
-  "seasonShames": 14,
-  "seasonShamings": 18,
+  "seasonAttributes": [],
+  "seasonShames": 0,
+  "seasonShamings": 0,
   "secondaryColor": "#fffaab",
   "shameRuns": 2,
   "shorthand": "SUN",
