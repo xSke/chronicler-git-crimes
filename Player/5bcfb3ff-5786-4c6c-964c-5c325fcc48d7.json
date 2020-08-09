@@ -1,11 +1,14 @@
 {
   "_id": "5bcfb3ff-5786-4c6c-964c-5c325fcc48d7",
   "anticapitalism": 0.914585657943178,
+  "armor": "",
   "baseThirst": 0.8854592162924868,
   "bat": "",
+  "blood": 8,
   "buoyancy": 0.21781732660013087,
   "chasiness": 0.5995334995424131,
   "cinnamon": 0.620573979091436,
+  "coffee": 3,
   "coldness": 0.30582512585118504,
   "continuation": 0.2661696917021845,
   "deceased": false,
@@ -23,6 +26,7 @@
   "patheticism": 0.5882915135341877,
   "peanutAllergy": true,
   "pressurization": 0.874510487786416,
+  "ritual": "Repenting",
   "ruthlessness": 0.7194623902577131,
   "shakespearianism": 0.3649201017796846,
   "soul": 4,
@@ -30,7 +34,7 @@
   "tenaciousness": 0.5426311497776553,
   "thwackability": 0.722698376772128,
   "totalFingers": 10,
-  "tragicness": 0.8111166826343146,
+  "tragicness": 0.1,
   "unthwackability": 0.6196979339151729,
   "watchfulness": 0.9449966292868708
 }
