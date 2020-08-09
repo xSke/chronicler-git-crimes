@@ -1,12 +1,12 @@
 {
   "_id": "53e701c7-e3c8-4e18-ba05-9b41b4b64cda",
-  "anticapitalism": 0.8307330429973119,
+  "anticapitalism": 0.980733042997312,
   "armor": "",
   "baseThirst": 0.3466305794357055,
   "bat": "",
   "blood": 8,
   "buoyancy": 0.7672863357510531,
-  "chasiness": 0.4653057227852568,
+  "chasiness": 0.6153057227852569,
   "cinnamon": 0.4263704038485172,
   "coffee": 13,
   "coldness": 0.5139955220135557,
@@ -21,7 +21,7 @@
   "moxie": 0.7383243093623733,
   "musclitude": 0.6368001769150138,
   "name": "Marquez Clark",
-  "omniscience": 0.30033360752159544,
+  "omniscience": 0.45033360752159546,
   "overpowerment": 0.9617383643876748,
   "patheticism": 0.17263837148350025,
   "peanutAllergy": true,
@@ -31,10 +31,10 @@
   "shakespearianism": 0.7449121642851388,
   "soul": 9,
   "suppression": 0.15506300160955422,
-  "tenaciousness": 0.8815683054319903,
+  "tenaciousness": 1.0315683054319902,
   "thwackability": 0.13470676324586806,
   "totalFingers": 10,
   "tragicness": 0.1,
   "unthwackability": 0.3380795491621609,
-  "watchfulness": 0.924625189030324
+  "watchfulness": 1.074625189030324
 }

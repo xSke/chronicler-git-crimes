@@ -1,12 +1,12 @@
 {
   "_id": "a199a681-decf-4433-b6ab-5454450bbe5e",
-  "anticapitalism": 0.3702161244075992,
+  "anticapitalism": 0.5202161244075992,
   "armor": "",
   "baseThirst": 0.06742188709105279,
   "bat": "",
   "blood": 4,
   "buoyancy": 0.903780354345685,
-  "chasiness": 0.20864844302604757,
+  "chasiness": 0.3586484430260476,
   "cinnamon": 0.6164985903671176,
   "coffee": 11,
   "coldness": 0.945741417768294,
@@ -21,7 +21,7 @@
   "moxie": 0.9245971993798467,
   "musclitude": 0.7699934155526302,
   "name": "Leach Ingram",
-  "omniscience": 0.8062317465616098,
+  "omniscience": 0.9562317465616098,
   "overpowerment": 0.821829378707484,
   "patheticism": 0.24254408400638128,
   "peanutAllergy": true,
@@ -31,10 +31,10 @@
   "shakespearianism": 0.5170033069146385,
   "soul": 9,
   "suppression": 0.3427668553478467,
-  "tenaciousness": 0.2328166951336541,
+  "tenaciousness": 0.3828166951336542,
   "thwackability": 0.07847797353585806,
   "totalFingers": 10,
   "tragicness": 0.1,
   "unthwackability": 0.6260868849396295,
-  "watchfulness": 0.5790383078989114
+  "watchfulness": 0.7290383078989114
 }

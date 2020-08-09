@@ -1,12 +1,12 @@
 {
   "_id": "b39b5aae-8571-4c90-887a-6a00f2a2f6fd",
-  "anticapitalism": 0.580714458126224,
+  "anticapitalism": 0.730714458126224,
   "armor": "",
   "baseThirst": 0.19896263314691928,
   "bat": "",
   "blood": 1,
   "buoyancy": 0.570635871343248,
-  "chasiness": 0.15264553986828733,
+  "chasiness": 0.30264553986828735,
   "cinnamon": 0.9287819301191248,
   "coffee": 4,
   "coldness": 0.05802870972733021,
@@ -21,7 +21,7 @@
   "moxie": 0.2143970211711168,
   "musclitude": 0.969372970870273,
   "name": "Dickerson Morse",
-  "omniscience": 0.02714928046660181,
+  "omniscience": 0.1771492804666018,
   "overpowerment": 0.9219271835414848,
   "patheticism": 0.7835390743367365,
   "peanutAllergy": false,
@@ -31,10 +31,10 @@
   "shakespearianism": 0.40788970420329695,
   "soul": 2,
   "suppression": 0.2892932764178895,
-  "tenaciousness": 0.3013718179405054,
+  "tenaciousness": 0.4513718179405054,
   "thwackability": 0.9431742609581708,
   "totalFingers": 10,
   "tragicness": 0.1,
   "unthwackability": 0.3655534386354285,
-  "watchfulness": 0.16974656313199765
+  "watchfulness": 0.3197465631319977
 }

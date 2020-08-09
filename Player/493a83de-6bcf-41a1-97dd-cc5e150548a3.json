@@ -1,12 +1,12 @@
 {
   "_id": "493a83de-6bcf-41a1-97dd-cc5e150548a3",
-  "anticapitalism": 0.27730893256745626,
+  "anticapitalism": 0.4273089325674563,
   "armor": "",
   "baseThirst": 0.9963490564110628,
   "bat": "",
   "blood": 8,
   "buoyancy": 0.5647967078680627,
-  "chasiness": 0.3303739447535905,
+  "chasiness": 0.4803739447535905,
   "cinnamon": 0.423816472847075,
   "coffee": 13,
   "coldness": 0.885546103028737,
@@ -21,7 +21,7 @@
   "moxie": 0.9879067708201228,
   "musclitude": 0.14545006958183815,
   "name": "Boyfriend Monreal",
-  "omniscience": 0.9670541197967532,
+  "omniscience": 1.1170541197967532,
   "overpowerment": 0.1782018013225244,
   "patheticism": 0.24646172533180025,
   "peanutAllergy": false,
@@ -31,10 +31,10 @@
   "shakespearianism": 0.6733931178297228,
   "soul": 4,
   "suppression": 0.23513000681104157,
-  "tenaciousness": 0.2446929215300695,
+  "tenaciousness": 0.3946929215300695,
   "thwackability": 0.5420011136369189,
   "totalFingers": 10,
   "tragicness": 0.1,
   "unthwackability": 0.7551237722464466,
-  "watchfulness": 0.5878273692493681
+  "watchfulness": 0.7378273692493681
 }

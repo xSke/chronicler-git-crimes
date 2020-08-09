@@ -1,12 +1,12 @@
 {
   "_id": "f2a27a7e-bf04-4d31-86f5-16bfa3addbe7",
-  "anticapitalism": 0.21571851179331863,
+  "anticapitalism": 0.3657185117933186,
   "armor": "",
   "baseThirst": 0.7554971952487046,
   "bat": "",
   "blood": 2,
   "buoyancy": 0.8049637046521008,
-  "chasiness": 0.9103369681206824,
+  "chasiness": 1.0603369681206825,
   "cinnamon": 0.013554187989137434,
   "coffee": 4,
   "coldness": 0.08689245178604721,
@@ -21,7 +21,7 @@
   "moxie": 0.8528718664163208,
   "musclitude": 0.9120033467445148,
   "name": "Winnie Hess",
-  "omniscience": 0.1776623020289187,
+  "omniscience": 0.32766230202891866,
   "overpowerment": 0.45280094218287514,
   "patheticism": 0.8733272067212672,
   "peanutAllergy": false,
@@ -31,10 +31,10 @@
   "shakespearianism": 0.2720387046099073,
   "soul": 8,
   "suppression": 0.373295103528017,
-  "tenaciousness": 0.22503574928117184,
+  "tenaciousness": 0.3750357492811718,
   "thwackability": 0.7818389031964346,
   "totalFingers": 11,
   "tragicness": 0.1,
   "unthwackability": 0.9959543816562492,
-  "watchfulness": 0.5605938653014593
+  "watchfulness": 0.7105938653014593
 }

@@ -1,12 +1,12 @@
 {
   "_id": "33fbfe23-37bd-4e37-a481-a87eadb8192d",
-  "anticapitalism": 0.6620564513251308,
+  "anticapitalism": 0.8120564513251308,
   "armor": "",
   "baseThirst": 0.9614081052805856,
   "bat": "",
   "blood": 9,
   "buoyancy": 0.9056570854294712,
-  "chasiness": 0.0499681872195199,
+  "chasiness": 0.1999681872195199,
   "cinnamon": 0.7052164024803644,
   "coffee": 1,
   "coldness": 0.9831517456619498,
@@ -21,7 +21,7 @@
   "moxie": 0.12806499980578567,
   "musclitude": 0.06223169941337692,
   "name": "Whit Steakknife",
-  "omniscience": 0.2363924834691793,
+  "omniscience": 0.3863924834691793,
   "overpowerment": 0.25469811243312,
   "patheticism": 0.6779886305898974,
   "peanutAllergy": false,
@@ -31,10 +31,10 @@
   "shakespearianism": 0.1101683165704328,
   "soul": 8,
   "suppression": 0.4581085629569812,
-  "tenaciousness": 0.5603909709107677,
+  "tenaciousness": 0.7103909709107677,
   "thwackability": 0.8868042493466191,
   "totalFingers": 10,
   "tragicness": 0.1,
   "unthwackability": 0.33930495365691504,
-  "watchfulness": 0.17698843718741464
+  "watchfulness": 0.32698843718741466
 }
