@@ -127,6 +127,12 @@
       "type": 18
     },
     {
+      "description": "The Top 4 Teams will be punished with Targeted Shame next season. When they're shamed, they'll start the next game with negative runs equal to their shame.",
+      "id": "targeted_shame",
+      "title": "Targeted Shame",
+      "type": 16
+    },
+    {
       "description": "The Bottom 4 Teams will gain Home Field Advantage for next season. They'll start each of their homes games with 1 run.",
       "id": "home_field_advantage",
       "title": "Home Field Advantage",
