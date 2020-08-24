@@ -6,23 +6,8 @@
   },
   {
     "expire": null,
-    "id": "darkness_forecast",
-    "msg": "THE COMMISSIONER IS DOING A GREAT JOB"
-  },
-  {
-    "expire": null,
     "id": "commissioner_parker",
     "msg": "WE ARE ALL LOVE BLASEBALL"
-  },
-  {
-    "expire": null,
-    "id": "hitting_stat_leaders_update",
-    "msg": "On Base Percentage Leaders: ... Sebastian Townsend, Charleston Shoe Thieves - 1.500 ..... Jorge Ito, Boston Flowers - 1.500 ..... Helga Burton, San Francisco Lovers - 1.077 ..... Kichiro Guerra, San Francisco Lovers - 0.737 ..... Joshua Watson, Baltimore Crabs - 0.733 ..... "
-  },
-  {
-    "expire": null,
-    "id": "pitching_stat_leaders_update",
-    "msg": "Pitcher Win Leaders: ... Milo Brown, San Francisco Lovers - 2 ..... Yeong-Ho Garcia, Yellowstone Magic - 2 ..... PolkaDot Patterson, Canada Moist Talkers - 2 ..... Kennedy Rodgers, Mexico City Wild Wings - 2 ..... Caleb Alvarado, Chicago Firefighters - 1 ..... "
   },
   {
     "expire": null,
@@ -31,23 +16,8 @@
   },
   {
     "expire": null,
-    "id": "in_memoriam",
-    "msg": "In Memoriam: Jaylen Hotdogfingers, Fitzgerald Massey, Tyreek Olive, Jenna Maldonado, Nora Perez, Scrap Murphy, Lars Mendoza, Dickerson Greatness, Famous Oconnor, Sosa Elftower, Zi Delacruz, Trevino Merritt, Jessi Wise, Hurley Pacheco, Alexandria Dracaena, Aldon Anthony, Cedric Gonzalez, Rhys Trombone"
-  },
-  {
-    "expire": null,
     "id": "is_it_the_same",
     "msg": "YOU ARE NOW PARTICIPATING IN THE CULTURAL EVENT OF BLASEBALL"
-  },
-  {
-    "expire": null,
-    "id": "current_labour",
-    "msg": "The First Labour"
-  },
-  {
-    "expire": null,
-    "id": "peanuts_are_everywhere",
-    "msg": "Everything is Peanuts"
   },
   {
     "expire": null,
@@ -57,6 +27,36 @@
   {
     "expire": null,
     "id": "the_birds",
-    "msg": "you seeing all these birds??"
+    "msg": "THE FEEDBACK IS LOUD"
+  },
+  {
+    "expire": null,
+    "id": "darkness_forecast",
+    "msg": "THE COMMISSIONER IS STILL DOING A GREAT JOB"
+  },
+  {
+    "expire": null,
+    "id": "current_labour",
+    "msg": "WHO LIFTED THE MICROPHONE"
+  },
+  {
+    "expire": null,
+    "id": "peanuts_are_everywhere",
+    "msg": "EVERYTHING WAS PEANUTS"
+  },
+  {
+    "expire": null,
+    "id": "in_memoriam",
+    "msg": "In memoriam: so so many"
+  },
+  {
+    "expire": "2020-08-31T16:53:48.852Z",
+    "id": "hitting_stat_leaders_update",
+    "msg": "Batting Average Leaders: ... Alexander Horne, Hellmouth Sunbeams - 0.800 ..... Combs Duende, Baltimore Crabs - 0.750 ..... Nagomi Nava, Hellmouth Sunbeams - 0.750 ..... Baldwin Breadwinner, Unlimited Tacos - 0.750 ..... Elijah Valenzuela, Hawaii Fridays - 0.750 ..... "
+  },
+  {
+    "expire": "2020-08-31T16:53:48.854Z",
+    "id": "pitching_stat_leaders_update",
+    "msg": "Strikeout Leaders: ... PolkaDot Patterson, Canada Moist Talkers - 24 ..... Dunn Keyes, Boston Flowers - 20 ..... Rivers Clembons, Miami Dalé - 20 ..... Sandoval Crossing, Hellmouth Sunbeams - 20 ..... Nagomi Meng, Hades Tigers - 16 ..... "
   }
 ]
