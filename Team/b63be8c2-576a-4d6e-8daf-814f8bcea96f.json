@@ -1,5 +1,4 @@
 {
-  "_id": "b63be8c2-576a-4d6e-8daf-814f8bcea96f",
   "bench": [
     "fcbe1d14-04c4-4331-97ad-46e170610633",
     "1aec2c01-b766-4018-a271-419e5371bc8f",
@@ -18,6 +17,7 @@
   "championships": 0,
   "emoji": "0x1F6A4",
   "fullName": "Miami Dalé",
+  "id": "b63be8c2-576a-4d6e-8daf-814f8bcea96f",
   "lineup": [
     "0eddd056-9d72-4804-bd60-53144b785d5c",
     "5a26fc61-d75d-4c01-9ce2-1880ffb5550f",

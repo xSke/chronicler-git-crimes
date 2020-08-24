@@ -1,5 +1,4 @@
 {
-  "_id": "bfd38797-8404-4b38-8b82-341da28b1f83",
   "bench": [
     "d6e9a211-7b33-45d9-8f09-6d1a1a7a3c78",
     "3531c282-cb48-43df-b549-c5276296aaa7",
@@ -18,6 +17,7 @@
   "championships": 0,
   "emoji": "0x1F45F",
   "fullName": "Charleston Shoe Thieves",
+  "id": "bfd38797-8404-4b38-8b82-341da28b1f83",
   "lineup": [
     "18798b8f-6391-4cb2-8a5f-6fb540d646d5",
     "198fd9c8-cb75-482d-873e-e6b91d42a446",

@@ -1,5 +1,4 @@
 {
-  "_id": "f02aeae2-5e6a-4098-9842-02d2273f25c7",
   "bench": [
     "4562ac1f-026c-472c-b4e9-ee6ff800d701",
     "e3c06405-0564-47ce-bbbd-552bee4dd66f",
@@ -18,6 +17,7 @@
   "championships": 0,
   "emoji": "0x1F31E",
   "fullName": "Hellmouth Sunbeams",
+  "id": "f02aeae2-5e6a-4098-9842-02d2273f25c7",
   "lineup": [
     "f2468055-e880-40bf-8ac6-a0763d846eb2",
     "8604e861-d784-43f0-b0f8-0d43ea6f7814",

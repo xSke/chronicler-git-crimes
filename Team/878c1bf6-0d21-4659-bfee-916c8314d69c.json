@@ -1,5 +1,4 @@
 {
-  "_id": "878c1bf6-0d21-4659-bfee-916c8314d69c",
   "bench": [
     "5149c919-48fe-45c6-b7ee-bb8e5828a095",
     "63a31035-2e6d-4922-a3f9-fa6e659b54ad",
@@ -18,6 +17,7 @@
   "championships": 0,
   "emoji": "0x1F32E",
   "fullName": "Unlimited Tacos",
+  "id": "878c1bf6-0d21-4659-bfee-916c8314d69c",
   "lineup": [
     "27c68d7f-5e40-4afa-8b6f-9df47b79e7dd",
     "63df8701-1871-4987-87d7-b55d4f1df2e9",

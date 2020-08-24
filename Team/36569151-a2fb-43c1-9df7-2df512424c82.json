@@ -1,5 +1,4 @@
 {
-  "_id": "36569151-a2fb-43c1-9df7-2df512424c82",
   "bench": [
     "1e7b02b7-6981-427a-b249-8e9bd35f3882",
     "6a869b40-be99-4520-89e5-d382b07e4a3c",
@@ -18,6 +17,7 @@
   "championships": 0,
   "emoji": "0x1F4F1",
   "fullName": "New York Millennials",
+  "id": "36569151-a2fb-43c1-9df7-2df512424c82",
   "lineup": [
     "7310c32f-8f32-40f2-b086-54555a2c0e86",
     "80de2b05-e0d4-4d33-9297-9951b2b5c950",

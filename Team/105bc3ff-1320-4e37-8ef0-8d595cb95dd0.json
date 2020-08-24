@@ -1,5 +1,4 @@
 {
-  "_id": "105bc3ff-1320-4e37-8ef0-8d595cb95dd0",
   "bench": [
     "061b209a-9cda-44e8-88ce-6a4a37251970",
     "1c73f91e-0562-480d-9543-2aab1d5e5acd",
@@ -18,6 +17,7 @@
   "championships": 0,
   "emoji": "0x1F3B8",
   "fullName": "Seattle Garages",
+  "id": "105bc3ff-1320-4e37-8ef0-8d595cb95dd0",
   "lineup": [
     "1301ee81-406e-43d9-b2bb-55ca6e0f7765",
     "f3ddfd87-73a2-4681-96fe-829476c97886",

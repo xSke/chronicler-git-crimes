@@ -1,5 +1,4 @@
 {
-  "_id": "eb67ae5e-c4bf-46ca-bbbc-425cd34182ff",
   "bench": [
     "6524e9e0-828a-46c4-935d-0ee2edeb7e9a",
     "51cba429-13e8-487e-9568-847b7b8b9ac5",
@@ -18,6 +17,7 @@
   "championships": 0,
   "emoji": "0x1F5E3",
   "fullName": "Canada Moist Talkers",
+  "id": "eb67ae5e-c4bf-46ca-bbbc-425cd34182ff",
   "lineup": [
     "9f85676a-7411-444a-8ae2-c7f8f73c285c",
     "8c8cc584-199b-4b76-b2cd-eaa9a74965e5",

@@ -1,5 +1,4 @@
 {
-  "_id": "9debc64f-74b7-4ae1-a4d6-fce0144b6ea5",
   "bench": [
     "e972984c-2895-451c-b518-f06a0d8bd375",
     "07ac91e9-0269-4e2c-a62d-a87ef61e3bbe",
@@ -18,6 +17,7 @@
   "championships": 0,
   "emoji": "0x1F575",
   "fullName": "Houston Spies",
+  "id": "9debc64f-74b7-4ae1-a4d6-fce0144b6ea5",
   "lineup": [
     "503a235f-9fa6-41b5-8514-9475c944273f",
     "ef9f8b95-9e73-49cd-be54-60f84858a285",

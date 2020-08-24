@@ -1,5 +1,4 @@
 {
-  "_id": "adc5b394-8f76-416d-9ce9-813706877b84",
   "bench": [
     "a8a5cf36-d1a9-47d1-8d22-4a665933a7cc",
     "35d5b43f-8322-4666-aab1-d466b4a5a388",
@@ -18,6 +17,7 @@
   "championships": 0,
   "emoji": "0x1F36C",
   "fullName": "Kansas City Breath Mints",
+  "id": "adc5b394-8f76-416d-9ce9-813706877b84",
   "lineup": [
     "88cd6efa-dbf2-4309-aabe-ec1d6f21f98a",
     "b39b5aae-8571-4c90-887a-6a00f2a2f6fd",

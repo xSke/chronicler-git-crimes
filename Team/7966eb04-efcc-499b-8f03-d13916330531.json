@@ -1,5 +1,4 @@
 {
-  "_id": "7966eb04-efcc-499b-8f03-d13916330531",
   "bench": [
     "945974c5-17d9-43e7-92f6-ba49064bbc59",
     "c6146c45-3d9b-4749-9f03-d4faae61e2c3",
@@ -18,6 +17,7 @@
   "championships": 0,
   "emoji": "0x2728",
   "fullName": "Yellowstone Magic",
+  "id": "7966eb04-efcc-499b-8f03-d13916330531",
   "lineup": [
     "17392be2-7344-48a0-b4db-8a040a7fb532",
     "4e6ad1a1-7c71-49de-8bd5-c286712faf9e",

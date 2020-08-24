@@ -1,5 +1,4 @@
 {
-  "_id": "8d87c468-699a-47a8-b40d-cfb73a5660ad",
   "bench": [
     "7afedcd8-870d-4655-9659-3bdfb2e17730",
     "4e63cb5d-4fce-441b-b9e4-dc6a467cf2fd",
@@ -18,6 +17,7 @@
   "championships": 0,
   "emoji": "0x1F980",
   "fullName": "Baltimore Crabs",
+  "id": "8d87c468-699a-47a8-b40d-cfb73a5660ad",
   "lineup": [
     "1a93a2d2-b5b6-479b-a595-703e4a2f3885",
     "c675fcdf-6117-49a6-ac32-99a89a3a88aa",

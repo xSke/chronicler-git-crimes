@@ -1,5 +1,4 @@
 {
-  "_id": "3f8bbb15-61c0-4e3f-8e4a-907a5fb1565e",
   "bench": [
     "d9a072f5-1cbb-45ce-87fb-b138e4d8f769",
     "de67b585-9bf4-4e49-b410-101483ca2fbc",
@@ -18,6 +17,7 @@
   "championships": 0,
   "emoji": "0x1F339",
   "fullName": "Boston Flowers",
+  "id": "3f8bbb15-61c0-4e3f-8e4a-907a5fb1565e",
   "lineup": [
     "2175cda0-a427-40fd-b497-347edcc1cd61",
     "718dea1a-d9a8-4c2b-933a-f0667b5250e6",

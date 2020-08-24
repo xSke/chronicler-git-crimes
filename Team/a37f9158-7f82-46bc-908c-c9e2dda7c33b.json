@@ -1,5 +1,4 @@
 {
-  "_id": "a37f9158-7f82-46bc-908c-c9e2dda7c33b",
   "bench": [
     "16a59f5f-ef0f-4ada-8682-891ad571a0b6",
     "3de17e21-17db-4a6b-b7ab-0b2f3c154f42",
@@ -18,6 +17,7 @@
   "championships": 0,
   "emoji": "0x1F450",
   "fullName": "Breckenridge Jazz Hands",
+  "id": "a37f9158-7f82-46bc-908c-c9e2dda7c33b",
   "lineup": [
     "0f61d948-4f0c-4550-8410-ae1c7f9f5613",
     "90c2cec7-0ed5-426a-9de8-754f34d59b39",

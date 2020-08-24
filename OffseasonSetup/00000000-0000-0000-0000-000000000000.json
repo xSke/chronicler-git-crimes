@@ -1,169 +1,148 @@
 {
-  "bonuses": [
+  "blessings": [
     {
-      "_id": "anticapitalism",
-      "description": "Your team will become fully anticapitalist.",
-      "title": "Anticapitalism, brought to you by Friends at the Table",
-      "type": 31,
-      "value": 1,
-      "votes": 0
+      "description": "Improve your Team's Max Vibes by 15%",
+      "id": "team_max_vibes",
+      "title": "Solidarity",
+      "type": 46,
+      "value": 0.15
     },
     {
-      "_id": "division_baserunning_cut",
-      "description": "Stiff Limbs. -10% team baserunning to your team's division opponents.",
-      "title": "Rigour Mortis",
-      "type": 44,
-      "value": 0.1,
-      "votes": 0
+      "description": "Improve your Team's Min Vibes by 15%",
+      "id": "team_min_vibes",
+      "title": "Same Page",
+      "type": 47,
+      "value": 0.15
     },
     {
-      "_id": "team_improve_baserunning",
-      "description": "The Wind can be Evil. Run. +15% Team Baserunning",
-      "title": "Evil Wind Sprints",
-      "type": 2,
-      "value": 0.15,
-      "votes": 0
+      "description": "Impair your Division opponents' Max Vibes by 7%",
+      "id": "division_max_vibes_cut",
+      "title": "Getting in Their Heads (Literally)",
+      "type": 50,
+      "value": 0.07
     },
     {
-      "_id": "max_random_player",
-      "description": "URRRRRRGGHHHHHH. Maxes the stats of a random player on your team.",
-      "title": "Bloodlust",
-      "type": 22,
-      "value": 1,
-      "votes": 0
+      "description": "Just asking questions. Impair your Division opponents' Min Vibes by 7%",
+      "id": "division_min_vibes_cut",
+      "title": "Questioning Their Every Decision",
+      "type": 51,
+      "value": 0.07
     },
     {
-      "_id": "steal_best_player",
-      "description": "The best player in the league joins your team.",
-      "title": "Highway Robbery",
-      "type": 25,
-      "value": 1,
-      "votes": 0
+      "description": "Vision of things to come. Improve 3 random hitters on your team by one Star (20%)",
+      "id": "random_hitter_star_boost",
+      "title": "Precognition",
+      "type": 52,
+      "value": 3
     },
     {
-      "_id": "steal_best_player_subleague",
-      "description": "The best hitter in your team's subleague (Good or Evil) joins your team.",
-      "title": "Headhunter",
-      "type": 34,
-      "value": 1,
-      "votes": 0
+      "description": "Improve 3 random pitchers on your team by one Star (20%)",
+      "id": "random_pitcher_star_boost",
+      "title": "Extra Elbows",
+      "type": 53,
+      "value": 3
     },
     {
-      "_id": "steal_best_player_division",
-      "description": "The best player in your team's division joins your team.",
-      "title": "Vulture",
-      "type": 35,
-      "value": 1,
-      "votes": 0
-    },
-    {
-      "_id": "variable_team_hitting",
-      "description": "Feed your hitters coffee grounds. Team hitting changes from -5% to +15%",
-      "title": "Pretty Plz?",
-      "type": 37,
-      "value": 0.2,
-      "votes": 0
-    },
-    {
-      "_id": "reroll_worst_players_3",
-      "description": "Re-rolls your team's three worst players",
-      "title": "Team-Building Exercise",
-      "type": 10,
-      "value": 3,
-      "votes": 0
-    },
-    {
-      "_id": "summoning_circle",
       "description": "Re-rolls your team's 3 worst hitters",
+      "id": "reroll_worst_hitters_3",
       "title": "Summoning Circle",
       "type": 12,
-      "value": 3,
-      "votes": 0
+      "value": 3
     },
     {
-      "_id": "exploratory_surgeries",
-      "description": "Re-rolls your team's worst 3 pitchers",
+      "description": "Re-rolls your team's 3 worst pitchers",
+      "id": "reroll_worst_pitchers_3",
       "title": "Exploratory Surgeries",
       "type": 11,
-      "value": 3,
-      "votes": 0
+      "value": 3
     },
     {
-      "_id": "team_improve_overall",
-      "description": "Mggoka match ng strike fm'latghor. Fm'latgh. +8% Team Overall",
-      "title": "Performance Enhancing Demons",
-      "type": 4,
-      "value": 0.08,
-      "votes": 0
+      "description": "Is good offense. Swap your best hitting pitcher into your lineup.",
+      "id": "best_hitting_pitcher_swap",
+      "title": "The Best Defense",
+      "type": 56,
+      "value": 1
     },
     {
-      "_id": "team_improve_pitching",
-      "description": "Pseudo-Thumbs burst from the skin on the opposite of your pitchers' hands. +10% Team Pitching",
-      "title": "Pseudo-Thumbs",
-      "type": 1,
-      "value": 0.1,
-      "votes": 0
+      "description": "Is good defense. Swap your best pitching hitter into your rotation.",
+      "id": "best_pitching_hitter_swap",
+      "title": "The Best Offense",
+      "type": 55,
+      "value": 1
     },
     {
-      "_id": "team_improve_defense",
-      "description": "[cartilage and bone snapping]  +15% Team Defense",
+      "description": "Praxis. Swap the positions of your worst hitter and worst pitcher.",
+      "id": "worst_hitter_pitcher_swap",
+      "title": "Mutual Aid",
+      "type": 57,
+      "value": 1
+    },
+    {
+      "description": "Maybe try throwing with the other one? Team pitching changes anywhere from -5% to +15%",
+      "id": "variable_team_pitching",
+      "title": "Non-Dominant Arms",
+      "type": 38,
+      "value": 0.2
+    },
+    {
+      "description": "Item. A random player on your team gets improved Baserunning and Defense.",
+      "id": "item_grappling_hook",
+      "title": "Grappling Hook",
+      "type": 60,
+      "value": 1
+    },
+    {
+      "description": "Item. A random player on your team becomes BIG. Increased Power, Max Vibe. Decreased Baserunning.",
+      "id": "item_mushroom",
+      "title": "Mushroom",
+      "type": 61,
+      "value": 1
+    },
+    {
+      "description": "The Wind can be Evil. Run. +15% Team Baserunning",
+      "id": "team_improve_baserunning",
+      "title": "Evil Wind Sprints",
+      "type": 2,
+      "value": 0.15
+    },
+    {
+      "description": "[cartilage and bone snapping] +15% Team Defense",
+      "id": "team_improve_defense",
       "title": "The Rack",
       "type": 3,
-      "value": 0.15,
-      "votes": 0
-    },
-    {
-      "_id": "send_worst_hitter",
-      "description": "Send your team's worst hitter to a random other team. Receive a random player back.",
-      "title": "Exile",
-      "type": 30,
-      "value": 1,
-      "votes": 0
-    },
-    {
-      "_id": "send_worst_pitcher",
-      "description": "Send your team's worst pitcher to a random team. Receive a random player back.",
-      "title": "Go Away",
-      "type": 29,
-      "value": 1,
-      "votes": 0
+      "value": 0.15
     }
   ],
   "decrees": [
     {
-      "_id": "eat_the_rich",
-      "description": "Redistribute the funds from the Top 1% of Fans at the end of each Season",
-      "title": "Eat the Rich",
-      "type": 7,
-      "votes": 0
+      "description": "Randomize the stats of one hitter and one pitcher on every team.",
+      "id": "alternate_reality",
+      "title": "Alternate Reality",
+      "type": 15
     },
     {
-      "_id": "eat_the_crust",
-      "description": "5 Players from the 2-Time Champion Pies will be reassigned to Random Teams",
-      "title": "Eat the Crust",
-      "type": 8,
-      "votes": 0
+      "description": "Five Players from the Hades Tigers will be Randomly Distributed throughout the League.",
+      "id": "team_punish",
+      "title": "Tame the Tigers",
+      "type": 18
     },
     {
-      "_id": "interviews",
-      "description": "GET TO KNOW THE PLAYERS",
-      "title": "Interviews",
-      "type": 9,
-      "votes": 0
+      "description": "The Top 4 Teams will gain the Shame Pit punishment for next season. When they're shamed, they'll start the next game with negative runs equal to their shame.",
+      "id": "shame_pit",
+      "title": "Shame Pit",
+      "type": 16
     },
     {
-      "_id": "late_stage",
-      "description": "Postseason Bet Payouts increase each round: 2x, 3x, 5x",
-      "title": "Late Stage",
-      "type": 10,
-      "votes": 0
+      "description": "The Bottom 4 Teams will gain Home Field Advantage for next season. They'll start their homes games with 1 run.",
+      "id": "home_field_advantage",
+      "title": "Home Field Advantage",
+      "type": 17
     },
     {
-      "_id": "blaserunning",
-      "description": "Stolen Bases are worth 0.1 Runs",
-      "title": "Blaserunning",
-      "type": 11,
-      "votes": 0
+      "description": "The Bottom 4 Teams from each Season will gain the Fourth Strike for the next Season. It will take four strikes to strike out any of their batters.",
+      "id": "fourth_strike",
+      "title": "The Fourth Strike",
+      "type": 14
     }
   ],
   "decreesToPass": 2

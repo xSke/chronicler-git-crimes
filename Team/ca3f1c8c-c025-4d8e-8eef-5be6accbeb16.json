@@ -1,5 +1,4 @@
 {
-  "_id": "ca3f1c8c-c025-4d8e-8eef-5be6accbeb16",
   "bench": [
     "a7edbf19-caf6-45dd-83d5-46496c99aa88",
     "7e4f012e-828c-43bb-8b8a-6c33bdfd7e3f",
@@ -18,6 +17,7 @@
   "championships": 0,
   "emoji": "0x1F525",
   "fullName": "Chicago Firefighters",
+  "id": "ca3f1c8c-c025-4d8e-8eef-5be6accbeb16",
   "lineup": [
     "c0177f76-67fc-4316-b650-894159dede45",
     "bfd9ff52-9bf6-4aaf-a859-d308d8f29616",

@@ -1,5 +1,4 @@
 {
-  "_id": "57ec08cc-0411-4643-b304-0e80dbc15ac7",
   "bench": [
     "f4ca437c-c31c-4508-afe7-6dae4330d717",
     "7951836f-581a-49d5-ae2f-049c6bcc575e",
@@ -18,6 +17,7 @@
   "championships": 0,
   "emoji": "0x1F357",
   "fullName": "Mexico City Wild Wings",
+  "id": "57ec08cc-0411-4643-b304-0e80dbc15ac7",
   "lineup": [
     "80e474a3-7d2b-431d-8192-2f1e27162607",
     "cd68d3a6-7fbc-445d-90f1-970c955e32f4",

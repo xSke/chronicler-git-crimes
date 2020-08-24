@@ -1,5 +1,4 @@
 {
-  "_id": "3a8c52d7-4124-4a65-a20d-d51abcbe6540",
   "anticapitalism": 0.3266626984307468,
   "armor": "",
   "baseThirst": 0.7225459167527319,
@@ -15,6 +14,7 @@
   "divinity": 0.6152033692959606,
   "fate": 3,
   "groundFriction": 0.4086330631567683,
+  "id": "3a8c52d7-4124-4a65-a20d-d51abcbe6540",
   "indulgence": 0.7541718349609279,
   "laserlikeness": 0.7428919279451005,
   "martyrdom": 0.0066855598525219495,

@@ -1,5 +1,4 @@
 {
-  "_id": "23e4cbc1-e9cd-47fa-a35b-bfa06f726cb7",
   "bench": [
     "20395b48-279d-44ff-b5bf-7cf2624a2d30",
     "d8bc482e-9309-4230-abcb-2c5a6412446d",
@@ -18,6 +17,7 @@
   "championships": 2,
   "emoji": "0x1F967",
   "fullName": "Philly Pies",
+  "id": "23e4cbc1-e9cd-47fa-a35b-bfa06f726cb7",
   "lineup": [
     "32810dca-825c-4dbc-8b65-0702794c424e",
     "26cfccf2-850e-43eb-b085-ff73ad0749b8",

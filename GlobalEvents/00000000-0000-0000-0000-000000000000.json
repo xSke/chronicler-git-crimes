@@ -1,56 +1,62 @@
 [
   {
-    "__v": 0,
-    "_id": "the_discipline_era",
+    "expire": null,
+    "id": "the_discipline_era",
     "msg": "The Discipline Era continues"
   },
   {
-    "_id": "darkness_forecast",
+    "expire": null,
+    "id": "darkness_forecast",
     "msg": "THE COMMISSIONER IS DOING A GREAT JOB"
   },
   {
-    "_id": "commissioner_parker",
+    "expire": null,
+    "id": "commissioner_parker",
     "msg": "WE ARE ALL LOVE BLASEBALL"
   },
   {
-    "__v": 0,
-    "_id": "hitting_stat_leaders_update",
+    "expire": null,
+    "id": "hitting_stat_leaders_update",
     "msg": "On Base Percentage Leaders: ... Sebastian Townsend, Charleston Shoe Thieves - 1.500 ..... Jorge Ito, Boston Flowers - 1.500 ..... Helga Burton, San Francisco Lovers - 1.077 ..... Kichiro Guerra, San Francisco Lovers - 0.737 ..... Joshua Watson, Baltimore Crabs - 0.733 ..... "
   },
   {
-    "__v": 0,
-    "_id": "pitching_stat_leaders_update",
+    "expire": null,
+    "id": "pitching_stat_leaders_update",
     "msg": "Pitcher Win Leaders: ... Milo Brown, San Francisco Lovers - 2 ..... Yeong-Ho Garcia, Yellowstone Magic - 2 ..... PolkaDot Patterson, Canada Moist Talkers - 2 ..... Kennedy Rodgers, Mexico City Wild Wings - 2 ..... Caleb Alvarado, Chicago Firefighters - 1 ..... "
   },
   {
-    "_id": "bigger_machines",
+    "expire": null,
+    "id": "bigger_machines",
     "msg": "NO THOUGHTS ONLY BLASEBALL"
   },
   {
-    "_id": "in_memoriam",
+    "expire": null,
+    "id": "in_memoriam",
     "msg": "In Memoriam: Jaylen Hotdogfingers, Fitzgerald Massey, Tyreek Olive, Jenna Maldonado, Nora Perez, Scrap Murphy, Lars Mendoza, Dickerson Greatness, Famous Oconnor, Sosa Elftower, Zi Delacruz, Trevino Merritt, Jessi Wise, Hurley Pacheco, Alexandria Dracaena, Aldon Anthony, Cedric Gonzalez, Rhys Trombone"
   },
   {
-    "_id": "is_it_the_same",
+    "expire": null,
+    "id": "is_it_the_same",
     "msg": "YOU ARE NOW PARTICIPATING IN THE CULTURAL EVENT OF BLASEBALL"
   },
   {
-    "__v": 0,
-    "_id": "current_labour",
+    "expire": null,
+    "id": "current_labour",
     "msg": "The First Labour"
   },
   {
-    "__v": 0,
-    "_id": "peanuts_are_everywhere",
+    "expire": null,
+    "id": "peanuts_are_everywhere",
     "msg": "Everything is Peanuts"
   },
   {
-    "__v": 0,
-    "_id": "peanuts_eaten",
+    "expire": null,
+    "id": "peanuts_eaten",
     "msg": "We have eaten -Infinity collective peanuts."
   },
   {
-    "_id": "the_birds",
+    "expire": null,
+    "id": "the_birds",
     "msg": "you seeing all these birds??"
   }
 ]
