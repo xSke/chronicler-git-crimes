@@ -50,18 +50,18 @@
     "msg": "In memoriam: so so many"
   },
   {
-    "expire": "2020-09-01T03:31:47.665Z",
-    "id": "hitting_stat_leaders_update",
-    "msg": "Home Run Leaders: ... York Silk, Hawaii Fridays - 6 ..... Edric Tosser, Chicago Firefighters - 4 ..... Workman Gloom, Charleston Shoe Thieves - 4 ..... Parker Parra, Baltimore Crabs - 3 ..... Theodore Duende, Seattle Garages - 3 ..... "
-  },
-  {
-    "expire": "2020-09-01T03:31:47.666Z",
-    "id": "pitching_stat_leaders_update",
-    "msg": "Earned Run Average Leaders: ... Sexton Wheerer, Unlimited Tacos - 0.000 ..... Tillman Henderson, Baltimore Crabs - 1.000 ..... Gabriel Griffith, Dallas Steaks - 1.000 ..... Oscar Vaughan, Kansas City Breath Mints - 1.125 ..... Theodore Cervantes, New York Millennials - 1.500 ..... "
-  },
-  {
     "expire": "2020-08-25T06:15:21.665Z",
     "id": "aa1a011b-60e0-4850-b5e1-1c874490163b",
     "msg": "Tigers hitter Jessica Telephone swallowed a stray Peanut and had a yummy reaction!"
+  },
+  {
+    "expire": "2020-09-01T04:40:06.582Z",
+    "id": "hitting_stat_leaders_update",
+    "msg": "Runs Batted In Leaders: ... Thomas Dracaena, New York Millennials - 9 ..... Alexander Horne, Hellmouth Sunbeams - 9 ..... York Silk, Hawaii Fridays - 9 ..... Theodore Duende, Seattle Garages - 8 ..... Isaac Johnson, Chicago Firefighters - 8 ..... "
+  },
+  {
+    "expire": "2020-09-01T04:40:06.583Z",
+    "id": "pitching_stat_leaders_update",
+    "msg": "WHIP Leaders: ... August Sky, Breckenridge Jazz Hands - 0.222 ..... Axel Trololol, Chicago Firefighters - 0.333 ..... Sexton Wheerer, Unlimited Tacos - 0.444 ..... Yazmin Mason, Hades Tigers - 0.556 ..... Theodore Cervantes, New York Millennials - 0.667 ..... "
   }
 ]
