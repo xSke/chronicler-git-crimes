@@ -50,18 +50,18 @@
     "msg": "In memoriam: so so many"
   },
   {
-    "expire": "2020-09-01T17:32:17.328Z",
+    "expire": "2020-09-01T17:47:06.026Z",
+    "id": "hitting_stat_leaders_update",
+    "msg": "Batting Average Leaders: ... York Silk, Hawaii Fridays - 0.714 ..... Penelope Mathews, New York Millennials - 0.667 ..... Antonio Wallace, Charleston Shoe Thieves - 0.667 ..... Francisco Preston, Yellowstone Magic - 0.625 ..... Oliver Mueller, Seattle Garages - 0.625 ..... "
+  },
+  {
+    "expire": "2020-09-01T17:47:06.027Z",
     "id": "pitching_stat_leaders_update",
-    "msg": "Strikeout Leaders: ... PolkaDot Patterson, Canada Moist Talkers - 65 ..... Leach Herman, Dallas Steaks - 62 ..... Dunn Keyes, Boston Flowers - 50 ..... Rivers Clembons, Miami Dalé - 46 ..... Caleb Alvarado, Chicago Firefighters - 42 ..... "
+    "msg": "Strikeout Leaders: ... PolkaDot Patterson, Canada Moist Talkers - 18 ..... Dunn Keyes, Boston Flowers - 17 ..... Sandoval Crossing, Hellmouth Sunbeams - 17 ..... Rivers Clembons, Miami Dalé - 16 ..... Math Velazquez, Houston Spies - 16 ..... "
   },
   {
     "expire": "2020-08-25T18:18:11.053Z",
     "id": "29e31504-09b4-457f-a47b-588c163c9ed4",
     "msg": "Tot Fox and Valentine Games switched teams in the feedback!"
-  },
-  {
-    "expire": "2020-09-01T17:32:17.326Z",
-    "id": "hitting_stat_leaders_update",
-    "msg": "Batting Average Leaders: ... Thomas Kirby, Dallas Steaks - 0.500 ..... Eduardo Ingram, Kansas City Breath Mints - 0.463 ..... York Silk, Hawaii Fridays - 0.440 ..... Knight Urlacher, San Francisco Lovers - 0.409 ..... Zion Aliciakeyes, Hades Tigers - 0.397 ..... "
   }
 ]
