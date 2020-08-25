@@ -55,18 +55,18 @@
     "msg": "Fridays hitter Basilio Fig swallowed a stray Peanut and had an allergic reaction!"
   },
   {
-    "expire": "2020-09-01T15:32:43.959Z",
-    "id": "hitting_stat_leaders_update",
-    "msg": "On Base Percentage Leaders: ... Eduardo Ingram, Kansas City Breath Mints - 0.600 ..... York Silk, Hawaii Fridays - 0.537 ..... Lou Roseheart, Chicago Firefighters - 0.518 ..... Thomas Kirby, Chicago Firefighters - 0.517 ..... José Haley, Mexico City Wild Wings - 0.500 ..... "
-  },
-  {
-    "expire": "2020-09-01T15:32:43.962Z",
-    "id": "pitching_stat_leaders_update",
-    "msg": "Pitcher Win Leaders: ... Theodore Cervantes, New York Millennials - 4 ..... Inky Rutledge, Yellowstone Magic - 3 ..... Felix Garbage, New York Millennials - 3 ..... Bates Bentley, New York Millennials - 3 ..... Brock Forbes, Baltimore Crabs - 3 ..... "
-  },
-  {
     "expire": "2020-08-25T18:18:11.053Z",
     "id": "29e31504-09b4-457f-a47b-588c163c9ed4",
     "msg": "Tot Fox and Valentine Games switched teams in the feedback!"
+  },
+  {
+    "expire": "2020-09-01T16:32:02.484Z",
+    "id": "hitting_stat_leaders_update",
+    "msg": "Stolen Base Leaders: ... Aldon Cashmoney, Breckenridge Jazz Hands - 10 ..... Beck Whitney, Boston Flowers - 8 ..... Jasmine Washington, Miami Dalé - 7 ..... Hewitt Best, Kansas City Breath Mints - 7 ..... Boyfriend Monreal, Kansas City Breath Mints - 7 ..... "
+  },
+  {
+    "expire": "2020-09-01T16:32:02.493Z",
+    "id": "pitching_stat_leaders_update",
+    "msg": "Pitcher Loss Leaders: ... Chambers Simmons, Boston Flowers - 4 ..... Wyatt Owens, Unlimited Tacos - 4 ..... Wyatt Glover, Unlimited Tacos - 4 ..... Yeong-Ho Garcia, Yellowstone Magic - 3 ..... Cory Twelve, Yellowstone Magic - 3 ..... "
   }
 ]
