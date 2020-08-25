@@ -50,18 +50,18 @@
     "msg": "In memoriam: so so many"
   },
   {
-    "expire": "2020-09-01T18:54:10.52Z",
-    "id": "hitting_stat_leaders_update",
-    "msg": "Home Run Leaders: ... Don Mitchell, San Francisco Lovers - 3 ..... Hahn Fox, Miami Dalé - 3 ..... Malik Destiny, Seattle Garages - 3 ..... York Silk, Hawaii Fridays - 3 ..... Helga Moreno, San Francisco Lovers - 2 ..... "
-  },
-  {
-    "expire": "2020-09-01T18:54:10.522Z",
-    "id": "pitching_stat_leaders_update",
-    "msg": "Earned Run Average Leaders: ... Zeboriah Wilson, Boston Flowers - 1.000 ..... Yazmin Mason, Hades Tigers - 1.000 ..... Zack Sanders, Hellmouth Sunbeams - 1.421 ..... Brock Forbes, Baltimore Crabs - 1.588 ..... Forrest Bookbaby, Philly Pies - 1.895 ..... "
-  },
-  {
     "expire": "2020-08-25T21:08:14.075Z",
     "id": "a1f9e913-eeb4-49bb-a57c-fdd250c7daf9",
     "msg": "Workman Gloom and Joe Voorhees switched teams in the feedback!"
+  },
+  {
+    "expire": "2020-09-01T19:44:11.076Z",
+    "id": "hitting_stat_leaders_update",
+    "msg": "Runs Batted In Leaders: ... Thomas Dracaena, New York Millennials - 5 ..... Summers Pony, Dallas Steaks - 5 ..... Randall Marijuana, Hellmouth Sunbeams - 4 ..... Alexander Horne, Hellmouth Sunbeams - 4 ..... Richmond Harrison, Canada Moist Talkers - 4 ..... "
+  },
+  {
+    "expire": "2020-09-01T19:44:11.077Z",
+    "id": "pitching_stat_leaders_update",
+    "msg": "WHIP Leaders: ... Rivers Clembons, Miami Dalé - 0.444 ..... PolkaDot Patterson, Canada Moist Talkers - 0.444 ..... Inky Rutledge, Yellowstone Magic - 0.667 ..... Rafael Davids, Mexico City Wild Wings - 0.667 ..... Brock Forbes, Baltimore Crabs - 0.750 ..... "
   }
 ]
