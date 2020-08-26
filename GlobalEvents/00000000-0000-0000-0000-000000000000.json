@@ -50,18 +50,18 @@
     "msg": "In memoriam: so so many"
   },
   {
-    "expire": "2020-09-02T20:30:43.707Z",
-    "id": "hitting_stat_leaders_update",
-    "msg": "Runs Batted In Leaders: ... Emmett Internet, Hellmouth Sunbeams - 13 ..... Sigmund Castillo, San Francisco Lovers - 11 ..... Nerd Pacheco, Hellmouth Sunbeams - 11 ..... Aldon Cashmoney, Breckenridge Jazz Hands - 11 ..... Francisco Preston, Yellowstone Magic - 10 ..... "
-  },
-  {
-    "expire": "2020-09-02T20:30:43.71Z",
-    "id": "pitching_stat_leaders_update",
-    "msg": "WHIP Leaders: ... Cornelius Games, Charleston Shoe Thieves - 0.111 ..... Gabriel Griffith, Dallas Steaks - 0.222 ..... Mullen Peterson, Chicago Firefighters - 0.333 ..... Burke Gonzales, Mexico City Wild Wings - 0.444 ..... Adalberto Tosser, Baltimore Crabs - 0.444 ..... "
-  },
-  {
     "expire": "2020-08-26T23:18:44.332Z",
     "id": "77dbba27-cb25-4ef0-9e20-b0af2f7dc667",
     "msg": "Moses Mason and Vito Kravitz switched teams in the feedback!"
+  },
+  {
+    "expire": "2020-09-02T21:38:15.988Z",
+    "id": "hitting_stat_leaders_update",
+    "msg": "On Base Percentage Leaders: ... Farrell Seagull, Seattle Garages - 1.000 ..... Caligula Lotus, Boston Flowers - 0.833 ..... Lang Richardson, Seattle Garages - 0.833 ..... Joshua Butt, Chicago Firefighters - 0.833 ..... Peanut Holloway, Philly Pies - 0.800 ..... "
+  },
+  {
+    "expire": "2020-09-02T21:38:15.99Z",
+    "id": "pitching_stat_leaders_update",
+    "msg": "Pitcher Win Leaders: ... Dunn Keyes, Boston Flowers - 1 ..... Theodore Cervantes, New York Millennials - 1 ..... Bates Bentley, New York Millennials - 1 ..... Kennedy Rodgers, Mexico City Wild Wings - 1 ..... Adalberto Tosser, Baltimore Crabs - 1 ..... "
   }
 ]
