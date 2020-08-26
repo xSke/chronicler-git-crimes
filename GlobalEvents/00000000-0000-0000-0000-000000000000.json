@@ -50,18 +50,18 @@
     "msg": "In memoriam: so so many"
   },
   {
-    "expire": "2020-09-02T09:32:01.847Z",
-    "id": "hitting_stat_leaders_update",
-    "msg": "Home Run Leaders: ... Andrew Solis, Houston Spies - 4 ..... Combs Duende, Baltimore Crabs - 3 ..... Fish Summer, Hades Tigers - 3 ..... Randall Marijuana, Hellmouth Sunbeams - 3 ..... Fitzgerald Blackburn, Houston Spies - 3 ..... "
-  },
-  {
-    "expire": "2020-09-02T09:32:01.848Z",
-    "id": "pitching_stat_leaders_update",
-    "msg": "Earned Run Average Leaders: ... Curry Aliciakeyes, Yellowstone Magic - 0.000 ..... Adalberto Tosser, Baltimore Crabs - 0.000 ..... Evelton McBlase, Hawaii Fridays - 0.000 ..... Justice Spoon, Chicago Firefighters - 0.818 ..... Yazmin Mason, Hades Tigers - 1.000 ..... "
-  },
-  {
     "expire": "2020-08-26T12:00:37.675Z",
     "id": "9de64e91-94e3-4fc1-ab83-4144fa0190e5",
     "msg": "Jessica Telephone and Spears Taylor switched teams in the feedback!"
+  },
+  {
+    "expire": "2020-09-02T10:32:55.024Z",
+    "id": "hitting_stat_leaders_update",
+    "msg": "Runs Batted In Leaders: ... Thomas Dracaena, New York Millennials - 10 ..... Andrew Solis, Houston Spies - 10 ..... Isaac Johnson, Chicago Firefighters - 10 ..... Randall Marijuana, Hellmouth Sunbeams - 9 ..... Tot Fox, Baltimore Crabs - 8 ..... "
+  },
+  {
+    "expire": "2020-09-02T10:32:55.026Z",
+    "id": "pitching_stat_leaders_update",
+    "msg": "WHIP Leaders: ... Yazmin Mason, Hades Tigers - 0.111 ..... Nicholas Mora, Philly Pies - 0.400 ..... Adalberto Tosser, Baltimore Crabs - 0.444 ..... Don Elliott, Miami Dalé - 0.556 ..... Miguel James, Hellmouth Sunbeams - 0.556 ..... "
   }
 ]
