@@ -50,18 +50,18 @@
     "msg": "In memoriam: so so many"
   },
   {
-    "expire": "2020-09-02T16:34:02.123Z",
-    "id": "hitting_stat_leaders_update",
-    "msg": "On Base Percentage Leaders: ... Workman Gloom, Canada Moist Talkers - 0.818 ..... Esme Ramsey, Charleston Shoe Thieves - 0.778 ..... York Silk, Hawaii Fridays - 0.733 ..... Combs Duende, Baltimore Crabs - 0.692 ..... Baldwin Breadwinner, Unlimited Tacos - 0.667 ..... "
-  },
-  {
-    "expire": "2020-09-02T16:34:02.124Z",
-    "id": "pitching_stat_leaders_update",
-    "msg": "Pitcher Win Leaders: ... Logan Rodriguez, Yellowstone Magic - 1 ..... Curry Aliciakeyes, Yellowstone Magic - 1 ..... Dunn Keyes, Boston Flowers - 1 ..... Zeboriah Wilson, Boston Flowers - 1 ..... Yosh Carpenter, San Francisco Lovers - 1 ..... "
-  },
-  {
     "expire": "2020-08-26T19:07:28.032Z",
     "id": "82a93d3c-48ff-4963-a99c-063bdd2f007e",
     "msg": "Rogue Umpire incinerated Steaks hitter Stevenson Monstera! Replaced by Combs Estes"
+  },
+  {
+    "expire": "2020-09-02T17:36:46.5Z",
+    "id": "hitting_stat_leaders_update",
+    "msg": "Stolen Base Leaders: ... Isaac Johnson, Chicago Firefighters - 4 ..... Beck Whitney, Boston Flowers - 3 ..... Don Mitchell, San Francisco Lovers - 3 ..... Forrest Best, Baltimore Crabs - 3 ..... Avila Guzman, Miami Dalé - 3 ..... "
+  },
+  {
+    "expire": "2020-09-02T17:36:46.501Z",
+    "id": "pitching_stat_leaders_update",
+    "msg": "Pitcher Loss Leaders: ... Yeong-Ho Garcia, Yellowstone Magic - 1 ..... Inky Rutledge, Yellowstone Magic - 1 ..... Cory Twelve, Yellowstone Magic - 1 ..... Owen Picklestein, Boston Flowers - 1 ..... King Weatherman, Boston Flowers - 1 ..... "
   }
 ]
