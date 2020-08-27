@@ -1,7 +1,7 @@
 {
   "id": "dbcb0a13-2d59-4f13-8681-fd969aefdcc6",
   "losses": {
-    "105bc3ff-1320-4e37-8ef0-8d595cb95dd0": 34,
+    "105bc3ff-1320-4e37-8ef0-8d595cb95dd0": 35,
     "23e4cbc1-e9cd-47fa-a35b-bfa06f726cb7": 28,
     "36569151-a2fb-43c1-9df7-2df512424c82": 21,
     "3f8bbb15-61c0-4e3f-8e4a-907a5fb1565e": 40,
@@ -24,7 +24,7 @@
   },
   "wins": {
     "105bc3ff-1320-4e37-8ef0-8d595cb95dd0": 26,
-    "23e4cbc1-e9cd-47fa-a35b-bfa06f726cb7": 32,
+    "23e4cbc1-e9cd-47fa-a35b-bfa06f726cb7": 33,
     "36569151-a2fb-43c1-9df7-2df512424c82": 40,
     "3f8bbb15-61c0-4e3f-8e4a-907a5fb1565e": 21,
     "57ec08cc-0411-4643-b304-0e80dbc15ac7": 25,
