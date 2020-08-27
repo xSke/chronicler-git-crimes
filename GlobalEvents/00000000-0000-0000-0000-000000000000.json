@@ -50,18 +50,18 @@
     "msg": "In memoriam: so so many"
   },
   {
-    "expire": "2020-09-03T15:27:28.371Z",
-    "id": "hitting_stat_leaders_update",
-    "msg": "Home Run Leaders: ... Jessica Telephone, Philly Pies - 3 ..... Oscar Dollie, Yellowstone Magic - 2 ..... Summers Preston, Mexico City Wild Wings - 2 ..... Fish Summer, Hades Tigers - 2 ..... Randall Marijuana, Hellmouth Sunbeams - 2 ..... "
-  },
-  {
-    "expire": "2020-09-03T15:27:28.373Z",
-    "id": "pitching_stat_leaders_update",
-    "msg": "Earned Run Average Leaders: ... Campos Arias, Breckenridge Jazz Hands - 0.000 ..... Orville Manco, Dallas Steaks - 0.000 ..... Theodore Cervantes, New York Millennials - 0.500 ..... PolkaDot Patterson, Canada Moist Talkers - 1.500 ..... Patty Fox, New York Millennials - 2.000 ..... "
-  },
-  {
     "expire": "2020-08-27T18:03:53.987Z",
     "id": "c4f9a8d1-cca1-4a5b-9631-4bcf66c7f896",
     "msg": "Rogue Umpire incinerated Crabs hitter Combs Duende! Replaced by Finn James"
+  },
+  {
+    "expire": "2020-09-03T16:33:13.171Z",
+    "id": "hitting_stat_leaders_update",
+    "msg": "Runs Batted In Leaders: ... Thomas Dracaena, New York Millennials - 8 ..... Stew Briggs, Kansas City Breath Mints - 8 ..... Yong Wright, Mexico City Wild Wings - 6 ..... Randall Marijuana, Hellmouth Sunbeams - 6 ..... Isaac Johnson, Chicago Firefighters - 6 ..... "
+  },
+  {
+    "expire": "2020-09-03T16:33:13.173Z",
+    "id": "pitching_stat_leaders_update",
+    "msg": "WHIP Leaders: ... Campos Arias, Breckenridge Jazz Hands - 0.111 ..... Axel Trololol, Chicago Firefighters - 0.444 ..... PolkaDot Patterson, Canada Moist Talkers - 0.556 ..... Theodore Cervantes, New York Millennials - 0.611 ..... Oliver Notarobot, Baltimore Crabs - 0.667 ..... "
   }
 ]
