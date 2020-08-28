@@ -50,18 +50,18 @@
     "msg": "In memoriam: so so many"
   },
   {
-    "expire": "2020-09-04T14:35:03.491Z",
-    "id": "hitting_stat_leaders_update",
-    "msg": "Stolen Base Leaders: ... Paula Mason, Dallas Steaks - 7 ..... Sebastian Woodman, Charleston Shoe Thieves - 7 ..... Malik Romayne, Hellmouth Sunbeams - 6 ..... Hewitt Best, Kansas City Breath Mints - 6 ..... Aldon Cashmoney, Breckenridge Jazz Hands - 5 ..... "
-  },
-  {
-    "expire": "2020-09-04T14:35:03.493Z",
-    "id": "pitching_stat_leaders_update",
-    "msg": "Pitcher Loss Leaders: ... Tillman Henderson, Baltimore Crabs - 3 ..... Nagomi Meng, Hades Tigers - 3 ..... Donia Bailey, Houston Spies - 3 ..... Wyatt Owens, Unlimited Tacos - 3 ..... Wyatt Glover, Unlimited Tacos - 3 ..... "
-  },
-  {
     "expire": "2020-08-28T17:10:06.737Z",
     "id": "b764ce48-3c8f-4dba-986d-9cf895fcc94a",
     "msg": "Rogue Umpire incinerated Fridays hitter Thomas England! Replaced by Sixpack Dogwalker"
+  },
+  {
+    "expire": "2020-09-04T15:37:31.225Z",
+    "id": "hitting_stat_leaders_update",
+    "msg": "Batting Average Leaders: ... Combs Duende, Baltimore Crabs - 0.750 ..... Penelope Mathews, Yellowstone Magic - 0.500 ..... Jessica Telephone, Hades Tigers - 0.500 ..... Moses Mason, Unlimited Tacos - 0.500 ..... Thomas Kirby, Dallas Steaks - 0.500 ..... "
+  },
+  {
+    "expire": "2020-09-04T15:37:31.228Z",
+    "id": "pitching_stat_leaders_update",
+    "msg": "Strikeout Leaders: ... Leach Herman, Dallas Steaks - 36 ..... Rivers Clembons, Miami Dalé - 35 ..... PolkaDot Patterson, Canada Moist Talkers - 34 ..... Math Velazquez, Houston Spies - 33 ..... Theodore Cervantes, New York Millennials - 31 ..... "
   }
 ]
