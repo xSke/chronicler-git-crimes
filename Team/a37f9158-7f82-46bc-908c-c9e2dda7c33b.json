@@ -41,7 +41,9 @@
     "bf122660-df52-4fc4-9e70-ee185423ff93",
     "f4a5d734-0ade-4410-abb6-c0cd5a7a1c26"
   ],
-  "seasAttr": [],
+  "seasAttr": [
+    "SHAME_PIT"
+  ],
   "seasonShames": 0,
   "seasonShamings": 0,
   "secondaryColor": "#9182C4",
