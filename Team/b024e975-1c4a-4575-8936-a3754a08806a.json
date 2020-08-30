@@ -17,6 +17,7 @@
   "championships": 0,
   "emoji": "0x1F969",
   "fullName": "Dallas Steaks",
+  "gameAttr": [],
   "id": "b024e975-1c4a-4575-8936-a3754a08806a",
   "lineup": [
     "17397256-c28c-4cad-85f2-a21768c66e67",
@@ -32,7 +33,7 @@
   "location": "Dallas",
   "mainColor": "#8c8d8f",
   "nickname": "Steaks",
-  "permanentAttributes": [],
+  "permAttr": [],
   "rotation": [
     "b7ca8f3f-2fdc-477b-84f4-157f2802e9b5",
     "6b8d128f-ed51-496d-a965-6614476f8256",
@@ -40,7 +41,7 @@
     "042962c8-4d8b-44a6-b854-6ccef3d82716",
     "94baa9ac-ff96-4f56-a987-10358e917d91"
   ],
-  "seasonAttributes": [],
+  "seasAttr": [],
   "seasonShames": 0,
   "seasonShamings": 0,
   "secondaryColor": "#ededed",
@@ -48,5 +49,6 @@
   "shorthand": "DAL",
   "slogan": "Well Done.",
   "totalShames": 12,
-  "totalShamings": 4
+  "totalShamings": 4,
+  "weekAttr": []
 }

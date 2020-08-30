@@ -17,6 +17,7 @@
   "championships": 0,
   "emoji": "0x1F450",
   "fullName": "Breckenridge Jazz Hands",
+  "gameAttr": [],
   "id": "a37f9158-7f82-46bc-908c-c9e2dda7c33b",
   "lineup": [
     "0f61d948-4f0c-4550-8410-ae1c7f9f5613",
@@ -32,7 +33,7 @@
   "location": "Breckenridge",
   "mainColor": "#6388ad",
   "nickname": "Jazz Hands",
-  "permanentAttributes": [],
+  "permAttr": [],
   "rotation": [
     "b348c037-eefc-4b81-8edd-dfa96188a97e",
     "f3c07eaf-3d6c-4cc3-9e54-cbecc9c08286",
@@ -40,7 +41,7 @@
     "bf122660-df52-4fc4-9e70-ee185423ff93",
     "f4a5d734-0ade-4410-abb6-c0cd5a7a1c26"
   ],
-  "seasonAttributes": [],
+  "seasAttr": [],
   "seasonShames": 0,
   "seasonShamings": 0,
   "secondaryColor": "#9182C4",
@@ -48,5 +49,6 @@
   "shorthand": "BJAZ",
   "slogan": "We’ve Got Winning to Do. Just for You.",
   "totalShames": 13,
-  "totalShamings": 5
+  "totalShamings": 5,
+  "weekAttr": []
 }

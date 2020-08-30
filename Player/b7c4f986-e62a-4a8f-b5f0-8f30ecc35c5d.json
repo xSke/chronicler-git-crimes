@@ -13,6 +13,7 @@
   "deceased": false,
   "divinity": 0.569028022005666,
   "fate": 51,
+  "gameAttr": [],
   "groundFriction": 0.7733073720751396,
   "id": "b7c4f986-e62a-4a8f-b5f0-8f30ecc35c5d",
   "indulgence": 0.2724901350953599,
@@ -25,9 +26,11 @@
   "overpowerment": 0.9187241549920188,
   "patheticism": 0.35619308045059217,
   "peanutAllergy": true,
+  "permAttr": [],
   "pressurization": 0.6869715616161527,
   "ritual": "Two sets of gloves",
   "ruthlessness": 0.5579488410528102,
+  "seasAttr": [],
   "shakespearianism": 0.43207562237638264,
   "soul": 4,
   "suppression": 0.1629660549605576,
@@ -36,5 +39,6 @@
   "totalFingers": 10,
   "tragicness": 0.1,
   "unthwackability": 0.35008312702763855,
-  "watchfulness": 0.783661920721163
+  "watchfulness": 0.783661920721163,
+  "weekAttr": []
 }

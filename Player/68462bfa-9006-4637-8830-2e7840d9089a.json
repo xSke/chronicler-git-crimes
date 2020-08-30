@@ -13,6 +13,7 @@
   "deceased": false,
   "divinity": 0.5182502403917155,
   "fate": 32,
+  "gameAttr": [],
   "groundFriction": 0.49463130410505873,
   "id": "68462bfa-9006-4637-8830-2e7840d9089a",
   "indulgence": 0.8284744615377031,
@@ -25,9 +26,11 @@
   "overpowerment": 0.7308961375914425,
   "patheticism": 0.195490656237274,
   "peanutAllergy": true,
+  "permAttr": [],
   "pressurization": 0.7862573396325412,
   "ritual": "Getting taped up",
   "ruthlessness": 0.26466254155716107,
+  "seasAttr": [],
   "shakespearianism": 0.3048028443843136,
   "soul": 8,
   "suppression": 0.23448297012257305,
@@ -36,5 +39,6 @@
   "totalFingers": 10,
   "tragicness": 0.1,
   "unthwackability": 0.234969056281072,
-  "watchfulness": 0.6751909204912032
+  "watchfulness": 0.6751909204912032,
+  "weekAttr": []
 }

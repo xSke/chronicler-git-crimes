@@ -13,6 +13,7 @@
   "deceased": false,
   "divinity": 0.3747267386760358,
   "fate": 42,
+  "gameAttr": [],
   "groundFriction": 0.8164263215561789,
   "id": "721fb947-7548-49ea-8cbe-7721b0ed49e0",
   "indulgence": 0.4263832782053194,
@@ -25,9 +26,11 @@
   "overpowerment": 0.9635828375059295,
   "patheticism": 0.03463094983359549,
   "peanutAllergy": true,
+  "permAttr": [],
   "pressurization": 0.6681622076956606,
   "ritual": "Crossword puzzles",
   "ruthlessness": 0.21202773022300003,
+  "seasAttr": [],
   "shakespearianism": 0.7923753676901129,
   "soul": 4,
   "suppression": 0.06796335253706354,
@@ -36,5 +39,6 @@
   "totalFingers": 10,
   "tragicness": 0.1,
   "unthwackability": 0.02681051072880103,
-  "watchfulness": 0.8887041252266992
+  "watchfulness": 0.8887041252266992,
+  "weekAttr": []
 }

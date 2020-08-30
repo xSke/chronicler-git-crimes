@@ -17,6 +17,7 @@
   "championships": 0,
   "emoji": "0x1F525",
   "fullName": "Chicago Firefighters",
+  "gameAttr": [],
   "id": "ca3f1c8c-c025-4d8e-8eef-5be6accbeb16",
   "lineup": [
     "f73009c5-2ede-4dc4-b96d-84ba93c8a429",
@@ -32,7 +33,7 @@
   "location": "Chicago",
   "mainColor": "#8c2a3e",
   "nickname": "Firefighters",
-  "permanentAttributes": [],
+  "permAttr": [],
   "rotation": [
     "1513aab6-142c-48c6-b43e-fbda65fd64e8",
     "43d5da5f-c6a1-42f1-ab7f-50ea956b6cd5",
@@ -40,7 +41,7 @@
     "c182f33c-aea5-48a2-97ed-dc74fa29b3c0",
     "16aff709-e855-47c8-8818-b9ba66e90fe8"
   ],
-  "seasonAttributes": [],
+  "seasAttr": [],
   "seasonShames": 0,
   "seasonShamings": 0,
   "secondaryColor": "#d6cbb0",
@@ -48,5 +49,6 @@
   "shorthand": "CHIF",
   "slogan": "We're From Chicago.",
   "totalShames": 12,
-  "totalShamings": 8
+  "totalShamings": 8,
+  "weekAttr": []
 }

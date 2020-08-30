@@ -13,6 +13,7 @@
   "deceased": false,
   "divinity": 0.5173447545848469,
   "fate": 13,
+  "gameAttr": [],
   "groundFriction": 0.512621309294373,
   "id": "678170e4-0688-436d-a02d-c0467f9af8c0",
   "indulgence": 0.35887102627881906,
@@ -25,9 +26,11 @@
   "overpowerment": 0.783994095952044,
   "patheticism": 0.7565067506394574,
   "peanutAllergy": false,
+  "permAttr": [],
   "pressurization": 0.05607732386364983,
   "ritual": "Wicker man ceremony",
   "ruthlessness": 0.25739954845150237,
+  "seasAttr": [],
   "shakespearianism": 0.4587853007451532,
   "soul": 4,
   "suppression": 0.0750082327649908,
@@ -36,5 +39,6 @@
   "totalFingers": 10,
   "tragicness": 0.1,
   "unthwackability": 0.552826991201838,
-  "watchfulness": 0.29690937210627233
+  "watchfulness": 0.29690937210627233,
+  "weekAttr": []
 }

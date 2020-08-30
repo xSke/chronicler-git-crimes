@@ -17,6 +17,7 @@
   "championships": 0,
   "emoji": "0x1F339",
   "fullName": "Boston Flowers",
+  "gameAttr": [],
   "id": "3f8bbb15-61c0-4e3f-8e4a-907a5fb1565e",
   "lineup": [
     "28964497-0efe-420c-9c1d-8574f224a4e9",
@@ -32,7 +33,7 @@
   "location": "Boston",
   "mainColor": "#f7d1ff",
   "nickname": "Flowers",
-  "permanentAttributes": [],
+  "permAttr": [],
   "rotation": [
     "ff5a37d9-a6dd-49aa-b6fb-b935fd670820",
     "3e008f60-6842-42e7-b125-b88c7e5c1a95",
@@ -40,7 +41,7 @@
     "24f6829e-7bb4-4e1e-8b59-a07514657e72",
     "a647388d-fc59-4c1b-90d3-8c1826e07775"
   ],
-  "seasonAttributes": [],
+  "seasAttr": [],
   "seasonShames": 0,
   "seasonShamings": 0,
   "secondaryColor": "#ffbaba",
@@ -48,5 +49,6 @@
   "shorthand": "BOF",
   "slogan": "Bloom Goes The Dynamite!",
   "totalShames": 12,
-  "totalShamings": 8
+  "totalShamings": 8,
+  "weekAttr": []
 }

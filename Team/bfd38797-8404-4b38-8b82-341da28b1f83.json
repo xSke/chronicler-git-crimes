@@ -17,6 +17,7 @@
   "championships": 0,
   "emoji": "0x1F45F",
   "fullName": "Charleston Shoe Thieves",
+  "gameAttr": [],
   "id": "bfd38797-8404-4b38-8b82-341da28b1f83",
   "lineup": [
     "2175cda0-a427-40fd-b497-347edcc1cd61",
@@ -32,7 +33,7 @@
   "location": "Charleston",
   "mainColor": "#ffce0a",
   "nickname": "Shoe Thieves",
-  "permanentAttributes": [],
+  "permAttr": [],
   "rotation": [
     "9786b2c9-1205-4718-b0f7-fc000ce91106",
     "34267632-8c32-4a8b-b5e6-ce1568bb0639",
@@ -40,7 +41,7 @@
     "03f920cc-411f-44ef-ae66-98a44e883291",
     "5e4dfa16-f1b9-400f-b8ef-a1613c2b026a"
   ],
-  "seasonAttributes": [],
+  "seasAttr": [],
   "seasonShames": 0,
   "seasonShamings": 0,
   "secondaryColor": "#E2DBAC",
@@ -48,5 +49,6 @@
   "shorthand": "CHST",
   "slogan": "Your Kicks are My Kicks.",
   "totalShames": 15,
-  "totalShamings": 1
+  "totalShamings": 1,
+  "weekAttr": []
 }

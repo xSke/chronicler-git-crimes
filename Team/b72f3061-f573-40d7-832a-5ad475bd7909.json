@@ -17,6 +17,7 @@
   "championships": 0,
   "emoji": "0x1F48B",
   "fullName": "San Francisco Lovers",
+  "gameAttr": [],
   "id": "b72f3061-f573-40d7-832a-5ad475bd7909",
   "lineup": [
     "58c9e294-bd49-457c-883f-fb3162fc668e",
@@ -32,7 +33,7 @@
   "location": "San Francisco",
   "mainColor": "#780018",
   "nickname": "Lovers",
-  "permanentAttributes": [],
+  "permAttr": [],
   "rotation": [
     "7c5ae357-e079-4427-a90f-97d164c7262e",
     "3c331c87-1634-46c4-87ce-e4b9c59e2969",
@@ -40,7 +41,7 @@
     "db33a54c-3934-478f-bad4-fc313ac2580e",
     "f2c477fb-28ea-4fcb-943a-9fab22df3da0"
   ],
-  "seasonAttributes": [],
+  "seasAttr": [],
   "seasonShames": 0,
   "seasonShamings": 0,
   "secondaryColor": "#212121",
@@ -48,5 +49,6 @@
   "shorthand": "SFL",
   "slogan": "Let's Go All The Way!",
   "totalShames": 20,
-  "totalShamings": 3
+  "totalShamings": 3,
+  "weekAttr": []
 }

@@ -13,6 +13,7 @@
   "deceased": false,
   "divinity": 0.6443391574412454,
   "fate": 67,
+  "gameAttr": [],
   "groundFriction": 0.6542317132979865,
   "id": "f1185b20-7b4a-4ccc-a977-dc1afdfd4cb9",
   "indulgence": 0.6577782076772638,
@@ -25,9 +26,11 @@
   "overpowerment": 0.3942669135360102,
   "patheticism": 0.7088511439319689,
   "peanutAllergy": false,
+  "permAttr": [],
   "pressurization": 0.5516783386341122,
   "ritual": "Entering the tesseract",
   "ruthlessness": 0.7175190336344706,
+  "seasAttr": [],
   "shakespearianism": 0.2543607561109351,
   "soul": 4,
   "suppression": 0.3225175047890225,
@@ -36,5 +39,6 @@
   "totalFingers": 10,
   "tragicness": 0.1,
   "unthwackability": 0.7722284599394906,
-  "watchfulness": 0.5485058634642963
+  "watchfulness": 0.5485058634642963,
+  "weekAttr": []
 }

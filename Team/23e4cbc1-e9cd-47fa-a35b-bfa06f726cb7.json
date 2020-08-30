@@ -17,6 +17,7 @@
   "championships": 2,
   "emoji": "0x1F967",
   "fullName": "Philly Pies",
+  "gameAttr": [],
   "id": "23e4cbc1-e9cd-47fa-a35b-bfa06f726cb7",
   "lineup": [
     "32810dca-825c-4dbc-8b65-0702794c424e",
@@ -32,7 +33,7 @@
   "location": "Philly",
   "mainColor": "#399d8f",
   "nickname": "Pies",
-  "permanentAttributes": [],
+  "permAttr": [],
   "rotation": [
     "1732e623-ffc2-40f0-87ba-fdcf97131f1f",
     "2ae8cbfc-2155-4647-9996-3f2591091baf",
@@ -40,7 +41,7 @@
     "60026a9d-fc9a-4f5a-94fd-2225398fa3da",
     "814bae61-071a-449b-981e-e7afc839d6d6"
   ],
-  "seasonAttributes": [],
+  "seasAttr": [],
   "seasonShames": 0,
   "seasonShamings": 0,
   "secondaryColor": "#ffffff",
@@ -48,5 +49,6 @@
   "shorthand": "PHIL",
   "slogan": "Pie or Die.",
   "totalShames": 19,
-  "totalShamings": 5
+  "totalShamings": 5,
+  "weekAttr": []
 }

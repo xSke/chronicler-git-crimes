@@ -2,7 +2,7 @@
   "anticapitalism": 0.7510778761004635,
   "armor": "",
   "baseThirst": 0.9945910098813576,
-  "bat": "Bangers & Smash",
+  "bat": "ENGLAND_MEMORABILIA",
   "blood": 1,
   "buoyancy": 0.027886033904529484,
   "chasiness": 0.037486628588708104,
@@ -13,6 +13,7 @@
   "deceased": false,
   "divinity": 0.5602472288337144,
   "fate": 51,
+  "gameAttr": [],
   "groundFriction": 0.9328309375419426,
   "id": "3a96d76a-c508-45a0-94a0-8f64cd6beeb4",
   "indulgence": 0.18531738122272512,
@@ -25,9 +26,11 @@
   "overpowerment": 0.7890681696087698,
   "patheticism": 0.888999883839771,
   "peanutAllergy": false,
+  "permAttr": [],
   "pressurization": 0.7491665436375463,
   "ritual": "Talking to the Microphone",
   "ruthlessness": 0.4703763093512032,
+  "seasAttr": [],
   "shakespearianism": 0.10241051033940418,
   "soul": 4,
   "suppression": 0.06180596134093563,
@@ -36,5 +39,6 @@
   "totalFingers": 10,
   "tragicness": 0.1,
   "unthwackability": 0.5613377812966251,
-  "watchfulness": 0.4071043339729547
+  "watchfulness": 0.4071043339729547,
+  "weekAttr": []
 }

@@ -13,6 +13,7 @@
   "deceased": false,
   "divinity": 0.961065702693152,
   "fate": 66,
+  "gameAttr": [],
   "groundFriction": 0.7223408239469086,
   "id": "f0bcf4bb-74b3-412e-a54c-04c12ad28ecb",
   "indulgence": 0.6821887675143691,
@@ -25,9 +26,11 @@
   "overpowerment": 0.2796555442351638,
   "patheticism": 0.6637719843825962,
   "peanutAllergy": true,
+  "permAttr": [],
   "pressurization": 0.5397971828349588,
   "ritual": "Kissing up to ownership",
   "ruthlessness": 0.908716702284184,
+  "seasAttr": [],
   "shakespearianism": 0.39469414017929694,
   "soul": 7,
   "suppression": 0.839924472365132,
@@ -36,5 +39,6 @@
   "totalFingers": 10,
   "tragicness": 0.1,
   "unthwackability": 0.39894388065761177,
-  "watchfulness": 0.849235841895909
+  "watchfulness": 0.849235841895909,
+  "weekAttr": []
 }

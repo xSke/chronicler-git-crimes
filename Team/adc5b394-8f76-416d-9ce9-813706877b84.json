@@ -17,6 +17,7 @@
   "championships": 0,
   "emoji": "0x1F36C",
   "fullName": "Kansas City Breath Mints",
+  "gameAttr": [],
   "id": "adc5b394-8f76-416d-9ce9-813706877b84",
   "lineup": [
     "88cd6efa-dbf2-4309-aabe-ec1d6f21f98a",
@@ -32,7 +33,7 @@
   "location": "Kansas City",
   "mainColor": "#178f55",
   "nickname": "Breath Mints",
-  "permanentAttributes": [],
+  "permAttr": [],
   "rotation": [
     "a199a681-decf-4433-b6ab-5454450bbe5e",
     "138fccc3-e66f-4b07-8327-d4b6f372f654",
@@ -40,7 +41,7 @@
     "d46abb00-c546-4952-9218-4f16084e3238",
     "7663c3ca-40a1-4f13-a430-14637dce797a"
   ],
-  "seasonAttributes": [],
+  "seasAttr": [],
   "seasonShames": 0,
   "seasonShamings": 0,
   "secondaryColor": "#e6ffec",
@@ -48,5 +49,6 @@
   "shorthand": "KCBM",
   "slogan": "Fresh Breath, Here We Come.",
   "totalShames": 12,
-  "totalShamings": 5
+  "totalShamings": 5,
+  "weekAttr": []
 }

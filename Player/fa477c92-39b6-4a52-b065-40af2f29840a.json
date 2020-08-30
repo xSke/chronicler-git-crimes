@@ -13,6 +13,7 @@
   "deceased": false,
   "divinity": 0.3535821153309519,
   "fate": 60,
+  "gameAttr": [],
   "groundFriction": 0.48107433086669754,
   "id": "fa477c92-39b6-4a52-b065-40af2f29840a",
   "indulgence": 0.1012806318649459,
@@ -25,9 +26,11 @@
   "overpowerment": 0.01,
   "patheticism": 0.4135825469597361,
   "peanutAllergy": true,
+  "permAttr": [],
   "pressurization": 0.5737276352663625,
   "ritual": "Communing with the ancestors",
   "ruthlessness": 0.03159336664624418,
+  "seasAttr": [],
   "shakespearianism": 0.5890643299347409,
   "soul": 8,
   "suppression": 0.1477905377368351,
@@ -36,5 +39,6 @@
   "totalFingers": 11,
   "tragicness": 0.1,
   "unthwackability": 0.32894164080524274,
-  "watchfulness": 0.01
+  "watchfulness": 0.01,
+  "weekAttr": []
 }

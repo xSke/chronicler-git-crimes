@@ -17,6 +17,7 @@
   "championships": 0,
   "emoji": "0x1F31E",
   "fullName": "Hellmouth Sunbeams",
+  "gameAttr": [],
   "id": "f02aeae2-5e6a-4098-9842-02d2273f25c7",
   "lineup": [
     "f2468055-e880-40bf-8ac6-a0763d846eb2",
@@ -32,7 +33,7 @@
   "location": "Hellmouth",
   "mainColor": "#fffbab",
   "nickname": "Sunbeams",
-  "permanentAttributes": [],
+  "permAttr": [],
   "rotation": [
     "5703141c-25d9-46d0-b680-0cf9cfbf4777",
     "3d3be7b8-1cbf-450d-8503-fce0daf46cbf",
@@ -40,7 +41,7 @@
     "20fd71e7-4fa0-4132-9f47-06a314ed539a",
     "333067fd-c2b4-4045-a9a4-e87a8d0332d0"
   ],
-  "seasonAttributes": [],
+  "seasAttr": [],
   "seasonShames": 0,
   "seasonShamings": 0,
   "secondaryColor": "#fffaab",
@@ -48,5 +49,6 @@
   "shorthand": "SUN",
   "slogan": "Stare into the Sun...",
   "totalShames": 19,
-  "totalShamings": 2
+  "totalShamings": 2,
+  "weekAttr": []
 }

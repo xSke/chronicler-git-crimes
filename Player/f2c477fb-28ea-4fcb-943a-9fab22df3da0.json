@@ -13,6 +13,7 @@
   "deceased": false,
   "divinity": 0.9005717300020126,
   "fate": 63,
+  "gameAttr": [],
   "groundFriction": 0.849560437849072,
   "id": "f2c477fb-28ea-4fcb-943a-9fab22df3da0",
   "indulgence": 0.26217575612777133,
@@ -25,9 +26,11 @@
   "overpowerment": 0.8666438513505961,
   "patheticism": 0.8670878160012074,
   "peanutAllergy": false,
+  "permAttr": [],
   "pressurization": 0.11743185689310189,
   "ritual": "Doing a good deed and telling everyone about it",
   "ruthlessness": 0.07210600223948282,
+  "seasAttr": [],
   "shakespearianism": 0.5134449160460586,
   "soul": 7,
   "suppression": 0.7108702657598613,
@@ -36,5 +39,6 @@
   "totalFingers": 10,
   "tragicness": 0.1,
   "unthwackability": 0.397048154464517,
-  "watchfulness": 0.5253416392064545
+  "watchfulness": 0.5253416392064545,
+  "weekAttr": []
 }

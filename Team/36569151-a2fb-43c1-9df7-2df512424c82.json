@@ -17,6 +17,7 @@
   "championships": 0,
   "emoji": "0x1F4F1",
   "fullName": "New York Millennials",
+  "gameAttr": [],
   "id": "36569151-a2fb-43c1-9df7-2df512424c82",
   "lineup": [
     "7310c32f-8f32-40f2-b086-54555a2c0e86",
@@ -32,7 +33,7 @@
   "location": "New York",
   "mainColor": "#ffd4d8",
   "nickname": "Millennials",
-  "permanentAttributes": [],
+  "permAttr": [],
   "rotation": [
     "ae4acebd-edb5-4d20-bf69-f2d5151312ff",
     "81d7d022-19d6-427d-aafc-031fcb79b29e",
@@ -40,7 +41,7 @@
     "9965eed5-086c-4977-9470-fe410f92d353",
     "18af933a-4afa-4cba-bda5-45160f3af99b"
   ],
-  "seasonAttributes": [],
+  "seasAttr": [],
   "seasonShames": 0,
   "seasonShamings": 0,
   "secondaryColor": "#543d04",
@@ -48,5 +49,6 @@
   "shorthand": "NYMI",
   "slogan": "Youth Will Save Us",
   "totalShames": 14,
-  "totalShamings": 3
+  "totalShamings": 3,
+  "weekAttr": []
 }

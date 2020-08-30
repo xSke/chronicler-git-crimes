@@ -17,6 +17,7 @@
   "championships": 0,
   "emoji": "0x1F6A4",
   "fullName": "Miami Dalé",
+  "gameAttr": [],
   "id": "b63be8c2-576a-4d6e-8daf-814f8bcea96f",
   "lineup": [
     "0eddd056-9d72-4804-bd60-53144b785d5c",
@@ -32,7 +33,7 @@
   "location": "Miami",
   "mainColor": "#9141ba",
   "nickname": "Dalé",
-  "permanentAttributes": [],
+  "permAttr": [],
   "rotation": [
     "af6b3edc-ed52-4edc-b0c9-14e0a5ae0ee3",
     "9820f2c5-f9da-4a07-b610-c2dd7bee2ef6",
@@ -40,7 +41,7 @@
     "20be1c34-071d-40c6-8824-dde2af184b4d",
     "0cc5bd39-e90d-42f9-9dd8-7e703f316436"
   ],
-  "seasonAttributes": [],
+  "seasAttr": [],
   "seasonShames": 0,
   "seasonShamings": 0,
   "secondaryColor": "#bfe9ff",
@@ -48,5 +49,6 @@
   "shorthand": "MIA",
   "slogan": "¡Dalé!",
   "totalShames": 16,
-  "totalShamings": 3
+  "totalShamings": 3,
+  "weekAttr": []
 }

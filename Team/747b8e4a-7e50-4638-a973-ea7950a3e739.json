@@ -17,6 +17,7 @@
   "championships": 2,
   "emoji": "0x1F405",
   "fullName": "Hades Tigers",
+  "gameAttr": [],
   "id": "747b8e4a-7e50-4638-a973-ea7950a3e739",
   "lineup": [
     "d89da2d2-674c-4b85-8959-a4bd406f760a",
@@ -32,7 +33,7 @@
   "location": "Hades",
   "mainColor": "#5c1c1c",
   "nickname": "Tigers",
-  "permanentAttributes": [],
+  "permAttr": [],
   "rotation": [
     "9abe02fb-2b5a-432f-b0af-176be6bd62cf",
     "afc90398-b891-4cdf-9dea-af8a3a79d793",
@@ -40,7 +41,7 @@
     "7aeb8e0b-f6fb-4a9e-bba2-335dada5f0a3",
     "b3e512df-c411-4100-9544-0ceadddb28cf"
   ],
-  "seasonAttributes": [],
+  "seasAttr": [],
   "seasonShames": 0,
   "seasonShamings": 0,
   "secondaryColor": "#919191",
@@ -48,5 +49,6 @@
   "shorthand": "HAT",
   "slogan": "Never Look Back.",
   "totalShames": 8,
-  "totalShamings": 12
+  "totalShamings": 12,
+  "weekAttr": []
 }

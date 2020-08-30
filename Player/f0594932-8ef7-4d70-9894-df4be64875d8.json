@@ -13,6 +13,7 @@
   "deceased": false,
   "divinity": 0.6283507670114741,
   "fate": 36,
+  "gameAttr": [],
   "groundFriction": 0.1486635727907748,
   "id": "f0594932-8ef7-4d70-9894-df4be64875d8",
   "indulgence": 0.35947651819389437,
@@ -25,9 +26,11 @@
   "overpowerment": 0.8577787170603453,
   "patheticism": 0.2752339619166908,
   "peanutAllergy": true,
+  "permAttr": [],
   "pressurization": 0.4728401699748188,
   "ritual": "Hot tub",
   "ruthlessness": 0.7021932642192732,
+  "seasAttr": [],
   "shakespearianism": 0.7315595194680322,
   "soul": 3,
   "suppression": 0.8009259688849975,
@@ -36,5 +39,6 @@
   "totalFingers": 10,
   "tragicness": 0.1,
   "unthwackability": 0.8246181781070283,
-  "watchfulness": 0.2167929942491449
+  "watchfulness": 0.2167929942491449,
+  "weekAttr": []
 }

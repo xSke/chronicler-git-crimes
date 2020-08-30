@@ -17,6 +17,7 @@
   "championships": 0,
   "emoji": "0x1F32E",
   "fullName": "Unlimited Tacos",
+  "gameAttr": [],
   "id": "878c1bf6-0d21-4659-bfee-916c8314d69c",
   "lineup": [
     "27c68d7f-5e40-4afa-8b6f-9df47b79e7dd",
@@ -32,7 +33,7 @@
   "location": "Unlimited",
   "mainColor": "#64376e",
   "nickname": "Tacos",
-  "permanentAttributes": [],
+  "permAttr": [],
   "rotation": [
     "21d52455-6c2c-4ee4-8673-ab46b4b926b4",
     "0bb35615-63f2-4492-80ec-b6b322dc5450",
@@ -40,7 +41,7 @@
     "f741dc01-2bae-4459-bfc0-f97536193eea",
     "e16c3f28-eecd-4571-be1a-606bbac36b2b"
   ],
-  "seasonAttributes": [],
+  "seasAttr": [],
   "seasonShames": 0,
   "seasonShamings": 0,
   "secondaryColor": "#dbd26e",
@@ -48,5 +49,6 @@
   "shorthand": "LATA",
   "slogan": "72° and Infinite",
   "totalShames": 20,
-  "totalShamings": 2
+  "totalShamings": 2,
+  "weekAttr": []
 }

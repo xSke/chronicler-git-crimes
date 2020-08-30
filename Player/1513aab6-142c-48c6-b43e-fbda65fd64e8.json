@@ -13,6 +13,7 @@
   "deceased": false,
   "divinity": 0.2970543692070131,
   "fate": 43,
+  "gameAttr": [],
   "groundFriction": 0.2810571377863411,
   "id": "1513aab6-142c-48c6-b43e-fbda65fd64e8",
   "indulgence": 0.17275004155402018,
@@ -25,9 +26,11 @@
   "overpowerment": 0.8752450092089207,
   "patheticism": 0.3422974919851123,
   "peanutAllergy": true,
+  "permAttr": [],
   "pressurization": 0.2971706221420969,
   "ritual": "Putting on their uniform the same way every time",
   "ruthlessness": 0.7797222972864263,
+  "seasAttr": [],
   "shakespearianism": 0.3987152651311054,
   "soul": 3,
   "suppression": 0.32151056843708375,
@@ -36,5 +39,6 @@
   "totalFingers": 11,
   "tragicness": 0.1,
   "unthwackability": 0.6168720168275427,
-  "watchfulness": 0.5349661250147951
+  "watchfulness": 0.5349661250147951,
+  "weekAttr": []
 }

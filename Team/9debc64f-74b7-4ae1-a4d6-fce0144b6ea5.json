@@ -17,6 +17,7 @@
   "championships": 0,
   "emoji": "0x1F575",
   "fullName": "Houston Spies",
+  "gameAttr": [],
   "id": "9debc64f-74b7-4ae1-a4d6-fce0144b6ea5",
   "lineup": [
     "503a235f-9fa6-41b5-8514-9475c944273f",
@@ -32,7 +33,7 @@
   "location": "Houston",
   "mainColor": "#67556b",
   "nickname": "Spies",
-  "permanentAttributes": [],
+  "permAttr": [],
   "rotation": [
     "32551e28-3a40-47ae-aed1-ff5bc66be879",
     "d2d76815-cbdc-4c4b-9c9e-32ebf2297cc7",
@@ -40,7 +41,7 @@
     "30218684-7fa1-41a5-a3b3-5d9cd97dd36b",
     "ceb8f8cd-80b2-47f0-b43e-4d885fa48aa4"
   ],
-  "seasonAttributes": [],
+  "seasAttr": [],
   "seasonShames": 0,
   "seasonShamings": 0,
   "secondaryColor": "#d1bece",
@@ -48,5 +49,6 @@
   "shorthand": "HOU",
   "slogan": "Bang BANG",
   "totalShames": 10,
-  "totalShamings": 4
+  "totalShamings": 4,
+  "weekAttr": []
 }

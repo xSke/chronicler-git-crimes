@@ -17,6 +17,7 @@
   "championships": 0,
   "emoji": "0x1F980",
   "fullName": "Baltimore Crabs",
+  "gameAttr": [],
   "id": "8d87c468-699a-47a8-b40d-cfb73a5660ad",
   "lineup": [
     "1a93a2d2-b5b6-479b-a595-703e4a2f3885",
@@ -32,7 +33,7 @@
   "location": "Baltimore",
   "mainColor": "#593037",
   "nickname": "Crabs",
-  "permanentAttributes": [],
+  "permAttr": [],
   "rotation": [
     "97dfc1f6-ac94-4cdc-b0d5-1cb9f8984aa5",
     "542af915-79c5-431c-a271-f7185e37c6ae",
@@ -40,7 +41,7 @@
     "d0d7b8fe-bad8-481f-978e-cb659304ed49",
     "f70dd57b-55c4-4a62-a5ea-7cc4bf9d8ac1"
   ],
-  "seasonAttributes": [],
+  "seasAttr": [],
   "seasonShames": 0,
   "seasonShamings": 0,
   "secondaryColor": "#c48b41",
@@ -48,5 +49,6 @@
   "shorthand": "BALC",
   "slogan": "Claws Up!",
   "totalShames": 19,
-  "totalShamings": 3
+  "totalShamings": 3,
+  "weekAttr": []
 }

@@ -13,6 +13,7 @@
   "deceased": false,
   "divinity": 0.3566578181139757,
   "fate": 83,
+  "gameAttr": [],
   "groundFriction": 0.33005060874489445,
   "id": "57b4827b-26b0-4384-a431-9f63f715bc5b",
   "indulgence": 0.2064025124949933,
@@ -25,9 +26,11 @@
   "overpowerment": 0.24906439378323575,
   "patheticism": 0.7637635022064018,
   "peanutAllergy": true,
+  "permAttr": [],
   "pressurization": 0.6823601601643803,
   "ritual": "Waiting for the cage to be unlocked",
   "ruthlessness": 0.7864957158167822,
+  "seasAttr": [],
   "shakespearianism": 0.5024166180027467,
   "soul": 3,
   "suppression": 0.947239814002935,
@@ -36,5 +39,6 @@
   "totalFingers": 10,
   "tragicness": 0.1,
   "unthwackability": 0.0989579463882353,
-  "watchfulness": 0.03450519583288347
+  "watchfulness": 0.03450519583288347,
+  "weekAttr": []
 }

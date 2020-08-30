@@ -13,6 +13,7 @@
   "deceased": false,
   "divinity": 0.836677068210723,
   "fate": 95,
+  "gameAttr": [],
   "groundFriction": 0.007046953371369291,
   "id": "042962c8-4d8b-44a6-b854-6ccef3d82716",
   "indulgence": 0.27470613374348973,
@@ -25,9 +26,11 @@
   "overpowerment": 0.09283593051574156,
   "patheticism": 0.3849112979945193,
   "peanutAllergy": false,
+  "permAttr": [],
   "pressurization": 0.8019224362991275,
   "ritual": "Model trains",
   "ruthlessness": 0.4120166833220451,
+  "seasAttr": [],
   "shakespearianism": 0.9684260531553016,
   "soul": 3,
   "suppression": 0.16804658197756606,
@@ -36,5 +39,6 @@
   "totalFingers": 10,
   "tragicness": 0.1,
   "unthwackability": 0.1323305354742057,
-  "watchfulness": 0.23464612554628728
+  "watchfulness": 0.23464612554628728,
+  "weekAttr": []
 }

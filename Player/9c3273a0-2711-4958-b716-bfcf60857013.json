@@ -13,6 +13,7 @@
   "deceased": false,
   "divinity": 0.6600307372102425,
   "fate": 57,
+  "gameAttr": [],
   "groundFriction": 0.6341737151926539,
   "id": "9c3273a0-2711-4958-b716-bfcf60857013",
   "indulgence": 0.2832661654306936,
@@ -25,9 +26,11 @@
   "overpowerment": 0.6959922038774342,
   "patheticism": 0.1800886228318419,
   "peanutAllergy": false,
+  "permAttr": [],
   "pressurization": 0.32291584601211,
   "ritual": "Watching documentaries",
   "ruthlessness": 0.9070803207072368,
+  "seasAttr": [],
   "shakespearianism": 0.6438539221112065,
   "soul": 8,
   "suppression": 0.3968930522140403,
@@ -36,5 +39,6 @@
   "totalFingers": 10,
   "tragicness": 0.1,
   "unthwackability": 0.06598458517221117,
-  "watchfulness": 0.63999595384295
+  "watchfulness": 0.63999595384295,
+  "weekAttr": []
 }

@@ -13,6 +13,7 @@
   "deceased": false,
   "divinity": 0.463476802100079,
   "fate": 15,
+  "gameAttr": [],
   "groundFriction": 0.9058154529868568,
   "id": "d5192d95-a547-498a-b4ea-6770dde4b9f5",
   "indulgence": 0.6503526288759649,
@@ -25,9 +26,11 @@
   "overpowerment": 0.6441563778861916,
   "patheticism": 0.5561891587976944,
   "peanutAllergy": true,
+  "permAttr": [],
   "pressurization": 0.26244508105971875,
   "ritual": "Water manifesting",
   "ruthlessness": 0.02062033142727726,
+  "seasAttr": [],
   "shakespearianism": 0.1767331594278747,
   "soul": 5,
   "suppression": 0.5981285353063177,
@@ -36,5 +39,6 @@
   "totalFingers": 10,
   "tragicness": 0.1,
   "unthwackability": 0.7403999612034928,
-  "watchfulness": 0.563853733825969
+  "watchfulness": 0.563853733825969,
+  "weekAttr": []
 }

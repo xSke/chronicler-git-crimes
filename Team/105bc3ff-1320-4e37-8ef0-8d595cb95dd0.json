@@ -17,6 +17,7 @@
   "championships": 0,
   "emoji": "0x1F3B8",
   "fullName": "Seattle Garages",
+  "gameAttr": [],
   "id": "105bc3ff-1320-4e37-8ef0-8d595cb95dd0",
   "lineup": [
     "1301ee81-406e-43d9-b2bb-55ca6e0f7765",
@@ -32,7 +33,7 @@
   "location": "Seattle",
   "mainColor": "#2b4075",
   "nickname": "Garages",
-  "permanentAttributes": [],
+  "permAttr": [],
   "rotation": [
     "c6a277c3-d2b5-4363-839b-950896a5ec5e",
     "e3c514ae-f813-470e-9c91-d5baf5ffcf16",
@@ -40,7 +41,7 @@
     "41949d4d-b151-4f46-8bf7-73119a48fac8",
     "c6e2e389-ed04-4626-a5ba-fe398fe89568"
   ],
-  "seasonAttributes": [],
+  "seasAttr": [],
   "seasonShames": 0,
   "seasonShamings": 0,
   "secondaryColor": "#543d04",
@@ -48,5 +49,6 @@
   "shorthand": "SEA",
   "slogan": "Smells like Team Spirit.",
   "totalShames": 14,
-  "totalShamings": 6
+  "totalShamings": 6,
+  "weekAttr": []
 }

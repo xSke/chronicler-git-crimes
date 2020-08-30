@@ -17,6 +17,7 @@
   "championships": 0,
   "emoji": "0x1F5E3",
   "fullName": "Canada Moist Talkers",
+  "gameAttr": [],
   "id": "eb67ae5e-c4bf-46ca-bbbc-425cd34182ff",
   "lineup": [
     "9f85676a-7411-444a-8ae2-c7f8f73c285c",
@@ -32,7 +33,7 @@
   "location": "Canada",
   "mainColor": "#f5feff",
   "nickname": "Moist Talkers",
-  "permanentAttributes": [],
+  "permAttr": [],
   "rotation": [
     "338694b7-6256-4724-86b6-3884299a5d9e",
     "e6502bc7-5b76-4939-9fb8-132057390b30",
@@ -40,7 +41,7 @@
     "d8742d68-8fce-4d52-9a49-f4e33bd2a6fc",
     "9ba361a1-16d5-4f30-b590-fc4fc2fb53d2"
   ],
-  "seasonAttributes": [],
+  "seasAttr": [],
   "seasonShames": 0,
   "seasonShamings": 0,
   "secondaryColor": "#757575",
@@ -48,5 +49,6 @@
   "shorthand": "CAN",
   "slogan": "SPRAY IT, DON'T SAY IT",
   "totalShames": 19,
-  "totalShamings": 8
+  "totalShamings": 8,
+  "weekAttr": []
 }

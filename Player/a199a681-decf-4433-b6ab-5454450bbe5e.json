@@ -13,6 +13,7 @@
   "deceased": false,
   "divinity": 0.7709304382997932,
   "fate": 69,
+  "gameAttr": [],
   "groundFriction": 0.42485187766849286,
   "id": "a199a681-decf-4433-b6ab-5454450bbe5e",
   "indulgence": 0.6667856844774034,
@@ -25,9 +26,11 @@
   "overpowerment": 0.821829378707484,
   "patheticism": 0.24254408400638128,
   "peanutAllergy": true,
+  "permAttr": [],
   "pressurization": 0.5901287778926319,
   "ritual": "Acupuncture",
   "ruthlessness": 0.03215612856007022,
+  "seasAttr": [],
   "shakespearianism": 0.5170033069146385,
   "soul": 9,
   "suppression": 0.3427668553478467,
@@ -36,5 +39,6 @@
   "totalFingers": 10,
   "tragicness": 0.1,
   "unthwackability": 0.6260868849396295,
-  "watchfulness": 0.7290383078989114
+  "watchfulness": 0.7290383078989114,
+  "weekAttr": []
 }
