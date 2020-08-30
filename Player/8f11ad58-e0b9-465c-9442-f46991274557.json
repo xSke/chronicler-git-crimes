@@ -13,6 +13,7 @@
   "deceased": false,
   "divinity": 0.8617646580077729,
   "fate": 68,
+  "gameAttr": [],
   "groundFriction": 0.05777323786012789,
   "id": "8f11ad58-e0b9-465c-9442-f46991274557",
   "indulgence": 0.5018963604903488,
@@ -25,9 +26,11 @@
   "overpowerment": 0.7942770157199242,
   "patheticism": 0.3055621940179509,
   "peanutAllergy": false,
+  "permAttr": [],
   "pressurization": 0.9219353864051414,
   "ritual": "Eating grass",
   "ruthlessness": 0.47220659636726325,
+  "seasAttr": [],
   "shakespearianism": 0.943487189802849,
   "soul": 4,
   "suppression": 0.5479324648880486,
@@ -36,5 +39,6 @@
   "totalFingers": 10,
   "tragicness": 0.1,
   "unthwackability": 0.9685382294684136,
-  "watchfulness": 0.6791413823626382
+  "watchfulness": 0.6791413823626382,
+  "weekAttr": []
 }

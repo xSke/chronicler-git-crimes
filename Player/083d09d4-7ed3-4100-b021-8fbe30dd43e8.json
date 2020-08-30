@@ -2,7 +2,7 @@
   "anticapitalism": 0.7815585414248714,
   "armor": "",
   "baseThirst": 1.0937081572225478,
-  "bat": "the Dial Tone",
+  "bat": "GUNBLADE_A",
   "blood": 5,
   "buoyancy": 0.9290386558929516,
   "chasiness": 0.6921760105524166,
@@ -13,6 +13,7 @@
   "deceased": false,
   "divinity": 1.2264554950661912,
   "fate": 16,
+  "gameAttr": [],
   "groundFriction": 1.0970693806274312,
   "id": "083d09d4-7ed3-4100-b021-8fbe30dd43e8",
   "indulgence": 0.7791018871160651,
@@ -25,9 +26,11 @@
   "overpowerment": 0.6992427934187828,
   "patheticism": 0.20590198952572453,
   "peanutAllergy": false,
+  "permAttr": [],
   "pressurization": 0.19240544381174615,
   "ritual": "Batting Practice",
   "ruthlessness": 0.5321803174782815,
+  "seasAttr": [],
   "shakespearianism": 1.0057369039444792,
   "soul": 7,
   "suppression": 1.0128774318124143,
@@ -36,5 +39,6 @@
   "totalFingers": 11,
   "tragicness": 0.1,
   "unthwackability": 0.4101831639063583,
-  "watchfulness": 0.6669065120599864
+  "watchfulness": 0.6669065120599864,
+  "weekAttr": []
 }

@@ -13,6 +13,7 @@
   "deceased": false,
   "divinity": 0.4276052145533855,
   "fate": 26,
+  "gameAttr": [],
   "groundFriction": 0.7725435381895402,
   "id": "de67b585-9bf4-4e49-b410-101483ca2fbc",
   "indulgence": 0.25930380237439743,
@@ -25,9 +26,11 @@
   "overpowerment": 0.3012296827317378,
   "patheticism": 0.19200704180047443,
   "peanutAllergy": false,
+  "permAttr": [],
   "pressurization": 0.7836331311916556,
   "ritual": "Destroying a pitching machine",
   "ruthlessness": 0.7219309045655118,
+  "seasAttr": [],
   "shakespearianism": 0.5312128013667787,
   "soul": 6,
   "suppression": 0.03249511220997925,
@@ -36,5 +39,6 @@
   "totalFingers": 10,
   "tragicness": 0.1,
   "unthwackability": 0.45637440470570056,
-  "watchfulness": 0.35521001669972896
+  "watchfulness": 0.35521001669972896,
+  "weekAttr": []
 }

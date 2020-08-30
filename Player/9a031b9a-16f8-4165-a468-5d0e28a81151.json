@@ -13,6 +13,7 @@
   "deceased": false,
   "divinity": 0.6807337311638144,
   "fate": 53,
+  "gameAttr": [],
   "groundFriction": 0.5151478868130377,
   "id": "9a031b9a-16f8-4165-a468-5d0e28a81151",
   "indulgence": 0.7130311842327699,
@@ -25,9 +26,11 @@
   "overpowerment": 0.3690869203875984,
   "patheticism": 0.2883143648752686,
   "peanutAllergy": true,
+  "permAttr": [],
   "pressurization": 0.8444307873457237,
   "ritual": "Eating a bird",
   "ruthlessness": 0.35439607330812306,
+  "seasAttr": [],
   "shakespearianism": 0.0020364671148507263,
   "soul": 5,
   "suppression": 0.6696687325710418,
@@ -36,5 +39,6 @@
   "totalFingers": 10,
   "tragicness": 0.1,
   "unthwackability": 0.5970610618582375,
-  "watchfulness": 0.22070021186744992
+  "watchfulness": 0.22070021186744992,
+  "weekAttr": []
 }

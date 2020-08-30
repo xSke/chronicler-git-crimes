@@ -13,6 +13,7 @@
   "deceased": false,
   "divinity": 0.6704885481008445,
   "fate": 81,
+  "gameAttr": [],
   "groundFriction": 0.900935026664075,
   "id": "667cb445-c288-4e62-b603-27291c1e475d",
   "indulgence": 0.7013539525359216,
@@ -25,9 +26,11 @@
   "overpowerment": 0.7759172606656077,
   "patheticism": 0.3011603807374905,
   "peanutAllergy": false,
+  "permAttr": [],
   "pressurization": 0.07596981925653257,
   "ritual": "Locking the cellar",
   "ruthlessness": 0.438913744228109,
+  "seasAttr": [],
   "shakespearianism": 0.2782984201768739,
   "soul": 4,
   "suppression": 0.7547314097291036,
@@ -36,5 +39,6 @@
   "totalFingers": 10,
   "tragicness": 0.1,
   "unthwackability": 0.5848803611924627,
-  "watchfulness": 0.9212719348960392
+  "watchfulness": 0.9212719348960392,
+  "weekAttr": []
 }

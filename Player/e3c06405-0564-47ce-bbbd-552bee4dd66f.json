@@ -13,6 +13,7 @@
   "deceased": false,
   "divinity": 0.942763409075348,
   "fate": 90,
+  "gameAttr": [],
   "groundFriction": 0.1680383176429816,
   "id": "e3c06405-0564-47ce-bbbd-552bee4dd66f",
   "indulgence": 0.9065184122505924,
@@ -25,9 +26,11 @@
   "overpowerment": 0.28537702732510506,
   "patheticism": 0.25383071584089767,
   "peanutAllergy": true,
+  "permAttr": [],
   "pressurization": 0.19239495905898377,
   "ritual": "Clasping the amulet",
   "ruthlessness": 0.09970711950214928,
+  "seasAttr": [],
   "shakespearianism": 0.5835807490473259,
   "soul": 5,
   "suppression": 0.4741090424854779,
@@ -36,5 +39,6 @@
   "totalFingers": 10,
   "tragicness": 0.1,
   "unthwackability": 0.9162052901058472,
-  "watchfulness": 0.48618093556709296
+  "watchfulness": 0.48618093556709296,
+  "weekAttr": []
 }

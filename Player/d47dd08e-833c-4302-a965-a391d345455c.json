@@ -13,6 +13,7 @@
   "deceased": false,
   "divinity": 0.1662602485677626,
   "fate": 68,
+  "gameAttr": [],
   "groundFriction": 0.9751790942868492,
   "id": "d47dd08e-833c-4302-a965-a391d345455c",
   "indulgence": 0.700923712340134,
@@ -25,9 +26,11 @@
   "overpowerment": 0.7006980896140325,
   "patheticism": 0.01,
   "peanutAllergy": false,
+  "permAttr": [],
   "pressurization": 0.7025910507776383,
   "ritual": "Circle of salt",
   "ruthlessness": 0.731235933550658,
+  "seasAttr": [],
   "shakespearianism": 0.08139904977624779,
   "soul": 8,
   "suppression": 0.9111346986074372,
@@ -36,5 +39,6 @@
   "totalFingers": 10,
   "tragicness": 0.1,
   "unthwackability": 0.7214745605096955,
-  "watchfulness": 0.5864989023439819
+  "watchfulness": 0.5864989023439819,
+  "weekAttr": []
 }

@@ -13,6 +13,7 @@
   "deceased": false,
   "divinity": 0.5845108755540651,
   "fate": 46,
+  "gameAttr": [],
   "groundFriction": 0.9668415258350028,
   "id": "bd4c6837-eeaa-4675-ae48-061efa0fd11a",
   "indulgence": 0.7921218152691136,
@@ -25,9 +26,11 @@
   "overpowerment": 1.145878929154427,
   "patheticism": 0.01,
   "peanutAllergy": false,
+  "permAttr": [],
   "pressurization": 0.294383392054151,
   "ritual": "Opening up the pit",
   "ruthlessness": 0.2987439766022851,
+  "seasAttr": [],
   "shakespearianism": 0.7783570826909019,
   "soul": 6,
   "suppression": 0.7354300778097131,
@@ -36,5 +39,6 @@
   "totalFingers": 11,
   "tragicness": 0.1,
   "unthwackability": 0.28997250073066067,
-  "watchfulness": 1.190820107429141
+  "watchfulness": 1.190820107429141,
+  "weekAttr": []
 }

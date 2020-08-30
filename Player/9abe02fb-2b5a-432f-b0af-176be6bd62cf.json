@@ -13,6 +13,7 @@
   "deceased": false,
   "divinity": 0.2110306676430349,
   "fate": 76,
+  "gameAttr": [],
   "groundFriction": 0.5171082997404857,
   "id": "9abe02fb-2b5a-432f-b0af-176be6bd62cf",
   "indulgence": 0.6382917672474768,
@@ -25,9 +26,11 @@
   "overpowerment": 0.3152537658659048,
   "patheticism": 0.8839031364880394,
   "peanutAllergy": false,
+  "permAttr": [],
   "pressurization": 0.0596497574495376,
   "ritual": "Dodging debt collectors",
   "ruthlessness": 0.4284982836502333,
+  "seasAttr": [],
   "shakespearianism": 0.7950879672158303,
   "soul": 4,
   "suppression": 0.82762143573018,
@@ -36,5 +39,6 @@
   "totalFingers": 11,
   "tragicness": 0.1,
   "unthwackability": 0.5640917170229244,
-  "watchfulness": 0.42661982071316706
+  "watchfulness": 0.42661982071316706,
+  "weekAttr": []
 }

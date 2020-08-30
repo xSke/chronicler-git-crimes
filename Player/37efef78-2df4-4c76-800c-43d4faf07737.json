@@ -13,6 +13,7 @@
   "deceased": false,
   "divinity": 0.1545212280592645,
   "fate": 91,
+  "gameAttr": [],
   "groundFriction": 0.3452461026371807,
   "id": "37efef78-2df4-4c76-800c-43d4faf07737",
   "indulgence": 0.19876762746782095,
@@ -25,9 +26,11 @@
   "overpowerment": 0.7809873652991555,
   "patheticism": 0.08670323299259675,
   "peanutAllergy": false,
+  "permAttr": [],
   "pressurization": 0.4952691694568472,
   "ritual": "The wild hunt",
   "ruthlessness": 0.09383972126828176,
+  "seasAttr": [],
   "shakespearianism": 0.3709741684832992,
   "soul": 2,
   "suppression": 0.7667542479538663,
@@ -36,5 +39,6 @@
   "totalFingers": 10,
   "tragicness": 0.1,
   "unthwackability": 0.40123224073115393,
-  "watchfulness": 0.5735057391293206
+  "watchfulness": 0.5735057391293206,
+  "weekAttr": []
 }

@@ -13,6 +13,7 @@
   "deceased": false,
   "divinity": 0.9275694151611666,
   "fate": 55,
+  "gameAttr": [],
   "groundFriction": 0.4153444983954144,
   "id": "d8bc482e-9309-4230-abcb-2c5a6412446d",
   "indulgence": 0.4811489817369903,
@@ -25,9 +26,11 @@
   "overpowerment": 0.8878299922012265,
   "patheticism": 0.9238543398682508,
   "peanutAllergy": true,
+  "permAttr": [],
   "pressurization": 0.33700819467736887,
   "ritual": "Theft",
   "ruthlessness": 0.26147707929592445,
+  "seasAttr": [],
   "shakespearianism": 0.09774303312517918,
   "soul": 7,
   "suppression": 0.32270838379791233,
@@ -36,5 +39,6 @@
   "totalFingers": 10,
   "tragicness": 0.1,
   "unthwackability": 0.23672335921111576,
-  "watchfulness": 0.8371028453277864
+  "watchfulness": 0.8371028453277864,
+  "weekAttr": []
 }

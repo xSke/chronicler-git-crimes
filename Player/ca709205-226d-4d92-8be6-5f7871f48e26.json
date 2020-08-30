@@ -13,6 +13,7 @@
   "deceased": false,
   "divinity": 0.23846643041002905,
   "fate": 2,
+  "gameAttr": [],
   "groundFriction": 0.28084557872092253,
   "id": "ca709205-226d-4d92-8be6-5f7871f48e26",
   "indulgence": 0.31368518531431144,
@@ -25,9 +26,11 @@
   "overpowerment": 0.9394994791767988,
   "patheticism": 0.7418011109876652,
   "peanutAllergy": true,
+  "permAttr": [],
   "pressurization": 0.910350852176484,
   "ritual": "Getting struck by lightning",
   "ruthlessness": 0.384211286617596,
+  "seasAttr": [],
   "shakespearianism": 0.1912620434166783,
   "soul": 9,
   "suppression": 0.7388262461062052,
@@ -36,5 +39,6 @@
   "totalFingers": 10,
   "tragicness": 0.1,
   "unthwackability": 0.3981739171936456,
-  "watchfulness": 0.8437275779925113
+  "watchfulness": 0.8437275779925113,
+  "weekAttr": []
 }

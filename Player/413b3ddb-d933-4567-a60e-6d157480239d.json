@@ -13,6 +13,7 @@
   "deceased": false,
   "divinity": 0.4112170326989666,
   "fate": 1,
+  "gameAttr": [],
   "groundFriction": 0.11981554302268682,
   "id": "413b3ddb-d933-4567-a60e-6d157480239d",
   "indulgence": 0.5217144057584484,
@@ -25,9 +26,11 @@
   "overpowerment": 0.6592533843263078,
   "patheticism": 0.9434706336757104,
   "peanutAllergy": true,
+  "permAttr": [],
   "pressurization": 0.7607069416503645,
   "ritual": "Wearing lucky socks",
   "ruthlessness": 0.7195366920739805,
+  "seasAttr": [],
   "shakespearianism": 0.8517299662506768,
   "soul": 9,
   "suppression": 0.43284396486239296,
@@ -36,5 +39,6 @@
   "totalFingers": 10,
   "tragicness": 0.1,
   "unthwackability": 0.8079289766320814,
-  "watchfulness": 0.1958661233680248
+  "watchfulness": 0.1958661233680248,
+  "weekAttr": []
 }

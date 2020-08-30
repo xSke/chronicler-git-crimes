@@ -13,6 +13,7 @@
   "deceased": false,
   "divinity": 0.8777771501623742,
   "fate": 99,
+  "gameAttr": [],
   "groundFriction": 0.17735931551635264,
   "id": "248ccf3d-d5f6-4b69-83d9-40230ca909cd",
   "indulgence": 0.1509395362078596,
@@ -25,9 +26,11 @@
   "overpowerment": 0.5789081808698695,
   "patheticism": 0.1226999961940117,
   "peanutAllergy": false,
+  "permAttr": [],
   "pressurization": 0.12328958855793748,
   "ritual": "Signing autographs",
   "ruthlessness": 0.024757236666058,
+  "seasAttr": [],
   "shakespearianism": 0.17479186688231518,
   "soul": 5,
   "suppression": 0.31308288955997665,
@@ -36,5 +39,6 @@
   "totalFingers": 10,
   "tragicness": 0.1,
   "unthwackability": 0.04153900883722672,
-  "watchfulness": 0.1959279935347684
+  "watchfulness": 0.1959279935347684,
+  "weekAttr": []
 }

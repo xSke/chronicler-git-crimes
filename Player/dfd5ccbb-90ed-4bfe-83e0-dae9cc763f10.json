@@ -13,6 +13,7 @@
   "deceased": false,
   "divinity": 0.44477325772610854,
   "fate": 81,
+  "gameAttr": [],
   "groundFriction": 0.9748627862582292,
   "id": "dfd5ccbb-90ed-4bfe-83e0-dae9cc763f10",
   "indulgence": 0.6594644468291537,
@@ -25,9 +26,11 @@
   "overpowerment": 0.21372599068711207,
   "patheticism": 0.7262637647100343,
   "peanutAllergy": true,
+  "permAttr": [],
   "pressurization": 0.9041721558827304,
   "ritual": "Wim hof",
   "ruthlessness": 0.29507013772461455,
+  "seasAttr": [],
   "shakespearianism": 0.2857570731702339,
   "soul": 6,
   "suppression": 0.9210707280716062,
@@ -36,5 +39,6 @@
   "totalFingers": 10,
   "tragicness": 0.1,
   "unthwackability": 0.4469064252990496,
-  "watchfulness": 0.7907573447411995
+  "watchfulness": 0.7907573447411995,
+  "weekAttr": []
 }

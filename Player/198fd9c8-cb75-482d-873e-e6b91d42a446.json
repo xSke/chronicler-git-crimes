@@ -13,6 +13,7 @@
   "deceased": false,
   "divinity": 1.0092560161353368,
   "fate": 82,
+  "gameAttr": [],
   "groundFriction": 0.8061400256260451,
   "id": "198fd9c8-cb75-482d-873e-e6b91d42a446",
   "indulgence": 0.4300360586756238,
@@ -25,9 +26,11 @@
   "overpowerment": 0.7184148482755399,
   "patheticism": 0.8232366965745131,
   "peanutAllergy": true,
+  "permAttr": [],
   "pressurization": 0.7684774684235895,
   "ritual": "Gonging",
   "ruthlessness": 0.951601881584078,
+  "seasAttr": [],
   "shakespearianism": 0.11844416806841652,
   "soul": 3,
   "suppression": 0.8558009322054514,
@@ -36,5 +39,6 @@
   "totalFingers": 10,
   "tragicness": 0.1,
   "unthwackability": 0.3149599534932277,
-  "watchfulness": 0.3612133900298673
+  "watchfulness": 0.3612133900298673,
+  "weekAttr": []
 }

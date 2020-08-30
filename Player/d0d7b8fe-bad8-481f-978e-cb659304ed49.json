@@ -13,6 +13,7 @@
   "deceased": false,
   "divinity": 0.4877251591413314,
   "fate": 35,
+  "gameAttr": [],
   "groundFriction": 0.25449909321887754,
   "id": "d0d7b8fe-bad8-481f-978e-cb659304ed49",
   "indulgence": 0.44540780925824985,
@@ -25,9 +26,11 @@
   "overpowerment": 0.1271101801561893,
   "patheticism": 0.10258223192672976,
   "peanutAllergy": true,
+  "permAttr": [],
   "pressurization": 0.6889340729236781,
   "ritual": "Nursing a grudge",
   "ruthlessness": 0.6107112499551741,
+  "seasAttr": [],
   "shakespearianism": 0.7143557716632021,
   "soul": 7,
   "suppression": 0.9149075127838022,
@@ -36,5 +39,6 @@
   "totalFingers": 11,
   "tragicness": 0.1,
   "unthwackability": 0.804273396122317,
-  "watchfulness": 0.5153489980883659
+  "watchfulness": 0.5153489980883659,
+  "weekAttr": []
 }

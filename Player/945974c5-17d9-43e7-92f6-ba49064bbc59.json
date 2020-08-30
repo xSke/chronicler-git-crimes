@@ -13,6 +13,7 @@
   "deceased": false,
   "divinity": 0.7852474669959337,
   "fate": 8,
+  "gameAttr": [],
   "groundFriction": 0.07481254961287687,
   "id": "945974c5-17d9-43e7-92f6-ba49064bbc59",
   "indulgence": 0.3313044435793264,
@@ -25,9 +26,11 @@
   "overpowerment": 0.984352650197384,
   "patheticism": 0.45171602386340814,
   "peanutAllergy": true,
+  "permAttr": [],
   "pressurization": 0.11652186445774192,
   "ritual": "Inventing secret handshakes",
   "ruthlessness": 0.6481295063541359,
+  "seasAttr": [],
   "shakespearianism": 0.24647215386111657,
   "soul": 9,
   "suppression": 0.19599582024506268,
@@ -36,5 +39,6 @@
   "totalFingers": 10,
   "tragicness": 0.1,
   "unthwackability": 0.4899756239520401,
-  "watchfulness": 0.07906139638340637
+  "watchfulness": 0.07906139638340637,
+  "weekAttr": []
 }

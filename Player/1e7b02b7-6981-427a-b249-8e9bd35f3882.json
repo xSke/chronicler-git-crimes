@@ -13,6 +13,7 @@
   "deceased": false,
   "divinity": 0.15639920289481712,
   "fate": 5,
+  "gameAttr": [],
   "groundFriction": 0.9306080612028544,
   "id": "1e7b02b7-6981-427a-b249-8e9bd35f3882",
   "indulgence": 0.7920906940175652,
@@ -25,9 +26,11 @@
   "overpowerment": 0.578391927832804,
   "patheticism": 0.8477229264371751,
   "peanutAllergy": true,
+  "permAttr": [],
   "pressurization": 0.6614041710853964,
   "ritual": "Talking to the parasite",
   "ruthlessness": 0.5187669684183567,
+  "seasAttr": [],
   "shakespearianism": 0.1754606708136739,
   "soul": 5,
   "suppression": 0.8610219490947117,
@@ -36,5 +39,6 @@
   "totalFingers": 10,
   "tragicness": 0.1,
   "unthwackability": 0.1177883067397616,
-  "watchfulness": 0.9252467506066062
+  "watchfulness": 0.9252467506066062,
+  "weekAttr": []
 }

@@ -13,6 +13,7 @@
   "deceased": false,
   "divinity": 0.002370304717478122,
   "fate": 59,
+  "gameAttr": [],
   "groundFriction": 0.6052187213117701,
   "id": "5c60f834-a133-4dc6-9c07-392fb37b3e6a",
   "indulgence": 0.755434067874458,
@@ -25,9 +26,11 @@
   "overpowerment": 0.37719884846413265,
   "patheticism": 0.1857683452131813,
   "peanutAllergy": true,
+  "permAttr": [],
   "pressurization": 0.06133531704495731,
   "ritual": "Playing with dolls",
   "ruthlessness": 0.9669937676870326,
+  "seasAttr": [],
   "shakespearianism": 0.5694646736631161,
   "soul": 8,
   "suppression": 0.6124317948167213,
@@ -36,5 +39,6 @@
   "totalFingers": 10,
   "tragicness": 0.1,
   "unthwackability": 0.09083081514209644,
-  "watchfulness": 0.864551029299288
+  "watchfulness": 0.864551029299288,
+  "weekAttr": []
 }
