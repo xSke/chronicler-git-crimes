@@ -14,7 +14,7 @@
     "58fca5fa-e559-4f5e-ac87-dc99dd19e410",
     "2727215d-3714-438d-b1ba-2ed15ec481c0"
   ],
-  "championships": 1,
+  "championships": 2,
   "emoji": "0x1F405",
   "fullName": "Hades Tigers",
   "id": "747b8e4a-7e50-4638-a973-ea7950a3e739",
@@ -41,8 +41,8 @@
     "b3e512df-c411-4100-9544-0ceadddb28cf"
   ],
   "seasonAttributes": [],
-  "seasonShames": 2,
-  "seasonShamings": 12,
+  "seasonShames": 0,
+  "seasonShamings": 0,
   "secondaryColor": "#919191",
   "shameRuns": 0,
   "shorthand": "HAT",
