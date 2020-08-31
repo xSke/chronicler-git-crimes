@@ -50,18 +50,18 @@
     "msg": "In memoriam: so so many"
   },
   {
-    "expire": "2020-09-05T08:05:29.217Z",
-    "id": "hitting_stat_leaders_update",
-    "msg": "On Base Percentage Leaders: ... Baldwin Breadwinner, Unlimited Tacos - 1.000 ..... Combs Duende, Baltimore Crabs - 0.750 ..... Ren Hunter, Charleston Shoe Thieves - 0.750 ..... Richardson Games, New York Millennials - 0.667 ..... Farrell Seagull, Seattle Garages - 0.612 ..... "
-  },
-  {
-    "expire": "2020-09-05T08:05:29.219Z",
-    "id": "pitching_stat_leaders_update",
-    "msg": "Pitcher Win Leaders: ... Dunn Keyes, Boston Flowers - 3 ..... Parker Meng, San Francisco Lovers - 3 ..... Theodore Cervantes, New York Millennials - 3 ..... Hiroto Wilcox, Hades Tigers - 3 ..... August Sky, Breckenridge Jazz Hands - 3 ..... "
-  },
-  {
     "expire": "2020-08-31T19:00:18.026Z",
     "id": "eat_the_rich",
     "msg": "The coins of the 1% have been distributed.\nEach 99%-er received 349 coins."
+  },
+  {
+    "expire": "2020-09-07T16:36:15.771Z",
+    "id": "hitting_stat_leaders_update",
+    "msg": "Batting Average Leaders: ... Kennedy Loser, Baltimore Crabs - 0.800 ..... Cedric Spliff, Seattle Garages - 0.800 ..... Sandie Turner, New York Millennials - 0.750 ..... Nagomi Mcdaniel, Baltimore Crabs - 0.750 ..... Comfort Septemberish, Breckenridge Jazz Hands - 0.750 ..... "
+  },
+  {
+    "expire": "2020-09-07T16:36:15.772Z",
+    "id": "pitching_stat_leaders_update",
+    "msg": "Strikeout Leaders: ... Betsy Trombone, Philly Pies - 15 ..... Sandoval Crossing, Hellmouth Sunbeams - 11 ..... PolkaDot Patterson, Canada Moist Talkers - 10 ..... Caleb Alvarado, Chicago Firefighters - 10 ..... Nagomi Meng, Hades Tigers - 9 ..... "
   }
 ]
