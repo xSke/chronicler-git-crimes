@@ -50,18 +50,18 @@
     "msg": "In memoriam: so so many"
   },
   {
-    "expire": "2020-09-07T19:54:57.777Z",
-    "id": "hitting_stat_leaders_update",
-    "msg": "On Base Percentage Leaders: ... Boyfriend Monreal, Kansas City Breath Mints - 1.200 ..... Randy Castillo, Hades Tigers - 1.000 ..... Stew Briggs, Kansas City Breath Mints - 0.857 ..... Washer Barajas, Yellowstone Magic - 0.857 ..... Penelope Mathews, New York Millennials - 0.833 ..... "
-  },
-  {
-    "expire": "2020-09-07T19:54:57.778Z",
-    "id": "pitching_stat_leaders_update",
-    "msg": "Pitcher Win Leaders: ... Stevenson Heat, Hawaii Fridays - 1 ..... Karato Bean, Hawaii Fridays - 1 ..... King Weatherman, Boston Flowers - 1 ..... Theodore Cervantes, New York Millennials - 1 ..... Bates Bentley, New York Millennials - 1 ..... "
-  },
-  {
     "expire": "2020-08-31T22:16:20.985Z",
     "id": "1e93359e-7c6f-4144-a1ff-1d5e54c74d04",
     "msg": "The Fridays were completely shuffled in the Reverb!"
+  },
+  {
+    "expire": "2020-09-07T20:30:09.136Z",
+    "id": "hitting_stat_leaders_update",
+    "msg": "Stolen Base Leaders: ... Kichiro Guerra, San Francisco Lovers - 4 ..... Richardson Games, Charleston Shoe Thieves - 3 ..... Boyfriend Monreal, Kansas City Breath Mints - 3 ..... Caleb Novak, Miami Dalé - 3 ..... Beck Whitney, Boston Flowers - 2 ..... "
+  },
+  {
+    "expire": "2020-09-07T20:30:09.138Z",
+    "id": "pitching_stat_leaders_update",
+    "msg": "Pitcher Loss Leaders: ... Stevenson Heat, Hawaii Fridays - 1 ..... Kevin Dudley, Charleston Shoe Thieves - 1 ..... Cornelius Games, Charleston Shoe Thieves - 1 ..... Snyder Briggs, Charleston Shoe Thieves - 1 ..... Dunn Keyes, Boston Flowers - 1 ..... "
   }
 ]
