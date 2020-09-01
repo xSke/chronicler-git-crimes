@@ -50,18 +50,18 @@
     "msg": "In memoriam: so so many"
   },
   {
+    "expire": "2020-09-08T00:33:42.635Z",
+    "id": "pitching_stat_leaders_update",
+    "msg": "Pitcher Win Leaders: ... Milo Brown, San Francisco Lovers - 3 ..... Yeong-Ho Garcia, Yellowstone Magic - 2 ..... Brock Forbes, Baltimore Crabs - 2 ..... Nagomi Meng, Hades Tigers - 2 ..... Mike Townsend, Seattle Garages - 2 ..... "
+  },
+  {
     "expire": "2020-09-01T01:21:59.054Z",
     "id": "86ebef65-1a6b-442c-801b-104e6c694381",
     "msg": "The Lovers had their rotation shuffled in the Reverb!"
   },
   {
-    "expire": "2020-09-07T23:29:15.368Z",
+    "expire": "2020-09-08T00:33:42.632Z",
     "id": "hitting_stat_leaders_update",
-    "msg": "Runs Batted In Leaders: ... Bevan Wise, Yellowstone Magic - 11 ..... Stew Briggs, Kansas City Breath Mints - 9 ..... Aldon Cashmoney, Breckenridge Jazz Hands - 8 ..... Lachlan Shelton, Canada Moist Talkers - 8 ..... Jessica Telephone, Philly Pies - 7 ..... "
-  },
-  {
-    "expire": "2020-09-07T23:29:15.371Z",
-    "id": "pitching_stat_leaders_update",
-    "msg": "WHIP Leaders: ... Don Elliott, Miami Dalé - 0.222 ..... August Sky, Breckenridge Jazz Hands - 0.333 ..... Brock Forbes, Baltimore Crabs - 0.474 ..... Winnie Hess, Kansas City Breath Mints - 0.556 ..... Yosh Carpenter, San Francisco Lovers - 0.556 ..... "
+    "msg": "On Base Percentage Leaders: ... York Silk, Hawaii Fridays - 0.737 ..... Dickerson Morse, Kansas City Breath Mints - 0.640 ..... Sutton Picklestein, Yellowstone Magic - 0.640 ..... Sigmund Castillo, San Francisco Lovers - 0.591 ..... Penelope Mathews, New York Millennials - 0.571 ..... "
   }
 ]
