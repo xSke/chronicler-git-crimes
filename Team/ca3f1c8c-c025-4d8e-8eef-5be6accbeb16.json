@@ -20,26 +20,26 @@
   "gameAttr": [],
   "id": "ca3f1c8c-c025-4d8e-8eef-5be6accbeb16",
   "lineup": [
-    "f73009c5-2ede-4dc4-b96d-84ba93c8a429",
-    "bfd9ff52-9bf6-4aaf-a859-d308d8f29616",
-    "69196296-f652-42ff-b2ca-0d9b50bd9b7b",
-    "68f98a04-204f-4675-92a7-8823f2277075",
-    "d23a1f7e-0071-444e-8361-6ae01f13036f",
-    "4bf352d2-6a57-420a-9d45-b23b2b947375",
+    "3af96a6b-866c-4b03-bc14-090acf6ecee5",
+    "c182f33c-aea5-48a2-97ed-dc74fa29b3c0",
     "ad8d15f4-e041-4a12-a10e-901e6285fdc5",
     "20e13b56-599b-4a22-b752-8059effc81dc",
-    "e4e4c17d-8128-4704-9e04-f244d4573c4d"
+    "f73009c5-2ede-4dc4-b96d-84ba93c8a429",
+    "43d5da5f-c6a1-42f1-ab7f-50ea956b6cd5",
+    "68f98a04-204f-4675-92a7-8823f2277075",
+    "69196296-f652-42ff-b2ca-0d9b50bd9b7b",
+    "bfd9ff52-9bf6-4aaf-a859-d308d8f29616"
   ],
   "location": "Chicago",
   "mainColor": "#8c2a3e",
   "nickname": "Firefighters",
   "permAttr": [],
   "rotation": [
+    "e4e4c17d-8128-4704-9e04-f244d4573c4d",
     "1513aab6-142c-48c6-b43e-fbda65fd64e8",
-    "43d5da5f-c6a1-42f1-ab7f-50ea956b6cd5",
-    "3af96a6b-866c-4b03-bc14-090acf6ecee5",
-    "c182f33c-aea5-48a2-97ed-dc74fa29b3c0",
-    "16aff709-e855-47c8-8818-b9ba66e90fe8"
+    "4bf352d2-6a57-420a-9d45-b23b2b947375",
+    "16aff709-e855-47c8-8818-b9ba66e90fe8",
+    "d23a1f7e-0071-444e-8361-6ae01f13036f"
   ],
   "seasAttr": [
     "SHAME_PIT"
