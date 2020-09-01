@@ -50,18 +50,18 @@
     "msg": "In memoriam: so so many"
   },
   {
-    "expire": "2020-09-08T17:34:26.73Z",
-    "id": "hitting_stat_leaders_update",
-    "msg": "Batting Average Leaders: ... Boyfriend Monreal, Kansas City Breath Mints - 0.667 ..... Paula Mason, Dallas Steaks - 0.667 ..... Sandie Turner, New York Millennials - 0.615 ..... Nagomi Mcdaniel, Baltimore Crabs - 0.545 ..... Oliver Mueller, Seattle Garages - 0.538 ..... "
-  },
-  {
-    "expire": "2020-09-08T17:34:26.732Z",
-    "id": "pitching_stat_leaders_update",
-    "msg": "Strikeout Leaders: ... Betsy Trombone, Philly Pies - 21 ..... PolkaDot Patterson, Canada Moist Talkers - 20 ..... Sandoval Crossing, Hellmouth Sunbeams - 19 ..... Caleb Alvarado, Chicago Firefighters - 17 ..... Stevenson Heat, Hawaii Fridays - 15 ..... "
-  },
-  {
     "expire": "2020-09-01T20:12:47.305Z",
     "id": "57173510-e1df-486e-aaac-47ca71efcd85",
     "msg": "The Millennials had their lineup shuffled in the Reverb!"
+  },
+  {
+    "expire": "2020-09-08T18:31:59.797Z",
+    "id": "hitting_stat_leaders_update",
+    "msg": "Home Run Leaders: ... York Silk, Hawaii Fridays - 3 ..... Oscar Dollie, Yellowstone Magic - 3 ..... Parker Parra, Baltimore Crabs - 3 ..... Forrest Best, Baltimore Crabs - 3 ..... Fish Summer, Hades Tigers - 3 ..... "
+  },
+  {
+    "expire": "2020-09-08T18:31:59.798Z",
+    "id": "pitching_stat_leaders_update",
+    "msg": "Earned Run Average Leaders: ... Orville Manco, Dallas Steaks - 0.000 ..... Oscar Vaughan, Kansas City Breath Mints - 1.000 ..... Elvis Figueroa, Philly Pies - 1.000 ..... Percival Wheeler, San Francisco Lovers - 1.000 ..... Yosh Carpenter, San Francisco Lovers - 1.000 ..... "
   }
 ]
