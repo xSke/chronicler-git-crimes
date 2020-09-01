@@ -50,14 +50,9 @@
     "msg": "In memoriam: so so many"
   },
   {
-    "expire": "2020-09-08T20:42:38.085Z",
-    "id": "hitting_stat_leaders_update",
-    "msg": "On Base Percentage Leaders: ... Thomas Kirby, Chicago Firefighters - 1.167 ..... Washer Barajas, Yellowstone Magic - 1.000 ..... Stew Briggs, Kansas City Breath Mints - 0.857 ..... Francisco Preston, Yellowstone Magic - 0.857 ..... Nagomi Mcdaniel, Baltimore Crabs - 0.714 ..... "
-  },
-  {
-    "expire": "2020-09-08T20:42:38.086Z",
+    "expire": "2020-09-08T21:34:54.999Z",
     "id": "pitching_stat_leaders_update",
-    "msg": "Pitcher Win Leaders: ... Stevenson Heat, Hawaii Fridays - 1 ..... Sixpack Dogwalker, Hawaii Fridays - 1 ..... Cornelius Games, Charleston Shoe Thieves - 1 ..... Theodore Cervantes, New York Millennials - 1 ..... Atlas Guerra, Kansas City Breath Mints - 1 ..... "
+    "msg": "Pitcher Loss Leaders: ... Kevin Dudley, Charleston Shoe Thieves - 1 ..... Dunn Keyes, Boston Flowers - 1 ..... King Weatherman, Boston Flowers - 1 ..... Chambers Simmons, Boston Flowers - 1 ..... Bates Bentley, New York Millennials - 1 ..... "
   },
   {
     "expire": "2020-09-01T23:19:56.972Z",
@@ -68,5 +63,10 @@
     "expire": "2020-09-01T23:22:04.131Z",
     "id": "a880c06d-efa1-4a7f-9a57-20658b6840d0",
     "msg": "The Fridays had their rotation shuffled in the Reverb!"
+  },
+  {
+    "expire": "2020-09-08T21:34:54.998Z",
+    "id": "hitting_stat_leaders_update",
+    "msg": "Stolen Base Leaders: ... Beck Whitney, Boston Flowers - 5 ..... Richardson Games, Charleston Shoe Thieves - 3 ..... Sutton Picklestein, Yellowstone Magic - 3 ..... Francisco Preston, Yellowstone Magic - 3 ..... Penelope Mathews, New York Millennials - 2 ..... "
   }
 ]
