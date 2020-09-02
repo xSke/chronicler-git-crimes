@@ -50,18 +50,18 @@
     "msg": "In memoriam: so so many"
   },
   {
-    "expire": "2020-09-09T03:30:31.497Z",
-    "id": "hitting_stat_leaders_update",
-    "msg": "Batting Average Leaders: ... Elijah Valenzuela, Hawaii Fridays - 0.444 ..... Francisco Preston, Yellowstone Magic - 0.432 ..... Oliver Notarobot, Baltimore Crabs - 0.424 ..... Kathy Mathews, Breckenridge Jazz Hands - 0.412 ..... Nagomi Mcdaniel, Baltimore Crabs - 0.406 ..... "
-  },
-  {
-    "expire": "2020-09-09T03:30:31.503Z",
-    "id": "pitching_stat_leaders_update",
-    "msg": "Strikeout Leaders: ... Sandoval Crossing, Hellmouth Sunbeams - 34 ..... PolkaDot Patterson, Canada Moist Talkers - 32 ..... Betsy Trombone, Philly Pies - 29 ..... Brock Forbes, Baltimore Crabs - 24 ..... Theodore Cervantes, New York Millennials - 23 ..... "
-  },
-  {
     "expire": "2020-09-02T06:05:12.05Z",
     "id": "65104815-6fde-4978-80c3-af585ca0f3e0",
     "msg": "Magic hitter Washer Barajas swallowed a stray Peanut and had an allergic reaction!"
+  },
+  {
+    "expire": "2020-09-09T04:28:07.039Z",
+    "id": "hitting_stat_leaders_update",
+    "msg": "Home Run Leaders: ... Randy Castillo, Hades Tigers - 6 ..... Jessica Telephone, Philly Pies - 5 ..... Marco Stink, Dallas Steaks - 5 ..... Antonio Wallace, Charleston Shoe Thieves - 4 ..... Oscar Dollie, Yellowstone Magic - 4 ..... "
+  },
+  {
+    "expire": "2020-09-09T04:28:07.041Z",
+    "id": "pitching_stat_leaders_update",
+    "msg": "Earned Run Average Leaders: ... James Mora, Hawaii Fridays - 0.000 ..... Eugenia Bickle, Hellmouth Sunbeams - 0.000 ..... Caleb Alvarado, Chicago Firefighters - 0.667 ..... Sixpack Dogwalker, Hawaii Fridays - 0.900 ..... Cornelius Games, Charleston Shoe Thieves - 0.900 ..... "
   }
 ]
