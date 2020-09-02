@@ -50,18 +50,13 @@
     "msg": "In memoriam: so so many"
   },
   {
-    "expire": "2020-09-02T09:27:18.401Z",
-    "id": "b909e15c-d3c6-4c9a-914f-b7d8807aab19",
-    "msg": "Rogue Umpire incinerated Magic hitter Richardson Turquoise! Replaced by Annie Roland"
-  },
-  {
-    "expire": "2020-09-09T08:31:01.072Z",
+    "expire": "2020-09-09T09:29:39.859Z",
     "id": "hitting_stat_leaders_update",
-    "msg": "Batting Average Leaders: ... Oliver Notarobot, Baltimore Crabs - 0.434 ..... Nagomi Mcdaniel, Baltimore Crabs - 0.422 ..... Elijah Valenzuela, Hawaii Fridays - 0.415 ..... Francisco Preston, Yellowstone Magic - 0.411 ..... Marco Stink, Dallas Steaks - 0.404 ..... "
+    "msg": "Home Run Leaders: ... Oscar Dollie, Yellowstone Magic - 9 ..... Marco Stink, Dallas Steaks - 7 ..... Wesley Dudley, New York Millennials - 6 ..... Jessica Telephone, Philly Pies - 6 ..... Randy Castillo, Hades Tigers - 6 ..... "
   },
   {
-    "expire": "2020-09-09T08:31:01.077Z",
+    "expire": "2020-09-09T09:29:39.861Z",
     "id": "pitching_stat_leaders_update",
-    "msg": "Strikeout Leaders: ... PolkaDot Patterson, Canada Moist Talkers - 45 ..... Sandoval Crossing, Hellmouth Sunbeams - 40 ..... Betsy Trombone, Philly Pies - 38 ..... Theodore Cervantes, New York Millennials - 33 ..... Brock Forbes, Baltimore Crabs - 30 ..... "
+    "msg": "Earned Run Average Leaders: ... James Mora, Hawaii Fridays - 0.500 ..... Caleb Alvarado, Chicago Firefighters - 1.000 ..... Yosh Carpenter, San Francisco Lovers - 1.125 ..... Bates Bentley, New York Millennials - 1.333 ..... Brock Forbes, Baltimore Crabs - 1.500 ..... "
   }
 ]
