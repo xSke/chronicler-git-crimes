@@ -58,5 +58,15 @@
     "expire": "2020-09-09T10:30:41.243Z",
     "id": "pitching_stat_leaders_update",
     "msg": "WHIP Leaders: ... Brock Forbes, Baltimore Crabs - 0.500 ..... Yosh Carpenter, San Francisco Lovers - 0.625 ..... Jenkins Good, Canada Moist Talkers - 0.692 ..... James Mora, Hawaii Fridays - 0.704 ..... Cornelius Games, Charleston Shoe Thieves - 0.724 ..... "
+  },
+  {
+    "expire": "2020-09-02T13:07:53.129Z",
+    "id": "40c2c5dc-2164-4f28-8576-86090ef88365",
+    "msg": "The Spies had their rotation shuffled in the Reverb!"
+  },
+  {
+    "expire": "2020-09-02T13:16:37.015Z",
+    "id": "1eb260f3-9c6f-402c-92ca-299883d745d1",
+    "msg": "The Pies had their rotation shuffled in the Reverb!"
   }
 ]
