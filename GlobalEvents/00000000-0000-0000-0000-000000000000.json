@@ -60,18 +60,18 @@
     "msg": "The Pies had their rotation shuffled in the Reverb!"
   },
   {
-    "expire": "2020-09-09T11:30:50.507Z",
-    "id": "hitting_stat_leaders_update",
-    "msg": "On Base Percentage Leaders: ... Francisco Preston, Yellowstone Magic - 0.574 ..... Elijah Valenzuela, Hawaii Fridays - 0.524 ..... Nagomi Mcdaniel, Baltimore Crabs - 0.500 ..... Ziwa Mueller, Canada Moist Talkers - 0.492 ..... Wesley Dudley, New York Millennials - 0.467 ..... "
-  },
-  {
-    "expire": "2020-09-09T11:30:50.508Z",
-    "id": "pitching_stat_leaders_update",
-    "msg": "Pitcher Win Leaders: ... Cornelius Games, Charleston Shoe Thieves - 4 ..... Theodore Cervantes, New York Millennials - 4 ..... Brock Forbes, Baltimore Crabs - 4 ..... Qais Dogwalker, Miami Dalé - 4 ..... Nagomi Meng, Hades Tigers - 4 ..... "
-  },
-  {
     "expire": "2020-09-02T14:08:10.806Z",
     "id": "a2f38bf3-866a-4e7b-994d-0d4b11dc71cf",
     "msg": "Reverberations are at dangerous levels! Don Mitchell is now Reverberating wildly!"
+  },
+  {
+    "expire": "2020-09-09T12:43:27.694Z",
+    "id": "hitting_stat_leaders_update",
+    "msg": "Stolen Base Leaders: ... Collins Melon, Houston Spies - 17 ..... Hewitt Best, Kansas City Breath Mints - 10 ..... Aldon Cashmoney, Breckenridge Jazz Hands - 10 ..... Richardson Games, Charleston Shoe Thieves - 9 ..... Francisco Preston, Yellowstone Magic - 9 ..... "
+  },
+  {
+    "expire": "2020-09-09T12:43:27.695Z",
+    "id": "pitching_stat_leaders_update",
+    "msg": "Pitcher Loss Leaders: ... Leach Ingram, Kansas City Breath Mints - 4 ..... Elvis Figueroa, Philly Pies - 4 ..... Lars Taylor, Hellmouth Sunbeams - 4 ..... Lowe Forbes, Breckenridge Jazz Hands - 4 ..... Ortiz Morse, Canada Moist Talkers - 4 ..... "
   }
 ]
