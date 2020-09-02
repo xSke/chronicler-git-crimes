@@ -26,7 +26,9 @@
   "overpowerment": 0.8050570696192709,
   "patheticism": 0.6300393875744171,
   "peanutAllergy": false,
-  "permAttr": [],
+  "permAttr": [
+    "REVERBERATING"
+  ],
   "pressurization": 0.31129207590498664,
   "ritual": "Getting mad",
   "ruthlessness": 0.38227254889221474,
