@@ -50,18 +50,23 @@
     "msg": "In memoriam: so so many"
   },
   {
-    "expire": "2020-09-10T16:33:35.621Z",
-    "id": "hitting_stat_leaders_update",
-    "msg": "Runs Batted In Leaders: ... Thomas Dracaena, New York Millennials - 31 ..... Dominic Marijuana, New York Millennials - 25 ..... Jessica Telephone, Philly Pies - 22 ..... Elijah Bates, Canada Moist Talkers - 21 ..... Kennedy Meh, San Francisco Lovers - 21 ..... "
-  },
-  {
-    "expire": "2020-09-10T16:33:35.627Z",
-    "id": "pitching_stat_leaders_update",
-    "msg": "WHIP Leaders: ... August Sky, Breckenridge Jazz Hands - 0.500 ..... Theodore Cervantes, New York Millennials - 0.636 ..... Patty Fox, New York Millennials - 0.750 ..... Elvis Figueroa, Philly Pies - 0.757 ..... Dunlap Figueroa, Hades Tigers - 0.786 ..... "
-  },
-  {
     "expire": "2020-09-03T19:03:19.346Z",
     "id": "e9f90cec-2d7c-4d8f-a608-20849259e120",
     "msg": "The Dalé had several players shuffled in the Reverb!"
+  },
+  {
+    "expire": "2020-09-03T19:20:08.818Z",
+    "id": "9dbd376a-7ef3-4f66-ad10-91df56f2d4ef",
+    "msg": "The Moist Talkers had their lineup shuffled in the Reverb!"
+  },
+  {
+    "expire": "2020-09-10T17:31:51.794Z",
+    "id": "hitting_stat_leaders_update",
+    "msg": "On Base Percentage Leaders: ... Don Elliott, Miami Dalé - 0.667 ..... Nagomi Mcdaniel, Baltimore Crabs - 0.521 ..... Baby Urlacher, Chicago Firefighters - 0.494 ..... Boyfriend Monreal, Kansas City Breath Mints - 0.485 ..... Patel Beyonce, Unlimited Tacos - 0.479 ..... "
+  },
+  {
+    "expire": "2020-09-10T17:31:51.796Z",
+    "id": "pitching_stat_leaders_update",
+    "msg": "Pitcher Win Leaders: ... Cornelius Games, Charleston Shoe Thieves - 4 ..... Theodore Cervantes, New York Millennials - 4 ..... Montgomery Bullock, Baltimore Crabs - 4 ..... Kennedy Rodgers, Mexico City Wild Wings - 4 ..... Campos Arias, Breckenridge Jazz Hands - 4 ..... "
   }
 ]
