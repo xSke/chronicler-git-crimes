@@ -50,18 +50,18 @@
     "msg": "In memoriam: so so many"
   },
   {
-    "expire": "2020-09-10T20:30:48.672Z",
-    "id": "hitting_stat_leaders_update",
-    "msg": "Home Run Leaders: ... Thomas Dracaena, New York Millennials - 13 ..... Jessica Telephone, Philly Pies - 12 ..... Dominic Marijuana, New York Millennials - 10 ..... Marco Stink, Dallas Steaks - 10 ..... Elijah Bates, Canada Moist Talkers - 9 ..... "
-  },
-  {
-    "expire": "2020-09-10T20:30:48.674Z",
-    "id": "pitching_stat_leaders_update",
-    "msg": "Earned Run Average Leaders: ... August Sky, Breckenridge Jazz Hands - 1.000 ..... Campos Arias, Breckenridge Jazz Hands - 1.703 ..... Montgomery Bullock, Baltimore Crabs - 2.132 ..... Cornelius Games, Charleston Shoe Thieves - 2.189 ..... Burke Gonzales, Mexico City Wild Wings - 2.368 ..... "
-  },
-  {
     "expire": "2020-09-03T23:05:27.53Z",
     "id": "9504196b-5dbe-4ddd-acf3-3dbbf98f033e",
     "msg": "The Spies had their rotation shuffled in the Reverb!"
+  },
+  {
+    "expire": "2020-09-10T21:30:14.135Z",
+    "id": "hitting_stat_leaders_update",
+    "msg": "Runs Batted In Leaders: ... Thomas Dracaena, New York Millennials - 38 ..... Dominic Marijuana, New York Millennials - 29 ..... Jessica Telephone, Philly Pies - 29 ..... Elijah Bates, Canada Moist Talkers - 24 ..... Moody Cookbook, Hades Tigers - 23 ..... "
+  },
+  {
+    "expire": "2020-09-10T21:30:14.138Z",
+    "id": "pitching_stat_leaders_update",
+    "msg": "WHIP Leaders: ... August Sky, Breckenridge Jazz Hands - 0.533 ..... Campos Arias, Breckenridge Jazz Hands - 0.649 ..... Hiroto Wilcox, Hades Tigers - 0.727 ..... Patty Fox, New York Millennials - 0.756 ..... Elvis Figueroa, Philly Pies - 0.756 ..... "
   }
 ]
