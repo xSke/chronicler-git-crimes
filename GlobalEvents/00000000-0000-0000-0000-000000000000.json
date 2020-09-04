@@ -50,28 +50,18 @@
     "msg": "In memoriam: so so many"
   },
   {
-    "expire": "2020-09-11T11:35:53.821Z",
+    "expire": "2020-09-11T12:28:19.675Z",
+    "id": "hitting_stat_leaders_update",
+    "msg": "Runs Batted In Leaders: ... Thomas Dracaena, New York Millennials - 19 ..... Knight Urlacher, San Francisco Lovers - 18 ..... Kennedy Loser, Baltimore Crabs - 16 ..... York Silk, Hawaii Fridays - 15 ..... Moody Cookbook, Hades Tigers - 15 ..... "
+  },
+  {
+    "expire": "2020-09-11T12:28:19.677Z",
     "id": "pitching_stat_leaders_update",
-    "msg": "Earned Run Average Leaders: ... Jordan Hildebert, Houston Spies - 0.667 ..... Inky Rutledge, Yellowstone Magic - 1.000 ..... Caleb Alvarado, Chicago Firefighters - 1.250 ..... Atlas Guerra, Kansas City Breath Mints - 1.500 ..... Hiroto Wilcox, Hades Tigers - 1.500 ..... "
-  },
-  {
-    "expire": "2020-09-04T12:17:25.995Z",
-    "id": "18612467-f45a-414d-a252-46e6a6517f57",
-    "msg": "Rogue Umpire incinerated Sunbeams hitter Emmett Internet! Replaced by Sutton Bishop"
-  },
-  {
-    "expire": "2020-09-04T12:20:07.737Z",
-    "id": "2f843a6d-98b9-4a33-99fc-238eda1a1569",
-    "msg": "The Steaks had their lineup shuffled in the Reverb!"
+    "msg": "WHIP Leaders: ... Greer Lott, Canada Moist Talkers - 0.556 ..... Caleb Alvarado, Chicago Firefighters - 0.611 ..... Campos Arias, Breckenridge Jazz Hands - 0.655 ..... Theodore Holloway, Houston Spies - 0.700 ..... Qais Dogwalker, Miami Dalé - 0.737 ..... "
   },
   {
     "expire": "2020-09-04T13:20:09.43Z",
     "id": "f1e4f93d-9913-425e-a7df-9e49d5b24d30",
     "msg": "The Garages had their lineup shuffled in the Reverb!"
-  },
-  {
-    "expire": "2020-09-11T11:35:53.82Z",
-    "id": "hitting_stat_leaders_update",
-    "msg": "Home Run Leaders: ... Thomas Dracaena, New York Millennials - 7 ..... Moody Cookbook, Hades Tigers - 7 ..... York Silk, Hawaii Fridays - 6 ..... Kennedy Loser, Baltimore Crabs - 6 ..... Oliver Mueller, Seattle Garages - 6 ..... "
   }
 ]
