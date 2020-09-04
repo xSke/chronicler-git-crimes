@@ -50,16 +50,6 @@
     "msg": "In memoriam: so so many"
   },
   {
-    "expire": "2020-09-11T09:33:17.501Z",
-    "id": "hitting_stat_leaders_update",
-    "msg": "Stolen Base Leaders: ... Nerd Pacheco, Hellmouth Sunbeams - 7 ..... Hewitt Best, Kansas City Breath Mints - 6 ..... Caleb Novak, Miami Dalé - 6 ..... Sosa Hayes, Mexico City Wild Wings - 6 ..... Greer Gwiffin, Seattle Garages - 6 ..... "
-  },
-  {
-    "expire": "2020-09-11T09:33:17.502Z",
-    "id": "pitching_stat_leaders_update",
-    "msg": "Pitcher Loss Leaders: ... Snyder Briggs, Charleston Shoe Thieves - 3 ..... Leach Ingram, Kansas City Breath Mints - 3 ..... Cory Twelve, Yellowstone Magic - 3 ..... Math Velazquez, Houston Spies - 3 ..... Rivers Clembons, Miami Dalé - 3 ..... "
-  },
-  {
     "expire": "2020-09-04T12:17:25.995Z",
     "id": "18612467-f45a-414d-a252-46e6a6517f57",
     "msg": "Rogue Umpire incinerated Sunbeams hitter Emmett Internet! Replaced by Sutton Bishop"
@@ -68,5 +58,15 @@
     "expire": "2020-09-04T12:20:07.737Z",
     "id": "2f843a6d-98b9-4a33-99fc-238eda1a1569",
     "msg": "The Steaks had their lineup shuffled in the Reverb!"
+  },
+  {
+    "expire": "2020-09-11T10:37:42.862Z",
+    "id": "hitting_stat_leaders_update",
+    "msg": "Batting Average Leaders: ... Sutton Bishop, Hellmouth Sunbeams - 0.500 ..... Wyatt Pothos, Unlimited Tacos - 0.412 ..... Logan Horseman, Miami Dalé - 0.404 ..... Thomas Dracaena, New York Millennials - 0.404 ..... Kennedy Loser, Baltimore Crabs - 0.404 ..... "
+  },
+  {
+    "expire": "2020-09-11T10:37:42.864Z",
+    "id": "pitching_stat_leaders_update",
+    "msg": "Strikeout Leaders: ... PolkaDot Patterson, Canada Moist Talkers - 45 ..... Betsy Trombone, Philly Pies - 38 ..... Brock Forbes, Baltimore Crabs - 36 ..... Sandoval Crossing, Hellmouth Sunbeams - 35 ..... Silvia Rugrat, Mexico City Wild Wings - 29 ..... "
   }
 ]
