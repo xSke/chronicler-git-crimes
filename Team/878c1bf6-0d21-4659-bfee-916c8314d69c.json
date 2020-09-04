@@ -20,13 +20,13 @@
   "gameAttr": [],
   "id": "878c1bf6-0d21-4659-bfee-916c8314d69c",
   "lineup": [
-    "27c68d7f-5e40-4afa-8b6f-9df47b79e7dd",
+    "e16c3f28-eecd-4571-be1a-606bbac36b2b",
     "63df8701-1871-4987-87d7-b55d4f1df2e9",
     "1f159bab-923a-4811-b6fa-02bfde50925a",
     "bf6a24d1-4e89-4790-a4ba-eeb2870cbf6f",
-    "ea44bd36-65b4-4f3b-ac71-78d87a540b48",
+    "27c68d7f-5e40-4afa-8b6f-9df47b79e7dd",
     "c755efce-d04d-4e00-b5c1-d801070d3808",
-    "a1ed3396-114a-40bc-9ff0-54d7e1ad1718",
+    "0d5300f6-0966-430f-903f-a4c2338abf00",
     "5ca7e854-dc00-4955-9235-d7fcd732ddcf",
     "2e13249e-38ff-46a2-a55e-d15fa692468a"
   ],
@@ -37,9 +37,9 @@
   "rotation": [
     "21d52455-6c2c-4ee4-8673-ab46b4b926b4",
     "0bb35615-63f2-4492-80ec-b6b322dc5450",
-    "0d5300f6-0966-430f-903f-a4c2338abf00",
+    "a1ed3396-114a-40bc-9ff0-54d7e1ad1718",
     "f741dc01-2bae-4459-bfc0-f97536193eea",
-    "e16c3f28-eecd-4571-be1a-606bbac36b2b"
+    "ea44bd36-65b4-4f3b-ac71-78d87a540b48"
   ],
   "seasAttr": [],
   "seasonShames": 7,
