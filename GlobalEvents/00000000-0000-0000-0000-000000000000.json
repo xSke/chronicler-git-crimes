@@ -50,18 +50,13 @@
     "msg": "In memoriam: so so many"
   },
   {
-    "expire": "2020-09-04T03:31:54.154Z",
-    "id": "bb6f75b5-1fc0-4f49-a673-ea2c2cd35e60",
-    "msg": "The Tacos had several players shuffled in the Reverb!"
-  },
-  {
-    "expire": "2020-09-11T02:30:24.51Z",
-    "id": "hitting_stat_leaders_update",
-    "msg": "Runs Batted In Leaders: ... Baldwin Breadwinner, Hawaii Fridays - 9 ..... Thomas Dracaena, New York Millennials - 9 ..... Sutton Dreamy, Baltimore Crabs - 8 ..... Antonio Wallace, Charleston Shoe Thieves - 7 ..... Wesley Dudley, New York Millennials - 7 ..... "
-  },
-  {
-    "expire": "2020-09-11T02:30:24.511Z",
+    "expire": "2020-09-11T03:34:21.596Z",
     "id": "pitching_stat_leaders_update",
-    "msg": "WHIP Leaders: ... Henry Marshallow, Seattle Garages - 0.333 ..... Francisca Sasquatch, Miami Dalé - 0.444 ..... Jenkins Good, Canada Moist Talkers - 0.444 ..... Finn James, Baltimore Crabs - 0.556 ..... Greer Lott, Canada Moist Talkers - 0.556 ..... "
+    "msg": "Pitcher Win Leaders: ... Stevenson Heat, Hawaii Fridays - 2 ..... Theodore Cervantes, New York Millennials - 2 ..... Yeong-Ho Garcia, Yellowstone Magic - 2 ..... Betsy Trombone, Philly Pies - 2 ..... Nagomi Meng, Hades Tigers - 2 ..... "
+  },
+  {
+    "expire": "2020-09-11T03:34:21.595Z",
+    "id": "hitting_stat_leaders_update",
+    "msg": "On Base Percentage Leaders: ... Nagomi Mcdaniel, Baltimore Crabs - 0.667 ..... Sigmund Castillo, San Francisco Lovers - 0.619 ..... Conrad Vaughan, New York Millennials - 0.600 ..... Paula Turnip, Hades Tigers - 0.600 ..... Eugenia Garbage, Canada Moist Talkers - 0.579 ..... "
   }
 ]
