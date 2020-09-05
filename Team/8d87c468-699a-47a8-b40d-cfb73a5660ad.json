@@ -20,15 +20,15 @@
   "gameAttr": [],
   "id": "8d87c468-699a-47a8-b40d-cfb73a5660ad",
   "lineup": [
-    "1a93a2d2-b5b6-479b-a595-703e4a2f3885",
     "90c2cec7-0ed5-426a-9de8-754f34d59b39",
-    "7dcf6902-632f-48c5-936a-7cf88802b93a",
-    "84a2b5f6-4955-4007-9299-3d35ae7135d3",
-    "f70dd57b-55c4-4a62-a5ea-7cc4bf9d8ac1",
-    "4ecee7be-93e4-4f04-b114-6b333e0e6408",
     "d35ccee1-9559-49a1-aaa4-7809f7b5c46e",
+    "c0732e36-3731-4f1a-abdc-daa9563b6506",
+    "84a2b5f6-4955-4007-9299-3d35ae7135d3",
     "542af915-79c5-431c-a271-f7185e37c6ae",
-    "c0732e36-3731-4f1a-abdc-daa9563b6506"
+    "4ecee7be-93e4-4f04-b114-6b333e0e6408",
+    "7dcf6902-632f-48c5-936a-7cf88802b93a",
+    "f70dd57b-55c4-4a62-a5ea-7cc4bf9d8ac1",
+    "1a93a2d2-b5b6-479b-a595-703e4a2f3885"
   ],
   "location": "Baltimore",
   "mainColor": "#593037",
