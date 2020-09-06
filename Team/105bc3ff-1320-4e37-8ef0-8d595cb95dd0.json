@@ -33,7 +33,9 @@
   "location": "Seattle",
   "mainColor": "#2b4075",
   "nickname": "Garages",
-  "permAttr": [],
+  "permAttr": [
+    "BLOOD_DONOR"
+  ],
   "rotation": [
     "c6a277c3-d2b5-4363-839b-950896a5ec5e",
     "e3c514ae-f813-470e-9c91-d5baf5ffcf16",

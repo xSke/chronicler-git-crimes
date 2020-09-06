@@ -33,7 +33,9 @@
   "location": "Mexico City",
   "mainColor": "#d15700",
   "nickname": "Wild Wings",
-  "permAttr": [],
+  "permAttr": [
+    "BLOOD_THIEF"
+  ],
   "rotation": [
     "316abea7-9890-4fb8-aaea-86b35e24d9be",
     "ad1e670a-f346-4bf7-a02f-a91649c41ccb",

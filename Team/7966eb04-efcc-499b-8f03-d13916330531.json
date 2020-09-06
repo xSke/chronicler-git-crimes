@@ -33,7 +33,9 @@
   "location": "Yellowstone",
   "mainColor": "#bf0043",
   "nickname": "Magic",
-  "permAttr": [],
+  "permAttr": [
+    "BLOOD_THIEF"
+  ],
   "rotation": [
     "9397ed91-608e-4b13-98ea-e94c795f651e",
     "8adb084b-19fe-4295-bcd2-f92afdb62bd7",

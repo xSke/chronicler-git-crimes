@@ -33,7 +33,9 @@
   "location": "Philly",
   "mainColor": "#399d8f",
   "nickname": "Pies",
-  "permAttr": [],
+  "permAttr": [
+    "BLOOD_THIEF"
+  ],
   "rotation": [
     "1732e623-ffc2-40f0-87ba-fdcf97131f1f",
     "b082ca6e-eb11-4eab-8d6a-30f8be522ec4",

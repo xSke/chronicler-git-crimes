@@ -33,7 +33,9 @@
   "location": "Hellmouth",
   "mainColor": "#fffbab",
   "nickname": "Sunbeams",
-  "permAttr": [],
+  "permAttr": [
+    "BLOOD_WINNER"
+  ],
   "rotation": [
     "5703141c-25d9-46d0-b680-0cf9cfbf4777",
     "3d3be7b8-1cbf-450d-8503-fce0daf46cbf",

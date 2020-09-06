@@ -33,7 +33,9 @@
   "location": "Boston",
   "mainColor": "#f7d1ff",
   "nickname": "Flowers",
-  "permAttr": [],
+  "permAttr": [
+    "BLOOD_WINNER"
+  ],
   "rotation": [
     "ff5a37d9-a6dd-49aa-b6fb-b935fd670820",
     "3e008f60-6842-42e7-b125-b88c7e5c1a95",

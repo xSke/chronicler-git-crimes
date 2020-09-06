@@ -33,7 +33,9 @@
   "location": "San Francisco",
   "mainColor": "#780018",
   "nickname": "Lovers",
-  "permAttr": [],
+  "permAttr": [
+    "BLOOD_PITY"
+  ],
   "rotation": [
     "3c331c87-1634-46c4-87ce-e4b9c59e2969",
     "f2c477fb-28ea-4fcb-943a-9fab22df3da0",

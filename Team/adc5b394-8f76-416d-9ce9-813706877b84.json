@@ -33,7 +33,9 @@
   "location": "Kansas City",
   "mainColor": "#178f55",
   "nickname": "Breath Mints",
-  "permAttr": [],
+  "permAttr": [
+    "BLOOD_DONOR"
+  ],
   "rotation": [
     "a199a681-decf-4433-b6ab-5454450bbe5e",
     "138fccc3-e66f-4b07-8327-d4b6f372f654",

@@ -33,7 +33,9 @@
   "location": "Miami",
   "mainColor": "#9141ba",
   "nickname": "Dalé",
-  "permAttr": [],
+  "permAttr": [
+    "BLOOD_WINNER"
+  ],
   "rotation": [
     "a38ada0a-aeac-4a3d-b9a5-968687ccd2f9",
     "af6b3edc-ed52-4edc-b0c9-14e0a5ae0ee3",

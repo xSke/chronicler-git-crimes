@@ -33,7 +33,9 @@
   "location": "Hawaii",
   "mainColor": "#3ee652",
   "nickname": "Fridays",
-  "permAttr": [],
+  "permAttr": [
+    "BLOOD_THIEF"
+  ],
   "rotation": [
     "e6114fd4-a11d-4f6c-b823-65691bb2d288",
     "7b55d484-6ea9-4670-8145-986cb9e32412",
@@ -41,7 +43,9 @@
     "3a96d76a-c508-45a0-94a0-8f64cd6beeb4",
     "a5f8ce83-02b2-498c-9e48-533a1d81aebf"
   ],
-  "seasAttr": [],
+  "seasAttr": [
+    "SOUNDPROOF"
+  ],
   "seasonShames": 0,
   "seasonShamings": 0,
   "secondaryColor": "#e67575",

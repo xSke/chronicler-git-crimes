@@ -20,7 +20,7 @@
   "gameAttr": [],
   "id": "ca3f1c8c-c025-4d8e-8eef-5be6accbeb16",
   "lineup": [
-    "3af96a6b-866c-4b03-bc14-090acf6ecee5",
+    "d6c69d2d-9344-4b19-85a4-6cfcbaead5d2",
     "c182f33c-aea5-48a2-97ed-dc74fa29b3c0",
     "ad8d15f4-e041-4a12-a10e-901e6285fdc5",
     "20e13b56-599b-4a22-b752-8059effc81dc",
@@ -33,7 +33,9 @@
   "location": "Chicago",
   "mainColor": "#8c2a3e",
   "nickname": "Firefighters",
-  "permAttr": [],
+  "permAttr": [
+    "BLOOD_PITY"
+  ],
   "rotation": [
     "e4e4c17d-8128-4704-9e04-f244d4573c4d",
     "1513aab6-142c-48c6-b43e-fbda65fd64e8",

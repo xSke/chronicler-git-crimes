@@ -33,7 +33,9 @@
   "location": "Hades",
   "mainColor": "#5c1c1c",
   "nickname": "Tigers",
-  "permAttr": [],
+  "permAttr": [
+    "BLOOD_DONOR"
+  ],
   "rotation": [
     "9abe02fb-2b5a-432f-b0af-176be6bd62cf",
     "afc90398-b891-4cdf-9dea-af8a3a79d793",

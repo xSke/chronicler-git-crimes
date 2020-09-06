@@ -33,7 +33,9 @@
   "location": "Unlimited",
   "mainColor": "#64376e",
   "nickname": "Tacos",
-  "permAttr": [],
+  "permAttr": [
+    "BLOOD_WINNER"
+  ],
   "rotation": [
     "21d52455-6c2c-4ee4-8673-ab46b4b926b4",
     "0bb35615-63f2-4492-80ec-b6b322dc5450",

@@ -33,7 +33,9 @@
   "location": "Houston",
   "mainColor": "#67556b",
   "nickname": "Spies",
-  "permAttr": [],
+  "permAttr": [
+    "BLOOD_WINNER"
+  ],
   "rotation": [
     "ceb8f8cd-80b2-47f0-b43e-4d885fa48aa4",
     "3a8c52d7-4124-4a65-a20d-d51abcbe6540",

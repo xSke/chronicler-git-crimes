@@ -33,7 +33,9 @@
   "location": "Charleston",
   "mainColor": "#ffce0a",
   "nickname": "Shoe Thieves",
-  "permAttr": [],
+  "permAttr": [
+    "BLOOD_THIEF"
+  ],
   "rotation": [
     "9786b2c9-1205-4718-b0f7-fc000ce91106",
     "34267632-8c32-4a8b-b5e6-ce1568bb0639",
