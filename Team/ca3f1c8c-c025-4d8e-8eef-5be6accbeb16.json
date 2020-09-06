@@ -14,7 +14,7 @@
     "520e6066-b14b-45cf-985c-0a6ee2dc3f7a",
     "5f3b5dc2-351a-4dee-a9d6-fa5f44f2a365"
   ],
-  "championships": 0,
+  "championships": 1,
   "emoji": "0x1F525",
   "fullName": "Chicago Firefighters",
   "gameAttr": [],
@@ -41,11 +41,9 @@
     "16aff709-e855-47c8-8818-b9ba66e90fe8",
     "d23a1f7e-0071-444e-8361-6ae01f13036f"
   ],
-  "seasAttr": [
-    "SHAME_PIT"
-  ],
-  "seasonShames": 6,
-  "seasonShamings": 9,
+  "seasAttr": [],
+  "seasonShames": 0,
+  "seasonShamings": 0,
   "secondaryColor": "#d6cbb0",
   "shameRuns": 0,
   "shorthand": "CHIF",
