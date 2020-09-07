@@ -1,87 +1,108 @@
 {
   "blessings": [
     {
-      "description": "They're coming! Improve your Team's Baserunning anywhere from -8% to +24%.",
-      "id": "variable_team_baserunning",
-      "title": "Zombies, Run! Presents Horde Hallucinations",
-      "type": 39,
-      "value": 0.32
+      "description": "Boost your team's most Idolized player by 25%.",
+      "id": "boost_most_popular_player",
+      "title": "Rate and Review, brought to you by The Multitude Podcast Collective",
+      "type": 80,
+      "value": 0.25
     },
     {
-      "description": "Improve your Team's Overall rating anywhere from -3% to +9%.",
-      "id": "variable_team_overall",
-      "title": "Rollback Netcode",
-      "type": 36,
-      "value": 0.12
+      "description": "Dial Zero. Call in the Alternate for the least Idolized player on your team.",
+      "id": "randomize_least_popular_player",
+      "title": "Collect Call",
+      "type": 79,
+      "value": 1
     },
     {
-      "description": "Impair your Division opponents' Overall rating by 3%.",
-      "id": "division_overall_cut",
-      "title": "Bad Neighbors",
-      "type": 41,
-      "value": 0.03
+      "description": "Steal the 14th Most Idolized Player in the League.",
+      "id": "steal_leaderboard_player_14",
+      "title": "Lottery Pick",
+      "type": 78,
+      "value": 14
     },
     {
-      "description": "Grab everything you can. Improve your Team's Defense anywhere from -8% to +24%.",
-      "id": "variable_team_defense",
-      "title": "Katamari",
-      "type": 40,
-      "value": 0.32
+      "description": "Never heard of them. Maximize and steal the least Idolized player in the league.",
+      "id": "max_steal_least_popular",
+      "title": "Who?",
+      "type": 70,
+      "value": 1
     },
     {
-      "description": "Improve your Team's Max Vibes by 15%",
-      "id": "team_max_vibes",
-      "title": "Solidarity",
-      "type": 46,
+      "description": "Arrange your lineup in order of their Idolatry.",
+      "id": "popular_lineup_order",
+      "title": "Headliners",
+      "type": 81,
+      "value": 1
+    },
+    {
+      "description": "Hello? Who's there? Replace a player on your team with the Alternate of a random player from another team.",
+      "id": "duplicate_random_player",
+      "title": "Party Line",
+      "type": 82,
+      "value": 1
+    },
+    {
+      "description": "Gotta Go Fast. Boost Your Team's Speed by 15%.",
+      "id": "team_speed_boost",
+      "title": "Spin Attack",
+      "type": 76,
       "value": 0.15
     },
     {
-      "description": "Improve your Team's Min Vibes by 15%",
-      "id": "team_min_vibes",
-      "title": "Keeping it Wavy",
-      "type": 47,
-      "value": 0.15
+      "description": "Learn its secrets. Boost Your Team's Power by 10%.",
+      "id": "team_power_boost",
+      "title": "Ooze",
+      "type": 77,
+      "value": 0.1
     },
     {
-      "description": "Improve 4 random players on your team by one Star (20%).",
-      "id": "random_player_star_boost",
-      "title": "Falling Stars",
-      "type": 54,
-      "value": 4
+      "description": "Keep your enemies closer. Improve your entire division by 2%.",
+      "id": "division_improve_overall",
+      "title": "Mutually Arising",
+      "type": 73,
+      "value": 0.02
     },
     {
-      "description": "Swing Away. The best hitter in the league joins your team.",
-      "id": "steal_best_hitter",
-      "title": "Seduction",
-      "type": 27,
+      "description": "It's not stealing if we all do it. Improve your division by +10% hitting, -5% pitching.",
+      "id": "division_pitching_tradeoff",
+      "title": "Sharing Signs",
+      "type": 74,
+      "value": 0.1
+    },
+    {
+      "description": "They won't notice. Improve your division by +10% pitching, -5% hitting.",
+      "id": "division_hitting_tradeoff",
+      "title": "Move the Mounds Closer",
+      "type": 75,
+      "value": 0.1
+    },
+    {
+      "description": "Mulligan. Your Team gets the Fourth-Strike next Season.",
+      "id": "mod_team_fourthstrike",
+      "title": "Single-Season Fourth Strike",
+      "type": 66,
       "value": 1
     },
     {
-      "description": "They won't stop screaming. Randomizes your team's 5 worst players.",
-      "id": "reroll_worst_players_5",
-      "title": "Soul Swap",
-      "type": 10,
-      "value": 5
-    },
-    {
-      "description": "Praxis. Swap the positions of your worst hitter and worst pitcher.",
-      "id": "worst_hitter_pitcher_swap",
-      "title": "Mutual Aid",
-      "type": 57,
+      "description": "Armor. Prevent a random player on your team from Being Reverbed.",
+      "id": "item_gravityboots",
+      "title": "Gravity Boots",
+      "type": 67,
       "value": 1
     },
     {
-      "description": "Steal the best hitting pitcher in the league.",
-      "id": "steal_best_hitting_pitcher",
-      "title": "The Plan? Hit from the Mound",
-      "type": 59,
+      "description": "Item. Random player on your team hits 50% better during Solar Eclipses.",
+      "id": "item_nightvision",
+      "title": "Night Vision Goggles",
+      "type": 68,
       "value": 1
     },
     {
-      "description": "Steal the best pitching hitter in the league.",
-      "id": "steal_best_pitching_hitter",
-      "title": "The Plan? Pitch from the Plate",
-      "type": 58,
+      "description": "Get Tiny. Item. Random player on your team gets smaller strike zone, increased Baserunning, decreased Power.",
+      "id": "item_shrinkray",
+      "title": "Shrink Ray",
+      "type": 69,
       "value": 1
     },
     {
@@ -92,63 +113,52 @@
       "value": 1
     },
     {
-      "description": "Your team is protected from Incinerations for the following season.",
-      "id": "mod_team_fireproof",
-      "title": "Flame-Resistant Foam",
-      "type": 64,
+      "description": "Is good offense. Swap your best hitting pitcher into your lineup.",
+      "id": "best_hitting_pitcher_swap",
+      "title": "The Best Defense",
+      "type": 56,
       "value": 1
     },
     {
-      "description": "Have you heard a thing we said? Armor. Protect a random Player on your team from Feedback.",
-      "id": "item_headphones",
-      "title": "Noise-Cancelling Headphones",
-      "type": 63,
+      "description": "Is good defense. Swap your best pitching hitter into your rotation.",
+      "id": "best_pitching_hitter_swap",
+      "title": "The Best Offense",
+      "type": 55,
       "value": 1
     },
     {
-      "description": "Your team is protected from Feedback for the following season.",
-      "id": "mod_team_soundproof",
-      "title": "Wax",
-      "type": 65,
+      "description": "The best hitter in your team's subleague (Good or Evil) joins your team.",
+      "id": "steal_best_player_subleague",
+      "title": "Headhunter",
+      "type": 34,
+      "value": 1
+    },
+    {
+      "description": "The best player in your team's division joins your team.",
+      "id": "steal_best_player_division",
+      "title": "Vulture",
+      "type": 35,
       "value": 1
     }
   ],
   "decrees": [
     {
-      "description": " ",
-      "id": "confuse_good",
-      "title": "Confuse Good",
-      "type": 20
+      "description": "Feel the Heat. Makes a random player on each team Spicy.",
+      "id": "hot_sauce",
+      "title": "Hot Sauce",
+      "type": 25
     },
     {
-      "description": " ",
-      "id": "high_filter",
-      "title": "High Filter",
-      "type": 24
+      "description": "When a team is in Party Time --  Mathematically eliminated from the Postseason -- they'll have a chance of receiving random stat boosts during their games.",
+      "id": "enhanced_party_time",
+      "title": "Enhanced Party Time",
+      "type": 26
     },
     {
-      "description": " ",
-      "id": "diagonal_world",
-      "title": "Diagonal World",
-      "type": 23
-    },
-    {
-      "description": " ",
-      "id": "parallel_world",
-      "title": "Parallel World",
-      "type": 22
-    },
-    {
-      "description": " ",
-      "id": "do_nothing",
-      "title": "Do Nothing",
-      "type": 19
-    },
-    {
-      "description": " ",
-      "id": "confuse_evil",
-      "title": "Confuse Evil",
-      "type": 21
+      "description": "Incinerate the least Idolized player on every team.",
+      "id": "new_kids",
+      "title": "New Kids",
+      "type": 27
     }
   ],
   "decreesToPass": 1
