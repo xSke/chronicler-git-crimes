@@ -127,7 +127,7 @@
       "value": 1
     },
     {
-      "description": "The best hitter in your team's subleague (Good or Evil) joins your team.",
+      "description": "The best hitter in your team's subleague (Wild or Mild) joins your team.",
       "id": "steal_best_player_subleague",
       "title": "Headhunter",
       "type": 34,
@@ -149,7 +149,7 @@
       "type": 25
     },
     {
-      "description": "When a team is in Party Time --  Mathematically eliminated from the Postseason -- they'll have a chance of receiving random stat boosts during their games.",
+      "description": "When a team is in Party Time --  Mathematically eliminated from the Postseason -- they'll have a chance of receiving random permanent stat boosts during their games.",
       "id": "enhanced_party_time",
       "title": "Enhanced Party Time",
       "type": 26
