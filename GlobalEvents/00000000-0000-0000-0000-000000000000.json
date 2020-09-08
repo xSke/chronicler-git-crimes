@@ -50,18 +50,18 @@
     "msg": "In memoriam: so so many"
   },
   {
-    "expire": "2020-09-15T11:39:58.39Z",
-    "id": "hitting_stat_leaders_update",
-    "msg": "Stolen Base Leaders: ... Richardson Games, Charleston Shoe Thieves - 6 ..... Beck Whitney, Boston Flowers - 6 ..... Forrest Best, Baltimore Crabs - 5 ..... Parker Parra, Baltimore Crabs - 5 ..... Elijah Bates, Canada Moist Talkers - 3 ..... "
-  },
-  {
-    "expire": "2020-09-15T11:39:58.391Z",
-    "id": "pitching_stat_leaders_update",
-    "msg": "Pitcher Loss Leaders: ... Ronan Jaylee, Dallas Steaks - 1 ..... Gabriel Griffith, Dallas Steaks - 1 ..... PolkaDot Patterson, Canada Moist Talkers - 1 ..... Greer Lott, Canada Moist Talkers - 1 ..... Jenkins Good, Canada Moist Talkers - 1 ..... "
-  },
-  {
     "expire": "2020-09-08T14:15:38.383Z",
     "id": "14c0fb50-2cdc-46fd-ae17-101185f3257d",
     "msg": "Rogue Umpire incinerated Pies hitter Forrest Bookbaby! Replaced by Alston Cerveza"
+  },
+  {
+    "expire": "2020-09-15T12:35:09.429Z",
+    "id": "hitting_stat_leaders_update",
+    "msg": "Batting Average Leaders: ... York Silk, Hawaii Fridays - 0.579 ..... Nagomi Mcdaniel, Breckenridge Jazz Hands - 0.500 ..... Helga Moreno, San Francisco Lovers - 0.476 ..... Fish Summer, Hades Tigers - 0.429 ..... Holden Stanton, Baltimore Crabs - 0.423 ..... "
+  },
+  {
+    "expire": "2020-09-15T12:35:09.435Z",
+    "id": "pitching_stat_leaders_update",
+    "msg": "Strikeout Leaders: ... PolkaDot Patterson, Canada Moist Talkers - 21 ..... Theodore Cervantes, New York Millennials - 20 ..... Betsy Trombone, Philly Pies - 18 ..... Sandoval Crossing, Hellmouth Sunbeams - 17 ..... Kevin Dudley, Charleston Shoe Thieves - 15 ..... "
   }
 ]
