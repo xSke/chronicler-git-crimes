@@ -50,18 +50,18 @@
     "msg": "In memoriam: so so many"
   },
   {
-    "expire": "2020-09-15T19:29:29.37Z",
-    "id": "hitting_stat_leaders_update",
-    "msg": "Runs Batted In Leaders: ... Nagomi Mcdaniel, Breckenridge Jazz Hands - 15 ..... Castillo Turner, Boston Flowers - 15 ..... Jacob Haynes, Boston Flowers - 15 ..... Tamara Crankit, Breckenridge Jazz Hands - 14 ..... Peanut Holloway, Philly Pies - 13 ..... "
-  },
-  {
-    "expire": "2020-09-15T19:29:29.372Z",
-    "id": "pitching_stat_leaders_update",
-    "msg": "WHIP Leaders: ... Hiroto Wilcox, Hades Tigers - 0.481 ..... Adalberto Tosser, Baltimore Crabs - 0.500 ..... Yosh Carpenter, San Francisco Lovers - 0.593 ..... Campos Arias, Breckenridge Jazz Hands - 0.667 ..... Brock Forbes, Baltimore Crabs - 0.679 ..... "
-  },
-  {
     "expire": "2020-09-08T22:03:59.245Z",
     "id": "b4f26b74-b691-4f1b-bbb7-9d5f7b9caa6b",
     "msg": "The Blooddrain gurgled! Sigmund Castillo siphoned some of Nagomi Mcdaniel's baserunning ability!"
+  },
+  {
+    "expire": "2020-09-15T20:30:03.352Z",
+    "id": "hitting_stat_leaders_update",
+    "msg": "On Base Percentage Leaders: ... Nagomi Mcdaniel, Breckenridge Jazz Hands - 0.733 ..... Fish Summer, Hades Tigers - 0.571 ..... York Silk, Hawaii Fridays - 0.542 ..... Lou Roseheart, Chicago Firefighters - 0.536 ..... Logan Horseman, Miami Dalé - 0.533 ..... "
+  },
+  {
+    "expire": "2020-09-15T20:30:03.353Z",
+    "id": "pitching_stat_leaders_update",
+    "msg": "Pitcher Win Leaders: ... Orville Manco, Dallas Steaks - 3 ..... Bright Zimmerman, Philly Pies - 3 ..... Ruslan Greatness, Philly Pies - 3 ..... Beasley Gloom, Charleston Shoe Thieves - 3 ..... Axel Trololol, Baltimore Crabs - 3 ..... "
   }
 ]
