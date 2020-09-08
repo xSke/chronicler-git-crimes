@@ -50,18 +50,18 @@
     "msg": "In memoriam: so so many"
   },
   {
-    "expire": "2020-09-15T08:31:39.093Z",
-    "id": "hitting_stat_leaders_update",
-    "msg": "Home Run Leaders: ... Antonio Wallace, Charleston Shoe Thieves - 4 ..... Swamuel Mora, Chicago Firefighters - 4 ..... Workman Gloom, Canada Moist Talkers - 3 ..... Stew Briggs, Kansas City Breath Mints - 3 ..... José Haley, Mexico City Wild Wings - 3 ..... "
-  },
-  {
-    "expire": "2020-09-15T08:31:39.095Z",
-    "id": "pitching_stat_leaders_update",
-    "msg": "Earned Run Average Leaders: ... Elvis Figueroa, Philly Pies - 0.000 ..... Sixpack Dogwalker, Hawaii Fridays - 0.000 ..... Adalberto Tosser, Baltimore Crabs - 0.000 ..... Finn James, Baltimore Crabs - 0.000 ..... Famous Owens, Hades Tigers - 0.000 ..... "
-  },
-  {
     "expire": "2020-09-08T11:22:42.161Z",
     "id": "17ee2f76-d6ef-4db0-95fd-3922f15637aa",
     "msg": "Francisca Sasquatch and Wyatt Owens switched teams in the feedback!"
+  },
+  {
+    "expire": "2020-09-15T09:30:43.953Z",
+    "id": "hitting_stat_leaders_update",
+    "msg": "Runs Batted In Leaders: ... Stew Briggs, Kansas City Breath Mints - 14 ..... Fitzgerald Blackburn, Houston Spies - 12 ..... Allison Abbott, Seattle Garages - 11 ..... Malik Destiny, Seattle Garages - 10 ..... Peanut Holloway, Philly Pies - 9 ..... "
+  },
+  {
+    "expire": "2020-09-15T09:30:43.955Z",
+    "id": "pitching_stat_leaders_update",
+    "msg": "WHIP Leaders: ... Wyatt Owens, Miami Dalé - 0.000 ..... Finn James, Baltimore Crabs - 0.111 ..... Famous Owens, Hades Tigers - 0.333 ..... Axel Trololol, Baltimore Crabs - 0.400 ..... Sixpack Dogwalker, Hawaii Fridays - 0.444 ..... "
   }
 ]
