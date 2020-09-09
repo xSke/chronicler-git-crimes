@@ -55,18 +55,18 @@
     "msg": "The Blooddrain gurgled! Beasley Gloom siphoned some of Lawrence Horne's pitching ability!"
   },
   {
-    "expire": "2020-09-16T10:31:40.532Z",
-    "id": "hitting_stat_leaders_update",
-    "msg": "Runs Batted In Leaders: ... Peanut Holloway, Philly Pies - 18 ..... Allison Abbott, Seattle Garages - 18 ..... August Sky, Dallas Steaks - 17 ..... Hahn Fox, Miami Dalé - 15 ..... José Haley, Mexico City Wild Wings - 14 ..... "
-  },
-  {
-    "expire": "2020-09-16T10:31:40.534Z",
-    "id": "pitching_stat_leaders_update",
-    "msg": "WHIP Leaders: ... Axel Trololol, Baltimore Crabs - 0.483 ..... Adalberto Tosser, Baltimore Crabs - 0.556 ..... Elvis Figueroa, Philly Pies - 0.611 ..... Wyatt Pothos, Unlimited Tacos - 0.667 ..... Yosh Carpenter, San Francisco Lovers - 0.704 ..... "
-  },
-  {
     "expire": "2020-09-09T13:01:46.627Z",
     "id": "09192b98-903d-44b6-bcb3-a5c0b515d91b",
     "msg": "Hendricks Richardson and Randall Marijuana switched teams in the feedback!"
+  },
+  {
+    "expire": "2020-09-16T11:29:45.957Z",
+    "id": "hitting_stat_leaders_update",
+    "msg": "On Base Percentage Leaders: ... Hendricks Richardson, Hellmouth Sunbeams - 1.000 ..... Jessica Telephone, Philly Pies - 0.780 ..... Randall Marijuana, Breckenridge Jazz Hands - 0.667 ..... Antonio Wallace, Charleston Shoe Thieves - 0.625 ..... Nagomi Mcdaniel, Breckenridge Jazz Hands - 0.579 ..... "
+  },
+  {
+    "expire": "2020-09-16T11:29:45.958Z",
+    "id": "pitching_stat_leaders_update",
+    "msg": "Pitcher Win Leaders: ... Orville Manco, Dallas Steaks - 3 ..... Betsy Trombone, Philly Pies - 3 ..... Arturo Huerta, Seattle Garages - 3 ..... Kevin Dudley, Charleston Shoe Thieves - 3 ..... Rafael Davids, Mexico City Wild Wings - 3 ..... "
   }
 ]
