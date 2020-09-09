@@ -50,18 +50,18 @@
     "msg": "In memoriam: so so many"
   },
   {
-    "expire": "2020-09-16T09:32:34.467Z",
-    "id": "hitting_stat_leaders_update",
-    "msg": "Home Run Leaders: ... Conner Haley, Dallas Steaks - 6 ..... Ziwa Mueller, Canada Moist Talkers - 6 ..... Paula Turnip, Hades Tigers - 6 ..... Allison Abbott, Seattle Garages - 5 ..... Esme Ramsey, Charleston Shoe Thieves - 5 ..... "
-  },
-  {
-    "expire": "2020-09-16T09:32:34.469Z",
-    "id": "pitching_stat_leaders_update",
-    "msg": "Earned Run Average Leaders: ... Adalberto Tosser, Baltimore Crabs - 0.000 ..... Axel Trololol, Baltimore Crabs - 0.931 ..... Cornelius Games, Charleston Shoe Thieves - 1.000 ..... Fynn Doyle, New York Millennials - 1.000 ..... Campos Arias, Breckenridge Jazz Hands - 1.000 ..... "
-  },
-  {
     "expire": "2020-09-09T12:06:46.428Z",
     "id": "1f843d2d-d1ae-4999-b2a0-59929226cae2",
     "msg": "The Blooddrain gurgled! Beasley Gloom siphoned some of Lawrence Horne's pitching ability!"
+  },
+  {
+    "expire": "2020-09-16T10:31:40.532Z",
+    "id": "hitting_stat_leaders_update",
+    "msg": "Runs Batted In Leaders: ... Peanut Holloway, Philly Pies - 18 ..... Allison Abbott, Seattle Garages - 18 ..... August Sky, Dallas Steaks - 17 ..... Hahn Fox, Miami Dalé - 15 ..... José Haley, Mexico City Wild Wings - 14 ..... "
+  },
+  {
+    "expire": "2020-09-16T10:31:40.534Z",
+    "id": "pitching_stat_leaders_update",
+    "msg": "WHIP Leaders: ... Axel Trololol, Baltimore Crabs - 0.483 ..... Adalberto Tosser, Baltimore Crabs - 0.556 ..... Elvis Figueroa, Philly Pies - 0.611 ..... Wyatt Pothos, Unlimited Tacos - 0.667 ..... Yosh Carpenter, San Francisco Lovers - 0.704 ..... "
   }
 ]
