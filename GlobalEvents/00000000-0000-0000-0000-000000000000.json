@@ -50,18 +50,18 @@
     "msg": "In memoriam: so so many"
   },
   {
-    "expire": "2020-09-16T17:31:12.517Z",
-    "id": "hitting_stat_leaders_update",
-    "msg": "Stolen Base Leaders: ... Forrest Best, Baltimore Crabs - 18 ..... Boyfriend Monreal, Kansas City Breath Mints - 10 ..... Parker Parra, Baltimore Crabs - 10 ..... Caleb Novak, Miami Dalé - 10 ..... Richmond Harrison, Hades Tigers - 9 ..... "
-  },
-  {
-    "expire": "2020-09-16T17:31:12.518Z",
-    "id": "pitching_stat_leaders_update",
-    "msg": "Pitcher Loss Leaders: ... Ortiz Morse, Canada Moist Talkers - 4 ..... Oscar Vaughan, Kansas City Breath Mints - 4 ..... Winnie Hess, Kansas City Breath Mints - 4 ..... Evelton McBlase, Hawaii Fridays - 4 ..... Milo Brown, San Francisco Lovers - 4 ..... "
-  },
-  {
     "expire": "2020-09-09T20:16:03.851Z",
     "id": "5d370a7d-f0fc-43d4-9625-ade294ad2dea",
     "msg": "Valentine Games and Andrew Solis switched teams in the feedback!"
+  },
+  {
+    "expire": "2020-09-16T18:31:31.167Z",
+    "id": "hitting_stat_leaders_update",
+    "msg": "Batting Average Leaders: ... Antonio Wallace, Charleston Shoe Thieves - 0.500 ..... Andrew Solis, New York Millennials - 0.500 ..... Caligula Lotus, Boston Flowers - 0.500 ..... Jessica Telephone, Philly Pies - 0.442 ..... York Silk, Hawaii Fridays - 0.378 ..... "
+  },
+  {
+    "expire": "2020-09-16T18:31:31.169Z",
+    "id": "pitching_stat_leaders_update",
+    "msg": "Strikeout Leaders: ... PolkaDot Patterson, Canada Moist Talkers - 51 ..... Theodore Cervantes, New York Millennials - 42 ..... Wesley Poole, Chicago Firefighters - 40 ..... Brock Forbes, Baltimore Crabs - 38 ..... Yosh Carpenter, San Francisco Lovers - 36 ..... "
   }
 ]
