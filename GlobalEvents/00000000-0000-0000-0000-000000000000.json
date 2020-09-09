@@ -50,19 +50,19 @@
     "msg": "In memoriam: so so many"
   },
   {
-    "expire": "2020-09-16T00:55:50.879Z",
-    "id": "hitting_stat_leaders_update",
-    "msg": "Runs Batted In Leaders: ... Allison Abbott, Seattle Garages - 7 ..... Jessica Telephone, Philly Pies - 5 ..... Peanut Holloway, Philly Pies - 5 ..... Lang Richardson, Seattle Garages - 5 ..... Pedro Davids, Baltimore Crabs - 5 ..... "
-  },
-  {
-    "expire": "2020-09-16T00:55:50.882Z",
-    "id": "pitching_stat_leaders_update",
-    "msg": "WHIP Leaders: ... Axel Trololol, Baltimore Crabs - 0.273 ..... Inky Rutledge, Yellowstone Magic - 0.333 ..... Sandoval Crossing, Hellmouth Sunbeams - 0.444 ..... Yeong-Ho Garcia, Yellowstone Magic - 0.500 ..... Stevenson Heat, Hawaii Fridays - 0.556 ..... "
-  },
-  {
     "expire": "2020-09-09T03:00:25.869Z",
     "id": "24f14bc4-3318-4342-a68d-b2e3bc23fa20",
     "msg": "The Dalé had their rotation shuffled in the Reverb!"
+  },
+  {
+    "expire": "2020-09-16T01:28:36.87Z",
+    "id": "hitting_stat_leaders_update",
+    "msg": "On Base Percentage Leaders: ... Valentine Games, New York Millennials - 1.000 ..... Aldon Cashmoney, Breckenridge Jazz Hands - 0.692 ..... Conrad Vaughan, Breckenridge Jazz Hands - 0.667 ..... Jessica Telephone, Philly Pies - 0.643 ..... York Silk, Hawaii Fridays - 0.643 ..... "
+  },
+  {
+    "expire": "2020-09-16T01:28:36.871Z",
+    "id": "pitching_stat_leaders_update",
+    "msg": "Pitcher Win Leaders: ... Leach Herman, Dallas Steaks - 1 ..... Orville Manco, Dallas Steaks - 1 ..... Ronan Jaylee, Dallas Steaks - 1 ..... Betsy Trombone, Philly Pies - 1 ..... Bright Zimmerman, Philly Pies - 1 ..... "
   },
   {
     "expire": "2020-09-09T02:30:50.232Z",
