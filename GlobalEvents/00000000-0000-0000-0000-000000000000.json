@@ -50,11 +50,6 @@
     "msg": "In memoriam: so so many"
   },
   {
-    "expire": "2020-09-09T20:16:03.851Z",
-    "id": "5d370a7d-f0fc-43d4-9625-ade294ad2dea",
-    "msg": "Valentine Games and Andrew Solis switched teams in the feedback!"
-  },
-  {
     "expire": "2020-09-16T19:42:08.299Z",
     "id": "hitting_stat_leaders_update",
     "msg": "Home Run Leaders: ... Conner Haley, Dallas Steaks - 11 ..... Valentine Games, New York Millennials - 11 ..... Ziwa Mueller, Canada Moist Talkers - 9 ..... Jessica Telephone, Philly Pies - 9 ..... Allison Abbott, Seattle Garages - 9 ..... "
@@ -63,5 +58,10 @@
     "expire": "2020-09-16T19:42:08.3Z",
     "id": "pitching_stat_leaders_update",
     "msg": "Earned Run Average Leaders: ... Campos Arias, Breckenridge Jazz Hands - 1.000 ..... Adalberto Tosser, Baltimore Crabs - 1.029 ..... Ron Monstera, Seattle Garages - 1.543 ..... Dunlap Figueroa, Hades Tigers - 1.750 ..... Cornelius Games, Charleston Shoe Thieves - 1.853 ..... "
+  },
+  {
+    "expire": "2020-09-09T22:23:36.249Z",
+    "id": "6603ab43-5e20-4eb7-8735-6de90e56dfb7",
+    "msg": "The Blooddrain gurgled! Rafael Davids siphoned some of Eduardo Woodman's pitching ability!"
   }
 ]
