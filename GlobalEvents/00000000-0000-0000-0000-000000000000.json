@@ -50,18 +50,18 @@
     "msg": "In memoriam: so so many"
   },
   {
+    "expire": "2020-09-16T00:55:50.879Z",
+    "id": "hitting_stat_leaders_update",
+    "msg": "Runs Batted In Leaders: ... Allison Abbott, Seattle Garages - 7 ..... Jessica Telephone, Philly Pies - 5 ..... Peanut Holloway, Philly Pies - 5 ..... Lang Richardson, Seattle Garages - 5 ..... Pedro Davids, Baltimore Crabs - 5 ..... "
+  },
+  {
+    "expire": "2020-09-16T00:55:50.882Z",
+    "id": "pitching_stat_leaders_update",
+    "msg": "WHIP Leaders: ... Axel Trololol, Baltimore Crabs - 0.273 ..... Inky Rutledge, Yellowstone Magic - 0.333 ..... Sandoval Crossing, Hellmouth Sunbeams - 0.444 ..... Yeong-Ho Garcia, Yellowstone Magic - 0.500 ..... Stevenson Heat, Hawaii Fridays - 0.556 ..... "
+  },
+  {
     "expire": "2020-09-09T02:30:50.232Z",
     "id": "b316b480-362e-4898-a67c-34971cfd22cf",
     "msg": "The Blooddrain gurgled! Don Mitchell siphoned some of Jacob Haynes's defensive ability!"
-  },
-  {
-    "expire": "2020-09-16T00:31:26.564Z",
-    "id": "hitting_stat_leaders_update",
-    "msg": "Runs Batted In Leaders: ... York Silk, Hawaii Fridays - 20 ..... Tamara Crankit, Breckenridge Jazz Hands - 19 ..... Nagomi Mcdaniel, Breckenridge Jazz Hands - 19 ..... Jessica Telephone, Philly Pies - 18 ..... Dickerson Morse, Kansas City Breath Mints - 18 ..... "
-  },
-  {
-    "expire": "2020-09-16T00:31:26.565Z",
-    "id": "pitching_stat_leaders_update",
-    "msg": "WHIP Leaders: ... Hiroto Wilcox, Hades Tigers - 0.500 ..... Yosh Carpenter, San Francisco Lovers - 0.639 ..... Elvis Figueroa, Philly Pies - 0.667 ..... Brock Forbes, Baltimore Crabs - 0.676 ..... Famous Owens, Hades Tigers - 0.704 ..... "
   }
 ]
