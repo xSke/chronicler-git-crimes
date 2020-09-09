@@ -55,18 +55,18 @@
     "msg": "The Blooddrain gurgled! Alyssa Harrell siphoned some of Kennedy Cena's defensive ability!"
   },
   {
-    "expire": "2020-09-16T07:31:21.633Z",
-    "id": "hitting_stat_leaders_update",
-    "msg": "Stolen Base Leaders: ... Parker Parra, Baltimore Crabs - 8 ..... Richmond Harrison, Hades Tigers - 8 ..... Forrest Best, Baltimore Crabs - 7 ..... Boyfriend Monreal, Kansas City Breath Mints - 6 ..... Beck Whitney, Boston Flowers - 6 ..... "
-  },
-  {
-    "expire": "2020-09-16T07:31:21.634Z",
-    "id": "pitching_stat_leaders_update",
-    "msg": "Pitcher Loss Leaders: ... Gabriel Griffith, Dallas Steaks - 2 ..... PolkaDot Patterson, Canada Moist Talkers - 2 ..... Ortiz Morse, Canada Moist Talkers - 2 ..... Mooney Doctor, Canada Moist Talkers - 2 ..... Mike Townsend, Seattle Garages - 2 ..... "
-  },
-  {
     "expire": "2020-09-09T10:00:56.301Z",
     "id": "b9d0c91c-0a33-465c-93cd-b1bb865ec49c",
     "msg": "Comfort Septemberish and Collins Melon switched teams in the feedback!"
+  },
+  {
+    "expire": "2020-09-16T08:32:51.516Z",
+    "id": "hitting_stat_leaders_update",
+    "msg": "Batting Average Leaders: ... Antonio Wallace, Charleston Shoe Thieves - 0.500 ..... Caligula Lotus, Boston Flowers - 0.500 ..... Jessica Telephone, Philly Pies - 0.462 ..... York Silk, Hawaii Fridays - 0.444 ..... Winnie Mccall, New York Millennials - 0.442 ..... "
+  },
+  {
+    "expire": "2020-09-16T08:32:51.519Z",
+    "id": "pitching_stat_leaders_update",
+    "msg": "Strikeout Leaders: ... PolkaDot Patterson, Canada Moist Talkers - 33 ..... Theodore Cervantes, New York Millennials - 27 ..... Wesley Poole, Chicago Firefighters - 22 ..... Leach Herman, Dallas Steaks - 20 ..... Betsy Trombone, Philly Pies - 20 ..... "
   }
 ]
