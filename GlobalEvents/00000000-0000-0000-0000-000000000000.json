@@ -50,18 +50,18 @@
     "msg": "In memoriam: so so many"
   },
   {
-    "expire": "2020-09-16T04:30:08.465Z",
-    "id": "hitting_stat_leaders_update",
-    "msg": "Home Run Leaders: ... Conner Haley, Dallas Steaks - 5 ..... Ziwa Mueller, Canada Moist Talkers - 5 ..... Lenny Spruce, Kansas City Breath Mints - 4 ..... Francisco Preston, Yellowstone Magic - 4 ..... Valentine Games, New York Millennials - 4 ..... "
-  },
-  {
-    "expire": "2020-09-16T04:30:08.467Z",
-    "id": "pitching_stat_leaders_update",
-    "msg": "Earned Run Average Leaders: ... Cornelius Games, Charleston Shoe Thieves - 0.000 ..... Montgomery Bullock, Baltimore Crabs - 0.000 ..... Adalberto Tosser, Baltimore Crabs - 0.000 ..... Fynn Doyle, New York Millennials - 0.000 ..... Miguel James, Hellmouth Sunbeams - 0.000 ..... "
-  },
-  {
     "expire": "2020-09-09T07:08:01.641Z",
     "id": "6e98a89f-addc-47b6-806b-71c29d837671",
     "msg": "Magic hitter Sutton Picklestein swallowed a stray Peanut and had an allergic reaction!"
+  },
+  {
+    "expire": "2020-09-16T05:32:40.877Z",
+    "id": "hitting_stat_leaders_update",
+    "msg": "Runs Batted In Leaders: ... Allison Abbott, Seattle Garages - 13 ..... August Sky, Dallas Steaks - 11 ..... Peanut Holloway, Philly Pies - 11 ..... Swamuel Mora, Chicago Firefighters - 10 ..... Ziwa Mueller, Canada Moist Talkers - 9 ..... "
+  },
+  {
+    "expire": "2020-09-16T05:32:40.879Z",
+    "id": "pitching_stat_leaders_update",
+    "msg": "WHIP Leaders: ... Axel Trololol, Baltimore Crabs - 0.400 ..... Elvis Figueroa, Philly Pies - 0.444 ..... Gunther O'Brian, Charleston Shoe Thieves - 0.444 ..... Cornelius Games, Charleston Shoe Thieves - 0.444 ..... Adalberto Tosser, Baltimore Crabs - 0.444 ..... "
   }
 ]
