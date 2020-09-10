@@ -50,18 +50,18 @@
     "msg": "In memoriam: so so many"
   },
   {
-    "expire": "2020-09-17T19:37:11.775Z",
+    "expire": "2020-09-17T20:30:24.36Z",
+    "id": "hitting_stat_leaders_update",
+    "msg": "Home Run Leaders: ... Oliver Mueller, Seattle Garages - 4 ..... José Haley, Mexico City Wild Wings - 4 ..... Nerd Pacheco, Hellmouth Sunbeams - 4 ..... Elijah Bates, Canada Moist Talkers - 3 ..... Peanut Holloway, Philly Pies - 3 ..... "
+  },
+  {
+    "expire": "2020-09-17T20:30:24.362Z",
     "id": "pitching_stat_leaders_update",
-    "msg": "Strikeout Leaders: ... PolkaDot Patterson, Canada Moist Talkers - 21 ..... Kevin Dudley, Charleston Shoe Thieves - 16 ..... Yeong-Ho Garcia, Yellowstone Magic - 16 ..... Wesley Poole, Chicago Firefighters - 16 ..... Oscar Vaughan, Kansas City Breath Mints - 15 ..... "
+    "msg": "Earned Run Average Leaders: ... Campos Arias, Breckenridge Jazz Hands - 0.000 ..... Zeboriah Wilson, Boston Flowers - 0.000 ..... Axel Trololol, Baltimore Crabs - 0.857 ..... Atlas Guerra, Kansas City Breath Mints - 1.000 ..... Parker Meng, San Francisco Lovers - 1.000 ..... "
   },
   {
     "expire": "2020-09-10T21:05:35.007Z",
     "id": "04b7b507-633c-4f75-9889-29fe5845ca39",
     "msg": "Shoe Thieves hitter Joe Voorhees swallowed a stray Peanut and had an allergic reaction!"
-  },
-  {
-    "expire": "2020-09-17T19:37:11.765Z",
-    "id": "hitting_stat_leaders_update",
-    "msg": "Batting Average Leaders: ... Fish Summer, Canada Moist Talkers - 0.545 ..... Jacob Haynes, Boston Flowers - 0.524 ..... Sandie Turner, New York Millennials - 0.520 ..... Antonio Wallace, Charleston Shoe Thieves - 0.500 ..... Elijah Valenzuela, Hawaii Fridays - 0.500 ..... "
   }
 ]
