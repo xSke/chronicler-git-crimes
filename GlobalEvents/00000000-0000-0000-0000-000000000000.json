@@ -50,6 +50,16 @@
     "msg": "In memoriam: so so many"
   },
   {
+    "expire": "2020-09-17T05:30:01.642Z",
+    "id": "hitting_stat_leaders_update",
+    "msg": "Home Run Leaders: ... Marco Stink, Dallas Steaks - 5 ..... Randall Marijuana, Breckenridge Jazz Hands - 5 ..... Malik Romayne, Hellmouth Sunbeams - 5 ..... Peanut Holloway, Philly Pies - 3 ..... Mickey Woods, Philly Pies - 3 ..... "
+  },
+  {
+    "expire": "2020-09-17T05:30:01.644Z",
+    "id": "pitching_stat_leaders_update",
+    "msg": "Earned Run Average Leaders: ... Henry Marshallow, Seattle Garages - 0.000 ..... Edric Tosser, Chicago Firefighters - 0.000 ..... Jenkins Good, Canada Moist Talkers - 1.000 ..... Gunther O'Brian, Charleston Shoe Thieves - 1.000 ..... Burke Gonzales, Mexico City Wild Wings - 1.000 ..... "
+  },
+  {
     "expire": "2020-09-10T06:02:49.152Z",
     "id": "c6334504-affe-4fe7-871f-90a489f71225",
     "msg": "Sigmund Castillo and Alexander Horne switched teams in the feedback!"
@@ -60,13 +70,8 @@
     "msg": "The Blooddrain gurgled! Cory Ross siphoned some of Elijah Valenzuela's defensive ability!"
   },
   {
-    "expire": "2020-09-17T04:29:53.064Z",
-    "id": "hitting_stat_leaders_update",
-    "msg": "Batting Average Leaders: ... Randall Marijuana, Breckenridge Jazz Hands - 0.667 ..... Conrad Vaughan, Breckenridge Jazz Hands - 0.611 ..... Antonio Wallace, Charleston Shoe Thieves - 0.500 ..... Caligula Lotus, Boston Flowers - 0.500 ..... Justice Spoon, Chicago Firefighters - 0.478 ..... "
-  },
-  {
-    "expire": "2020-09-17T04:29:53.067Z",
-    "id": "pitching_stat_leaders_update",
-    "msg": "Strikeout Leaders: ... PolkaDot Patterson, Canada Moist Talkers - 21 ..... Theodore Cervantes, New York Millennials - 18 ..... Brock Forbes, Baltimore Crabs - 16 ..... Wesley Poole, Chicago Firefighters - 16 ..... Mike Townsend, Seattle Garages - 14 ..... "
+    "expire": "2020-09-10T07:20:10.43Z",
+    "id": "939940fe-a22e-43eb-bf16-08853df92868",
+    "msg": "The Blooddrain gurgled! Summers Pony siphoned some of Karato Bean's baserunning ability!"
   }
 ]
