@@ -50,18 +50,18 @@
     "msg": "In memoriam: so so many"
   },
   {
-    "expire": "2020-09-17T06:30:53.693Z",
-    "id": "hitting_stat_leaders_update",
-    "msg": "Runs Batted In Leaders: ... Randall Marijuana, Breckenridge Jazz Hands - 18 ..... August Sky, Dallas Steaks - 13 ..... Marco Stink, Dallas Steaks - 11 ..... Peanut Holloway, Philly Pies - 11 ..... Beck Whitney, Boston Flowers - 10 ..... "
-  },
-  {
-    "expire": "2020-09-17T06:30:53.703Z",
-    "id": "pitching_stat_leaders_update",
-    "msg": "WHIP Leaders: ... Campos Arias, Breckenridge Jazz Hands - 0.222 ..... Burke Gonzales, Mexico City Wild Wings - 0.333 ..... Cornelius Games, Charleston Shoe Thieves - 0.500 ..... Henry Marshallow, Seattle Garages - 0.556 ..... Stevenson Heat, Hawaii Fridays - 0.556 ..... "
-  },
-  {
     "expire": "2020-09-10T09:08:39.26Z",
     "id": "37fc648a-48f3-4f6c-a1d0-3bbcf45e28da",
     "msg": "The Blooddrain gurgled! Agan Harrison siphoned some of Mullen Peterson's pitching ability!"
+  },
+  {
+    "expire": "2020-09-17T07:43:43.945Z",
+    "id": "hitting_stat_leaders_update",
+    "msg": "On Base Percentage Leaders: ... York Silk, Hawaii Fridays - 0.677 ..... Antonio Wallace, Charleston Shoe Thieves - 0.625 ..... Randall Marijuana, Breckenridge Jazz Hands - 0.593 ..... Conrad Vaughan, Breckenridge Jazz Hands - 0.586 ..... Winnie Mccall, New York Millennials - 0.563 ..... "
+  },
+  {
+    "expire": "2020-09-17T07:43:43.947Z",
+    "id": "pitching_stat_leaders_update",
+    "msg": "Pitcher Win Leaders: ... Leach Herman, Dallas Steaks - 2 ..... Ortiz Morse, Canada Moist Talkers - 2 ..... Betsy Trombone, Philly Pies - 2 ..... Tot Clark, Seattle Garages - 2 ..... Arturo Huerta, Seattle Garages - 2 ..... "
   }
 ]
