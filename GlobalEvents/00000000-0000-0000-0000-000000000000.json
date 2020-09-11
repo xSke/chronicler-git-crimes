@@ -50,16 +50,6 @@
     "msg": "In memoriam: so so many"
   },
   {
-    "expire": "2020-09-18T13:31:42.168Z",
-    "id": "hitting_stat_leaders_update",
-    "msg": "On Base Percentage Leaders: ... Nagomi Mcdaniel, Breckenridge Jazz Hands - 0.630 ..... Antonio Wallace, Charleston Shoe Thieves - 0.625 ..... Esme Ramsey, Charleston Shoe Thieves - 0.600 ..... Comfort Septemberish, Breckenridge Jazz Hands - 0.556 ..... Steph Weeks, Breckenridge Jazz Hands - 0.536 ..... "
-  },
-  {
-    "expire": "2020-09-18T13:31:42.17Z",
-    "id": "pitching_stat_leaders_update",
-    "msg": "Pitcher Win Leaders: ... Leach Herman, Dallas Steaks - 2 ..... Betsy Trombone, Philly Pies - 2 ..... Tot Clark, Seattle Garages - 2 ..... Gunther O'Brian, Charleston Shoe Thieves - 2 ..... Beasley Gloom, Charleston Shoe Thieves - 2 ..... "
-  },
-  {
     "expire": "2020-09-11T16:20:16.558Z",
     "id": "2db4b7f3-ccba-4364-9dca-31b029a04c14",
     "msg": "The Dalé had their lineup shuffled in the Reverb!"
@@ -68,5 +58,15 @@
     "expire": "2020-09-11T16:25:04.309Z",
     "id": "8db9878e-f644-484c-997e-489dc63acf29",
     "msg": "Rogue Umpire incinerated Pies hitter Mickey Woods! Replaced by Jaxon Buckley"
+  },
+  {
+    "expire": "2020-09-18T14:30:44.962Z",
+    "id": "hitting_stat_leaders_update",
+    "msg": "Stolen Base Leaders: ... Hewitt Best, Kansas City Breath Mints - 9 ..... Forrest Best, Baltimore Crabs - 7 ..... Richardson Games, Charleston Shoe Thieves - 5 ..... Elijah Bates, Canada Moist Talkers - 4 ..... Parker Parra, Baltimore Crabs - 4 ..... "
+  },
+  {
+    "expire": "2020-09-18T14:30:44.963Z",
+    "id": "pitching_stat_leaders_update",
+    "msg": "Pitcher Loss Leaders: ... Oscar Vaughan, Kansas City Breath Mints - 3 ..... PolkaDot Patterson, Canada Moist Talkers - 2 ..... Ortiz Morse, Canada Moist Talkers - 2 ..... Snyder Briggs, Charleston Shoe Thieves - 2 ..... Bevan Underbuck, Hawaii Fridays - 2 ..... "
   }
 ]
