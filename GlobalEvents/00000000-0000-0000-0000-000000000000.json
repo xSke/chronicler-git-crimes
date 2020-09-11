@@ -50,18 +50,18 @@
     "msg": "In memoriam: so so many"
   },
   {
-    "expire": "2020-09-18T00:30:53.599Z",
-    "id": "hitting_stat_leaders_update",
-    "msg": "Batting Average Leaders: ... Antonio Wallace, Charleston Shoe Thieves - 0.500 ..... Caligula Lotus, Boston Flowers - 0.500 ..... Alexander Horne, Hellmouth Sunbeams - 0.500 ..... Nerd Pacheco, Hellmouth Sunbeams - 0.500 ..... Peanut Holloway, Philly Pies - 0.489 ..... "
-  },
-  {
-    "expire": "2020-09-18T00:30:53.602Z",
-    "id": "pitching_stat_leaders_update",
-    "msg": "Strikeout Leaders: ... Sandoval Crossing, Hellmouth Sunbeams - 29 ..... PolkaDot Patterson, Canada Moist Talkers - 27 ..... Kevin Dudley, Charleston Shoe Thieves - 25 ..... Wesley Poole, Chicago Firefighters - 24 ..... Oscar Vaughan, Kansas City Breath Mints - 23 ..... "
-  },
-  {
     "expire": "2020-09-11T03:15:24.212Z",
     "id": "6ad68e26-f666-4015-b022-29ccbcd8e2bd",
     "msg": "Hobbs Cain and Alston Cerveza switched teams in the feedback!"
+  },
+  {
+    "expire": "2020-09-18T01:30:18.011Z",
+    "id": "hitting_stat_leaders_update",
+    "msg": "Home Run Leaders: ... Forrest Best, Baltimore Crabs - 7 ..... Holden Stanton, Baltimore Crabs - 6 ..... Nagomi Mcdaniel, Breckenridge Jazz Hands - 6 ..... Jacob Haynes, Boston Flowers - 6 ..... Conner Haley, Dallas Steaks - 5 ..... "
+  },
+  {
+    "expire": "2020-09-18T01:30:18.013Z",
+    "id": "pitching_stat_leaders_update",
+    "msg": "Earned Run Average Leaders: ... Jenkins Good, Canada Moist Talkers - 1.000 ..... PolkaDot Zavala, Kansas City Breath Mints - 1.000 ..... Rafael Davids, Mexico City Wild Wings - 1.000 ..... Campos Arias, Breckenridge Jazz Hands - 1.000 ..... Owen Picklestein, Boston Flowers - 1.000 ..... "
   }
 ]
