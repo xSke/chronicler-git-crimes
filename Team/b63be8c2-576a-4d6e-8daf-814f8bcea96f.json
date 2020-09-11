@@ -20,15 +20,15 @@
   "gameAttr": [],
   "id": "b63be8c2-576a-4d6e-8daf-814f8bcea96f",
   "lineup": [
-    "0eddd056-9d72-4804-bd60-53144b785d5c",
-    "5a26fc61-d75d-4c01-9ce2-1880ffb5550f",
-    "12577256-bc4e-4955-81d6-b422d895fb12",
-    "2e6d4fa9-f930-47bd-971a-dd54a3cf7db1",
-    "c22e3af5-9001-465f-b450-864d7db2b4a0",
-    "7a75d626-d4fd-474f-a862-473138d8c376",
-    "2ca0c790-e1d5-4a14-ab3c-e9241c87fc23",
     "0cc5bd39-e90d-42f9-9dd8-7e703f316436",
-    "8cf78b49-d0ca-4703-88e8-4bcad26c44b1"
+    "2e6d4fa9-f930-47bd-971a-dd54a3cf7db1",
+    "0eddd056-9d72-4804-bd60-53144b785d5c",
+    "2ca0c790-e1d5-4a14-ab3c-e9241c87fc23",
+    "5a26fc61-d75d-4c01-9ce2-1880ffb5550f",
+    "7a75d626-d4fd-474f-a862-473138d8c376",
+    "8cf78b49-d0ca-4703-88e8-4bcad26c44b1",
+    "c22e3af5-9001-465f-b450-864d7db2b4a0",
+    "12577256-bc4e-4955-81d6-b422d895fb12"
   ],
   "location": "Miami",
   "mainColor": "#9141ba",
