@@ -26,7 +26,9 @@
   "overpowerment": 0.6692427934187828,
   "patheticism": 0.23590198952572453,
   "peanutAllergy": false,
-  "permAttr": [],
+  "permAttr": [
+    "SHELLED"
+  ],
   "pressurization": 0.19240544381174615,
   "ritual": "Batting Practice",
   "ruthlessness": 0.5021803174782815,

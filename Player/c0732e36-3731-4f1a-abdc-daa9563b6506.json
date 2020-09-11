@@ -26,7 +26,9 @@
   "overpowerment": 1.1148738135644432,
   "patheticism": 0.01,
   "peanutAllergy": false,
-  "permAttr": [],
+  "permAttr": [
+    "SHELLED"
+  ],
   "pressurization": 0.572681607691041,
   "ritual": "Cursing the sun",
   "ruthlessness": 0.9319922566771603,
