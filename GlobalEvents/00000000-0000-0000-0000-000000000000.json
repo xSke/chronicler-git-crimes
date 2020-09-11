@@ -55,13 +55,13 @@
     "msg": "Hobbs Cain and Alston Cerveza switched teams in the feedback!"
   },
   {
-    "expire": "2020-09-18T01:30:18.011Z",
+    "expire": "2020-09-18T02:32:56.864Z",
     "id": "hitting_stat_leaders_update",
-    "msg": "Home Run Leaders: ... Forrest Best, Baltimore Crabs - 7 ..... Holden Stanton, Baltimore Crabs - 6 ..... Nagomi Mcdaniel, Breckenridge Jazz Hands - 6 ..... Jacob Haynes, Boston Flowers - 6 ..... Conner Haley, Dallas Steaks - 5 ..... "
+    "msg": "Runs Batted In Leaders: ... Peanut Holloway, Philly Pies - 22 ..... Terrell Bradley, Hawaii Fridays - 14 ..... Jacob Haynes, Boston Flowers - 14 ..... Nagomi Nava, Hellmouth Sunbeams - 14 ..... Allison Abbott, Seattle Garages - 13 ..... "
   },
   {
-    "expire": "2020-09-18T01:30:18.013Z",
+    "expire": "2020-09-18T02:32:56.866Z",
     "id": "pitching_stat_leaders_update",
-    "msg": "Earned Run Average Leaders: ... Jenkins Good, Canada Moist Talkers - 1.000 ..... PolkaDot Zavala, Kansas City Breath Mints - 1.000 ..... Rafael Davids, Mexico City Wild Wings - 1.000 ..... Campos Arias, Breckenridge Jazz Hands - 1.000 ..... Owen Picklestein, Boston Flowers - 1.000 ..... "
+    "msg": "WHIP Leaders: ... Wyatt Pothos, Unlimited Tacos - 0.588 ..... Caleb Alvarado, Chicago Firefighters - 0.607 ..... Jenkins Good, Canada Moist Talkers - 0.611 ..... Dunlap Figueroa, Hades Tigers - 0.611 ..... Axel Trololol, Baltimore Crabs - 0.613 ..... "
   }
 ]
