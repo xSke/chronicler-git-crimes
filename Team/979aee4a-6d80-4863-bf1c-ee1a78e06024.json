@@ -43,12 +43,10 @@
     "3a96d76a-c508-45a0-94a0-8f64cd6beeb4",
     "a5f8ce83-02b2-498c-9e48-533a1d81aebf"
   ],
-  "rotationSlot": 98,
-  "seasAttr": [
-    "SOUNDPROOF"
-  ],
-  "seasonShames": 7,
-  "seasonShamings": 3,
+  "rotationSlot": 0,
+  "seasAttr": [],
+  "seasonShames": 0,
+  "seasonShamings": 0,
   "secondaryColor": "#e67575",
   "shameRuns": 0,
   "shorthand": "HF",
