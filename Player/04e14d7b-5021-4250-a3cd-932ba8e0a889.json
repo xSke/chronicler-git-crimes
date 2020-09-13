@@ -25,13 +25,13 @@
   "omniscience": 0.2258645337296552,
   "overpowerment": 0.7907612301575391,
   "patheticism": 0.7661289986744477,
-  "peanutAllergy": null,
+  "peanutAllergy": false,
   "permAttr": [
     "RETURNED",
     "DEBT"
   ],
   "pressurization": 0.3628148179494586,
-  "ritual": null,
+  "ritual": "Checking their pulse",
   "ruthlessness": 0.9820244125110776,
   "seasAttr": [],
   "shakespearianism": 0.5877932003435842,
