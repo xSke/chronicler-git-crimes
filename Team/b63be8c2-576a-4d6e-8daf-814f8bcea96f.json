@@ -34,7 +34,8 @@
   "mainColor": "#9141ba",
   "nickname": "Dalé",
   "permAttr": [
-    "BLOOD_WINNER"
+    "BLOOD_WINNER",
+    "LIFE_OF_PARTY"
   ],
   "rotation": [
     "a38ada0a-aeac-4a3d-b9a5-968687ccd2f9",

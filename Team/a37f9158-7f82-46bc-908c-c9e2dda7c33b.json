@@ -28,7 +28,7 @@
     "678170e4-0688-436d-a02d-c0467f9af8c0",
     "4f328502-d347-4d2c-8fad-6ae59431d781",
     "9c3273a0-2711-4958-b716-bfcf60857013",
-    "c0732e36-3731-4f1a-abdc-daa9563b6506"
+    "817dee99-9ccf-4f41-84e3-dc9773237bc8"
   ],
   "location": "Breckenridge",
   "mainColor": "#6388ad",
@@ -44,7 +44,9 @@
     "f3c07eaf-3d6c-4cc3-9e54-cbecc9c08286"
   ],
   "rotationSlot": 0,
-  "seasAttr": [],
+  "seasAttr": [
+    "EXTRA_STRIKE"
+  ],
   "seasonShames": 0,
   "seasonShamings": 0,
   "secondaryColor": "#9182C4",
