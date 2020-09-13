@@ -1,17 +1,51 @@
 {
   "blessings": [
     {
-      "description": "Boost your team's most Idolized player by 25%.",
-      "id": "boost_most_popular_player",
-      "title": "Rate and Review, brought to you by The Multitude Podcast Collective",
-      "type": 80,
-      "value": 0.25
+      "description": "OMG they noticed us. Steal a random player from the Idol Leaderboard.",
+      "id": "steal_random_leaderboard_player",
+      "subheader": "Brought to you by @The Multitude Podcast Collective@http://multitude.productions/blaseball",
+      "title": "Popular by Association",
+      "type": 87,
+      "value": 1
     },
     {
-      "description": "Dial Zero. Call in the Alternate for the least Idolized player on your team.",
-      "id": "randomize_least_popular_player",
-      "title": "Collect Call",
-      "type": 79,
+      "description": "Steal 3 random players from the Internet Series Champion.",
+      "id": "steal_champion_players",
+      "subheader": "Brought to you by @The Orange Groves Podcast Network@http://www.theorangegroves.com/blaseball",
+      "title": "Champs in the Making",
+      "type": 88,
+      "value": 3
+    },
+    {
+      "description": "Item. A sawed-off bat of protection. Impossible to wield. Minimize a Player, but they shield your team from incineration.",
+      "id": "item_sawed_off_bat",
+      "subheader": "Brought to you by @Scavengers Network@http://www.scavengersnetwork.com/",
+      "title": "The Iffey Jr.",
+      "type": 83,
+      "value": 1
+    },
+    {
+      "description": "Single-Serving Heat. Make a random player on your team Spicy.",
+      "id": "mod_player_hot_sauce",
+      "subheader": "Brought to you by @Indiana Dunes Photography@https://indianadunesphotography.com",
+      "title": "Hot Sauce Packet",
+      "type": 84,
+      "value": 1
+    },
+    {
+      "description": "Because, that's why. Re-rolls your team's 3 worst hitters.",
+      "id": "reroll_worst_hitters_3",
+      "subheader": "Brought to you by @Massif Press@https://massif-press.itch.io/",
+      "title": "Paracausal Event",
+      "type": 12,
+      "value": 3
+    },
+    {
+      "description": "Arrange your lineup in order of their Idolatry.",
+      "id": "popular_lineup_order",
+      "subheader": "Brought to you by @MacStories@https://club.macstories.net",
+      "title": "Headliners",
+      "type": 81,
       "value": 1
     },
     {
@@ -22,143 +56,115 @@
       "value": 14
     },
     {
-      "description": "Never heard of them. Maximize and steal the least Idolized player in the league.",
-      "id": "max_steal_least_popular",
-      "title": "Who?",
-      "type": 70,
+      "description": "Steal the 21st Most Idolized Player on the Leaderboard.",
+      "id": "steal_leaderboard_player_21",
+      "title": "Blind Date",
+      "type": 78,
+      "value": 21
+    },
+    {
+      "description": "Give all of the teams that are not in your division Targeted Shame.",
+      "id": "mod_non_division_targeted_shame",
+      "title": "The Shame Bubble",
+      "type": 86,
       "value": 1
     },
     {
-      "description": "Arrange your lineup in order of their Idolatry.",
-      "id": "popular_lineup_order",
-      "title": "Headliners",
-      "type": 81,
+      "description": "Plug in. Give your team Electric blood type.",
+      "id": "team_blood_type_electric",
+      "title": "Closed Circuit",
+      "type": 85,
       "value": 1
     },
     {
-      "description": "Hello? Who's there? Replace a player on your team with the Alternate of a random player from another team.",
-      "id": "duplicate_random_player",
-      "title": "Party Line",
-      "type": 82,
+      "description": "Everyone kept chanting my name, it was SO EMBARRASSING. Protect a Player from being Idolized.",
+      "id": "mod_player_no_idolization",
+      "title": "Humblebrag",
+      "type": 92,
       "value": 1
     },
     {
-      "description": "Gotta Go Fast. Boost Your Team's Speed by 15%.",
-      "id": "team_speed_boost",
-      "title": "Spin Attack",
-      "type": 76,
-      "value": 0.15
-    },
-    {
-      "description": "Learn its secrets. Boost Your Team's Power by 10%.",
-      "id": "team_power_boost",
-      "title": "Ooze",
-      "type": 77,
-      "value": 0.1
-    },
-    {
-      "description": "Keep your enemies closer. Improve your entire division by 2%.",
-      "id": "division_improve_overall",
-      "title": "Mutually Arising",
-      "type": 73,
-      "value": 0.02
-    },
-    {
-      "description": "It's not stealing if we all do it. Improve your division by +10% hitting, -5% pitching.",
-      "id": "division_pitching_tradeoff",
-      "title": "Sharing Signs",
-      "type": 74,
-      "value": 0.1
-    },
-    {
-      "description": "They won't notice. Improve your division by +10% pitching, -5% hitting.",
-      "id": "division_hitting_tradeoff",
-      "title": "Move the Mounds Closer",
-      "type": 75,
-      "value": 0.1
-    },
-    {
-      "description": "Mulligan. Your Team gets the Fourth-Strike next Season.",
-      "id": "mod_team_fourthstrike",
-      "title": "Single-Season Fourth Strike",
-      "type": 66,
-      "value": 1
-    },
-    {
-      "description": "Armor. Prevent a random player on your team from Being Reverbed.",
-      "id": "item_gravityboots",
-      "title": "Gravity Boots",
-      "type": 67,
-      "value": 1
-    },
-    {
-      "description": "Item. Random player on your team hits 50% better during Solar Eclipses.",
-      "id": "item_nightvision",
-      "title": "Night Vision Goggles",
-      "type": 68,
-      "value": 1
-    },
-    {
-      "description": "Get Tiny. Item. Random player on your team gets smaller strike zone, increased Baserunning, decreased Power.",
-      "id": "item_shrinkray",
-      "title": "Shrink Ray",
-      "type": 69,
+      "description": "Look at me. Most Idolized player on your team gives double-payouts as an Idol.",
+      "id": "mod_player_double_payouts",
+      "title": "Center of Attention",
+      "type": 93,
       "value": 1
     },
     {
       "description": "Armor. Protect a random Player on your team from Incinerations.",
       "id": "item_fireproof",
-      "title": "Fireproof Jacket",
+      "title": "Scorpler's Jacket",
       "type": 62,
       "value": 1
     },
     {
-      "description": "Is good offense. Swap your best hitting pitcher into your lineup.",
-      "id": "best_hitting_pitcher_swap",
-      "title": "The Best Defense",
-      "type": 56,
+      "description": "Steal Armor from a random player on an opposing team.",
+      "id": "armor_steal_random",
+      "title": "Hand-Me Downs",
+      "type": 91,
       "value": 1
     },
     {
-      "description": "Is good defense. Swap your best pitching hitter into your rotation.",
-      "id": "best_pitching_hitter_swap",
-      "title": "The Best Offense",
-      "type": 55,
+      "description": "Feed your hitters coffee grounds. Team hitting changes anywhere from -5% to +15%",
+      "id": "variable_team_hitting",
+      "title": "Pretty Plz?",
+      "type": 37,
+      "value": 0.2
+    },
+    {
+      "description": "Re-rolls your team's 3 worst pitchers.",
+      "id": "reroll_worst_pitchers_3",
+      "title": "Exploratory Surgeries",
+      "type": 11,
+      "value": 3
+    },
+    {
+      "description": "Recruit a rookie to be the 10th player in your lineup.",
+      "id": "add_new_player_lineup",
+      "title": "New Recruit",
+      "type": 94,
       "value": 1
     },
     {
-      "description": "The best hitter in your team's subleague (Wild or Mild) joins your team.",
-      "id": "steal_best_player_subleague",
-      "title": "Headhunter",
-      "type": 34,
+      "description": "Remove the worst player from your lineup. Your lineup is now shorter.",
+      "id": "remove_worst_lineup",
+      "title": "Downsizing",
+      "type": 95,
       "value": 1
     },
     {
-      "description": "The best player in your team's division joins your team.",
-      "id": "steal_best_player_division",
-      "title": "Vulture",
-      "type": 35,
-      "value": 1
+      "description": "Stretch. Reroll your 3 worst Baserunners' baserunning.",
+      "id": "reroll_worst_baserunners_3",
+      "title": "Jelly Legs",
+      "type": 89,
+      "value": 3
+    },
+    {
+      "description": "Cover yourselves in the stuff. Re-roll your three worst Defenders' defense.",
+      "id": "reroll_worst_defense_3",
+      "title": "Stickum",
+      "type": 90,
+      "value": 3
     }
   ],
   "decrees": [
     {
-      "description": "Feel the Heat. Makes a random player on each team Spicy.",
-      "id": "hot_sauce",
-      "title": "Hot Sauce",
-      "type": 25
+      "description": "The Top 4 Teams of the Regular Season must run an extra base next season.",
+      "id": "fifth_base",
+      "title": "Fifth Base",
+      "type": 28
     },
     {
-      "description": "When a team is in Party Time --  Mathematically eliminated from the Postseason -- they'll have a chance of receiving random permanent stat boosts during their games.",
-      "id": "enhanced_party_time",
-      "title": "Enhanced Party Time",
-      "type": 26
+      "description": "The Top 4 Teams of the Regular Season will walk batters on the 3rd Ball of an At-Bat instead of the 4th next season.",
+      "id": "walk_in_the_park",
+      "title": "Walk in the Park",
+      "type": 29
     },
     {
-      "description": "Incinerate the least Idolized player on every team.",
-      "id": "new_kids",
-      "title": "New Kids",
-      "type": 27
+      "description": "The Top 4 Teams of the Regular Season cannot win blessings in this Election.",
+      "id": "bless_off",
+      "title": "Bless Off",
+      "type": 30
     }
   ],
   "decreesToPass": 1
