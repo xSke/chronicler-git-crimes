@@ -50,18 +50,18 @@
     "msg": "In memoriam: so so many"
   },
   {
+    "expire": "2020-09-21T20:55:38.231Z",
+    "id": "hitting_stat_leaders_update",
+    "msg": "Stolen Base Leaders: ... Richmond Harrison, Hades Tigers - 3 ..... Francisco Preston, Yellowstone Magic - 3 ..... Avila Guzman, Miami Dale - 3 ..... Allison Abbott, Seattle Garages - 2 ..... Luis Acevedo, Seattle Garages - 2 ..... "
+  },
+  {
+    "expire": "2020-09-21T20:55:38.232Z",
+    "id": "pitching_stat_leaders_update",
+    "msg": "Pitcher Loss Leaders: ... Tot Clark, Seattle Garages - 1 ..... Arturo Huerta, Seattle Garages - 1 ..... Orville Manco, Dallas Steaks - 1 ..... August Mina, Dallas Steaks - 1 ..... Gunther O'Brian, Charleston Shoe Thieves - 1 ..... "
+  },
+  {
     "expire": "2020-09-18T18:00:00.087Z",
     "id": "SHELLING",
     "msg": "The Shelled One Descended!"
-  },
-  {
-    "expire": "2020-09-21T20:34:42.7Z",
-    "id": "hitting_stat_leaders_update",
-    "msg": "Stolen Base Leaders: ... Forrest Best, Baltimore Crabs - 4 ..... Richmond Harrison, Hades Tigers - 3 ..... Francisco Preston, Yellowstone Magic - 3 ..... Collins Melon, Breckenridge Jazz Hands - 3 ..... Steph Weeks, Breckenridge Jazz Hands - 3 ..... "
-  },
-  {
-    "expire": "2020-09-21T20:34:42.701Z",
-    "id": "pitching_stat_leaders_update",
-    "msg": "Pitcher Loss Leaders: ... Tot Clark, Seattle Garages - 1 ..... Arturo Huerta, Seattle Garages - 1 ..... Ron Monstera, Seattle Garages - 1 ..... Famous Owens, Hades Tigers - 1 ..... Ruslan Greatness, Philly Pies - 1 ..... "
   }
 ]
