@@ -50,18 +50,18 @@
     "msg": "In memoriam: so so many"
   },
   {
-    "expire": "2020-09-18T18:39:47.661Z",
-    "id": "hitting_stat_leaders_update",
-    "msg": "On Base Percentage Leaders: ... Antonio Wallace, Charleston Shoe Thieves - 0.625 ..... Comfort Septemberish, Breckenridge Jazz Hands - 0.556 ..... Jacob Haynes, Boston Flowers - 0.545 ..... Workman Gloom, Canada Moist Talkers - 0.531 ..... Nagomi Mcdaniel, Breckenridge Jazz Hands - 0.524 ..... "
-  },
-  {
-    "expire": "2020-09-18T18:39:47.662Z",
-    "id": "pitching_stat_leaders_update",
-    "msg": "Pitcher Win Leaders: ... Leach Herman, Dallas Steaks - 3 ..... Gunther O'Brian, Charleston Shoe Thieves - 3 ..... Beasley Gloom, Charleston Shoe Thieves - 3 ..... Cornelius Games, Charleston Shoe Thieves - 3 ..... Montgomery Bullock, Baltimore Crabs - 3 ..... "
-  },
-  {
     "expire": "2020-09-18T18:00:00.087Z",
     "id": "SHELLING",
     "msg": "The Shelled One Descended!"
+  },
+  {
+    "expire": "2020-09-21T16:36:55.083Z",
+    "id": "hitting_stat_leaders_update",
+    "msg": "Batting Average Leaders: ... Wyatt Glover, Yellowstone Magic - 1.000 ..... Morrow Wilson, Houston Spies - 1.000 ..... Beasley Day, Philly Pies - 0.833 ..... Richmond Harrison, Hades Tigers - 0.800 ..... Sam Scandal, Dallas Steaks - 0.800 ..... "
+  },
+  {
+    "expire": "2020-09-21T16:36:55.085Z",
+    "id": "pitching_stat_leaders_update",
+    "msg": "Strikeout Leaders: ... Greer Lott, Canada Moist Talkers - 12 ..... Orville Manco, Dallas Steaks - 11 ..... Tot Clark, Seattle Garages - 10 ..... Stevenson Heat, Hawaii Fridays - 8 ..... Theodore Holloway, Houston Spies - 8 ..... "
   }
 ]
