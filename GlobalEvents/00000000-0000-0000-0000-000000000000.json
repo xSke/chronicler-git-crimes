@@ -55,16 +55,6 @@
     "msg": "The Shelled One Descended!"
   },
   {
-    "expire": "2020-09-22T19:39:37.887Z",
-    "id": "hitting_stat_leaders_update",
-    "msg": "Runs Batted In Leaders: ... August Sky, Dallas Steaks - 26 ..... Peanut Holloway, Philly Pies - 23 ..... Justice Spoon, Chicago Firefighters - 19 ..... Paula Turnip, Hades Tigers - 18 ..... Velasquez Alstott, Charleston Shoe Thieves - 18 ..... "
-  },
-  {
-    "expire": "2020-09-22T19:39:37.888Z",
-    "id": "pitching_stat_leaders_update",
-    "msg": "WHIP Leaders: ... Patel Beyonce, Unlimited Tacos - 0.689 ..... Theodore Holloway, Houston Spies - 0.737 ..... Finn James, Baltimore Crabs - 0.741 ..... Burke Gonzales, Mexico City Mild Wings - 0.750 ..... PolkaDot Patterson, Canada Moist Talkers - 0.778 ..... "
-  },
-  {
     "expire": "2020-09-15T22:05:40.294Z",
     "id": "e8366a7a-b5c3-482a-b212-0b7bd7ef9d77",
     "msg": "The Blooddrain gurgled! Basilio Fig siphoned some of Lachlan Shelton's baserunning ability!"
@@ -73,5 +63,15 @@
     "expire": "2020-09-15T22:15:22.724Z",
     "id": "ae68bdbd-7b4f-4f1f-9d70-ce4d3aec20df",
     "msg": "The Blooddrain gurgled! Wyatt Pothos siphoned some of Velasquez Alstott's pitching ability!"
+  },
+  {
+    "expire": "2020-09-22T20:35:21.77Z",
+    "id": "hitting_stat_leaders_update",
+    "msg": "On Base Percentage Leaders: ... Steph Weeks, Breckenridge Jazz Hands - 0.534 ..... Kathy Mathews, Breckenridge Jazz Hands - 0.523 ..... Workman Gloom, Canada Moist Talkers - 0.519 ..... José Haley, Mexico City Mild Wings - 0.500 ..... Boyfriend Monreal, Kansas City Breath Mints - 0.487 ..... "
+  },
+  {
+    "expire": "2020-09-22T20:35:21.771Z",
+    "id": "pitching_stat_leaders_update",
+    "msg": "Pitcher Win Leaders: ... PolkaDot Zavala, Kansas City Breath Mints - 5 ..... Rivers Rosa, Chicago Firefighters - 5 ..... Hiroto Wilcox, Hades Tigers - 4 ..... Bright Zimmerman, Philly Pies - 4 ..... Winnie Hess, Kansas City Breath Mints - 4 ..... "
   }
 ]
