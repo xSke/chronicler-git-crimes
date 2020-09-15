@@ -55,16 +55,6 @@
     "msg": "The Shelled One Descended!"
   },
   {
-    "expire": "2020-09-22T05:36:00.612Z",
-    "id": "hitting_stat_leaders_update",
-    "msg": "On Base Percentage Leaders: ... Workman Gloom, Canada Moist Talkers - 0.882 ..... Kathy Mathews, Breckenridge Jazz Hands - 0.714 ..... Greer Gwiffin, Seattle Garages - 0.556 ..... Oliver Mueller, Seattle Garages - 0.556 ..... Cory Ross, Dallas Steaks - 0.529 ..... "
-  },
-  {
-    "expire": "2020-09-22T05:36:00.614Z",
-    "id": "pitching_stat_leaders_update",
-    "msg": "Pitcher Win Leaders: ... Bright Zimmerman, Philly Pies - 2 ..... PolkaDot Zavala, Kansas City Breath Mints - 2 ..... Rivers Rosa, Chicago Firefighters - 2 ..... Patel Beyonce, Unlimited Tacos - 2 ..... Arturo Huerta, Seattle Garages - 1 ..... "
-  },
-  {
     "expire": "2020-09-15T08:06:48.452Z",
     "id": "8cf83e67-3521-4d24-a95d-5b8084bb6612",
     "msg": "The Blooddrain gurgled! Marquez Clark siphoned some of Valentine Games's defensive ability!"
@@ -73,5 +63,15 @@
     "expire": "2020-09-15T08:19:09.477Z",
     "id": "fbeeb0ca-986d-4172-8972-c6876b2ac565",
     "msg": "The Blooddrain gurgled! Annie Roland siphoned some of Nagomi Meng's hitting ability!"
+  },
+  {
+    "expire": "2020-09-22T06:28:34.901Z",
+    "id": "hitting_stat_leaders_update",
+    "msg": "Stolen Base Leaders: ... Kathy Mathews, Breckenridge Jazz Hands - 5 ..... Richardson Games, Charleston Shoe Thieves - 4 ..... Boyfriend Monreal, Kansas City Breath Mints - 4 ..... Nerd Pacheco, Hellmouth Sunbeams - 4 ..... Richmond Harrison, Hades Tigers - 3 ..... "
+  },
+  {
+    "expire": "2020-09-22T06:28:34.903Z",
+    "id": "pitching_stat_leaders_update",
+    "msg": "Pitcher Loss Leaders: ... Beasley Gloom, Charleston Shoe Thieves - 2 ..... Inky Rutledge, Yellowstone Magic - 2 ..... Owen Picklestein, Boston Flowers - 2 ..... Denzel Scott, Houston Spies - 2 ..... Tot Clark, Seattle Garages - 1 ..... "
   }
 ]
