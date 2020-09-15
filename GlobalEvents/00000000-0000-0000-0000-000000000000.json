@@ -50,6 +50,11 @@
     "msg": "In memoriam: so so many"
   },
   {
+    "expire": "2020-09-22T22:35:21.238Z",
+    "id": "pitching_stat_leaders_update",
+    "msg": "Strikeout Leaders: ... Hiroto Wilcox, Hades Tigers - 41 ..... Gunther O'Brian, Charleston Shoe Thieves - 41 ..... Cornelius Games, Charleston Shoe Thieves - 41 ..... Axel Trololol, Baltimore Crabs - 41 ..... Qais Dogwalker, Miami Dale - 41 ..... "
+  },
+  {
     "expire": "2020-09-18T18:00:00.087Z",
     "id": "SHELLING",
     "msg": "The Shelled One Descended!"
@@ -60,13 +65,8 @@
     "msg": "The Blooddrain gurgled! Dominic Marijuana siphoned some of Dunn Keyes's hitting ability!"
   },
   {
-    "expire": "2020-09-22T21:29:45.96Z",
+    "expire": "2020-09-22T22:35:21.235Z",
     "id": "hitting_stat_leaders_update",
-    "msg": "Stolen Base Leaders: ... Forrest Best, Baltimore Crabs - 19 ..... Boyfriend Monreal, Kansas City Breath Mints - 11 ..... Beck Whitney, Miami Dale - 11 ..... Paula Turnip, Hades Tigers - 10 ..... Richardson Games, Charleston Shoe Thieves - 10 ..... "
-  },
-  {
-    "expire": "2020-09-22T21:29:45.962Z",
-    "id": "pitching_stat_leaders_update",
-    "msg": "Pitcher Loss Leaders: ... Owen Picklestein, Boston Flowers - 5 ..... Arturo Huerta, Seattle Garages - 4 ..... Inky Rutledge, Yellowstone Magic - 4 ..... Jenkins Good, Canada Moist Talkers - 4 ..... Chambers Simmons, Boston Flowers - 4 ..... "
+    "msg": "Batting Average Leaders: ... José Haley, Mexico City Mild Wings - 0.421 ..... Justice Spoon, Chicago Firefighters - 0.410 ..... Conrad Vaughan, Breckenridge Jazz Hands - 0.407 ..... Workman Gloom, Canada Moist Talkers - 0.395 ..... August Sky, Dallas Steaks - 0.381 ..... "
   }
 ]
