@@ -55,6 +55,16 @@
     "msg": "The Blooddrain gurgled! Declan Suzanne siphoned some of Gloria Bugsnax's defensive ability!"
   },
   {
+    "expire": "2020-09-22T16:29:13.247Z",
+    "id": "hitting_stat_leaders_update",
+    "msg": "Stolen Base Leaders: ... Forrest Best, Baltimore Crabs - 14 ..... Boyfriend Monreal, Kansas City Breath Mints - 9 ..... Collins Melon, Breckenridge Jazz Hands - 9 ..... Richardson Games, Charleston Shoe Thieves - 8 ..... Parker Parra, Baltimore Crabs - 8 ..... "
+  },
+  {
+    "expire": "2020-09-22T16:29:13.248Z",
+    "id": "pitching_stat_leaders_update",
+    "msg": "Pitcher Loss Leaders: ... Owen Picklestein, Boston Flowers - 4 ..... Arturo Huerta, Seattle Garages - 3 ..... Orville Manco, Dallas Steaks - 3 ..... Ronan Jaylee, Dallas Steaks - 3 ..... Beasley Gloom, Charleston Shoe Thieves - 3 ..... "
+  },
+  {
     "expire": "2020-09-18T18:00:00.087Z",
     "id": "SHELLING",
     "msg": "The Shelled One Descended!"
@@ -63,15 +73,5 @@
     "expire": "2020-09-15T17:03:20.004Z",
     "id": "85d56d9f-3487-479d-9a03-24eee4381303",
     "msg": "Rogue Umpire incinerated Millennials hitter Wesley Dudley! Replaced by Nandy Fantastic"
-  },
-  {
-    "expire": "2020-09-22T15:38:54.698Z",
-    "id": "hitting_stat_leaders_update",
-    "msg": "On Base Percentage Leaders: ... Workman Gloom, Canada Moist Talkers - 0.559 ..... Steph Weeks, Breckenridge Jazz Hands - 0.527 ..... Kathy Mathews, Breckenridge Jazz Hands - 0.521 ..... Elijah Valenzuela, Hawaii Fridays - 0.518 ..... Boyfriend Monreal, Kansas City Breath Mints - 0.500 ..... "
-  },
-  {
-    "expire": "2020-09-22T15:38:54.699Z",
-    "id": "pitching_stat_leaders_update",
-    "msg": "Pitcher Win Leaders: ... PolkaDot Zavala, Kansas City Breath Mints - 4 ..... Rivers Rosa, Chicago Firefighters - 4 ..... Patel Beyonce, Unlimited Tacos - 4 ..... Hiroto Wilcox, Hades Tigers - 3 ..... Bright Zimmerman, Philly Pies - 3 ..... "
   }
 ]
