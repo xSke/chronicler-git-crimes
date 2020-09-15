@@ -50,18 +50,18 @@
     "msg": "In memoriam: so so many"
   },
   {
-    "expire": "2020-09-22T03:51:53.926Z",
-    "id": "hitting_stat_leaders_update",
-    "msg": "Home Run Leaders: ... Moody Cookbook, Hades Tigers - 4 ..... Greer Gwiffin, Seattle Garages - 2 ..... Dickerson Morse, Kansas City Breath Mints - 2 ..... Francisco Preston, Yellowstone Magic - 2 ..... Lawrence Horne, Mexico City Mild Wings - 2 ..... "
-  },
-  {
-    "expire": "2020-09-22T03:51:53.929Z",
-    "id": "pitching_stat_leaders_update",
-    "msg": "Earned Run Average Leaders: ... Sandford Garner, San Francisco Lovers - 0.000 ..... Greer Lott, Canada Moist Talkers - 1.000 ..... Patel Beyonce, Unlimited Tacos - 1.000 ..... Axel Trololol, Baltimore Crabs - 1.125 ..... Rivers Rosa, Chicago Firefighters - 1.421 ..... "
-  },
-  {
     "expire": "2020-09-18T18:00:00.087Z",
     "id": "SHELLING",
     "msg": "The Shelled One Descended!"
+  },
+  {
+    "expire": "2020-09-22T04:30:39.123Z",
+    "id": "hitting_stat_leaders_update",
+    "msg": "Runs Batted In Leaders: ... Moody Cookbook, Hades Tigers - 9 ..... Holden Stanton, Breckenridge Jazz Hands - 8 ..... Hobbs Cain, Philly Pies - 6 ..... Peanut Holloway, Philly Pies - 6 ..... Lachlan Shelton, Charleston Shoe Thieves - 6 ..... "
+  },
+  {
+    "expire": "2020-09-22T04:30:39.124Z",
+    "id": "pitching_stat_leaders_update",
+    "msg": "WHIP Leaders: ... Greer Lott, Canada Moist Talkers - 0.222 ..... Sandford Garner, San Francisco Lovers - 0.333 ..... Adalberto Tosser, Baltimore Crabs - 0.444 ..... Parker Meng, San Francisco Lovers - 0.556 ..... Theodore Holloway, Houston Spies - 0.556 ..... "
   }
 ]
