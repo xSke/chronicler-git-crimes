@@ -45,13 +45,13 @@
   ],
   "rotationSlot": 30,
   "seasAttr": [],
-  "seasonShames": 2,
+  "seasonShames": 3,
   "seasonShamings": 1,
   "secondaryColor": "#fffaab",
-  "shameRuns": 0,
+  "shameRuns": 1,
   "shorthand": "SUN",
   "slogan": "Stare into the Sun...",
-  "totalShames": 31,
+  "totalShames": 32,
   "totalShamings": 7,
   "weekAttr": []
 }
