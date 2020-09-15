@@ -65,18 +65,18 @@
     "msg": "The Blooddrain gurgled! Annie Roland siphoned some of Nagomi Meng's hitting ability!"
   },
   {
-    "expire": "2020-09-22T06:28:34.901Z",
-    "id": "hitting_stat_leaders_update",
-    "msg": "Stolen Base Leaders: ... Kathy Mathews, Breckenridge Jazz Hands - 5 ..... Richardson Games, Charleston Shoe Thieves - 4 ..... Boyfriend Monreal, Kansas City Breath Mints - 4 ..... Nerd Pacheco, Hellmouth Sunbeams - 4 ..... Richmond Harrison, Hades Tigers - 3 ..... "
-  },
-  {
-    "expire": "2020-09-22T06:28:34.903Z",
-    "id": "pitching_stat_leaders_update",
-    "msg": "Pitcher Loss Leaders: ... Beasley Gloom, Charleston Shoe Thieves - 2 ..... Inky Rutledge, Yellowstone Magic - 2 ..... Owen Picklestein, Boston Flowers - 2 ..... Denzel Scott, Houston Spies - 2 ..... Tot Clark, Seattle Garages - 1 ..... "
-  },
-  {
     "expire": "2020-09-15T09:26:12.473Z",
     "id": "8a1fa2fd-91eb-4209-825a-7a1c66596411",
     "msg": "The Blooddrain gurgled! José Haley siphoned some of Greer Lott's hitting ability!"
+  },
+  {
+    "expire": "2020-09-22T07:33:20.532Z",
+    "id": "hitting_stat_leaders_update",
+    "msg": "Batting Average Leaders: ... Workman Gloom, Canada Moist Talkers - 0.630 ..... Alexander Horne, San Francisco Lovers - 0.520 ..... Kathy Mathews, Breckenridge Jazz Hands - 0.500 ..... Moody Cookbook, Hades Tigers - 0.469 ..... Morrow Wilson, Houston Spies - 0.440 ..... "
+  },
+  {
+    "expire": "2020-09-22T07:33:20.534Z",
+    "id": "pitching_stat_leaders_update",
+    "msg": "Strikeout Leaders: ... Qais Dogwalker, Miami Dale - 24 ..... Hiroto Wilcox, Hades Tigers - 22 ..... Greer Lott, Canada Moist Talkers - 20 ..... Rivers Rosa, Chicago Firefighters - 17 ..... Orville Manco, Dallas Steaks - 15 ..... "
   }
 ]
