@@ -45,13 +45,13 @@
   ],
   "rotationSlot": 32,
   "seasAttr": [],
-  "seasonShames": 0,
+  "seasonShames": 1,
   "seasonShamings": 4,
   "secondaryColor": "#212121",
-  "shameRuns": 0,
+  "shameRuns": 4,
   "shorthand": "SFL",
   "slogan": "Let's Go All The Way!",
-  "totalShames": 30,
+  "totalShames": 31,
   "totalShamings": 21,
   "weekAttr": []
 }
