@@ -50,18 +50,18 @@
     "msg": "In memoriam: so so many"
   },
   {
+    "expire": "2020-09-22T03:31:16.484Z",
+    "id": "hitting_stat_leaders_update",
+    "msg": "Home Run Leaders: ... Moody Cookbook, Hades Tigers - 5 ..... Francisco Preston, Yellowstone Magic - 4 ..... Lawrence Horne, Mexico City Mild Wings - 3 ..... Jacob Winner, Hawaii Fridays - 3 ..... Thomas Dracaena, New York Millennials - 3 ..... "
+  },
+  {
+    "expire": "2020-09-22T03:31:16.485Z",
+    "id": "pitching_stat_leaders_update",
+    "msg": "Earned Run Average Leaders: ... Patel Beyonce, Unlimited Tacos - 1.000 ..... Axel Trololol, Baltimore Crabs - 1.059 ..... Rivers Rosa, Chicago Firefighters - 1.421 ..... Stevenson Heat, Hawaii Fridays - 2.000 ..... Greer Lott, Canada Moist Talkers - 2.000 ..... "
+  },
+  {
     "expire": "2020-09-18T18:00:00.087Z",
     "id": "SHELLING",
     "msg": "The Shelled One Descended!"
-  },
-  {
-    "expire": "2020-09-22T02:40:30.09Z",
-    "id": "hitting_stat_leaders_update",
-    "msg": "Batting Average Leaders: ... Thomas Dracaena, New York Millennials - 0.615 ..... Wyatt Glover, Yellowstone Magic - 0.500 ..... Workman Gloom, Canada Moist Talkers - 0.500 ..... Baby Urlacher, Chicago Firefighters - 0.500 ..... Lou Roseheart, Chicago Firefighters - 0.500 ..... "
-  },
-  {
-    "expire": "2020-09-22T02:40:30.091Z",
-    "id": "pitching_stat_leaders_update",
-    "msg": "Strikeout Leaders: ... Orville Manco, Dallas Steaks - 17 ..... Greer Lott, Canada Moist Talkers - 17 ..... Caleb Alvarado, Chicago Firefighters - 16 ..... Theodore Holloway, Houston Spies - 15 ..... Gunther O'Brian, Charleston Shoe Thieves - 14 ..... "
   }
 ]
