@@ -50,18 +50,18 @@
     "msg": "In memoriam: so so many"
   },
   {
+    "expire": "2020-09-22T09:29:55.809Z",
+    "id": "hitting_stat_leaders_update",
+    "msg": "Runs Batted In Leaders: ... Jaxon Buckley, Philly Pies - 13 ..... Moody Cookbook, Hades Tigers - 12 ..... Holden Stanton, Breckenridge Jazz Hands - 12 ..... Peanut Holloway, Philly Pies - 11 ..... August Sky, Dallas Steaks - 11 ..... "
+  },
+  {
+    "expire": "2020-09-22T09:29:55.811Z",
+    "id": "pitching_stat_leaders_update",
+    "msg": "WHIP Leaders: ... PolkaDot Patterson, Canada Moist Talkers - 0.222 ..... Betsy Trombone, Philly Pies - 0.333 ..... Yosh Carpenter, San Francisco Lovers - 0.444 ..... Finn James, Baltimore Crabs - 0.556 ..... Jaylen Hotdogfingers, Seattle Garages - 0.667 ..... "
+  },
+  {
     "expire": "2020-09-18T18:00:00.087Z",
     "id": "SHELLING",
     "msg": "The Shelled One Descended!"
-  },
-  {
-    "expire": "2020-09-22T08:31:40.706Z",
-    "id": "hitting_stat_leaders_update",
-    "msg": "Home Run Leaders: ... Moody Cookbook, Hades Tigers - 7 ..... Francisco Preston, Yellowstone Magic - 4 ..... Annie Roland, Yellowstone Magic - 4 ..... Lawrence Horne, Mexico City Mild Wings - 4 ..... Bates Bentley, New York Millennials - 4 ..... "
-  },
-  {
-    "expire": "2020-09-22T08:31:40.707Z",
-    "id": "pitching_stat_leaders_update",
-    "msg": "Earned Run Average Leaders: ... Burke Gonzales, Mexico City Mild Wings - 0.000 ..... Silvia Rugrat, Mexico City Mild Wings - 0.000 ..... PolkaDot Patterson, Canada Moist Talkers - 0.000 ..... Finn James, Baltimore Crabs - 0.000 ..... Campos Arias, Breckenridge Jazz Hands - 0.000 ..... "
   }
 ]
