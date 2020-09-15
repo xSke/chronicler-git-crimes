@@ -45,13 +45,13 @@
   ],
   "rotationSlot": 10,
   "seasAttr": [],
-  "seasonShames": 0,
+  "seasonShames": 1,
   "seasonShamings": 1,
   "secondaryColor": "#ffffff",
-  "shameRuns": 0,
+  "shameRuns": 3,
   "shorthand": "PHIL",
   "slogan": "Pie or Die.",
-  "totalShames": 28,
+  "totalShames": 29,
   "totalShamings": 16,
   "weekAttr": []
 }
