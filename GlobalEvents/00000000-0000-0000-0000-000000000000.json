@@ -50,11 +50,6 @@
     "msg": "In memoriam: so so many"
   },
   {
-    "expire": "2020-09-22T22:35:21.238Z",
-    "id": "pitching_stat_leaders_update",
-    "msg": "Strikeout Leaders: ... Hiroto Wilcox, Hades Tigers - 41 ..... Gunther O'Brian, Charleston Shoe Thieves - 41 ..... Cornelius Games, Charleston Shoe Thieves - 41 ..... Axel Trololol, Baltimore Crabs - 41 ..... Qais Dogwalker, Miami Dale - 41 ..... "
-  },
-  {
     "expire": "2020-09-16T01:06:12.935Z",
     "id": "c96ab7ce-79f3-4fa4-949f-2a80aaaf2eff",
     "msg": "A Debt was collected. Rogue Umpire incinerated Tigers hitter Moody Cookbook! Replaced by Carmelo Plums"
@@ -75,8 +70,13 @@
     "msg": "A Debt was collected. Rogue Umpire incinerated Tigers hitter Mclaughlin Scorpler! Replaced by Frasier Shmurmgle"
   },
   {
-    "expire": "2020-09-22T22:35:21.235Z",
+    "expire": "2020-09-22T23:31:17.965Z",
     "id": "hitting_stat_leaders_update",
-    "msg": "Batting Average Leaders: ... José Haley, Mexico City Mild Wings - 0.421 ..... Justice Spoon, Chicago Firefighters - 0.410 ..... Conrad Vaughan, Breckenridge Jazz Hands - 0.407 ..... Workman Gloom, Canada Moist Talkers - 0.395 ..... August Sky, Dallas Steaks - 0.381 ..... "
+    "msg": "Home Run Leaders: ... Conner Haley, Dallas Steaks - 11 ..... Paula Turnip, Hades Tigers - 10 ..... Randy Castillo, Hades Tigers - 9 ..... Peanut Holloway, Philly Pies - 9 ..... Blood Hamburger, Charleston Shoe Thieves - 9 ..... "
+  },
+  {
+    "expire": "2020-09-22T23:31:17.969Z",
+    "id": "pitching_stat_leaders_update",
+    "msg": "Earned Run Average Leaders: ... Silvia Rugrat, Mexico City Mild Wings - 1.385 ..... Finn James, Baltimore Crabs - 1.500 ..... Rivers Rosa, Chicago Firefighters - 1.929 ..... Percival Wheeler, San Francisco Lovers - 2.000 ..... Qais Dogwalker, Miami Dale - 2.167 ..... "
   }
 ]
