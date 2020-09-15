@@ -55,18 +55,18 @@
     "msg": "The Shelled One Descended!"
   },
   {
-    "expire": "2020-09-22T13:29:32.421Z",
-    "id": "hitting_stat_leaders_update",
-    "msg": "Home Run Leaders: ... Moody Cookbook, Hades Tigers - 7 ..... Randy Castillo, Hades Tigers - 6 ..... Tot Fox, Baltimore Crabs - 6 ..... Oliver Notarobot, Baltimore Crabs - 6 ..... Peanut Holloway, Philly Pies - 5 ..... "
-  },
-  {
-    "expire": "2020-09-22T13:29:32.422Z",
-    "id": "pitching_stat_leaders_update",
-    "msg": "Earned Run Average Leaders: ... Gabriel Griffith, Dallas Steaks - 1.000 ..... Silvia Rugrat, Mexico City Mild Wings - 1.000 ..... Sandford Garner, San Francisco Lovers - 1.000 ..... Axel Trololol, Baltimore Crabs - 1.000 ..... Finn James, Baltimore Crabs - 1.000 ..... "
-  },
-  {
     "expire": "2020-09-15T16:13:50.711Z",
     "id": "97e4e39e-3c0a-46a8-a3f4-81cf6de0ee07",
     "msg": "The Blooddrain gurgled! NaN siphoned some of Helga Moreno's hitting ability!"
+  },
+  {
+    "expire": "2020-09-22T14:28:29.287Z",
+    "id": "hitting_stat_leaders_update",
+    "msg": "Runs Batted In Leaders: ... Peanut Holloway, Philly Pies - 19 ..... August Sky, Dallas Steaks - 18 ..... Elijah Bates, Canada Moist Talkers - 16 ..... Jaxon Buckley, Philly Pies - 15 ..... Stew Briggs, Kansas City Breath Mints - 14 ..... "
+  },
+  {
+    "expire": "2020-09-22T14:28:29.288Z",
+    "id": "pitching_stat_leaders_update",
+    "msg": "WHIP Leaders: ... Patel Beyonce, Unlimited Tacos - 0.583 ..... Peanut Bong, Miami Dale - 0.611 ..... Parker Meng, San Francisco Lovers - 0.630 ..... Yosh Carpenter, San Francisco Lovers - 0.647 ..... Theodore Holloway, Houston Spies - 0.655 ..... "
   }
 ]
