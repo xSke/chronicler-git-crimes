@@ -50,18 +50,18 @@
     "msg": "In memoriam: so so many"
   },
   {
-    "expire": "2020-09-22T17:33:31.399Z",
-    "id": "hitting_stat_leaders_update",
-    "msg": "Batting Average Leaders: ... José Haley, Mexico City Mild Wings - 0.435 ..... August Sky, Dallas Steaks - 0.431 ..... Workman Gloom, Canada Moist Talkers - 0.424 ..... Howell Franklin, Charleston Shoe Thieves - 0.406 ..... Moody Cookbook, Hades Tigers - 0.403 ..... "
-  },
-  {
     "expire": "2020-09-18T18:00:00.087Z",
     "id": "SHELLING",
     "msg": "The Shelled One Descended!"
   },
   {
-    "expire": "2020-09-22T17:33:31.4Z",
+    "expire": "2020-09-22T18:30:51.454Z",
+    "id": "hitting_stat_leaders_update",
+    "msg": "Home Run Leaders: ... Conner Haley, Dallas Steaks - 8 ..... Lawrence Horne, Mexico City Mild Wings - 8 ..... Oliver Notarobot, Baltimore Crabs - 8 ..... Justice Spoon, Chicago Firefighters - 8 ..... Fitzgerald Blackburn, Houston Spies - 8 ..... "
+  },
+  {
+    "expire": "2020-09-22T18:30:51.456Z",
     "id": "pitching_stat_leaders_update",
-    "msg": "Strikeout Leaders: ... Hiroto Wilcox, Hades Tigers - 34 ..... Qais Dogwalker, Miami Dale - 34 ..... Beasley Gloom, Charleston Shoe Thieves - 31 ..... Axel Trololol, Baltimore Crabs - 31 ..... Gunther O'Brian, Charleston Shoe Thieves - 30 ..... "
+    "msg": "Earned Run Average Leaders: ... Finn James, Baltimore Crabs - 1.000 ..... Silvia Rugrat, Mexico City Mild Wings - 1.200 ..... Patel Beyonce, Unlimited Tacos - 1.400 ..... Sandford Garner, San Francisco Lovers - 1.500 ..... Rivers Rosa, Chicago Firefighters - 1.761 ..... "
   }
 ]
