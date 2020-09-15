@@ -65,18 +65,18 @@
     "msg": "The Blooddrain gurgled! Wyatt Pothos siphoned some of Velasquez Alstott's pitching ability!"
   },
   {
-    "expire": "2020-09-22T20:35:21.77Z",
-    "id": "hitting_stat_leaders_update",
-    "msg": "On Base Percentage Leaders: ... Steph Weeks, Breckenridge Jazz Hands - 0.534 ..... Kathy Mathews, Breckenridge Jazz Hands - 0.523 ..... Workman Gloom, Canada Moist Talkers - 0.519 ..... José Haley, Mexico City Mild Wings - 0.500 ..... Boyfriend Monreal, Kansas City Breath Mints - 0.487 ..... "
-  },
-  {
-    "expire": "2020-09-22T20:35:21.771Z",
-    "id": "pitching_stat_leaders_update",
-    "msg": "Pitcher Win Leaders: ... PolkaDot Zavala, Kansas City Breath Mints - 5 ..... Rivers Rosa, Chicago Firefighters - 5 ..... Hiroto Wilcox, Hades Tigers - 4 ..... Bright Zimmerman, Philly Pies - 4 ..... Winnie Hess, Kansas City Breath Mints - 4 ..... "
-  },
-  {
     "expire": "2020-09-15T23:13:34.91Z",
     "id": "a552c9c0-50ab-4037-af29-6f55c642b6e0",
     "msg": "The Blooddrain gurgled! Dominic Marijuana siphoned some of Dunn Keyes's hitting ability!"
+  },
+  {
+    "expire": "2020-09-22T21:29:45.96Z",
+    "id": "hitting_stat_leaders_update",
+    "msg": "Stolen Base Leaders: ... Forrest Best, Baltimore Crabs - 19 ..... Boyfriend Monreal, Kansas City Breath Mints - 11 ..... Beck Whitney, Miami Dale - 11 ..... Paula Turnip, Hades Tigers - 10 ..... Richardson Games, Charleston Shoe Thieves - 10 ..... "
+  },
+  {
+    "expire": "2020-09-22T21:29:45.962Z",
+    "id": "pitching_stat_leaders_update",
+    "msg": "Pitcher Loss Leaders: ... Owen Picklestein, Boston Flowers - 5 ..... Arturo Huerta, Seattle Garages - 4 ..... Inky Rutledge, Yellowstone Magic - 4 ..... Jenkins Good, Canada Moist Talkers - 4 ..... Chambers Simmons, Boston Flowers - 4 ..... "
   }
 ]
