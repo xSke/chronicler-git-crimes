@@ -65,18 +65,18 @@
     "msg": "The Blooddrain gurgled! Murray Pony siphoned some of Sigmund Castillo's hitting ability!"
   },
   {
+    "expire": "2020-09-23T05:43:07.697Z",
+    "id": "hitting_stat_leaders_update",
+    "msg": "Home Run Leaders: ... Baby Urlacher, Chicago Firefighters - 5 ..... Paula Turnip, Hades Tigers - 4 ..... Peanut Holloway, Philly Pies - 4 ..... Conner Haley, Dallas Steaks - 4 ..... Cory Ross, Dallas Steaks - 4 ..... "
+  },
+  {
+    "expire": "2020-09-23T05:43:07.699Z",
+    "id": "pitching_stat_leaders_update",
+    "msg": "Earned Run Average Leaders: ... Brock Forbes, Baltimore Crabs - 0.000 ..... Ron Monstera, Seattle Garages - 1.000 ..... Nagomi Meng, Hades Tigers - 1.000 ..... Burke Gonzales, Mexico City Mild Wings - 1.000 ..... Yosh Carpenter, San Francisco Lovers - 1.000 ..... "
+  },
+  {
     "expire": "2020-09-16T06:29:34.378Z",
     "id": "8ffaddb7-bc6b-4497-9fce-c5fe94b1d256",
     "msg": "The Blooddrain gurgled! Alaynabella Hollywood siphoned some of Rivers Clembons's baserunning ability!"
-  },
-  {
-    "expire": "2020-09-23T04:33:47.809Z",
-    "id": "hitting_stat_leaders_update",
-    "msg": "Batting Average Leaders: ... Moody Cookbook, Hades Tigers - 0.500 ..... Howell Franklin, Charleston Shoe Thieves - 0.500 ..... Annie Roland, Yellowstone Magic - 0.500 ..... Kiki Familia, Canada Moist Talkers - 0.500 ..... Valentine Games, Houston Spies - 0.500 ..... "
-  },
-  {
-    "expire": "2020-09-23T04:33:47.812Z",
-    "id": "pitching_stat_leaders_update",
-    "msg": "Strikeout Leaders: ... Orville Manco, Dallas Steaks - 20 ..... Greer Lott, Canada Moist Talkers - 20 ..... Qais Dogwalker, Miami Dale - 20 ..... Hiroto Wilcox, Hades Tigers - 19 ..... Walton Sports, Breckenridge Jazz Hands - 17 ..... "
   }
 ]
