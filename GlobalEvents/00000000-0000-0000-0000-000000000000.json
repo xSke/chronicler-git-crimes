@@ -55,16 +55,6 @@
     "msg": "The Shelled One Descended!"
   },
   {
-    "expire": "2020-09-23T00:01:35.784Z",
-    "id": "hitting_stat_leaders_update",
-    "msg": "Home Run Leaders: ... Moody Cookbook, Hades Tigers - 3 ..... Blood Hamburger, Charleston Shoe Thieves - 3 ..... Thomas Dracaena, New York Millennials - 3 ..... Paula Turnip, Hades Tigers - 2 ..... Hobbs Cain, Philly Pies - 2 ..... "
-  },
-  {
-    "expire": "2020-09-23T00:01:35.786Z",
-    "id": "pitching_stat_leaders_update",
-    "msg": "Earned Run Average Leaders: ... Sandford Garner, San Francisco Lovers - 0.000 ..... Eugenia Bickle, Hellmouth Sunbeams - 0.500 ..... Greer Lott, Canada Moist Talkers - 1.000 ..... Axel Trololol, Baltimore Crabs - 1.125 ..... Qais Dogwalker, Miami Dale - 1.500 ..... "
-  },
-  {
     "expire": "2020-09-16T03:00:54.125Z",
     "id": "cdd8c78d-bfd5-4f28-804b-ff925910735e",
     "msg": "Rogue Umpire incinerated Moist Talkers hitter Kiki Familia! Replaced by Quack Enjoyable"
@@ -73,5 +63,15 @@
     "expire": "2020-09-16T03:05:26.718Z",
     "id": "08bb35c9-1404-4fe2-a826-e92af5f17751",
     "msg": "A Debt was collected. Rogue Umpire incinerated Moist Talkers hitter Antonio Wallace! Replaced by Beans McBlase"
+  },
+  {
+    "expire": "2020-09-23T01:39:18.625Z",
+    "id": "hitting_stat_leaders_update",
+    "msg": "Runs Batted In Leaders: ... Peanutiel Duffy, Hades Tigers - 9 ..... Hewitt Best, Kansas City Breath Mints - 7 ..... Luis Acevedo, Seattle Garages - 6 ..... Paula Turnip, Hades Tigers - 6 ..... Randy Castillo, Hades Tigers - 6 ..... "
+  },
+  {
+    "expire": "2020-09-23T01:39:18.626Z",
+    "id": "pitching_stat_leaders_update",
+    "msg": "WHIP Leaders: ... Greer Lott, Canada Moist Talkers - 0.222 ..... Sandford Garner, San Francisco Lovers - 0.333 ..... Ron Monstera, Seattle Garages - 0.556 ..... Burke Gonzales, Mexico City Mild Wings - 0.556 ..... Theodore Holloway, Houston Spies - 0.556 ..... "
   }
 ]
