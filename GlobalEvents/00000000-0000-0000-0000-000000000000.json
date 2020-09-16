@@ -65,18 +65,18 @@
     "msg": "The Blooddrain gurgled! Murray Pony siphoned some of Sigmund Castillo's hitting ability!"
   },
   {
-    "expire": "2020-09-23T05:43:07.697Z",
-    "id": "hitting_stat_leaders_update",
-    "msg": "Home Run Leaders: ... Baby Urlacher, Chicago Firefighters - 5 ..... Paula Turnip, Hades Tigers - 4 ..... Peanut Holloway, Philly Pies - 4 ..... Conner Haley, Dallas Steaks - 4 ..... Cory Ross, Dallas Steaks - 4 ..... "
-  },
-  {
-    "expire": "2020-09-23T05:43:07.699Z",
-    "id": "pitching_stat_leaders_update",
-    "msg": "Earned Run Average Leaders: ... Brock Forbes, Baltimore Crabs - 0.000 ..... Ron Monstera, Seattle Garages - 1.000 ..... Nagomi Meng, Hades Tigers - 1.000 ..... Burke Gonzales, Mexico City Mild Wings - 1.000 ..... Yosh Carpenter, San Francisco Lovers - 1.000 ..... "
-  },
-  {
     "expire": "2020-09-16T08:19:52.409Z",
     "id": "97981439-ad43-433a-b639-f449378e2992",
     "msg": "The Blooddrain gurgled! Curry Aliciakeyes siphoned some of Cornelius Games's pitching ability!"
+  },
+  {
+    "expire": "2020-09-23T06:35:08.815Z",
+    "id": "hitting_stat_leaders_update",
+    "msg": "Runs Batted In Leaders: ... Hiroto Cerna, Boston Flowers - 12 ..... Eizabeth Guerra, Kansas City Breath Mints - 11 ..... Baby Doyle, Breckenridge Jazz Hands - 11 ..... Valentine Games, Houston Spies - 11 ..... Malik Romayne, Hellmouth Sunbeams - 11 ..... "
+  },
+  {
+    "expire": "2020-09-23T06:35:08.819Z",
+    "id": "pitching_stat_leaders_update",
+    "msg": "WHIP Leaders: ... Alexandria Rosales, Houston Spies - 0.333 ..... Brock Forbes, Baltimore Crabs - 0.444 ..... Burke Gonzales, Mexico City Mild Wings - 0.556 ..... Sandford Garner, San Francisco Lovers - 0.556 ..... Dunlap Figueroa, Hades Tigers - 0.667 ..... "
   }
 ]
