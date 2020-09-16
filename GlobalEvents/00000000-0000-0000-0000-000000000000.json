@@ -60,13 +60,13 @@
     "msg": "The Blooddrain gurgled! Kennedy Meh siphoned some of Lawrence Horne's defensive ability!"
   },
   {
-    "expire": "2020-09-23T02:31:30.777Z",
+    "expire": "2020-09-23T03:30:14.412Z",
     "id": "hitting_stat_leaders_update",
-    "msg": "On Base Percentage Leaders: ... Frasier Shmurmgle, Hades Tigers - 0.875 ..... Workman Gloom, Canada Moist Talkers - 0.706 ..... Malik Romayne, Hellmouth Sunbeams - 0.636 ..... Cedric Spliff, Seattle Garages - 0.611 ..... Greer Gwiffin, Seattle Garages - 0.579 ..... "
+    "msg": "Stolen Base Leaders: ... Richmond Harrison, Hades Tigers - 6 ..... Don Mitchell, San Francisco Lovers - 6 ..... Forrest Best, Baltimore Crabs - 5 ..... Sigmund Castillo, Hellmouth Sunbeams - 4 ..... Beck Whitney, Miami Dale - 4 ..... "
   },
   {
-    "expire": "2020-09-23T02:31:30.778Z",
+    "expire": "2020-09-23T03:30:14.413Z",
     "id": "pitching_stat_leaders_update",
-    "msg": "Pitcher Win Leaders: ... Bright Zimmerman, Philly Pies - 2 ..... PolkaDot Zavala, Kansas City Breath Mints - 2 ..... Jenkins Good, Canada Moist Talkers - 2 ..... Rivers Rosa, Chicago Firefighters - 2 ..... Eugenia Bickle, Hellmouth Sunbeams - 2 ..... "
+    "msg": "Pitcher Loss Leaders: ... Arturo Huerta, Seattle Garages - 2 ..... August Mina, Dallas Steaks - 2 ..... James Mora, Hawaii Fridays - 2 ..... Fynn Doyle, New York Millennials - 2 ..... Owen Picklestein, Boston Flowers - 2 ..... "
   }
 ]
