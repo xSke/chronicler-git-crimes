@@ -65,18 +65,18 @@
     "msg": "A Debt was collected. Rogue Umpire incinerated Moist Talkers hitter Antonio Wallace! Replaced by Beans McBlase"
   },
   {
-    "expire": "2020-09-23T01:39:18.625Z",
-    "id": "hitting_stat_leaders_update",
-    "msg": "Runs Batted In Leaders: ... Peanutiel Duffy, Hades Tigers - 9 ..... Hewitt Best, Kansas City Breath Mints - 7 ..... Luis Acevedo, Seattle Garages - 6 ..... Paula Turnip, Hades Tigers - 6 ..... Randy Castillo, Hades Tigers - 6 ..... "
-  },
-  {
-    "expire": "2020-09-23T01:39:18.626Z",
-    "id": "pitching_stat_leaders_update",
-    "msg": "WHIP Leaders: ... Greer Lott, Canada Moist Talkers - 0.222 ..... Sandford Garner, San Francisco Lovers - 0.333 ..... Ron Monstera, Seattle Garages - 0.556 ..... Burke Gonzales, Mexico City Mild Wings - 0.556 ..... Theodore Holloway, Houston Spies - 0.556 ..... "
-  },
-  {
     "expire": "2020-09-16T04:16:13.164Z",
     "id": "a3a442da-20b3-4717-83e1-60d31a9afc6c",
     "msg": "The Blooddrain gurgled! Kennedy Meh siphoned some of Lawrence Horne's defensive ability!"
+  },
+  {
+    "expire": "2020-09-23T02:31:30.777Z",
+    "id": "hitting_stat_leaders_update",
+    "msg": "On Base Percentage Leaders: ... Frasier Shmurmgle, Hades Tigers - 0.875 ..... Workman Gloom, Canada Moist Talkers - 0.706 ..... Malik Romayne, Hellmouth Sunbeams - 0.636 ..... Cedric Spliff, Seattle Garages - 0.611 ..... Greer Gwiffin, Seattle Garages - 0.579 ..... "
+  },
+  {
+    "expire": "2020-09-23T02:31:30.778Z",
+    "id": "pitching_stat_leaders_update",
+    "msg": "Pitcher Win Leaders: ... Bright Zimmerman, Philly Pies - 2 ..... PolkaDot Zavala, Kansas City Breath Mints - 2 ..... Jenkins Good, Canada Moist Talkers - 2 ..... Rivers Rosa, Chicago Firefighters - 2 ..... Eugenia Bickle, Hellmouth Sunbeams - 2 ..... "
   }
 ]
