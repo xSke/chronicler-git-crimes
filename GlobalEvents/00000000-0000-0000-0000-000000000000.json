@@ -50,18 +50,18 @@
     "msg": "In memoriam: so so many"
   },
   {
-    "expire": "2020-09-23T22:28:55.178Z",
-    "id": "hitting_stat_leaders_update",
-    "msg": "On Base Percentage Leaders: ... Moody Cookbook, Hades Tigers - 0.500 ..... Kiki Familia, Canada Moist Talkers - 0.500 ..... Logan Horseman, Miami Dale - 0.476 ..... Antonio Wallace, Canada Moist Talkers - 0.462 ..... Workman Gloom, Canada Moist Talkers - 0.458 ..... "
-  },
-  {
     "expire": "2020-09-18T18:00:00.087Z",
     "id": "SHELLING",
     "msg": "The Shelled One Descended!"
   },
   {
-    "expire": "2020-09-23T22:28:55.179Z",
+    "expire": "2020-09-23T23:33:10.441Z",
+    "id": "hitting_stat_leaders_update",
+    "msg": "Stolen Base Leaders: ... Forrest Best, Baltimore Crabs - 31 ..... Don Mitchell, San Francisco Lovers - 19 ..... Hewitt Best, Kansas City Breath Mints - 17 ..... Richmond Harrison, Hades Tigers - 14 ..... Paula Mason, Dallas Steaks - 12 ..... "
+  },
+  {
+    "expire": "2020-09-23T23:33:10.442Z",
     "id": "pitching_stat_leaders_update",
-    "msg": "Pitcher Win Leaders: ... Henry Marshallow, Seattle Garages - 5 ..... Bright Zimmerman, Philly Pies - 5 ..... Inky Rutledge, Yellowstone Magic - 5 ..... Sandford Garner, San Francisco Lovers - 5 ..... Montgomery Bullock, Baltimore Crabs - 5 ..... "
+    "msg": "Pitcher Loss Leaders: ... August Mina, Dallas Steaks - 6 ..... Owen Picklestein, Boston Flowers - 6 ..... Betsy Trombone, Philly Pies - 5 ..... Stephanie Winters, Mexico City Mild Wings - 5 ..... Milo Brown, San Francisco Lovers - 5 ..... "
   }
 ]
