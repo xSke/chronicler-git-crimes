@@ -55,18 +55,18 @@
     "msg": "The Shelled One Descended!"
   },
   {
-    "expire": "2020-09-23T08:29:34.506Z",
-    "id": "hitting_stat_leaders_update",
-    "msg": "Stolen Base Leaders: ... Don Mitchell, San Francisco Lovers - 11 ..... Forrest Best, Baltimore Crabs - 10 ..... Aldon Cashmoney, Breckenridge Jazz Hands - 8 ..... Richmond Harrison, Hades Tigers - 7 ..... Hewitt Best, Kansas City Breath Mints - 7 ..... "
-  },
-  {
-    "expire": "2020-09-23T08:29:34.507Z",
-    "id": "pitching_stat_leaders_update",
-    "msg": "Pitcher Loss Leaders: ... August Mina, Dallas Steaks - 3 ..... James Mora, Hawaii Fridays - 3 ..... Owen Picklestein, Boston Flowers - 3 ..... Arturo Huerta, Seattle Garages - 2 ..... Hiroto Wilcox, Hades Tigers - 2 ..... "
-  },
-  {
     "expire": "2020-09-16T11:09:40.2Z",
     "id": "38d8349f-134f-47b7-a308-dbbc77e5c991",
     "msg": "Lovers hitter Theo King swallowed a stray Peanut and had an allergic reaction!"
+  },
+  {
+    "expire": "2020-09-23T09:30:13.358Z",
+    "id": "hitting_stat_leaders_update",
+    "msg": "Batting Average Leaders: ... Moody Cookbook, Hades Tigers - 0.500 ..... Kiki Familia, Canada Moist Talkers - 0.500 ..... Valentine Games, Houston Spies - 0.436 ..... Howell Franklin, Charleston Shoe Thieves - 0.405 ..... Malik Romayne, Hellmouth Sunbeams - 0.392 ..... "
+  },
+  {
+    "expire": "2020-09-23T09:30:13.361Z",
+    "id": "pitching_stat_leaders_update",
+    "msg": "Strikeout Leaders: ... Hiroto Wilcox, Hades Tigers - 27 ..... PolkaDot Zavala, Kansas City Breath Mints - 27 ..... Qais Dogwalker, Miami Dale - 27 ..... Axel Trololol, Baltimore Crabs - 26 ..... Dunlap Figueroa, Hades Tigers - 25 ..... "
   }
 ]
