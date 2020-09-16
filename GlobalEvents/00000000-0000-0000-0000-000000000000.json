@@ -55,13 +55,13 @@
     "msg": "The Shelled One Descended!"
   },
   {
-    "expire": "2020-09-23T07:33:22.729Z",
+    "expire": "2020-09-23T08:29:34.506Z",
     "id": "hitting_stat_leaders_update",
-    "msg": "On Base Percentage Leaders: ... Greer Gwiffin, Seattle Garages - 0.611 ..... Logan Horseman, Miami Dale - 0.548 ..... Howell Franklin, Charleston Shoe Thieves - 0.514 ..... Workman Gloom, Canada Moist Talkers - 0.513 ..... Moody Cookbook, Hades Tigers - 0.500 ..... "
+    "msg": "Stolen Base Leaders: ... Don Mitchell, San Francisco Lovers - 11 ..... Forrest Best, Baltimore Crabs - 10 ..... Aldon Cashmoney, Breckenridge Jazz Hands - 8 ..... Richmond Harrison, Hades Tigers - 7 ..... Hewitt Best, Kansas City Breath Mints - 7 ..... "
   },
   {
-    "expire": "2020-09-23T07:33:22.734Z",
+    "expire": "2020-09-23T08:29:34.507Z",
     "id": "pitching_stat_leaders_update",
-    "msg": "Pitcher Win Leaders: ... Bright Zimmerman, Philly Pies - 3 ..... Jenkins Good, Canada Moist Talkers - 3 ..... Rivers Rosa, Chicago Firefighters - 3 ..... Eugenia Bickle, Hellmouth Sunbeams - 3 ..... Henry Marshallow, Seattle Garages - 2 ..... "
+    "msg": "Pitcher Loss Leaders: ... August Mina, Dallas Steaks - 3 ..... James Mora, Hawaii Fridays - 3 ..... Owen Picklestein, Boston Flowers - 3 ..... Arturo Huerta, Seattle Garages - 2 ..... Hiroto Wilcox, Hades Tigers - 2 ..... "
   }
 ]
