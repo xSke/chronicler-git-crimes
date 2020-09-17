@@ -65,16 +65,6 @@
     "msg": "The Blooddrain gurgled! Beans McBlase siphoned some of Nolanestophia Patterson's defensive ability!"
   },
   {
-    "expire": "2020-09-24T05:34:17.182Z",
-    "id": "hitting_stat_leaders_update",
-    "msg": "Batting Average Leaders: ... Moody Cookbook, Hades Tigers - 0.556 ..... Conner Haley, Dallas Steaks - 0.424 ..... Thomas Dracaena, New York Millennials - 0.417 ..... Stephens Lightner, Breckenridge Jazz Hands - 0.414 ..... Dominic Marijuana, New York Millennials - 0.409 ..... "
-  },
-  {
-    "expire": "2020-09-24T05:34:17.185Z",
-    "id": "pitching_stat_leaders_update",
-    "msg": "Strikeout Leaders: ... Tot Clark, Seattle Garages - 24 ..... Greer Lott, Canada Moist Talkers - 23 ..... Stevenson Heat, Hawaii Fridays - 22 ..... Axel Trololol, Baltimore Crabs - 22 ..... Caleb Alvarado, Chicago Firefighters - 22 ..... "
-  },
-  {
     "expire": "2020-09-17T08:02:26.687Z",
     "id": "45a289cb-5898-44bf-92b8-aa9d4d634bcf",
     "msg": "A Debt was collected. Rogue Umpire incinerated Dale hitter Murray Pony! Replaced by Cannonball Sports"
@@ -83,5 +73,15 @@
     "expire": "2020-09-17T08:20:26.904Z",
     "id": "a00427b3-ebe7-41d2-909a-80c33d11c26f",
     "msg": "The Blooddrain gurgled! Theodore Duende siphoned some of PolkaDot Zavala's hitting ability!"
+  },
+  {
+    "expire": "2020-09-24T06:32:34.607Z",
+    "id": "hitting_stat_leaders_update",
+    "msg": "Home Run Leaders: ... Hahn Fox, Hellmouth Sunbeams - 7 ..... Eduardo Woodman, Philly Pies - 6 ..... Conner Haley, Dallas Steaks - 6 ..... Thomas Dracaena, New York Millennials - 6 ..... Stew Briggs, Kansas City Breath Mints - 5 ..... "
+  },
+  {
+    "expire": "2020-09-24T06:32:34.609Z",
+    "id": "pitching_stat_leaders_update",
+    "msg": "Earned Run Average Leaders: ... Elvis Figueroa, Philly Pies - 0.000 ..... Lars Taylor, Hellmouth Sunbeams - 0.000 ..... Rafael Davids, Mexico City Mild Wings - 0.667 ..... Henry Marshallow, Seattle Garages - 1.000 ..... Leach Herman, Dallas Steaks - 1.000 ..... "
   }
 ]
