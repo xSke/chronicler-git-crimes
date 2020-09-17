@@ -50,6 +50,11 @@
     "msg": "In memoriam: so so many"
   },
   {
+    "expire": "2020-09-24T07:43:59.129Z",
+    "id": "pitching_stat_leaders_update",
+    "msg": "WHIP Leaders: ... Elvis Figueroa, Philly Pies - 0.333 ..... Rafael Davids, Mexico City Mild Wings - 0.519 ..... Henry Marshallow, Seattle Garages - 0.556 ..... Dunlap Figueroa, Hades Tigers - 0.571 ..... Jenkins Good, Canada Moist Talkers - 0.630 ..... "
+  },
+  {
     "expire": "2020-09-18T18:00:00.087Z",
     "id": "SHELLING",
     "msg": "The Shelled One Descended!"
@@ -65,16 +70,6 @@
     "msg": "The Blooddrain gurgled! Theodore Duende siphoned some of PolkaDot Zavala's hitting ability!"
   },
   {
-    "expire": "2020-09-24T06:32:34.607Z",
-    "id": "hitting_stat_leaders_update",
-    "msg": "Home Run Leaders: ... Hahn Fox, Hellmouth Sunbeams - 7 ..... Eduardo Woodman, Philly Pies - 6 ..... Conner Haley, Dallas Steaks - 6 ..... Thomas Dracaena, New York Millennials - 6 ..... Stew Briggs, Kansas City Breath Mints - 5 ..... "
-  },
-  {
-    "expire": "2020-09-24T06:32:34.609Z",
-    "id": "pitching_stat_leaders_update",
-    "msg": "Earned Run Average Leaders: ... Elvis Figueroa, Philly Pies - 0.000 ..... Lars Taylor, Hellmouth Sunbeams - 0.000 ..... Rafael Davids, Mexico City Mild Wings - 0.667 ..... Henry Marshallow, Seattle Garages - 1.000 ..... Leach Herman, Dallas Steaks - 1.000 ..... "
-  },
-  {
     "expire": "2020-09-17T09:21:18.397Z",
     "id": "d3a18a89-1f19-4262-870a-604c779e8d9f",
     "msg": "The Blooddrain gurgled! Malik Romayne siphoned some of Nic Winkler's baserunning ability!"
@@ -83,5 +78,10 @@
     "expire": "2020-09-17T09:25:37.069Z",
     "id": "e6178c20-f403-4e10-ac04-1def32170958",
     "msg": "The Birds pecked Jessica Telephone free! "
+  },
+  {
+    "expire": "2020-09-24T07:43:59.128Z",
+    "id": "hitting_stat_leaders_update",
+    "msg": "Runs Batted In Leaders: ... Hahn Fox, Hellmouth Sunbeams - 14 ..... Esme Ramsey, Charleston Shoe Thieves - 13 ..... Baby Doyle, Breckenridge Jazz Hands - 13 ..... Stew Briggs, Kansas City Breath Mints - 12 ..... Justice Spoon, Chicago Firefighters - 12 ..... "
   }
 ]
