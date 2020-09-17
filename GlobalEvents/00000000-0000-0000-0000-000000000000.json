@@ -50,16 +50,6 @@
     "msg": "In memoriam: so so many"
   },
   {
-    "expire": "2020-09-24T14:35:05.013Z",
-    "id": "hitting_stat_leaders_update",
-    "msg": "Stolen Base Leaders: ... Forrest Best, Baltimore Crabs - 8 ..... Richmond Harrison, Hades Tigers - 7 ..... Collins Melon, Breckenridge Jazz Hands - 7 ..... Caleb Novak, Miami Dale - 7 ..... Paula Turnip, Hades Tigers - 6 ..... "
-  },
-  {
-    "expire": "2020-09-24T14:35:05.014Z",
-    "id": "pitching_stat_leaders_update",
-    "msg": "Pitcher Loss Leaders: ... Henry Marshallow, Seattle Garages - 2 ..... Nagomi Meng, Hades Tigers - 2 ..... Orville Manco, Dallas Steaks - 2 ..... August Mina, Dallas Steaks - 2 ..... Inky Rutledge, Yellowstone Magic - 2 ..... "
-  },
-  {
     "expire": "2020-09-17T17:05:34.023Z",
     "id": "3e5530a4-4cf8-406d-8c47-81325fc40fcd",
     "msg": "A Debt was collected. Rogue Umpire incinerated Tigers pitcher Yazmin Mason! Replaced by Mummy Melcon"
@@ -78,5 +68,15 @@
     "expire": "2020-09-17T17:15:14.188Z",
     "id": "6fe2aa20-c2de-410f-847f-bb7d22a0411e",
     "msg": "A Debt was collected. Rogue Umpire incinerated Tigers hitter Frasier Shmurmgle! Replaced by Usurper Violet"
+  },
+  {
+    "expire": "2020-09-24T15:30:29.242Z",
+    "id": "hitting_stat_leaders_update",
+    "msg": "Batting Average Leaders: ... Moody Cookbook, Hades Tigers - 0.556 ..... Malik Romayne, Hellmouth Sunbeams - 0.500 ..... Jessica Telephone, Philly Pies - 0.429 ..... Boyfriend Monreal, Kansas City Breath Mints - 0.419 ..... Rodriguez Internet, Kansas City Breath Mints - 0.410 ..... "
+  },
+  {
+    "expire": "2020-09-24T15:30:29.244Z",
+    "id": "pitching_stat_leaders_update",
+    "msg": "Strikeout Leaders: ... Orville Manco, Dallas Steaks - 25 ..... Gunther O'Brian, Charleston Shoe Thieves - 25 ..... Greer Lott, Canada Moist Talkers - 25 ..... Zack Sanders, Hellmouth Sunbeams - 25 ..... Theodore Holloway, Houston Spies - 22 ..... "
   }
 ]
