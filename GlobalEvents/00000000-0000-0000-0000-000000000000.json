@@ -73,5 +73,10 @@
     "expire": "2020-09-18T18:00:00.087Z",
     "id": "SHELLING",
     "msg": "The Shelled One Descended!"
+  },
+  {
+    "expire": "2020-09-17T17:15:14.188Z",
+    "id": "6fe2aa20-c2de-410f-847f-bb7d22a0411e",
+    "msg": "A Debt was collected. Rogue Umpire incinerated Tigers hitter Frasier Shmurmgle! Replaced by Usurper Violet"
   }
 ]
