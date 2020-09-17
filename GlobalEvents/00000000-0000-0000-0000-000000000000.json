@@ -60,18 +60,18 @@
     "msg": "The Blooddrain gurgled! Axel Trololol siphoned some of Caleb Alvarado's pitching ability!"
   },
   {
-    "expire": "2020-09-24T10:31:52.304Z",
-    "id": "hitting_stat_leaders_update",
-    "msg": "Batting Average Leaders: ... Moody Cookbook, Hades Tigers - 0.556 ..... Wyatt Glover, Yellowstone Magic - 0.500 ..... Malik Romayne, Hellmouth Sunbeams - 0.500 ..... Cannonball Sports, Miami Dale - 0.500 ..... Lenny Spruce, Kansas City Breath Mints - 0.471 ..... "
-  },
-  {
-    "expire": "2020-09-24T10:31:52.307Z",
-    "id": "pitching_stat_leaders_update",
-    "msg": "Strikeout Leaders: ... Orville Manco, Dallas Steaks - 19 ..... Greer Lott, Canada Moist Talkers - 19 ..... Zack Sanders, Hellmouth Sunbeams - 19 ..... Tot Clark, Seattle Garages - 15 ..... Axel Trololol, Baltimore Crabs - 15 ..... "
-  },
-  {
     "expire": "2020-09-17T13:19:57.832Z",
     "id": "30091fc1-5640-404a-9bac-b42e587d9874",
     "msg": "A Debt was collected. Rogue Umpire incinerated Steaks hitter Sebastian Telephone! Replaced by Gallup Crueller"
+  },
+  {
+    "expire": "2020-09-24T11:28:03.116Z",
+    "id": "hitting_stat_leaders_update",
+    "msg": "Home Run Leaders: ... José Haley, Mexico City Mild Wings - 4 ..... Malik Destiny, Seattle Garages - 3 ..... Peanutiel Duffy, Hades Tigers - 3 ..... Moody Cookbook, Hades Tigers - 3 ..... Conner Haley, Dallas Steaks - 3 ..... "
+  },
+  {
+    "expire": "2020-09-24T11:28:03.117Z",
+    "id": "pitching_stat_leaders_update",
+    "msg": "Earned Run Average Leaders: ... Kennedy Rodgers, Mexico City Mild Wings - 1.000 ..... PolkaDot Patterson, Canada Moist Talkers - 1.000 ..... Brock Forbes, Baltimore Crabs - 1.000 ..... Edric Tosser, Chicago Firefighters - 1.000 ..... Eugenia Bickle, Hellmouth Sunbeams - 1.000 ..... "
   }
 ]
