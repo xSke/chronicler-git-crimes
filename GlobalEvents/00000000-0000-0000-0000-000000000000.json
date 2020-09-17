@@ -50,18 +50,18 @@
     "msg": "In memoriam: so so many"
   },
   {
-    "expire": "2020-09-24T13:34:18.3Z",
+    "expire": "2020-09-24T14:35:05.013Z",
+    "id": "hitting_stat_leaders_update",
+    "msg": "Stolen Base Leaders: ... Forrest Best, Baltimore Crabs - 8 ..... Richmond Harrison, Hades Tigers - 7 ..... Collins Melon, Breckenridge Jazz Hands - 7 ..... Caleb Novak, Miami Dale - 7 ..... Paula Turnip, Hades Tigers - 6 ..... "
+  },
+  {
+    "expire": "2020-09-24T14:35:05.014Z",
     "id": "pitching_stat_leaders_update",
-    "msg": "Pitcher Win Leaders: ... Yazmin Mason, Hades Tigers - 2 ..... Hiroto Wilcox, Hades Tigers - 2 ..... PolkaDot Zavala, Kansas City Breath Mints - 2 ..... Oscar Vaughan, Kansas City Breath Mints - 2 ..... Logan Rodriguez, Yellowstone Magic - 2 ..... "
+    "msg": "Pitcher Loss Leaders: ... Henry Marshallow, Seattle Garages - 2 ..... Nagomi Meng, Hades Tigers - 2 ..... Orville Manco, Dallas Steaks - 2 ..... August Mina, Dallas Steaks - 2 ..... Inky Rutledge, Yellowstone Magic - 2 ..... "
   },
   {
     "expire": "2020-09-18T18:00:00.087Z",
     "id": "SHELLING",
     "msg": "The Shelled One Descended!"
-  },
-  {
-    "expire": "2020-09-24T13:34:18.298Z",
-    "id": "hitting_stat_leaders_update",
-    "msg": "On Base Percentage Leaders: ... Esme Ramsey, Charleston Shoe Thieves - 0.640 ..... Rodriguez Internet, Kansas City Breath Mints - 0.613 ..... Boyfriend Monreal, Kansas City Breath Mints - 0.559 ..... Moody Cookbook, Hades Tigers - 0.556 ..... Lawrence Horne, Mexico City Mild Wings - 0.543 ..... "
   }
 ]
