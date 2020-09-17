@@ -55,23 +55,23 @@
     "msg": "A Debt was collected. Rogue Umpire incinerated Millennials hitter Dominic Marijuana! Replaced by Charlatan Seabright"
   },
   {
-    "expire": "2020-09-24T03:33:30.23Z",
-    "id": "hitting_stat_leaders_update",
-    "msg": "On Base Percentage Leaders: ... Basilio Mason, Unlimited Tacos - 0.737 ..... Esme Ramsey, Charleston Shoe Thieves - 0.722 ..... Howell Franklin, Charleston Shoe Thieves - 0.684 ..... Charlatan Seabright, New York Millennials - 0.667 ..... Lou Roseheart, Chicago Firefighters - 0.667 ..... "
-  },
-  {
-    "expire": "2020-09-24T03:33:30.231Z",
-    "id": "pitching_stat_leaders_update",
-    "msg": "Pitcher Win Leaders: ... Hiroto Wilcox, Hades Tigers - 2 ..... Bright Zimmerman, Philly Pies - 2 ..... Atlas Guerra, Kansas City Breath Mints - 2 ..... Rafael Davids, Mexico City Mild Wings - 2 ..... Jenkins Good, Canada Moist Talkers - 2 ..... "
-  },
-  {
     "expire": "2020-09-17T06:36:16.952Z",
     "id": "c7b75ce3-a499-457a-b7a4-743891f9d2da",
     "msg": "Malik Romayne and Joe Voorhees switched teams in the feedback!"
   },
   {
+    "expire": "2020-09-24T04:38:34.918Z",
+    "id": "hitting_stat_leaders_update",
+    "msg": "Stolen Base Leaders: ... Forrest Best, Baltimore Crabs - 8 ..... Hewitt Best, Kansas City Breath Mints - 7 ..... Conner Haley, Dallas Steaks - 5 ..... Francisco Preston, Yellowstone Magic - 5 ..... Eizabeth Elliott, Yellowstone Magic - 4 ..... "
+  },
+  {
     "expire": "2020-09-18T18:00:00.087Z",
     "id": "SHELLING",
     "msg": "The Shelled One Descended!"
+  },
+  {
+    "expire": "2020-09-24T04:38:34.919Z",
+    "id": "pitching_stat_leaders_update",
+    "msg": "Pitcher Loss Leaders: ... Tot Clark, Seattle Garages - 2 ..... August Mina, Dallas Steaks - 2 ..... Beasley Gloom, Charleston Shoe Thieves - 2 ..... Inky Rutledge, Yellowstone Magic - 2 ..... Stevenson Heat, Hawaii Fridays - 2 ..... "
   }
 ]
