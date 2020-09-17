@@ -50,18 +50,18 @@
     "msg": "In memoriam: so so many"
   },
   {
-    "expire": "2020-09-24T21:29:50.702Z",
-    "id": "hitting_stat_leaders_update",
-    "msg": "Home Run Leaders: ... Conner Haley, Dallas Steaks - 12 ..... August Sky, Dallas Steaks - 8 ..... José Haley, Mexico City Mild Wings - 8 ..... Malik Destiny, Seattle Garages - 7 ..... Sandie Turner, New York Millennials - 7 ..... "
-  },
-  {
-    "expire": "2020-09-24T21:29:50.704Z",
-    "id": "pitching_stat_leaders_update",
-    "msg": "Earned Run Average Leaders: ... Brock Forbes, Baltimore Crabs - 1.333 ..... Jordan Hildebert, Houston Spies - 1.667 ..... Kevin Dudley, Charleston Shoe Thieves - 1.862 ..... Sandford Garner, San Francisco Lovers - 1.895 ..... Patel Beyonce, Unlimited Tacos - 1.895 ..... "
-  },
-  {
     "expire": "2020-09-18T18:00:00.087Z",
     "id": "SHELLING",
     "msg": "The Shelled One Descended!"
+  },
+  {
+    "expire": "2020-09-24T22:30:19.619Z",
+    "id": "hitting_stat_leaders_update",
+    "msg": "Runs Batted In Leaders: ... Malik Destiny, Seattle Garages - 21 ..... Conner Haley, Dallas Steaks - 19 ..... August Sky, Dallas Steaks - 19 ..... Stew Briggs, Kansas City Breath Mints - 18 ..... Hahn Fox, Hellmouth Sunbeams - 18 ..... "
+  },
+  {
+    "expire": "2020-09-24T22:30:19.62Z",
+    "id": "pitching_stat_leaders_update",
+    "msg": "WHIP Leaders: ... Patty Fox, New York Millennials - 0.657 ..... Brock Forbes, Baltimore Crabs - 0.667 ..... Axel Trololol, Baltimore Crabs - 0.714 ..... Sixpack Santiago, Miami Dale - 0.714 ..... Mummy Melcon, Hades Tigers - 0.717 ..... "
   }
 ]
