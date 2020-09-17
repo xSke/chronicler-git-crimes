@@ -50,9 +50,14 @@
     "msg": "In memoriam: so so many"
   },
   {
-    "expire": "2020-09-24T07:43:59.129Z",
+    "expire": "2020-09-24T08:31:29.4Z",
+    "id": "hitting_stat_leaders_update",
+    "msg": "On Base Percentage Leaders: ... Malik Romayne, Houston Spies - 0.833 ..... Cannonball Sports, Miami Dale - 0.778 ..... Esme Ramsey, Charleston Shoe Thieves - 0.559 ..... Moody Cookbook, Hades Tigers - 0.556 ..... Lou Roseheart, Chicago Firefighters - 0.550 ..... "
+  },
+  {
+    "expire": "2020-09-24T08:31:29.401Z",
     "id": "pitching_stat_leaders_update",
-    "msg": "WHIP Leaders: ... Elvis Figueroa, Philly Pies - 0.333 ..... Rafael Davids, Mexico City Mild Wings - 0.519 ..... Henry Marshallow, Seattle Garages - 0.556 ..... Dunlap Figueroa, Hades Tigers - 0.571 ..... Jenkins Good, Canada Moist Talkers - 0.630 ..... "
+    "msg": "Pitcher Win Leaders: ... Atlas Guerra, Kansas City Breath Mints - 3 ..... Rafael Davids, Mexico City Mild Wings - 3 ..... Jenkins Good, Canada Moist Talkers - 3 ..... Milo Brown, San Francisco Lovers - 3 ..... Lowe Forbes, Breckenridge Jazz Hands - 3 ..... "
   },
   {
     "expire": "2020-09-18T18:00:00.087Z",
@@ -68,10 +73,5 @@
     "expire": "2020-09-17T09:25:37.069Z",
     "id": "e6178c20-f403-4e10-ac04-1def32170958",
     "msg": "The Birds pecked Jessica Telephone free! "
-  },
-  {
-    "expire": "2020-09-24T07:43:59.128Z",
-    "id": "hitting_stat_leaders_update",
-    "msg": "Runs Batted In Leaders: ... Hahn Fox, Hellmouth Sunbeams - 14 ..... Esme Ramsey, Charleston Shoe Thieves - 13 ..... Baby Doyle, Breckenridge Jazz Hands - 13 ..... Stew Briggs, Kansas City Breath Mints - 12 ..... Justice Spoon, Chicago Firefighters - 12 ..... "
   }
 ]
