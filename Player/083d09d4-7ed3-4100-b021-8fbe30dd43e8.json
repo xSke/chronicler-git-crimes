@@ -25,9 +25,9 @@
   "omniscience": 0.7104289779019639,
   "overpowerment": 0.6892427934187828,
   "patheticism": 0.21590198952572456,
-  "peanutAllergy": false,
+  "peanutAllergy": true,
   "permAttr": [
-    "SHELLED"
+    "SUPERALLERGIC"
   ],
   "pressurization": 0.19240544381174615,
   "ritual": "Batting Practice",
