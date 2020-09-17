@@ -55,18 +55,18 @@
     "msg": "The Shelled One Descended!"
   },
   {
-    "expire": "2020-09-24T16:39:09.669Z",
-    "id": "hitting_stat_leaders_update",
-    "msg": "Home Run Leaders: ... Conner Haley, Dallas Steaks - 6 ..... Paula Mason, Dallas Steaks - 6 ..... José Haley, Mexico City Mild Wings - 6 ..... Sandie Turner, New York Millennials - 6 ..... Reese Clark, Houston Spies - 6 ..... "
-  },
-  {
-    "expire": "2020-09-24T16:39:09.671Z",
-    "id": "pitching_stat_leaders_update",
-    "msg": "Earned Run Average Leaders: ... Adalberto Tosser, Baltimore Crabs - 0.000 ..... Agan Harrison, Breckenridge Jazz Hands - 0.000 ..... Sandford Garner, San Francisco Lovers - 0.964 ..... Jordan Hildebert, Houston Spies - 1.000 ..... Patel Beyonce, Unlimited Tacos - 1.241 ..... "
-  },
-  {
     "expire": "2020-09-17T19:06:01.662Z",
     "id": "d429a506-4be8-460e-aecf-19c4f80c0ab8",
     "msg": "Alyssa Harrell and Terrell Bradley switched teams in the feedback!"
+  },
+  {
+    "expire": "2020-09-24T17:32:53.809Z",
+    "id": "hitting_stat_leaders_update",
+    "msg": "Runs Batted In Leaders: ... Paula Mason, Dallas Steaks - 16 ..... August Sky, Dallas Steaks - 14 ..... Kennedy Loser, Baltimore Crabs - 14 ..... Hahn Fox, Hellmouth Sunbeams - 14 ..... Malik Destiny, Seattle Garages - 13 ..... "
+  },
+  {
+    "expire": "2020-09-24T17:32:53.811Z",
+    "id": "pitching_stat_leaders_update",
+    "msg": "WHIP Leaders: ... Sixpack Santiago, Miami Dale - 0.611 ..... Patel Beyonce, Unlimited Tacos - 0.655 ..... Mummy Melcon, Hades Tigers - 0.682 ..... Axel Trololol, Baltimore Crabs - 0.692 ..... Sandford Garner, San Francisco Lovers - 0.714 ..... "
   }
 ]
