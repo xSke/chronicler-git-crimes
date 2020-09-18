@@ -55,18 +55,18 @@
     "msg": "The Shelled One Descended!"
   },
   {
-    "expire": "2020-09-25T15:34:33.71Z",
-    "id": "hitting_stat_leaders_update",
-    "msg": "On Base Percentage Leaders: ... Workman Gloom, Canada Moist Talkers - 0.714 ..... Thomas Dracaena, New York Millennials - 0.632 ..... Greer Gwiffin, Seattle Garages - 0.579 ..... Moody Cookbook, Hades Tigers - 0.556 ..... Wyatt Dovenpart, Unlimited Tacos - 0.545 ..... "
-  },
-  {
-    "expire": "2020-09-25T15:34:33.712Z",
-    "id": "pitching_stat_leaders_update",
-    "msg": "Pitcher Win Leaders: ... Hiroto Wilcox, Hades Tigers - 2 ..... Dunlap Figueroa, Hades Tigers - 2 ..... Bright Zimmerman, Philly Pies - 2 ..... Cornelius Games, Charleston Shoe Thieves - 2 ..... Atlas Guerra, Kansas City Breath Mints - 2 ..... "
-  },
-  {
     "expire": "2020-09-18T18:24:24.344Z",
     "id": "96285f4c-afe0-4b7e-b833-21141c9537d8",
     "msg": "The Blooddrain gurgled! Wesley Poole siphoned some of Cannonball Sports's pitching ability!"
+  },
+  {
+    "expire": "2020-09-25T16:28:21.017Z",
+    "id": "hitting_stat_leaders_update",
+    "msg": "Stolen Base Leaders: ... Tillman Henderson, Baltimore Crabs - 11 ..... Richmond Harrison, Hades Tigers - 8 ..... Forrest Best, Baltimore Crabs - 8 ..... Parker Parra, Baltimore Crabs - 8 ..... Hewitt Best, Kansas City Breath Mints - 7 ..... "
+  },
+  {
+    "expire": "2020-09-25T16:28:21.018Z",
+    "id": "pitching_stat_leaders_update",
+    "msg": "Pitcher Loss Leaders: ... Tot Clark, Seattle Garages - 2 ..... Nagomi Meng, Hades Tigers - 2 ..... Ruslan Greatness, Philly Pies - 2 ..... Elvis Figueroa, Philly Pies - 2 ..... August Mina, Dallas Steaks - 2 ..... "
   }
 ]
