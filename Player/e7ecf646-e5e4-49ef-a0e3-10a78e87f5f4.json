@@ -3,7 +3,7 @@
   "armor": "",
   "baseThirst": 0.9363697345559644,
   "bat": "",
-  "blood": 0,
+  "blood": 10,
   "buoyancy": 0.8366258446960098,
   "chasiness": 0.18126022760497387,
   "cinnamon": 0.2006523964915272,
@@ -37,7 +37,7 @@
   "tenaciousness": 0.4837595465395207,
   "thwackability": 0.24412809780781025,
   "totalFingers": 10,
-  "tragicness": 0.01,
+  "tragicness": 0.1,
   "unthwackability": 0.5551264217403349,
   "watchfulness": 0.12096234134276404,
   "weekAttr": []
