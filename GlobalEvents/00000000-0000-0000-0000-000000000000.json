@@ -65,16 +65,6 @@
     "msg": "The Blooddrain gurgled! Igneus Delacruz siphoned some of Mcdowell Mason's hitting ability!"
   },
   {
-    "expire": "2020-09-25T01:28:51.292Z",
-    "id": "hitting_stat_leaders_update",
-    "msg": "Batting Average Leaders: ... Moody Cookbook, Hades Tigers - 0.556 ..... Malik Romayne, Hellmouth Sunbeams - 0.500 ..... Kathy Mathews, Breckenridge Jazz Hands - 0.397 ..... Wyatt Dovenpart, Unlimited Tacos - 0.380 ..... Rodriguez Internet, Kansas City Breath Mints - 0.378 ..... "
-  },
-  {
-    "expire": "2020-09-25T01:28:51.294Z",
-    "id": "pitching_stat_leaders_update",
-    "msg": "Strikeout Leaders: ... PolkaDot Patterson, Canada Moist Talkers - 47 ..... Zack Sanders, Hellmouth Sunbeams - 40 ..... Greer Lott, Canada Moist Talkers - 39 ..... Rivers Rosa, Chicago Firefighters - 39 ..... Brock Forbes, Baltimore Crabs - 38 ..... "
-  },
-  {
     "expire": "2020-09-18T04:13:28.058Z",
     "id": "f2fd816a-675a-42e2-b2fc-a38c59741427",
     "msg": "The Blooddrain gurgled! Montgomery Bullock siphoned some of Helga Moreno's pitching ability!"
@@ -83,5 +73,15 @@
     "expire": "2020-09-18T04:22:56.622Z",
     "id": "81d30450-3827-4fc8-9271-0c933bd85ae6",
     "msg": "The Blooddrain gurgled! Swamuel Mora siphoned some of Morrow Wilson's defensive ability!"
+  },
+  {
+    "expire": "2020-09-25T02:29:18.339Z",
+    "id": "hitting_stat_leaders_update",
+    "msg": "Home Run Leaders: ... Conner Haley, Dallas Steaks - 13 ..... José Haley, Mexico City Mild Wings - 11 ..... Reese Clark, Houston Spies - 10 ..... Oliver Notarobot, Baltimore Crabs - 9 ..... Allison Abbott, Seattle Garages - 8 ..... "
+  },
+  {
+    "expire": "2020-09-25T02:29:18.34Z",
+    "id": "pitching_stat_leaders_update",
+    "msg": "Earned Run Average Leaders: ... Brock Forbes, Baltimore Crabs - 1.750 ..... Kevin Dudley, Charleston Shoe Thieves - 1.895 ..... Miguel James, Hellmouth Sunbeams - 2.057 ..... Cornelius Games, Charleston Shoe Thieves - 2.172 ..... Sandford Garner, San Francisco Lovers - 2.298 ..... "
   }
 ]
