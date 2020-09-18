@@ -50,18 +50,18 @@
     "msg": "In memoriam: so so many"
   },
   {
-    "expire": "2020-09-25T04:30:10.01Z",
-    "id": "hitting_stat_leaders_update",
-    "msg": "On Base Percentage Leaders: ... Esme Ramsey, Charleston Shoe Thieves - 0.647 ..... Moody Cookbook, Hades Tigers - 0.556 ..... Kathy Mathews, Breckenridge Jazz Hands - 0.506 ..... Malik Romayne, Hellmouth Sunbeams - 0.500 ..... Jessica Telephone, Philly Pies - 0.463 ..... "
-  },
-  {
-    "expire": "2020-09-25T04:30:10.011Z",
-    "id": "pitching_stat_leaders_update",
-    "msg": "Pitcher Win Leaders: ... Hiroto Wilcox, Hades Tigers - 5 ..... Silvia Rugrat, Mexico City Mild Wings - 5 ..... Rivers Rosa, Chicago Firefighters - 5 ..... Kevin Dudley, Charleston Shoe Thieves - 4 ..... Cornelius Games, Charleston Shoe Thieves - 4 ..... "
-  },
-  {
     "expire": "2020-09-18T18:00:00.087Z",
     "id": "SHELLING",
     "msg": "The Shelled One Descended!"
+  },
+  {
+    "expire": "2020-09-25T05:28:40.443Z",
+    "id": "hitting_stat_leaders_update",
+    "msg": "Stolen Base Leaders: ... Forrest Best, Baltimore Crabs - 29 ..... Collins Melon, Breckenridge Jazz Hands - 17 ..... Richardson Games, Charleston Shoe Thieves - 14 ..... Boyfriend Monreal, Kansas City Breath Mints - 14 ..... Don Mitchell, San Francisco Lovers - 13 ..... "
+  },
+  {
+    "expire": "2020-09-25T05:28:40.444Z",
+    "id": "pitching_stat_leaders_update",
+    "msg": "Pitcher Loss Leaders: ... Zeboriah Wilson, Boston Flowers - 5 ..... Owen Picklestein, Boston Flowers - 5 ..... Chambers Simmons, Boston Flowers - 5 ..... Henry Marshallow, Seattle Garages - 4 ..... Nagomi Meng, Hades Tigers - 4 ..... "
   }
 ]
