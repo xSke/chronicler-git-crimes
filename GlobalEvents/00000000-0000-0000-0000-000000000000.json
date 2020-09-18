@@ -55,16 +55,6 @@
     "msg": "The Shelled One Descended!"
   },
   {
-    "expire": "2020-09-25T00:29:35.015Z",
-    "id": "hitting_stat_leaders_update",
-    "msg": "Stolen Base Leaders: ... Forrest Best, Baltimore Crabs - 20 ..... Collins Melon, Breckenridge Jazz Hands - 15 ..... Boyfriend Monreal, Kansas City Breath Mints - 13 ..... Don Mitchell, San Francisco Lovers - 12 ..... Paula Turnip, Hades Tigers - 10 ..... "
-  },
-  {
-    "expire": "2020-09-25T00:29:35.016Z",
-    "id": "pitching_stat_leaders_update",
-    "msg": "Pitcher Loss Leaders: ... Nagomi Meng, Hades Tigers - 4 ..... Inky Rutledge, Yellowstone Magic - 4 ..... Zeboriah Wilson, Boston Flowers - 4 ..... Owen Picklestein, Boston Flowers - 4 ..... Chambers Simmons, Boston Flowers - 4 ..... "
-  },
-  {
     "expire": "2020-09-18T03:09:54.943Z",
     "id": "39e5c4b2-e9ca-450f-bf87-174559d9f916",
     "msg": "A Debt was collected. Rogue Umpire incinerated Moist Talkers hitter Workman Gloom! Replaced by Commissioner Vapor"
@@ -73,5 +63,15 @@
     "expire": "2020-09-18T03:11:31.025Z",
     "id": "05e2bd57-6bc1-4ba4-a0fb-76dffba339ed",
     "msg": "The Blooddrain gurgled! Igneus Delacruz siphoned some of Mcdowell Mason's hitting ability!"
+  },
+  {
+    "expire": "2020-09-25T01:28:51.292Z",
+    "id": "hitting_stat_leaders_update",
+    "msg": "Batting Average Leaders: ... Moody Cookbook, Hades Tigers - 0.556 ..... Malik Romayne, Hellmouth Sunbeams - 0.500 ..... Kathy Mathews, Breckenridge Jazz Hands - 0.397 ..... Wyatt Dovenpart, Unlimited Tacos - 0.380 ..... Rodriguez Internet, Kansas City Breath Mints - 0.378 ..... "
+  },
+  {
+    "expire": "2020-09-25T01:28:51.294Z",
+    "id": "pitching_stat_leaders_update",
+    "msg": "Strikeout Leaders: ... PolkaDot Patterson, Canada Moist Talkers - 47 ..... Zack Sanders, Hellmouth Sunbeams - 40 ..... Greer Lott, Canada Moist Talkers - 39 ..... Rivers Rosa, Chicago Firefighters - 39 ..... Brock Forbes, Baltimore Crabs - 38 ..... "
   }
 ]
