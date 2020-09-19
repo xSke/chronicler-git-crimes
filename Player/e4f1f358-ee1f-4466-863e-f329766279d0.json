@@ -42,5 +42,7 @@
   "tragicness": 0.1,
   "unthwackability": 0.27626898763603935,
   "watchfulness": 0.03,
-  "weekAttr": []
+  "weekAttr": [
+    "MARKED"
+  ]
 }
