@@ -27,7 +27,9 @@
   "overpowerment": 0.16255853495054784,
   "patheticism": 0.8921336022150141,
   "peanutAllergy": true,
-  "permAttr": [],
+  "permAttr": [
+    "NON_IDOLIZED"
+  ],
   "pressurization": 0.5865363353389356,
   "ritual": "Journaling",
   "ruthlessness": 0.8138088850252236,

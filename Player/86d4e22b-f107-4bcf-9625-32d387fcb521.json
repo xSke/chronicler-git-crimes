@@ -27,7 +27,9 @@
   "overpowerment": 0.6257141057227573,
   "patheticism": 0.4506690768129138,
   "peanutAllergy": false,
-  "permAttr": [],
+  "permAttr": [
+    "DOUBLE_PAYOUTS"
+  ],
   "pressurization": 0.32762547788474816,
   "ritual": "LARPing",
   "ruthlessness": 0.29160734807230804,
