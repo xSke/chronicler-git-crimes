@@ -14,7 +14,7 @@
     "094ad9a1-e2c7-49a0-af18-da0e3eb656ba",
     "19af0d67-c73b-4ef2-bc84-e923c1336db5"
   ],
-  "championships": 0,
+  "championships": 1,
   "emoji": "0x1F357",
   "fullName": "Mexico City Wild Wings",
   "gameAttr": [],
@@ -43,15 +43,15 @@
     "65273615-22d5-4df1-9a73-707b23e828d5",
     "089af518-e27c-4256-adc8-62e3f4b30f43"
   ],
-  "rotationSlot": 111,
+  "rotationSlot": 0,
   "seasAttr": [],
-  "seasonShames": 5,
-  "seasonShamings": 5,
+  "seasonShames": 0,
+  "seasonShamings": 0,
   "secondaryColor": "#e8e8e8",
   "shameRuns": 0,
   "shorthand": "MCWW",
   "slogan": "Wings. Beer. Blaseball.",
   "totalShames": 34,
-  "totalShamings": 12,
+  "totalShamings": 13,
   "weekAttr": []
 }
