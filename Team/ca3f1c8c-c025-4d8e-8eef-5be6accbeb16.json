@@ -20,7 +20,7 @@
   "gameAttr": [],
   "id": "ca3f1c8c-c025-4d8e-8eef-5be6accbeb16",
   "lineup": [
-    "d6c69d2d-9344-4b19-85a4-6cfcbaead5d2",
+    "bd8d58b6-f37f-48e6-9919-8e14ec91f92a",
     "c182f33c-aea5-48a2-97ed-dc74fa29b3c0",
     "ad8d15f4-e041-4a12-a10e-901e6285fdc5",
     "20e13b56-599b-4a22-b752-8059effc81dc",
@@ -40,11 +40,13 @@
     "e4e4c17d-8128-4704-9e04-f244d4573c4d",
     "1513aab6-142c-48c6-b43e-fbda65fd64e8",
     "4bf352d2-6a57-420a-9d45-b23b2b947375",
-    "16aff709-e855-47c8-8818-b9ba66e90fe8",
+    "316abea7-9890-4fb8-aaea-86b35e24d9be",
     "d23a1f7e-0071-444e-8361-6ae01f13036f"
   ],
   "rotationSlot": 0,
-  "seasAttr": [],
+  "seasAttr": [
+    "SHAME_PIT"
+  ],
   "seasonShames": 0,
   "seasonShamings": 0,
   "secondaryColor": "#d6cbb0",

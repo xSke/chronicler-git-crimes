@@ -28,7 +28,8 @@
     "f2468055-e880-40bf-8ac6-a0763d846eb2",
     "d51f1fe8-4ab8-411e-b836-5bba92984d32",
     "8cd06abf-be10-4a35-a3ab-1a408a329147",
-    "75f9d874-5e69-438d-900d-a3fcb1d429b3"
+    "75f9d874-5e69-438d-900d-a3fcb1d429b3",
+    "04931546-1b4a-469f-b391-7ed67afe824c"
   ],
   "location": "Boston",
   "mainColor": "#f7d1ff",
@@ -44,7 +45,9 @@
     "a647388d-fc59-4c1b-90d3-8c1826e07775"
   ],
   "rotationSlot": 0,
-  "seasAttr": [],
+  "seasAttr": [
+    "SHAME_PIT"
+  ],
   "seasonShames": 0,
   "seasonShamings": 0,
   "secondaryColor": "#ffbaba",

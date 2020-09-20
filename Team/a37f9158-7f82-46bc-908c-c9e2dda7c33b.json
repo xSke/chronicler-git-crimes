@@ -24,7 +24,7 @@
     "5dbf11c0-994a-4482-bd1e-99379148ee45",
     "ef9f8b95-9e73-49cd-be54-60f84858a285",
     "18f45a1b-76eb-4b59-a275-c64cf62afce0",
-    "efafe75e-2f00-4418-914c-9b6675d39264",
+    "2f3d7bc7-6ffb-40c3-a94f-5e626be413c9",
     "678170e4-0688-436d-a02d-c0467f9af8c0",
     "4f328502-d347-4d2c-8fad-6ae59431d781",
     "9c3273a0-2711-4958-b716-bfcf60857013",
@@ -44,7 +44,9 @@
     "f3c07eaf-3d6c-4cc3-9e54-cbecc9c08286"
   ],
   "rotationSlot": 0,
-  "seasAttr": [],
+  "seasAttr": [
+    "SHAME_PIT"
+  ],
   "seasonShames": 0,
   "seasonShamings": 0,
   "secondaryColor": "#9182C4",
