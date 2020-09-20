@@ -15,6 +15,7 @@
   "fate": 32,
   "gameAttr": [],
   "groundFriction": 0.8624093684512144,
+  "hitStreak": 0,
   "id": "e919dfae-91c3-475c-b5d5-8b0c14940c41",
   "indulgence": 0.818680831614266,
   "laserlikeness": 0.6905312773249239,
