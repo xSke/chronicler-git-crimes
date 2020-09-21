@@ -50,9 +50,14 @@
     "msg": "In memoriam: so so many"
   },
   {
-    "expire": "2020-09-28T18:32:20.4Z",
+    "expire": "2020-09-28T19:32:28.664Z",
+    "id": "hitting_stat_leaders_update",
+    "msg": "On Base Percentage Leaders: ... Kline Greenlemon, Dallas Steaks - 0.750 ..... Aldon Cashmoney, Hawaii Fridays - 0.750 ..... Tillman Henderson, Baltimore Crabs - 0.647 ..... Reese Clark, Houston Spies - 0.643 ..... Jacob Haynes, Boston Flowers - 0.643 ..... "
+  },
+  {
+    "expire": "2020-09-28T19:32:28.665Z",
     "id": "pitching_stat_leaders_update",
-    "msg": "WHIP Leaders: ... Rivers Rosa, Chicago Firefighters - 0.222 ..... Tot Clark, Seattle Garages - 0.333 ..... Beasley Gloom, Charleston Shoe Thieves - 0.333 ..... Adalberto Tosser, Baltimore Crabs - 0.444 ..... Patty Fox, New York Millennials - 0.444 ..... "
+    "msg": "Pitcher Win Leaders: ... Montgomery Bullock, Baltimore Crabs - 2 ..... Adalberto Tosser, Baltimore Crabs - 1 ..... Finn James, Baltimore Crabs - 1 ..... Atlas Guerra, Kansas City Breath Mints - 1 ..... Winnie Hess, Kansas City Breath Mints - 1 ..... "
   },
   {
     "expire": "2020-09-25T20:19:11.347Z",
@@ -63,10 +68,5 @@
     "expire": "2020-09-21T20:09:26.006Z",
     "id": "7d089632-427e-46ba-b0d1-7ea8c95ea2eb",
     "msg": "The Blooddrain gurgled! Justice Spoon siphoned some of Alexander Horne's hitting ability!"
-  },
-  {
-    "expire": "2020-09-28T18:32:20.399Z",
-    "id": "hitting_stat_leaders_update",
-    "msg": "Runs Batted In Leaders: ... Jessica Telephone, Philly Pies - 7 ..... Lou Roseheart, Chicago Firefighters - 6 ..... Comfort Septemberish, Houston Spies - 6 ..... Case Sports, Mexico City Wild Wings - 5 ..... Sosa Hayes, Mexico City Wild Wings - 5 ..... "
   }
 ]
