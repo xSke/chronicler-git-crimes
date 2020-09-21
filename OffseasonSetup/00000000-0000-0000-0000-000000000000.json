@@ -1,51 +1,65 @@
 {
   "blessings": [
     {
-      "description": "OMG they noticed us. Steal a random player from the Idol Leaderboard.",
-      "id": "steal_random_leaderboard_player",
-      "subheader": "Brought to you by @The Multitude Podcast Collective@http://multitude.productions/blaseball",
-      "title": "Popular by Association",
-      "type": 87,
+      "description": "Keep a Random Player on your team Stable.",
+      "id": "mod_player_stable",
+      "subheader": "Brought to you by @Limited Run Games@http://limitedrungames.com/blaseball",
+      "title": "Forever Physical",
+      "type": 96,
       "value": 1
     },
     {
-      "description": "Steal 3 random players from the Internet Series Champion.",
-      "id": "steal_champion_players",
-      "subheader": "Brought to you by @The Orange Groves Podcast Network@http://www.theorangegroves.com/blaseball",
-      "title": "Champs in the Making",
-      "type": 88,
+      "description": "Re-rolls your team's three worst players.",
+      "id": "reroll_worst_players_3",
+      "subheader": "Brought to you by @Necrobarista@https://store.steampowered.com/app/725270/Necrobarista/",
+      "title": "Radical Alchemy",
+      "type": 10,
       "value": 3
     },
     {
-      "description": "Item. A sawed-off bat of protection. Impossible to wield. Minimize a Player, but they shield your team from incineration.",
-      "id": "item_sawed_off_bat",
-      "subheader": "Brought to you by @Scavengers Network@http://www.scavengersnetwork.com/",
-      "title": "The Iffey Jr.",
-      "type": 83,
+      "description": "Your team is protected from Incinerations for the following season.",
+      "id": "mod_team_fireproof",
+      "subheader": "Brought to you by @IndieCade@https://www.kickstarter.com/projects/indiecade/anywhere-and-everywhere",
+      "title": "Anti Burnout",
+      "type": 64,
       "value": 1
     },
     {
-      "description": "Single-Serving Heat. Make a random player on your team Spicy.",
-      "id": "mod_player_hot_sauce",
-      "subheader": "Brought to you by @Indiana Dunes Photography@https://indianadunesphotography.com",
-      "title": "Hot Sauce Packet",
-      "type": 84,
-      "value": 1
-    },
-    {
-      "description": "Because, that's why. Re-rolls your team's 3 worst hitters.",
-      "id": "reroll_worst_hitters_3",
-      "subheader": "Brought to you by @Massif Press@https://massif-press.itch.io/",
-      "title": "Paracausal Event",
-      "type": 12,
+      "description": "Where did you find these? Improve 3 random pitchers on your team by one Star (20%)",
+      "id": "random_pitcher_star_boost",
+      "subheader": "Brought to you by @Pro Gymnast@http://www.walaber.com/pro-gymnast",
+      "title": "Replacement Elbows",
+      "type": 53,
       "value": 3
     },
     {
-      "description": "Arrange your lineup in order of their Idolatry.",
-      "id": "popular_lineup_order",
-      "subheader": "Brought to you by @MacStories@https://club.macstories.net",
-      "title": "Headliners",
-      "type": 81,
+      "description": "Enter the code. Recruit a rookie to be the 6th player in your Rotation.",
+      "id": "add_new_player_rotation",
+      "subheader": "Brought to you by @Blaseball Cares@https://www.blaseballcares.com",
+      "title": "Promo Code",
+      "type": 107,
+      "value": 1
+    },
+    {
+      "description": "Oh, that’s what they do. Your team will play 50% Better in Bird Weather.",
+      "id": "mod_team_bird_boost",
+      "subheader": "Brought to you by @The Society of Internet Blaseball Research@https://sibr.dev/",
+      "title": "Affinity For Crows",
+      "type": 97,
+      "value": 1
+    },
+    {
+      "description": "No place like home. Your Team starts with 1 Run when playing at home.",
+      "id": "mod_team_home_field",
+      "title": "Home Field Advantage",
+      "type": 98,
+      "value": 1
+    },
+    {
+      "description": "Reinforced. Remove the Worst Player from your Rotation. Your Rotation is now shorter.",
+      "id": "remove_worst_rotation",
+      "title": "Composite",
+      "type": 108,
       "value": 1
     },
     {
@@ -63,108 +77,94 @@
       "value": 21
     },
     {
-      "description": "Give all of the teams that are not in your division Targeted Shame.",
-      "id": "mod_non_division_targeted_shame",
-      "title": "The Shame Bubble",
-      "type": 86,
+      "description": "Never heard of them. Maximize and steal the least Idolized player in the league.",
+      "id": "max_steal_least_popular",
+      "title": "Who? You too?",
+      "type": 70,
       "value": 1
     },
     {
-      "description": "Plug in. Give your team Electric blood type.",
-      "id": "team_blood_type_electric",
-      "title": "Closed Circuit",
-      "type": 85,
+      "description": "Hello? Who's there? Replace a player on your team with the Alternate of a random player from another team.",
+      "id": "duplicate_random_player",
+      "title": "Party Line",
+      "type": 82,
       "value": 1
     },
     {
-      "description": "Everyone kept chanting my name, it was SO EMBARRASSING. Protect a Player from being Idolized.",
-      "id": "mod_player_no_idolization",
-      "title": "Humblebrag",
-      "type": 92,
+      "description": "Under the cover of darkness. Steal a Pitcher from a Divisional Opponent's Shadows.",
+      "id": "steal_random_team_best_bullpen",
+      "title": "Thief in the Night",
+      "type": 101,
       "value": 1
     },
     {
-      "description": "Look at me. Most Idolized player on your team gives double-payouts as an Idol.",
-      "id": "mod_player_double_payouts",
-      "title": "Center of Attention",
-      "type": 93,
-      "value": 1
-    },
-    {
-      "description": "Armor. Protect a random Player on your team from Incinerations.",
-      "id": "item_fireproof",
-      "title": "Scorpler's Jacket",
-      "type": 62,
-      "value": 1
-    },
-    {
-      "description": "Steal Armor from a random player on an opposing team.",
-      "id": "armor_steal_random",
-      "title": "Hand-Me Downs",
-      "type": 91,
-      "value": 1
-    },
-    {
-      "description": "Feed your hitters coffee grounds. Team hitting changes anywhere from -5% to +15%",
-      "id": "variable_team_hitting",
-      "title": "Pretty Plz?",
-      "type": 37,
-      "value": 0.2
-    },
-    {
-      "description": "Re-rolls your team's 3 worst pitchers.",
-      "id": "reroll_worst_pitchers_3",
-      "title": "Exploratory Surgeries",
-      "type": 11,
+      "description": "Vision of things to come. Improve 3 random hitters on your team by one Star (20%)",
+      "id": "random_hitter_star_boost",
+      "title": "Precognition",
+      "type": 52,
       "value": 3
     },
     {
-      "description": "Recruit a rookie to be the 10th player in your lineup.",
-      "id": "add_new_player_lineup",
-      "title": "New Recruit",
-      "type": 94,
+      "description": "A warm welcome. Incinerate the Least Idolized Player on Your Team.",
+      "id": "incinerate_least_idolized",
+      "title": "New Kid",
+      "type": 103,
       "value": 1
     },
     {
-      "description": "Remove the worst player from your lineup. Your lineup is now shorter.",
-      "id": "remove_worst_lineup",
-      "title": "Downsizing",
-      "type": 95,
+      "description": "Feed the Hall Monitor. Fans of your team receive a big barrel of peanuts.",
+      "id": "barrel_of_peanuts",
+      "title": "Barrel of Tiny Eggs",
+      "type": 104,
       "value": 1
     },
     {
-      "description": "Stretch. Reroll your 3 worst Baserunners' baserunning.",
-      "id": "reroll_worst_baserunners_3",
-      "title": "Jelly Legs",
-      "type": 89,
-      "value": 3
+      "description": "Swap your team into the other Division in your Subleague.",
+      "id": "division_swap",
+      "title": "Divisional Swap",
+      "type": 99,
+      "value": 1
     },
     {
-      "description": "Cover yourselves in the stuff. Re-roll your three worst Defenders' defense.",
-      "id": "reroll_worst_defense_3",
-      "title": "Stickum",
-      "type": 90,
-      "value": 3
+      "description": "Swap your team into another Division in the opposite Subleague.",
+      "id": "subleague_swap",
+      "title": "Subleague Swap",
+      "type": 100,
+      "value": 1
+    },
+    {
+      "description": "The grass is greener on the other side. Give your team Grass Blood Type.",
+      "id": "team_blood_type_grass",
+      "title": "Astroturf",
+      "type": 105,
+      "value": 1
+    },
+    {
+      "description": "Succumb. Give your team Base Blood Type.",
+      "id": "team_blood_type_base",
+      "title": "Base Instincts",
+      "type": 106,
+      "value": 1
     }
   ],
   "decrees": [
     {
-      "description": "The Top 4 Teams of the Regular Season must run an extra base next season.",
-      "id": "fifth_base",
-      "title": "Fifth Base",
-      "type": 28
+      "description": "Every Season, a random team from each Subleague will leave Party Time to become the 5th Playoff team. A best of 3 Wild Card series will happen on Fridays.",
+      "id": "wild_cards",
+      "title": "Wild Cards",
+      "type": 31
     },
     {
-      "description": "The Top 4 Teams of the Regular Season will walk batters on the 3rd Ball of an At-Bat instead of the 4th next season.",
-      "id": "walk_in_the_park",
-      "title": "Walk in the Park",
-      "type": 29
+      "description": "Next Season, the bottom four teams will have Relief. When one of their pitchers gives up 5 runs, they'll immediately be replaced by a pitcher from their Shadows.",
+      "id": "relief",
+      "title": "Relief",
+      "type": 32
     },
     {
-      "description": "The Top 4 Teams of the Regular Season cannot win blessings in this Election.",
-      "id": "bless_off",
-      "title": "Bless Off",
-      "type": 30
+      "description": "Whenever a team defeats the team currently leading their Division, they'll earn an extra win.",
+      "id": "double_jumps",
+      "title": "Double Jumps",
+      "type": 33
     }
   ],
   "decreesToPass": 1
