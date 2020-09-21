@@ -50,16 +50,6 @@
     "msg": "In memoriam: so so many"
   },
   {
-    "expire": "2020-09-25T20:53:38.342Z",
-    "id": "hitting_stat_leaders_update",
-    "msg": "On Base Percentage Leaders: ... Steph Weeks, Breckenridge Jazz Hands - 0.733 ..... Workman Gloom, Canada Moist Talkers - 0.714 ..... Malik Romayne, Houston Spies - 0.714 ..... Jessica Telephone, Philly Pies - 0.700 ..... Miguel Wheeler, Mexico City Mild Wings - 0.667 ..... "
-  },
-  {
-    "expire": "2020-09-25T20:53:38.343Z",
-    "id": "pitching_stat_leaders_update",
-    "msg": "Pitcher Win Leaders: ... Ron Monstera, Seattle Garages - 1 ..... Henry Marshallow, Seattle Garages - 1 ..... Yazmin Mason, Hades Tigers - 1 ..... Hiroto Wilcox, Hades Tigers - 1 ..... Dunlap Figueroa, Hades Tigers - 1 ..... "
-  },
-  {
     "expire": "2020-09-25T20:19:11.347Z",
     "id": "SHELLING",
     "msg": "The Shelled One Descended again!"
@@ -73,5 +63,15 @@
     "expire": "2020-09-21T18:07:24.02Z",
     "id": "2f8a9786-a6f6-48d2-9579-0c1aaf284e17",
     "msg": "Shoe Thieves pitcher Gunther O'Brian swallowed a stray Peanut and had a yummy reaction!"
+  },
+  {
+    "expire": "2020-09-28T16:30:02.837Z",
+    "id": "hitting_stat_leaders_update",
+    "msg": "Batting Average Leaders: ... Knight Urlacher, San Francisco Lovers - 1.000 ..... Jessica Telephone, Philly Pies - 0.800 ..... York Silk, Hawaii Fridays - 0.750 ..... Kennedy Cena, Philly Pies - 0.750 ..... Comfort Septemberish, Houston Spies - 0.750 ..... "
+  },
+  {
+    "expire": "2020-09-28T16:30:02.838Z",
+    "id": "pitching_stat_leaders_update",
+    "msg": "Strikeout Leaders: ... Zack Sanders, Hellmouth Sunbeams - 12 ..... Gunther O'Brian, Charleston Shoe Thieves - 10 ..... Pitching Machine, Unlimited Tacos - 9 ..... Patty Fox, New York Millennials - 9 ..... Lowe Forbes, Breckenridge Jazz Hands - 8 ..... "
   }
 ]
