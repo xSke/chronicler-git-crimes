@@ -43,13 +43,13 @@
     {
       "description": "Oh, that’s what they do. Your team will play 50% Better in Bird Weather.",
       "id": "mod_team_bird_boost",
-      "subheader": "Brought to you by @The Society of Internet Blaseball Research@https://sibr.dev/",
+      "subheader": "Brought to you by @The Society for Internet Blaseball Research@https://sibr.dev/",
       "title": "Affinity For Crows",
       "type": 97,
       "value": 1
     },
     {
-      "description": "No place like home. Your Team starts with 1 Run when playing at home.",
+      "description": "No place like home. Your Team starts with 1 Run when playing at home next season.",
       "id": "mod_team_home_field",
       "title": "Home Field Advantage",
       "type": 98,
@@ -161,7 +161,7 @@
       "type": 32
     },
     {
-      "description": "Whenever a team defeats the team currently leading their Division, they'll earn an extra win.",
+      "description": "Whenever a team defeats the team currently leading their Division, they'll earn an extra win. Permanent effect.",
       "id": "double_jumps",
       "title": "Double Jumps",
       "type": 33
