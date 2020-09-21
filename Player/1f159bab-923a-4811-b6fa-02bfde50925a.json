@@ -1,5 +1,5 @@
 {
-  "anticapitalism": 1,
+  "anticapitalism": 0.9,
   "armor": "",
   "baseThirst": 0.38280948618546,
   "bat": "",
@@ -40,6 +40,6 @@
   "totalFingers": 14,
   "tragicness": 0.1,
   "unthwackability": 0.11262919984275097,
-  "watchfulness": 0.010296103692278956,
+  "watchfulness": 0.01,
   "weekAttr": []
 }
