@@ -50,23 +50,23 @@
     "msg": "In memoriam: so so many"
   },
   {
-    "expire": "2020-09-28T21:35:05.806Z",
-    "id": "hitting_stat_leaders_update",
-    "msg": "Batting Average Leaders: ... Jessica Telephone, Philly Pies - 0.478 ..... Stew Briggs, Kansas City Breath Mints - 0.455 ..... Bates Bentley, New York Millennials - 0.455 ..... Rodriguez Internet, Kansas City Breath Mints - 0.435 ..... Theodore Duende, Seattle Garages - 0.435 ..... "
-  },
-  {
-    "expire": "2020-09-28T21:35:05.807Z",
-    "id": "pitching_stat_leaders_update",
-    "msg": "Strikeout Leaders: ... Pitching Machine, Unlimited Tacos - 43 ..... Theodore Holloway, Houston Spies - 18 ..... Zack Sanders, Hellmouth Sunbeams - 18 ..... Stevenson Heat, Hawaii Fridays - 17 ..... Gunther O'Brian, Charleston Shoe Thieves - 17 ..... "
-  },
-  {
     "expire": "2020-09-22T00:00:56.527Z",
     "id": "e9478476-c87f-4dbd-87c2-9f128a71cb28",
     "msg": "The Blooddrain gurgled! Conrad Vaughan siphoned some of NaN's defensive ability!"
   },
   {
+    "expire": "2020-09-28T22:29:49.466Z",
+    "id": "hitting_stat_leaders_update",
+    "msg": "Home Run Leaders: ... Ren Hunter, New York Millennials - 4 ..... Bates Bentley, New York Millennials - 4 ..... Hahn Fox, Hellmouth Sunbeams - 4 ..... Nic Winkler, Boston Flowers - 4 ..... Richmond Harrison, Hades Tigers - 3 ..... "
+  },
+  {
     "expire": "2020-09-25T20:19:11.347Z",
     "id": "SHELLING",
     "msg": "The Shelled One Descended again!"
+  },
+  {
+    "expire": "2020-09-28T22:29:49.467Z",
+    "id": "pitching_stat_leaders_update",
+    "msg": "Earned Run Average Leaders: ... Jaylen Hotdogfingers, Seattle Garages - 0.000 ..... Cornelius Games, Charleston Shoe Thieves - 0.000 ..... Edric Tosser, Chicago Firefighters - 0.000 ..... Adalberto Tosser, Baltimore Crabs - 1.000 ..... Burke Gonzales, Mexico City Wild Wings - 1.000 ..... "
   }
 ]
