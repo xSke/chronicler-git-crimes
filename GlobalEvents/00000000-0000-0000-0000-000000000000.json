@@ -50,6 +50,16 @@
     "msg": "In memoriam: so so many"
   },
   {
+    "expire": "2020-09-29T02:31:45.574Z",
+    "id": "hitting_stat_leaders_update",
+    "msg": "Batting Average Leaders: ... Rai Spliff, Philly Pies - 0.500 ..... Peanut Holloway, Philly Pies - 0.432 ..... Theodore Duende, Seattle Garages - 0.429 ..... Stew Briggs, Kansas City Breath Mints - 0.400 ..... Rodriguez Internet, Kansas City Breath Mints - 0.395 ..... "
+  },
+  {
+    "expire": "2020-09-29T02:31:45.575Z",
+    "id": "pitching_stat_leaders_update",
+    "msg": "Strikeout Leaders: ... Pitching Machine, Unlimited Tacos - 77 ..... Jenkins Good, Canada Moist Talkers - 34 ..... Zack Sanders, Hellmouth Sunbeams - 28 ..... Gunther O'Brian, Charleston Shoe Thieves - 24 ..... Caleb Alvarado, Chicago Firefighters - 23 ..... "
+  },
+  {
     "expire": "2020-09-25T20:19:11.347Z",
     "id": "SHELLING",
     "msg": "The Shelled One Descended again!"
@@ -58,15 +68,5 @@
     "expire": "2020-09-22T03:14:58.349Z",
     "id": "50a08abd-c8a4-4e2f-8bb4-b7956d39c604",
     "msg": "Rogue Umpire incinerated Pies hitter Hobbs Cain! Replaced by Rai Spliff"
-  },
-  {
-    "expire": "2020-09-29T01:28:45.496Z",
-    "id": "hitting_stat_leaders_update",
-    "msg": "Stolen Base Leaders: ... Forrest Best, Baltimore Crabs - 9 ..... Collins Melon, Breckenridge Jazz Hands - 9 ..... Richardson Games, Charleston Shoe Thieves - 7 ..... Tillman Henderson, Baltimore Crabs - 6 ..... Kathy Mathews, Breckenridge Jazz Hands - 6 ..... "
-  },
-  {
-    "expire": "2020-09-29T01:28:45.497Z",
-    "id": "pitching_stat_leaders_update",
-    "msg": "Pitcher Loss Leaders: ... Pitching Machine, Unlimited Tacos - 5 ..... Oscar Vaughan, Kansas City Breath Mints - 2 ..... Leach Ingram, Kansas City Breath Mints - 2 ..... Dunlap Figueroa, Hades Tigers - 2 ..... Greer Lott, Canada Moist Talkers - 2 ..... "
   }
 ]
