@@ -50,19 +50,19 @@
     "msg": "In memoriam: so so many"
   },
   {
-    "expire": "2020-09-29T17:29:19.498Z",
-    "id": "hitting_stat_leaders_update",
-    "msg": "Batting Average Leaders: ... Comfort Septemberish, Houston Spies - 0.391 ..... Jessica Telephone, Philly Pies - 0.385 ..... Lang Richardson, Philly Pies - 0.368 ..... Malik Romayne, Houston Spies - 0.351 ..... Oscar Dollie, Yellowstone Magic - 0.347 ..... "
-  },
-  {
-    "expire": "2020-09-29T17:29:19.499Z",
-    "id": "pitching_stat_leaders_update",
-    "msg": "Strikeout Leaders: ... Pitching Machine, Unlimited Tacos - 182 ..... Jenkins Good, Canada Moist Talkers - 75 ..... Gunther O'Brian, Charleston Shoe Thieves - 57 ..... Zack Sanders, Hellmouth Sunbeams - 56 ..... Adalberto Tosser, Baltimore Crabs - 51 ..... "
-  },
-  {
     "expire": "2020-09-22T20:19:57.795Z",
     "id": "6f19f086-bac4-4011-8569-e310d07045ca",
     "msg": "Rai Spliff flickers! Rai Spliff and Summers Pony switched teams in the feedback!"
+  },
+  {
+    "expire": "2020-09-29T18:31:29.066Z",
+    "id": "hitting_stat_leaders_update",
+    "msg": "Home Run Leaders: ... Comfort Septemberish, Houston Spies - 14 ..... José Haley, Chicago Firefighters - 13 ..... Marco Stink, Dallas Steaks - 11 ..... Avila Guzman, Miami Dale - 11 ..... Fitzgerald Blackburn, Houston Spies - 10 ..... "
+  },
+  {
+    "expire": "2020-09-29T18:31:29.067Z",
+    "id": "pitching_stat_leaders_update",
+    "msg": "Earned Run Average Leaders: ... Zack Sanders, Hellmouth Sunbeams - 1.607 ..... Campos Arias, Breckenridge Jazz Hands - 2.045 ..... Finn James, Baltimore Crabs - 2.200 ..... Jaylen Hotdogfingers, Seattle Garages - 2.200 ..... Rafael Davids, Mexico City Wild Wings - 2.208 ..... "
   },
   {
     "expire": "2020-09-25T20:19:11.347Z",
