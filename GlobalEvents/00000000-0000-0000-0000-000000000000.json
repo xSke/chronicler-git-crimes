@@ -60,19 +60,19 @@
     "msg": "The Blooddrain gurgled! Christian Combs siphoned some of Burke Gonzales's hitting ability!"
   },
   {
-    "expire": "2020-09-29T09:30:35.413Z",
-    "id": "hitting_stat_leaders_update",
-    "msg": "Runs Batted In Leaders: ... Comfort Septemberish, Houston Spies - 22 ..... Kennedy Loser, Baltimore Crabs - 19 ..... Esme Ramsey, Charleston Shoe Thieves - 19 ..... Oliver Notarobot, Seattle Garages - 18 ..... Eizabeth Guerra, Kansas City Breath Mints - 17 ..... "
-  },
-  {
-    "expire": "2020-09-29T09:30:35.414Z",
-    "id": "pitching_stat_leaders_update",
-    "msg": "WHIP Leaders: ... Campos Arias, Breckenridge Jazz Hands - 0.630 ..... Theodore Holloway, Houston Spies - 0.667 ..... Jenkins Good, Canada Moist Talkers - 0.689 ..... Miguel James, Hellmouth Sunbeams - 0.690 ..... Adalberto Tosser, Baltimore Crabs - 0.710 ..... "
-  },
-  {
     "expire": "2020-09-22T12:07:03.825Z",
     "id": "fc769bb6-4957-43d7-b250-e3af93e251f0",
     "msg": "The Blooddrain gurgled! Nerd Pacheco siphoned some of Kennedy Meh's hitting ability!"
+  },
+  {
+    "expire": "2020-09-29T10:40:21.497Z",
+    "id": "hitting_stat_leaders_update",
+    "msg": "On Base Percentage Leaders: ... Howell Franklin, Charleston Shoe Thieves - 0.522 ..... Annie Roland, Yellowstone Magic - 0.521 ..... Theodore Duende, Seattle Garages - 0.479 ..... Jessica Telephone, Philly Pies - 0.467 ..... Sebastian Woodman, Charleston Shoe Thieves - 0.465 ..... "
+  },
+  {
+    "expire": "2020-09-29T10:40:21.498Z",
+    "id": "pitching_stat_leaders_update",
+    "msg": "Pitcher Win Leaders: ... Pitching Machine, Unlimited Tacos - 10 ..... Adalberto Tosser, Baltimore Crabs - 6 ..... Montgomery Bullock, Baltimore Crabs - 5 ..... Jenkins Good, Canada Moist Talkers - 4 ..... August Mina, Dallas Steaks - 4 ..... "
   },
   {
     "expire": "2020-09-25T20:19:11.347Z",
