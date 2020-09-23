@@ -50,16 +50,6 @@
     "msg": "In memoriam: so so many"
   },
   {
-    "expire": "2020-09-30T10:32:37.236Z",
-    "id": "hitting_stat_leaders_update",
-    "msg": "Runs Batted In Leaders: ... Jessica Telephone, Philly Pies - 19 ..... Ren Hunter, New York Millennials - 19 ..... Malik Destiny, Seattle Garages - 18 ..... Sosa Hayes, Mexico City Wild Wings - 17 ..... Summers Preston, Mexico City Wild Wings - 16 ..... "
-  },
-  {
-    "expire": "2020-09-30T10:32:37.237Z",
-    "id": "pitching_stat_leaders_update",
-    "msg": "WHIP Leaders: ... Brock Forbes, Baltimore Crabs - 0.593 ..... Campos Arias, Breckenridge Jazz Hands - 0.621 ..... Finn James, Baltimore Crabs - 0.679 ..... Miguel James, Hellmouth Sunbeams - 0.679 ..... Rivers Rosa, Chicago Firefighters - 0.704 ..... "
-  },
-  {
     "expire": "2020-09-23T13:04:27.92Z",
     "id": "969885ab-8b43-48c6-ab5c-40737660e8be",
     "msg": "Eugenia Garbage flickers! Eugenia Garbage and Lachlan Shelton switched teams in the feedback!"
@@ -68,6 +58,16 @@
     "expire": "2020-09-23T13:19:25.065Z",
     "id": "84958cf8-a919-4b74-be06-316faefddbf0",
     "msg": "Eugenia Garbage flickers! Eugenia Garbage and Simon Haley switched teams in the feedback!"
+  },
+  {
+    "expire": "2020-09-30T11:29:32.641Z",
+    "id": "hitting_stat_leaders_update",
+    "msg": "On Base Percentage Leaders: ... Simon Haley, Charleston Shoe Thieves - 1.000 ..... Aldon Cashmoney, Hawaii Fridays - 0.569 ..... Jessica Telephone, Philly Pies - 0.530 ..... Oliver Mueller, Seattle Garages - 0.523 ..... Rai Spliff, Dallas Steaks - 0.500 ..... "
+  },
+  {
+    "expire": "2020-09-30T11:29:32.642Z",
+    "id": "pitching_stat_leaders_update",
+    "msg": "Pitcher Win Leaders: ... Pitching Machine, Unlimited Tacos - 5 ..... Montgomery Bullock, Baltimore Crabs - 5 ..... Jenkins Good, Canada Moist Talkers - 4 ..... Evelton McBlase, Hawaii Fridays - 4 ..... Elvis Figueroa, Philly Pies - 4 ..... "
   },
   {
     "expire": "2020-09-25T20:19:11.347Z",
