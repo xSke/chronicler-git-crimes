@@ -55,6 +55,16 @@
     "msg": "Paula Mason flickers! Paula Mason and Allison Abbott switched teams in the feedback!"
   },
   {
+    "expire": "2020-09-30T23:35:30.008Z",
+    "id": "hitting_stat_leaders_update",
+    "msg": "Batting Average Leaders: ... Paula Mason, Seattle Garages - 0.667 ..... Allison Abbott, Dallas Steaks - 0.500 ..... Jessica Telephone, Philly Pies - 0.377 ..... Rai Spliff, Dallas Steaks - 0.375 ..... Jacob Haynes, Boston Flowers - 0.356 ..... "
+  },
+  {
+    "expire": "2020-09-30T23:35:30.01Z",
+    "id": "pitching_stat_leaders_update",
+    "msg": "Strikeout Leaders: ... Pitching Machine, Unlimited Tacos - 183 ..... Jenkins Good, Canada Moist Talkers - 79 ..... Stevenson Heat, Hawaii Fridays - 69 ..... Zack Sanders, Hellmouth Sunbeams - 64 ..... Adalberto Tosser, Baltimore Crabs - 58 ..... "
+  },
+  {
     "expire": "2020-09-24T00:05:18.323Z",
     "id": "29bcf9b6-a257-4eee-8d7d-18a19f1fca32",
     "msg": "Firefighters hitter Thomas Kirby swallowed a stray Peanut and had an allergic reaction!"
@@ -65,18 +75,8 @@
     "msg": "The Blooddrain gurgled! Sandoval Crossing siphoned some of Nic Winkler's pitching ability!"
   },
   {
-    "expire": "2020-09-30T22:28:11.699Z",
-    "id": "hitting_stat_leaders_update",
-    "msg": "Stolen Base Leaders: ... Forrest Best, Baltimore Crabs - 27 ..... Hewitt Best, Kansas City Breath Mints - 22 ..... Aldon Cashmoney, Hawaii Fridays - 19 ..... Don Mitchell, San Francisco Lovers - 19 ..... Kathy Mathews, Breckenridge Jazz Hands - 18 ..... "
-  },
-  {
     "expire": "2020-09-25T20:19:11.347Z",
     "id": "SHELLING",
     "msg": "The Shelled One Descended again!"
-  },
-  {
-    "expire": "2020-09-30T22:28:11.7Z",
-    "id": "pitching_stat_leaders_update",
-    "msg": "Pitcher Loss Leaders: ... Pitching Machine, Unlimited Tacos - 15 ..... Cory Twelve, Yellowstone Magic - 6 ..... Combs Estes, Breckenridge Jazz Hands - 6 ..... Leach Ingram, Kansas City Breath Mints - 5 ..... Greer Lott, Canada Moist Talkers - 5 ..... "
   }
 ]
