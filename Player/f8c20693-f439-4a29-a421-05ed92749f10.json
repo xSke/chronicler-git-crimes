@@ -10,10 +10,12 @@
   "coffee": 2,
   "coldness": 0.8733139045208425,
   "continuation": 0.5006161531465905,
-  "deceased": false,
+  "deceased": true,
   "divinity": 0.7758587468119826,
   "fate": 41,
+  "gameAttr": [],
   "groundFriction": 0.85796669564056,
+  "hitStreak": 0,
   "id": "f8c20693-f439-4a29-a421-05ed92749f10",
   "indulgence": 0.305806039497954,
   "laserlikeness": 0.635787652515627,
@@ -25,9 +27,11 @@
   "overpowerment": 0.6121866564307368,
   "patheticism": 0.4999669586087428,
   "peanutAllergy": true,
+  "permAttr": [],
   "pressurization": 0.4771792140645241,
   "ritual": "Batting practice",
   "ruthlessness": 0.8595478083638091,
+  "seasAttr": [],
   "shakespearianism": 0.5191940773311949,
   "soul": 7,
   "suppression": 0.49626109249973616,
@@ -36,5 +40,6 @@
   "totalFingers": 10,
   "tragicness": 0.1,
   "unthwackability": 0.6293416447004316,
-  "watchfulness": 0.49108156410659304
+  "watchfulness": 0.49108156410659304,
+  "weekAttr": []
 }
