@@ -47,13 +47,13 @@
   "seasAttr": [
     "SHAME_PIT"
   ],
-  "seasonShames": 0,
+  "seasonShames": 1,
   "seasonShamings": 3,
   "secondaryColor": "#ededed",
-  "shameRuns": 0,
+  "shameRuns": 1,
   "shorthand": "DAL",
   "slogan": "Well Done.",
-  "totalShames": 24,
+  "totalShames": 25,
   "totalShamings": 31,
   "weekAttr": []
 }
