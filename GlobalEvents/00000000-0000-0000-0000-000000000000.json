@@ -50,19 +50,19 @@
     "msg": "In memoriam: so so many"
   },
   {
-    "expire": "2020-09-30T19:33:17.384Z",
-    "id": "hitting_stat_leaders_update",
-    "msg": "Home Run Leaders: ... Jessica Telephone, Philly Pies - 10 ..... Ren Hunter, New York Millennials - 10 ..... Forrest Best, Baltimore Crabs - 9 ..... Kennedy Loser, Baltimore Crabs - 9 ..... Bates Bentley, New York Millennials - 9 ..... "
-  },
-  {
-    "expire": "2020-09-30T19:33:17.385Z",
-    "id": "pitching_stat_leaders_update",
-    "msg": "Earned Run Average Leaders: ... Alexandria Rosales, Houston Spies - 1.200 ..... Finn James, Baltimore Crabs - 1.565 ..... Cornelius Games, Charleston Shoe Thieves - 1.750 ..... Elvis Figueroa, Philly Pies - 1.800 ..... Qais Dogwalker, Miami Dale - 2.077 ..... "
-  },
-  {
     "expire": "2020-09-23T22:10:40.987Z",
     "id": "295d61a3-d5c0-40b9-bc90-ef58f1bb9f1a",
     "msg": "The Blooddrain gurgled! Beck Whitney siphoned some of Sexton Wheerer's baserunning ability!"
+  },
+  {
+    "expire": "2020-09-30T20:30:32.129Z",
+    "id": "hitting_stat_leaders_update",
+    "msg": "Runs Batted In Leaders: ... Kennedy Loser, Baltimore Crabs - 28 ..... Jessica Telephone, Philly Pies - 27 ..... Ren Hunter, New York Millennials - 26 ..... Theodore Duende, Seattle Garages - 25 ..... Pedro Davids, Baltimore Crabs - 24 ..... "
+  },
+  {
+    "expire": "2020-09-30T20:30:32.13Z",
+    "id": "pitching_stat_leaders_update",
+    "msg": "WHIP Leaders: ... Brock Forbes, Baltimore Crabs - 0.600 ..... Yosh Carpenter, San Francisco Lovers - 0.674 ..... Theodore Cervantes, New York Millennials - 0.695 ..... Finn James, Baltimore Crabs - 0.739 ..... Theodore Holloway, Houston Spies - 0.741 ..... "
   },
   {
     "expire": "2020-09-25T20:19:11.347Z",
