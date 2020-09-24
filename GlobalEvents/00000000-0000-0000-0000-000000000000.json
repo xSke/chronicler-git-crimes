@@ -50,19 +50,14 @@
     "msg": "In memoriam: so so many"
   },
   {
+    "expire": "2020-10-01T17:39:52.776Z",
+    "id": "pitching_stat_leaders_update",
+    "msg": "Pitcher Win Leaders: ... Montgomery Bullock, Baltimore Crabs - 6 ..... Adalberto Tosser, Baltimore Crabs - 6 ..... Pitching Machine, Unlimited Tacos - 5 ..... Finn James, Baltimore Crabs - 4 ..... Mummy Melcon, Hades Tigers - 4 ..... "
+  },
+  {
     "expire": "2020-09-25T20:19:11.347Z",
     "id": "SHELLING",
     "msg": "The Shelled One Descended again!"
-  },
-  {
-    "expire": "2020-10-01T16:28:30.029Z",
-    "id": "hitting_stat_leaders_update",
-    "msg": "Runs Batted In Leaders: ... Jessica Telephone, Philly Pies - 23 ..... Tillman Henderson, Baltimore Crabs - 20 ..... Kennedy Loser, Baltimore Crabs - 19 ..... Summers Preston, Mexico City Wild Wings - 19 ..... Paula Mason, Seattle Garages - 19 ..... "
-  },
-  {
-    "expire": "2020-10-01T16:28:30.03Z",
-    "id": "pitching_stat_leaders_update",
-    "msg": "WHIP Leaders: ... Cornelius Games, Charleston Shoe Thieves - 0.500 ..... Alexandria Rosales, Houston Spies - 0.556 ..... Yosh Carpenter, San Francisco Lovers - 0.593 ..... Elvis Figueroa, Philly Pies - 0.654 ..... Curry Aliciakeyes, Yellowstone Magic - 0.686 ..... "
   },
   {
     "expire": "2020-09-24T19:20:10.662Z",
@@ -73,5 +68,10 @@
     "expire": "2020-09-24T19:36:29.629Z",
     "id": "1cf04bed-2acc-4f6f-bc6e-6b7369903760",
     "msg": "The Blooddrain gurgled! Joshua Butt siphoned some of Jacob Haynes's defensive ability!"
+  },
+  {
+    "expire": "2020-10-01T17:39:52.775Z",
+    "id": "hitting_stat_leaders_update",
+    "msg": "On Base Percentage Leaders: ... Jacob Haynes, Boston Flowers - 0.544 ..... Winnie Mccall, New York Millennials - 0.494 ..... Lang Richardson, Philly Pies - 0.480 ..... Nagomi Nava, Hellmouth Sunbeams - 0.478 ..... Paula Mason, Seattle Garages - 0.477 ..... "
   }
 ]
