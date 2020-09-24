@@ -63,5 +63,10 @@
     "expire": "2020-09-25T20:19:11.347Z",
     "id": "SHELLING",
     "msg": "The Shelled One Descended again!"
+  },
+  {
+    "expire": "2020-09-24T23:17:09.093Z",
+    "id": "db78fb0a-bc76-476d-8cea-017d38305825",
+    "msg": "The Blooddrain gurgled! Thomas Dracaena siphoned some of Sexton Wheerer's hitting ability!"
   }
 ]
