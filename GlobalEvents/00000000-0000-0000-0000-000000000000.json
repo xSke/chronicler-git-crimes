@@ -50,18 +50,18 @@
     "msg": "In memoriam: so so many"
   },
   {
+    "expire": "2020-10-01T10:27:42.504Z",
+    "id": "pitching_stat_leaders_update",
+    "msg": "Earned Run Average Leaders: ... Cornelius Games, Charleston Shoe Thieves - 0.000 ..... Adalberto Tosser, Baltimore Crabs - 0.973 ..... Alexandria Rosales, Houston Spies - 1.000 ..... Hiroto Wilcox, Hades Tigers - 1.385 ..... Yosh Carpenter, San Francisco Lovers - 1.500 ..... "
+  },
+  {
     "expire": "2020-09-25T20:19:11.347Z",
     "id": "SHELLING",
     "msg": "The Shelled One Descended again!"
   },
   {
-    "expire": "2020-10-01T09:35:05.948Z",
+    "expire": "2020-10-01T10:27:42.503Z",
     "id": "hitting_stat_leaders_update",
-    "msg": "Batting Average Leaders: ... Marco Stink, Kansas City Breath Mints - 0.471 ..... Bates Bentley, New York Millennials - 0.452 ..... Paula Mason, Seattle Garages - 0.444 ..... Lang Richardson, Philly Pies - 0.409 ..... Stephens Lightner, Breckenridge Jazz Hands - 0.405 ..... "
-  },
-  {
-    "expire": "2020-10-01T09:35:05.95Z",
-    "id": "pitching_stat_leaders_update",
-    "msg": "Strikeout Leaders: ... Pitching Machine, Unlimited Tacos - 58 ..... Jenkins Good, Canada Moist Talkers - 34 ..... Zack Sanders, Hellmouth Sunbeams - 34 ..... Theodore Holloway, Houston Spies - 32 ..... Gunther O'Brian, Charleston Shoe Thieves - 31 ..... "
+    "msg": "Home Run Leaders: ... Winnie Mccall, New York Millennials - 7 ..... Bates Bentley, New York Millennials - 7 ..... York Silk, Hawaii Fridays - 6 ..... Hahn Fox, Hellmouth Sunbeams - 6 ..... Howell Franklin, Charleston Shoe Thieves - 5 ..... "
   }
 ]
