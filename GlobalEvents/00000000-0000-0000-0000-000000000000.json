@@ -55,16 +55,6 @@
     "msg": "Paula Mason flickers! Paula Mason and Allison Abbott switched teams in the feedback!"
   },
   {
-    "expire": "2020-09-30T23:35:30.008Z",
-    "id": "hitting_stat_leaders_update",
-    "msg": "Batting Average Leaders: ... Paula Mason, Seattle Garages - 0.667 ..... Allison Abbott, Dallas Steaks - 0.500 ..... Jessica Telephone, Philly Pies - 0.377 ..... Rai Spliff, Dallas Steaks - 0.375 ..... Jacob Haynes, Boston Flowers - 0.356 ..... "
-  },
-  {
-    "expire": "2020-09-30T23:35:30.01Z",
-    "id": "pitching_stat_leaders_update",
-    "msg": "Strikeout Leaders: ... Pitching Machine, Unlimited Tacos - 183 ..... Jenkins Good, Canada Moist Talkers - 79 ..... Stevenson Heat, Hawaii Fridays - 69 ..... Zack Sanders, Hellmouth Sunbeams - 64 ..... Adalberto Tosser, Baltimore Crabs - 58 ..... "
-  },
-  {
     "expire": "2020-09-24T02:06:59.776Z",
     "id": "958c268d-2841-453f-b984-34e8558e0d18",
     "msg": "The Blooddrain gurgled! Rafael Davids siphoned some of Lenny Spruce's pitching ability!"
@@ -78,6 +68,16 @@
     "expire": "2020-09-24T02:22:03.31Z",
     "id": "2e557589-df3f-44a8-acf8-d5422fe55a64",
     "msg": "The Blooddrain gurgled! Kennedy Meh siphoned some of Aldon Cashmoney's defensive ability!"
+  },
+  {
+    "expire": "2020-10-01T00:28:48.92Z",
+    "id": "hitting_stat_leaders_update",
+    "msg": "Home Run Leaders: ... Forrest Best, Baltimore Crabs - 11 ..... Ren Hunter, New York Millennials - 11 ..... Beck Whitney, Miami Dale - 11 ..... Jessica Telephone, Philly Pies - 10 ..... Nic Winkler, Boston Flowers - 10 ..... "
+  },
+  {
+    "expire": "2020-10-01T00:28:48.921Z",
+    "id": "pitching_stat_leaders_update",
+    "msg": "Earned Run Average Leaders: ... Alexandria Rosales, Houston Spies - 1.333 ..... Elvis Figueroa, Philly Pies - 1.833 ..... Qais Dogwalker, Miami Dale - 1.950 ..... Finn James, Baltimore Crabs - 1.964 ..... Brock Forbes, Baltimore Crabs - 2.167 ..... "
   },
   {
     "expire": "2020-09-25T20:19:11.347Z",
