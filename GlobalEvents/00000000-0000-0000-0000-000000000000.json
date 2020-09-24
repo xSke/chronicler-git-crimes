@@ -50,19 +50,19 @@
     "msg": "In memoriam: so so many"
   },
   {
-    "expire": "2020-10-01T12:33:02.281Z",
-    "id": "hitting_stat_leaders_update",
-    "msg": "On Base Percentage Leaders: ... Nagomi Nava, Hellmouth Sunbeams - 0.540 ..... Cell Barajas, Mexico City Wild Wings - 0.491 ..... Winnie Mccall, New York Millennials - 0.483 ..... Lang Richardson, Philly Pies - 0.469 ..... Igneus Delacruz, Hellmouth Sunbeams - 0.467 ..... "
-  },
-  {
-    "expire": "2020-10-01T12:33:02.282Z",
-    "id": "pitching_stat_leaders_update",
-    "msg": "Pitcher Win Leaders: ... Montgomery Bullock, Baltimore Crabs - 5 ..... Adalberto Tosser, Baltimore Crabs - 5 ..... Tot Clark, Seattle Garages - 4 ..... Pitching Machine, Unlimited Tacos - 3 ..... Finn James, Baltimore Crabs - 3 ..... "
-  },
-  {
     "expire": "2020-09-24T15:19:00.443Z",
     "id": "7a297c37-6a89-4d3a-b385-01e6e8643128",
     "msg": "The Blooddrain gurgled! Brock Forbes siphoned some of Hendricks Richardson's pitching ability!"
+  },
+  {
+    "expire": "2020-10-01T13:34:59.156Z",
+    "id": "hitting_stat_leaders_update",
+    "msg": "Stolen Base Leaders: ... Forrest Best, Baltimore Crabs - 20 ..... Don Mitchell, San Francisco Lovers - 16 ..... Collins Melon, Breckenridge Jazz Hands - 15 ..... Lou Roseheart, Chicago Firefighters - 9 ..... Caleb Novak, Miami Dale - 9 ..... "
+  },
+  {
+    "expire": "2020-10-01T13:34:59.157Z",
+    "id": "pitching_stat_leaders_update",
+    "msg": "Pitcher Loss Leaders: ... Pitching Machine, Unlimited Tacos - 7 ..... Sexton Wheerer, Unlimited Tacos - 6 ..... Jenkins Good, Canada Moist Talkers - 4 ..... Caleb Alvarado, Chicago Firefighters - 4 ..... Famous Owens, Hades Tigers - 3 ..... "
   },
   {
     "expire": "2020-09-25T20:19:11.347Z",
