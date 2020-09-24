@@ -50,23 +50,23 @@
     "msg": "In memoriam: so so many"
   },
   {
-    "expire": "2020-10-01T10:27:42.504Z",
-    "id": "pitching_stat_leaders_update",
-    "msg": "Earned Run Average Leaders: ... Cornelius Games, Charleston Shoe Thieves - 0.000 ..... Adalberto Tosser, Baltimore Crabs - 0.973 ..... Alexandria Rosales, Houston Spies - 1.000 ..... Hiroto Wilcox, Hades Tigers - 1.385 ..... Yosh Carpenter, San Francisco Lovers - 1.500 ..... "
-  },
-  {
     "expire": "2020-09-24T13:22:40.815Z",
     "id": "eb42b960-a108-400a-8e78-40e0a7ea1708",
     "msg": "The Blooddrain gurgled! Holden Stanton siphoned some of Adalberto Tosser's hitting ability!"
   },
   {
+    "expire": "2020-10-01T11:31:22.068Z",
+    "id": "hitting_stat_leaders_update",
+    "msg": "Runs Batted In Leaders: ... Kennedy Loser, Baltimore Crabs - 17 ..... Jessica Telephone, Philly Pies - 17 ..... Tillman Henderson, Baltimore Crabs - 16 ..... Schneider Bendie, New York Millennials - 15 ..... Bates Bentley, New York Millennials - 15 ..... "
+  },
+  {
+    "expire": "2020-10-01T11:31:22.069Z",
+    "id": "pitching_stat_leaders_update",
+    "msg": "WHIP Leaders: ... Cornelius Games, Charleston Shoe Thieves - 0.556 ..... Edric Tosser, Chicago Firefighters - 0.600 ..... Yosh Carpenter, San Francisco Lovers - 0.611 ..... Rafael Davids, Mexico City Wild Wings - 0.615 ..... Beasley Gloom, Charleston Shoe Thieves - 0.630 ..... "
+  },
+  {
     "expire": "2020-09-25T20:19:11.347Z",
     "id": "SHELLING",
     "msg": "The Shelled One Descended again!"
-  },
-  {
-    "expire": "2020-10-01T10:27:42.503Z",
-    "id": "hitting_stat_leaders_update",
-    "msg": "Home Run Leaders: ... Winnie Mccall, New York Millennials - 7 ..... Bates Bentley, New York Millennials - 7 ..... York Silk, Hawaii Fridays - 6 ..... Hahn Fox, Hellmouth Sunbeams - 6 ..... Howell Franklin, Charleston Shoe Thieves - 5 ..... "
   }
 ]
