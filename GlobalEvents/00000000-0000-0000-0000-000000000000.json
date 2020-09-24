@@ -50,18 +50,18 @@
     "msg": "In memoriam: so so many"
   },
   {
-    "expire": "2020-10-01T07:33:29.008Z",
-    "id": "hitting_stat_leaders_update",
-    "msg": "On Base Percentage Leaders: ... Rai Spliff, Dallas Steaks - 0.700 ..... Lang Richardson, Philly Pies - 0.533 ..... Cedric Spliff, Canada Moist Talkers - 0.500 ..... Oliver Notarobot, Seattle Garages - 0.500 ..... Paula Mason, Seattle Garages - 0.500 ..... "
-  },
-  {
-    "expire": "2020-10-01T07:33:29.01Z",
-    "id": "pitching_stat_leaders_update",
-    "msg": "Pitcher Win Leaders: ... Montgomery Bullock, Baltimore Crabs - 4 ..... Pitching Machine, Unlimited Tacos - 3 ..... Adalberto Tosser, Baltimore Crabs - 3 ..... Tot Clark, Seattle Garages - 3 ..... Nicholas Mora, Philly Pies - 3 ..... "
-  },
-  {
     "expire": "2020-09-25T20:19:11.347Z",
     "id": "SHELLING",
     "msg": "The Shelled One Descended again!"
+  },
+  {
+    "expire": "2020-10-01T08:30:37.226Z",
+    "id": "hitting_stat_leaders_update",
+    "msg": "Stolen Base Leaders: ... Forrest Best, Baltimore Crabs - 13 ..... Collins Melon, Breckenridge Jazz Hands - 13 ..... Don Mitchell, San Francisco Lovers - 8 ..... Hewitt Best, Kansas City Breath Mints - 7 ..... Richardson Games, Charleston Shoe Thieves - 6 ..... "
+  },
+  {
+    "expire": "2020-10-01T08:30:37.227Z",
+    "id": "pitching_stat_leaders_update",
+    "msg": "Pitcher Loss Leaders: ... Pitching Machine, Unlimited Tacos - 5 ..... Sexton Wheerer, Unlimited Tacos - 3 ..... Stephanie Winters, Mexico City Wild Wings - 3 ..... Caleb Alvarado, Chicago Firefighters - 3 ..... Atlas Guerra, Kansas City Breath Mints - 2 ..... "
   }
 ]
