@@ -55,16 +55,6 @@
     "msg": "The Blooddrain gurgled! Brock Forbes siphoned some of Hendricks Richardson's pitching ability!"
   },
   {
-    "expire": "2020-10-01T13:34:59.156Z",
-    "id": "hitting_stat_leaders_update",
-    "msg": "Stolen Base Leaders: ... Forrest Best, Baltimore Crabs - 20 ..... Don Mitchell, San Francisco Lovers - 16 ..... Collins Melon, Breckenridge Jazz Hands - 15 ..... Lou Roseheart, Chicago Firefighters - 9 ..... Caleb Novak, Miami Dale - 9 ..... "
-  },
-  {
-    "expire": "2020-10-01T13:34:59.157Z",
-    "id": "pitching_stat_leaders_update",
-    "msg": "Pitcher Loss Leaders: ... Pitching Machine, Unlimited Tacos - 7 ..... Sexton Wheerer, Unlimited Tacos - 6 ..... Jenkins Good, Canada Moist Talkers - 4 ..... Caleb Alvarado, Chicago Firefighters - 4 ..... Famous Owens, Hades Tigers - 3 ..... "
-  },
-  {
     "expire": "2020-09-24T16:22:21.306Z",
     "id": "1c165ce7-550e-4dd1-bb72-d884833a45fe",
     "msg": "Sunbeams hitter Dudley Mueller swallowed a stray Peanut and had a yummy reaction!"
@@ -78,5 +68,15 @@
     "expire": "2020-09-25T20:19:11.347Z",
     "id": "SHELLING",
     "msg": "The Shelled One Descended again!"
+  },
+  {
+    "expire": "2020-10-01T14:31:25.631Z",
+    "id": "hitting_stat_leaders_update",
+    "msg": "Batting Average Leaders: ... Lang Richardson, Philly Pies - 0.421 ..... Paula Mason, Seattle Garages - 0.409 ..... Bates Bentley, New York Millennials - 0.387 ..... Cedric Spliff, Canada Moist Talkers - 0.383 ..... Igneus Delacruz, Hellmouth Sunbeams - 0.371 ..... "
+  },
+  {
+    "expire": "2020-10-01T14:31:25.634Z",
+    "id": "pitching_stat_leaders_update",
+    "msg": "Strikeout Leaders: ... Pitching Machine, Unlimited Tacos - 72 ..... Jenkins Good, Canada Moist Talkers - 49 ..... Gunther O'Brian, Charleston Shoe Thieves - 40 ..... Zack Sanders, Hellmouth Sunbeams - 39 ..... Theodore Holloway, Houston Spies - 36 ..... "
   }
 ]
