@@ -50,19 +50,19 @@
     "msg": "In memoriam: so so many"
   },
   {
-    "expire": "2020-10-01T04:50:11.688Z",
-    "id": "hitting_stat_leaders_update",
-    "msg": "Batting Average Leaders: ... Simon Haley, Charleston Shoe Thieves - 1.000 ..... Paula Mason, Seattle Garages - 0.600 ..... Goobie Ballson, Chicago Firefighters - 0.600 ..... Rai Spliff, Dallas Steaks - 0.500 ..... Jessica Telephone, Philly Pies - 0.481 ..... "
-  },
-  {
-    "expire": "2020-10-01T04:50:11.69Z",
-    "id": "pitching_stat_leaders_update",
-    "msg": "Strikeout Leaders: ... Pitching Machine, Unlimited Tacos - 49 ..... Gunther O'Brian, Charleston Shoe Thieves - 28 ..... Theodore Holloway, Houston Spies - 26 ..... Zack Sanders, Hellmouth Sunbeams - 26 ..... Stevenson Heat, Hawaii Fridays - 24 ..... "
-  },
-  {
     "expire": "2020-09-24T07:21:16.72Z",
     "id": "09f840f3-c24c-451b-9077-c9ceed41a409",
     "msg": "Dickerson Morse flickers! Dickerson Morse and Marco Stink switched teams in the feedback!"
+  },
+  {
+    "expire": "2020-10-01T05:28:27.015Z",
+    "id": "hitting_stat_leaders_update",
+    "msg": "Home Run Leaders: ... Bates Bentley, New York Millennials - 5 ..... Hahn Fox, Hellmouth Sunbeams - 5 ..... Peanut Holloway, Philly Pies - 4 ..... Baby Urlacher, Chicago Firefighters - 4 ..... Winnie Mccall, New York Millennials - 4 ..... "
+  },
+  {
+    "expire": "2020-10-01T05:28:27.016Z",
+    "id": "pitching_stat_leaders_update",
+    "msg": "Earned Run Average Leaders: ... Jaylen Hotdogfingers, Seattle Garages - 0.000 ..... Cornelius Games, Charleston Shoe Thieves - 0.000 ..... Edric Tosser, Chicago Firefighters - 0.000 ..... Burke Gonzales, Mexico City Wild Wings - 1.000 ..... Henry Marshallow, Seattle Garages - 1.000 ..... "
   },
   {
     "expire": "2020-09-25T20:19:11.347Z",
