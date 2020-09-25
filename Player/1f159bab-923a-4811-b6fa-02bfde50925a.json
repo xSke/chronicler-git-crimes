@@ -28,10 +28,11 @@
   "patheticism": 0.8400000000000001,
   "peanutAllergy": true,
   "permAttr": [
-    "FLICKERING"
+    "FLICKERING",
+    "RECEIVER"
   ],
   "pressurization": 0.6260620508749675,
-  "ritual": "Repenting",
+  "ritual": "Hi Friends",
   "ruthlessness": 0.3524200796302258,
   "seasAttr": [],
   "shakespearianism": 0.11,
