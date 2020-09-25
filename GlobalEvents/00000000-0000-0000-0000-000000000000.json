@@ -65,18 +65,18 @@
     "msg": "The Blooddrain gurgled! Fitzgerald Blackburn siphoned some of Pitching Machine's hitting ability!"
   },
   {
-    "expire": "2020-10-02T05:33:21.062Z",
-    "id": "hitting_stat_leaders_update",
-    "msg": "Batting Average Leaders: ... Simon Haley, Charleston Shoe Thieves - 0.750 ..... Dickerson Morse, Dallas Steaks - 0.667 ..... Lang Richardson, Philly Pies - 0.667 ..... Nolanestophia Patterson, Seattle Garages - 0.500 ..... Jacob Haynes, Boston Flowers - 0.480 ..... "
-  },
-  {
-    "expire": "2020-10-02T05:33:21.064Z",
-    "id": "pitching_stat_leaders_update",
-    "msg": "Strikeout Leaders: ... Pitching Machine, Unlimited Tacos - 49 ..... Theodore Holloway, Houston Spies - 28 ..... Zack Sanders, Hellmouth Sunbeams - 25 ..... Gunther O'Brian, Charleston Shoe Thieves - 23 ..... Montgomery Bullock, Baltimore Crabs - 22 ..... "
-  },
-  {
     "expire": "2020-09-25T08:17:54.375Z",
     "id": "b709c0fa-e284-49a0-95e2-fa3cf26152f1",
     "msg": "Breath Mints hitter Eizabeth Guerra swallowed a stray Peanut and had an allergic reaction!"
+  },
+  {
+    "expire": "2020-10-02T06:33:35.567Z",
+    "id": "hitting_stat_leaders_update",
+    "msg": "Home Run Leaders: ... Richmond Harrison, Hades Tigers - 5 ..... Ren Hunter, New York Millennials - 4 ..... Bates Bentley, New York Millennials - 4 ..... Cannonball Sports, Miami Dale - 4 ..... Reese Clark, Houston Spies - 4 ..... "
+  },
+  {
+    "expire": "2020-10-02T06:33:35.569Z",
+    "id": "pitching_stat_leaders_update",
+    "msg": "Earned Run Average Leaders: ... Jaylen Hotdogfingers, Seattle Garages - 0.000 ..... Cornelius Games, Charleston Shoe Thieves - 0.000 ..... Edric Tosser, Chicago Firefighters - 0.000 ..... Burke Gonzales, Mexico City Wild Wings - 1.000 ..... Henry Marshallow, Seattle Garages - 1.000 ..... "
   }
 ]
