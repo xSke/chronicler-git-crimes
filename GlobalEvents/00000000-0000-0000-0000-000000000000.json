@@ -65,18 +65,18 @@
     "msg": "Eduardo Woodman flickers! Eduardo Woodman and Alyssa Harrell switched teams in the feedback!"
   },
   {
-    "expire": "2020-10-02T09:29:53.633Z",
-    "id": "hitting_stat_leaders_update",
-    "msg": "Stolen Base Leaders: ... Forrest Best, Baltimore Crabs - 11 ..... Collins Melon, Breckenridge Jazz Hands - 9 ..... Tillman Henderson, Baltimore Crabs - 7 ..... Don Mitchell, San Francisco Lovers - 7 ..... Kathy Mathews, Breckenridge Jazz Hands - 7 ..... "
-  },
-  {
-    "expire": "2020-10-02T09:29:53.634Z",
-    "id": "pitching_stat_leaders_update",
-    "msg": "Pitcher Loss Leaders: ... Pitching Machine, Unlimited Tacos - 5 ..... Stephanie Winters, Mexico City Wild Wings - 3 ..... Caleb Alvarado, Chicago Firefighters - 3 ..... Rivers Clembons, Miami Dale - 3 ..... Sexton Wheerer, Unlimited Tacos - 2 ..... "
-  },
-  {
     "expire": "2020-09-25T20:19:11.347Z",
     "id": "SHELLING",
     "msg": "The Shelled One Descended again!"
+  },
+  {
+    "expire": "2020-10-02T10:31:47.038Z",
+    "id": "hitting_stat_leaders_update",
+    "msg": "Batting Average Leaders: ... Eduardo Woodman, Hawaii Fridays - 1.000 ..... Castillo Turner, Boston Flowers - 0.455 ..... Jessica Telephone, Philly Pies - 0.438 ..... Howell Franklin, Charleston Shoe Thieves - 0.432 ..... Lachlan Shelton, Canada Moist Talkers - 0.429 ..... "
+  },
+  {
+    "expire": "2020-10-02T10:31:47.039Z",
+    "id": "pitching_stat_leaders_update",
+    "msg": "Strikeout Leaders: ... Pitching Machine, Unlimited Tacos - 56 ..... Zack Sanders, Hellmouth Sunbeams - 35 ..... Theodore Holloway, Houston Spies - 33 ..... Gunther O'Brian, Charleston Shoe Thieves - 31 ..... Montgomery Bullock, Baltimore Crabs - 28 ..... "
   }
 ]
