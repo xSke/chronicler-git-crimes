@@ -45,15 +45,16 @@
   ],
   "rotationSlot": 92,
   "seasAttr": [
-    "SHAME_PIT"
+    "SHAME_PIT",
+    "PARTY_TIME"
   ],
-  "seasonShames": 4,
+  "seasonShames": 5,
   "seasonShamings": 1,
   "secondaryColor": "#757575",
-  "shameRuns": 0,
+  "shameRuns": 7,
   "shorthand": "CAN",
   "slogan": "SPRAY IT, DON'T SAY IT",
-  "totalShames": 38,
+  "totalShames": 39,
   "totalShamings": 23,
   "weekAttr": []
 }
