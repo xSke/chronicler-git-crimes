@@ -50,19 +50,19 @@
     "msg": "In memoriam: so so many"
   },
   {
-    "expire": "2020-10-02T17:31:11.58Z",
-    "id": "hitting_stat_leaders_update",
-    "msg": "Runs Batted In Leaders: ... Kennedy Loser, Baltimore Crabs - 13 ..... Nic Winkler, Boston Flowers - 13 ..... Jessica Telephone, Philly Pies - 12 ..... Marco Escobar, Houston Spies - 11 ..... Sutton Dreamy, Baltimore Crabs - 10 ..... "
-  },
-  {
-    "expire": "2020-10-02T17:31:11.581Z",
-    "id": "pitching_stat_leaders_update",
-    "msg": "WHIP Leaders: ... Edric Tosser, Chicago Firefighters - 0.222 ..... Yosh Carpenter, San Francisco Lovers - 0.444 ..... Miguel James, Hellmouth Sunbeams - 0.444 ..... Adalberto Tosser, Baltimore Crabs - 0.556 ..... Brock Forbes, Baltimore Crabs - 0.556 ..... "
-  },
-  {
     "expire": "2020-09-25T20:12:11.884Z",
     "id": "ac575bc1-6db3-456f-b541-be2fcdccc025",
     "msg": "Fridays hitter Aldon Cashmoney swallowed a stray Peanut and had a yummy reaction!"
+  },
+  {
+    "expire": "2020-10-02T18:29:41.894Z",
+    "id": "hitting_stat_leaders_update",
+    "msg": "On Base Percentage Leaders: ... Theodore Duende, Seattle Garages - 0.657 ..... Quack Enjoyable, Seattle Garages - 0.600 ..... Lang Richardson, Philly Pies - 0.571 ..... Allison Abbott, Dallas Steaks - 0.533 ..... Valentine Games, Houston Spies - 0.517 ..... "
+  },
+  {
+    "expire": "2020-10-02T18:29:41.895Z",
+    "id": "pitching_stat_leaders_update",
+    "msg": "Pitcher Win Leaders: ... Montgomery Bullock, Baltimore Crabs - 4 ..... Pitching Machine, Unlimited Tacos - 3 ..... Adalberto Tosser, Baltimore Crabs - 3 ..... Jenkins Good, Canada Moist Talkers - 3 ..... Zack Sanders, Hellmouth Sunbeams - 3 ..... "
   },
   {
     "expire": "2020-09-25T20:19:11.347Z",
