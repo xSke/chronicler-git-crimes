@@ -50,16 +50,6 @@
     "msg": "In memoriam: so so many"
   },
   {
-    "expire": "2020-10-02T08:37:39.329Z",
-    "id": "hitting_stat_leaders_update",
-    "msg": "On Base Percentage Leaders: ... Castillo Turner, Boston Flowers - 0.622 ..... Gloria Bugsnax, Boston Flowers - 0.581 ..... Jacob Haynes, Boston Flowers - 0.579 ..... Aldon Cashmoney, Hawaii Fridays - 0.559 ..... Valentine Games, Houston Spies - 0.545 ..... "
-  },
-  {
-    "expire": "2020-10-02T08:37:39.33Z",
-    "id": "pitching_stat_leaders_update",
-    "msg": "Pitcher Win Leaders: ... Montgomery Bullock, Baltimore Crabs - 4 ..... Nicholas Mora, Philly Pies - 3 ..... Pitching Machine, Unlimited Tacos - 2 ..... Sexton Wheerer, Unlimited Tacos - 2 ..... Adalberto Tosser, Baltimore Crabs - 2 ..... "
-  },
-  {
     "expire": "2020-09-25T11:04:12.585Z",
     "id": "302ad065-51d8-4b41-96ee-afa903e49c1d",
     "msg": "Eduardo Woodman flickers! Eduardo Woodman and Alyssa Harrell switched teams in the feedback!"
@@ -73,6 +63,16 @@
     "expire": "2020-09-25T11:12:41.515Z",
     "id": "ddd60df1-1726-4fb0-980c-c3b0e137573f",
     "msg": "Eduardo Woodman flickers! Eduardo Woodman and Alyssa Harrell switched teams in the feedback!"
+  },
+  {
+    "expire": "2020-10-02T09:29:53.633Z",
+    "id": "hitting_stat_leaders_update",
+    "msg": "Stolen Base Leaders: ... Forrest Best, Baltimore Crabs - 11 ..... Collins Melon, Breckenridge Jazz Hands - 9 ..... Tillman Henderson, Baltimore Crabs - 7 ..... Don Mitchell, San Francisco Lovers - 7 ..... Kathy Mathews, Breckenridge Jazz Hands - 7 ..... "
+  },
+  {
+    "expire": "2020-10-02T09:29:53.634Z",
+    "id": "pitching_stat_leaders_update",
+    "msg": "Pitcher Loss Leaders: ... Pitching Machine, Unlimited Tacos - 5 ..... Stephanie Winters, Mexico City Wild Wings - 3 ..... Caleb Alvarado, Chicago Firefighters - 3 ..... Rivers Clembons, Miami Dale - 3 ..... Sexton Wheerer, Unlimited Tacos - 2 ..... "
   },
   {
     "expire": "2020-09-25T20:19:11.347Z",

@@ -12,7 +12,7 @@
   "continuation": 1.040481999890596,
   "deceased": false,
   "divinity": 0.8465397036703168,
-  "fate": 30,
+  "fate": 39,
   "gameAttr": [],
   "groundFriction": 0.8605060563440206,
   "hitStreak": 0,
@@ -41,7 +41,5 @@
   "tragicness": 0.1,
   "unthwackability": 0.35406049660519445,
   "watchfulness": 1.0146770210038965,
-  "weekAttr": [
-    "FLICKERING"
-  ]
+  "weekAttr": []
 }
