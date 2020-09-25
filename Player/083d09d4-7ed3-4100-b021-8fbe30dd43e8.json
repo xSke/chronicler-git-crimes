@@ -28,7 +28,8 @@
   "patheticism": 0.21590198952572456,
   "peanutAllergy": true,
   "permAttr": [
-    "SUPERALLERGIC"
+    "SUPERALLERGIC",
+    "SHELLED"
   ],
   "pressurization": 0.19240544381174615,
   "ritual": "Batting Practice",

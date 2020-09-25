@@ -27,7 +27,10 @@
   "overpowerment": 0.7790681696087698,
   "patheticism": 0.99,
   "peanutAllergy": false,
-  "permAttr": [],
+  "permAttr": [
+    "FLICKERING",
+    "RECEIVER"
+  ],
   "pressurization": 0.5991665436375463,
   "ritual": "Talking to the Microphone",
   "ruthlessness": 0.4603763093512032,

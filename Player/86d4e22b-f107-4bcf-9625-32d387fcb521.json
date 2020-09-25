@@ -28,7 +28,8 @@
   "patheticism": 0.406328316225548,
   "peanutAllergy": false,
   "permAttr": [
-    "DOUBLE_PAYOUTS"
+    "DOUBLE_PAYOUTS",
+    "SHELLED"
   ],
   "pressurization": 0.32762547788474816,
   "ritual": "LARPing",

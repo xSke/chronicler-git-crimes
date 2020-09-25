@@ -29,7 +29,8 @@
   "peanutAllergy": false,
   "permAttr": [
     "RETURNED",
-    "DEBT"
+    "DEBT",
+    "FLICKERING"
   ],
   "pressurization": 0.3628148179494586,
   "ritual": "Checking their pulse",

@@ -27,7 +27,9 @@
   "overpowerment": 0.11,
   "patheticism": 0.8400000000000001,
   "peanutAllergy": true,
-  "permAttr": [],
+  "permAttr": [
+    "FLICKERING"
+  ],
   "pressurization": 0.6260620508749675,
   "ritual": "Repenting",
   "ruthlessness": 0.3524200796302258,
