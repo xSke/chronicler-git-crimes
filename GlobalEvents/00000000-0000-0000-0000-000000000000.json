@@ -60,18 +60,18 @@
     "msg": "Breath Mints hitter Eizabeth Guerra swallowed a stray Peanut and had an allergic reaction!"
   },
   {
-    "expire": "2020-10-02T06:33:35.567Z",
-    "id": "hitting_stat_leaders_update",
-    "msg": "Home Run Leaders: ... Richmond Harrison, Hades Tigers - 5 ..... Ren Hunter, New York Millennials - 4 ..... Bates Bentley, New York Millennials - 4 ..... Cannonball Sports, Miami Dale - 4 ..... Reese Clark, Houston Spies - 4 ..... "
-  },
-  {
-    "expire": "2020-10-02T06:33:35.569Z",
-    "id": "pitching_stat_leaders_update",
-    "msg": "Earned Run Average Leaders: ... Jaylen Hotdogfingers, Seattle Garages - 0.000 ..... Cornelius Games, Charleston Shoe Thieves - 0.000 ..... Edric Tosser, Chicago Firefighters - 0.000 ..... Burke Gonzales, Mexico City Wild Wings - 1.000 ..... Henry Marshallow, Seattle Garages - 1.000 ..... "
-  },
-  {
     "expire": "2020-09-25T09:21:31.059Z",
     "id": "a7149b92-5be4-4464-a718-18cc57e61d6b",
     "msg": "The Blooddrain gurgled! Yeong-Ho Benitez siphoned some of Sixpack Dogwalker's baserunning ability!"
+  },
+  {
+    "expire": "2020-10-02T07:31:20.584Z",
+    "id": "hitting_stat_leaders_update",
+    "msg": "Runs Batted In Leaders: ... Esme Ramsey, Charleston Shoe Thieves - 12 ..... Sam Scandal, Dallas Steaks - 10 ..... York Silk, Hawaii Fridays - 10 ..... Sebastian Woodman, Charleston Shoe Thieves - 10 ..... Schneider Bendie, New York Millennials - 10 ..... "
+  },
+  {
+    "expire": "2020-10-02T07:31:20.585Z",
+    "id": "pitching_stat_leaders_update",
+    "msg": "WHIP Leaders: ... Edric Tosser, Chicago Firefighters - 0.222 ..... Yosh Carpenter, San Francisco Lovers - 0.444 ..... Miguel James, Hellmouth Sunbeams - 0.444 ..... Brock Forbes, Baltimore Crabs - 0.556 ..... Betsy Trombone, Philly Pies - 0.556 ..... "
   }
 ]
