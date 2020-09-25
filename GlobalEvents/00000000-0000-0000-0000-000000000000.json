@@ -50,19 +50,9 @@
     "msg": "In memoriam: so so many"
   },
   {
-    "expire": "2020-10-02T04:36:55.513Z",
-    "id": "hitting_stat_leaders_update",
-    "msg": "Stolen Base Leaders: ... Forrest Best, Baltimore Crabs - 35 ..... Don Mitchell, San Francisco Lovers - 32 ..... Collins Melon, Breckenridge Jazz Hands - 19 ..... Richardson Games, Charleston Shoe Thieves - 17 ..... Caleb Novak, Miami Dale - 16 ..... "
-  },
-  {
     "expire": "2020-09-25T20:19:11.347Z",
     "id": "SHELLING",
     "msg": "The Shelled One Descended again!"
-  },
-  {
-    "expire": "2020-10-02T04:36:55.514Z",
-    "id": "pitching_stat_leaders_update",
-    "msg": "Pitcher Loss Leaders: ... Sexton Wheerer, Unlimited Tacos - 15 ..... Pitching Machine, Unlimited Tacos - 8 ..... James Mora, Hawaii Fridays - 6 ..... Gunther O'Brian, Charleston Shoe Thieves - 6 ..... Cory Twelve, Yellowstone Magic - 6 ..... "
   },
   {
     "expire": "2020-09-25T07:04:32.644Z",
@@ -73,5 +63,15 @@
     "expire": "2020-09-25T07:14:02.5Z",
     "id": "97640fae-d832-421f-a230-5fec8cf97e62",
     "msg": "The Blooddrain gurgled! Fitzgerald Blackburn siphoned some of Pitching Machine's hitting ability!"
+  },
+  {
+    "expire": "2020-10-02T05:33:21.062Z",
+    "id": "hitting_stat_leaders_update",
+    "msg": "Batting Average Leaders: ... Simon Haley, Charleston Shoe Thieves - 0.750 ..... Dickerson Morse, Dallas Steaks - 0.667 ..... Lang Richardson, Philly Pies - 0.667 ..... Nolanestophia Patterson, Seattle Garages - 0.500 ..... Jacob Haynes, Boston Flowers - 0.480 ..... "
+  },
+  {
+    "expire": "2020-10-02T05:33:21.064Z",
+    "id": "pitching_stat_leaders_update",
+    "msg": "Strikeout Leaders: ... Pitching Machine, Unlimited Tacos - 49 ..... Theodore Holloway, Houston Spies - 28 ..... Zack Sanders, Hellmouth Sunbeams - 25 ..... Gunther O'Brian, Charleston Shoe Thieves - 23 ..... Montgomery Bullock, Baltimore Crabs - 22 ..... "
   }
 ]
