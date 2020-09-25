@@ -50,18 +50,18 @@
     "msg": "In memoriam: so so many"
   },
   {
+    "expire": "2020-10-02T01:32:58.115Z",
+    "id": "hitting_stat_leaders_update",
+    "msg": "Home Run Leaders: ... Hahn Fox, Hellmouth Sunbeams - 13 ..... Baby Urlacher, Chicago Firefighters - 12 ..... York Silk, Hawaii Fridays - 11 ..... Jessica Telephone, Philly Pies - 11 ..... Conner Haley, Dallas Steaks - 10 ..... "
+  },
+  {
+    "expire": "2020-10-02T01:32:58.116Z",
+    "id": "pitching_stat_leaders_update",
+    "msg": "Earned Run Average Leaders: ... Cornelius Games, Charleston Shoe Thieves - 1.000 ..... Alexandria Rosales, Houston Spies - 1.636 ..... Hiroto Wilcox, Hades Tigers - 2.038 ..... Curry Aliciakeyes, Yellowstone Magic - 2.045 ..... Finn James, Baltimore Crabs - 2.200 ..... "
+  },
+  {
     "expire": "2020-09-25T20:19:11.347Z",
     "id": "SHELLING",
     "msg": "The Shelled One Descended again!"
-  },
-  {
-    "expire": "2020-10-02T00:30:17.044Z",
-    "id": "hitting_stat_leaders_update",
-    "msg": "Batting Average Leaders: ... Paula Mason, Seattle Garages - 0.409 ..... Jacob Haynes, Boston Flowers - 0.385 ..... Baby Urlacher, Chicago Firefighters - 0.360 ..... Winnie Mccall, New York Millennials - 0.353 ..... Rai Spliff, Dallas Steaks - 0.351 ..... "
-  },
-  {
-    "expire": "2020-10-02T00:30:17.046Z",
-    "id": "pitching_stat_leaders_update",
-    "msg": "Strikeout Leaders: ... Pitching Machine, Unlimited Tacos - 106 ..... Jenkins Good, Canada Moist Talkers - 75 ..... Gunther O'Brian, Charleston Shoe Thieves - 53 ..... Stevenson Heat, Hawaii Fridays - 49 ..... Sexton Wheerer, Unlimited Tacos - 48 ..... "
   }
 ]
