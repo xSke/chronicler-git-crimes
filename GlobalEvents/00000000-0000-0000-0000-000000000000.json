@@ -50,6 +50,16 @@
     "msg": "In memoriam: so so many"
   },
   {
+    "expire": "2020-10-02T08:37:39.329Z",
+    "id": "hitting_stat_leaders_update",
+    "msg": "On Base Percentage Leaders: ... Castillo Turner, Boston Flowers - 0.622 ..... Gloria Bugsnax, Boston Flowers - 0.581 ..... Jacob Haynes, Boston Flowers - 0.579 ..... Aldon Cashmoney, Hawaii Fridays - 0.559 ..... Valentine Games, Houston Spies - 0.545 ..... "
+  },
+  {
+    "expire": "2020-10-02T08:37:39.33Z",
+    "id": "pitching_stat_leaders_update",
+    "msg": "Pitcher Win Leaders: ... Montgomery Bullock, Baltimore Crabs - 4 ..... Nicholas Mora, Philly Pies - 3 ..... Pitching Machine, Unlimited Tacos - 2 ..... Sexton Wheerer, Unlimited Tacos - 2 ..... Adalberto Tosser, Baltimore Crabs - 2 ..... "
+  },
+  {
     "expire": "2020-09-25T20:19:11.347Z",
     "id": "SHELLING",
     "msg": "The Shelled One Descended again!"
@@ -58,15 +68,5 @@
     "expire": "2020-09-25T09:21:31.059Z",
     "id": "a7149b92-5be4-4464-a718-18cc57e61d6b",
     "msg": "The Blooddrain gurgled! Yeong-Ho Benitez siphoned some of Sixpack Dogwalker's baserunning ability!"
-  },
-  {
-    "expire": "2020-10-02T07:31:20.584Z",
-    "id": "hitting_stat_leaders_update",
-    "msg": "Runs Batted In Leaders: ... Esme Ramsey, Charleston Shoe Thieves - 12 ..... Sam Scandal, Dallas Steaks - 10 ..... York Silk, Hawaii Fridays - 10 ..... Sebastian Woodman, Charleston Shoe Thieves - 10 ..... Schneider Bendie, New York Millennials - 10 ..... "
-  },
-  {
-    "expire": "2020-10-02T07:31:20.585Z",
-    "id": "pitching_stat_leaders_update",
-    "msg": "WHIP Leaders: ... Edric Tosser, Chicago Firefighters - 0.222 ..... Yosh Carpenter, San Francisco Lovers - 0.444 ..... Miguel James, Hellmouth Sunbeams - 0.444 ..... Brock Forbes, Baltimore Crabs - 0.556 ..... Betsy Trombone, Philly Pies - 0.556 ..... "
   }
 ]
