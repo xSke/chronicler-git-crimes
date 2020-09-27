@@ -35,7 +35,8 @@
   "mainColor": "#f7d1ff",
   "nickname": "Flowers",
   "permAttr": [
-    "BLOOD_WINNER"
+    "BLOOD_WINNER",
+    "GROWTH"
   ],
   "rotation": [
     "ff5a37d9-a6dd-49aa-b6fb-b935fd670820",

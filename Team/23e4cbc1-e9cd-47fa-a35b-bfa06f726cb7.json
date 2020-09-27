@@ -34,7 +34,8 @@
   "mainColor": "#399d8f",
   "nickname": "Pies",
   "permAttr": [
-    "BLOOD_THIEF"
+    "BLOOD_THIEF",
+    "AFFINITY_FOR_CROWS"
   ],
   "rotation": [
     "1732e623-ffc2-40f0-87ba-fdcf97131f1f",

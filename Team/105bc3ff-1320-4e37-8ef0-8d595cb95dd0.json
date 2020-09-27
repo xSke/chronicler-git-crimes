@@ -10,7 +10,7 @@
     "ce58415f-4e62-47e2-a2c9-4d6a85961e1e",
     "efa73de4-af17-4f88-99d6-d0d69ed1d200",
     "f6b38e56-0d98-4e00-a96e-345aaac1e653",
-    "a3947fbc-50ec-45a4-bca4-49ffebb77dbe",
+    "8a6fc67d-a7fe-443b-a084-744294cec647",
     "f968532a-bf06-478e-89e0-3856b7f4b124",
     "864b3be8-e836-426e-ae56-20345b41d03d",
     "dd0b48fe-2d49-4344-83ed-9f0770b370a8"
@@ -41,11 +41,14 @@
     "04e14d7b-5021-4250-a3cd-932ba8e0a889",
     "e3c514ae-f813-470e-9c91-d5baf5ffcf16",
     "6f9de777-e812-4c84-915c-ef283c9f0cde",
-    "41949d4d-b151-4f46-8bf7-73119a48fac8",
-    "c6e2e389-ed04-4626-a5ba-fe398fe89568"
+    "68dd9d47-b9a8-4fd3-a89c-5c112eb1982e",
+    "c6e2e389-ed04-4626-a5ba-fe398fe89568",
+    "019ce117-2399-4382-8036-8c14db7e1d30"
   ],
   "rotationSlot": 0,
-  "seasAttr": [],
+  "seasAttr": [
+    "HOME_FIELD"
+  ],
   "seasonShames": 0,
   "seasonShamings": 0,
   "secondaryColor": "#543d04",

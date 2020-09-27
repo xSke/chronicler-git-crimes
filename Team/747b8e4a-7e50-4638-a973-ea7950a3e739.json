@@ -1,5 +1,6 @@
 {
   "bench": [
+    "9abe02fb-2b5a-432f-b0af-176be6bd62cf",
     "7cf83bdc-f95f-49d3-b716-06f2cf60a78d",
     "695daf02-113d-4e76-b802-0862df16afbd",
     "db3ff6f0-1045-4223-b3a8-a016ca987af9"
@@ -22,7 +23,7 @@
   "lineup": [
     "d4a10c2a-0c28-466a-9213-38ba3339b65e",
     "c0177f76-67fc-4316-b650-894159dede45",
-    "13a05157-6172-4431-947b-a058217b4aa5",
+    "efafe75e-2f00-4418-914c-9b6675d39264",
     "f245f6c6-4613-40f5-bc3b-85aa9ee3cf7e",
     "5ff66eae-7111-4e3b-a9b8-a9579165b0a5",
     "c18961e9-ef3f-4954-bd6b-9fe01c615186",
@@ -37,14 +38,15 @@
     "BLOOD_DONOR"
   ],
   "rotation": [
-    "9abe02fb-2b5a-432f-b0af-176be6bd62cf",
     "1db2f602-64b1-4a5c-8697-1932cc2c6df1",
     "2720559e-9173-4042-aaa0-d3852b72ab2e",
     "7aeb8e0b-f6fb-4a9e-bba2-335dada5f0a3",
     "b3e512df-c411-4100-9544-0ceadddb28cf"
   ],
   "rotationSlot": 0,
-  "seasAttr": [],
+  "seasAttr": [
+    "FIREPROOF"
+  ],
   "seasonShames": 0,
   "seasonShamings": 0,
   "secondaryColor": "#919191",
