@@ -63,5 +63,10 @@
     "expire": "2020-10-02T18:13:29.626Z",
     "id": "SHELLING",
     "msg": "The Shelled One Descended again!"
+  },
+  {
+    "expire": "2020-09-28T01:24:01.646Z",
+    "id": "e27356ca-fe6e-4c38-af66-994700d62b34",
+    "msg": "Jaylen Hotdogfingers has been permitted to stay."
   }
 ]
