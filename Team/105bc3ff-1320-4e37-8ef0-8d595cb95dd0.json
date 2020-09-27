@@ -44,13 +44,10 @@
     "41949d4d-b151-4f46-8bf7-73119a48fac8",
     "c6e2e389-ed04-4626-a5ba-fe398fe89568"
   ],
-  "rotationSlot": 102,
-  "seasAttr": [
-    "SHAME_PIT",
-    "PARTY_TIME"
-  ],
-  "seasonShames": 3,
-  "seasonShamings": 7,
+  "rotationSlot": 0,
+  "seasAttr": [],
+  "seasonShames": 0,
+  "seasonShamings": 0,
   "secondaryColor": "#543d04",
   "shameRuns": 0,
   "shorthand": "SEA",
