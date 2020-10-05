@@ -55,16 +55,6 @@
     "msg": "NaN flickers! NaN and Valentine Games switched teams in the feedback!"
   },
   {
-    "expire": "2020-10-12T21:55:19.447Z",
-    "id": "hitting_stat_leaders_update",
-    "msg": "Batting Average Leaders: ... NaN, Houston Spies - 1.000 ..... Eduardo Woodman, Philly Pies - 0.667 ..... Randy Dennis, Miami Dale - 0.625 ..... Richardson Games, Charleston Shoe Thieves - 0.625 ..... Caleb Novak, Miami Dale - 0.600 ..... "
-  },
-  {
-    "expire": "2020-10-12T21:55:19.448Z",
-    "id": "pitching_stat_leaders_update",
-    "msg": "Strikeout Leaders: ... Betsy Trombone, Philly Pies - 20 ..... Alexandria Rosales, Houston Spies - 17 ..... Sandoval Crossing, Hellmouth Sunbeams - 15 ..... Greer Lott, Canada Moist Talkers - 15 ..... Sixpack Santiago, Miami Dale - 13 ..... "
-  },
-  {
     "expire": "2020-10-06T00:04:43.162Z",
     "id": "07ca6c9b-5612-4cc2-9674-a16fe54d4c08",
     "msg": "NaN flickers! NaN and Sosa Hayes switched teams in the feedback!"
@@ -78,5 +68,15 @@
     "expire": "2020-10-06T00:11:51.234Z",
     "id": "8474a724-68dc-4e6e-b0f9-bdbc31678a08",
     "msg": "Jaylen Hotdogfingers flickers! Jaylen Hotdogfingers and Betsy Trombone switched teams in the feedback!"
+  },
+  {
+    "expire": "2020-10-12T22:36:53.741Z",
+    "id": "hitting_stat_leaders_update",
+    "msg": "Home Run Leaders: ... Marco Stink, Kansas City Breath Mints - 4 ..... Comfort Septemberish, Houston Spies - 4 ..... Nerd Pacheco, Hellmouth Sunbeams - 3 ..... Cannonball Sports, Miami Dale - 3 ..... Randy Dennis, Miami Dale - 3 ..... "
+  },
+  {
+    "expire": "2020-10-12T22:36:53.742Z",
+    "id": "pitching_stat_leaders_update",
+    "msg": "Earned Run Average Leaders: ... Jaylen Hotdogfingers, Seattle Garages - 0.000 ..... Gunther O'Brian, Charleston Shoe Thieves - 0.000 ..... Alexandria Rosales, Houston Spies - 1.000 ..... Fitzgerald Wanderlust, Charleston Shoe Thieves - 1.588 ..... Leach Ingram, Kansas City Breath Mints - 2.000 ..... "
   }
 ]
