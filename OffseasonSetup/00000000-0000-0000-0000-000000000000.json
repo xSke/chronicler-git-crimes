@@ -1,108 +1,105 @@
 {
   "blessings": [
     {
-      "description": "Keep a Random Player on your team Stable.",
-      "id": "mod_player_stable",
-      "subheader": "Brought to you by @Limited Run Games@http://limitedrungames.com/blaseball",
-      "title": "Forever Physical",
-      "type": 96,
+      "description": "A random player on your team becomes BIG. Increased Power, Max Vibe. Decreased Baserunning.",
+      "id": "item_mushroom",
+      "subheader": "Brought to you by @HoloVista@https://apps.apple.com/us/app/holovista/id1474114304",
+      "title": "Eat me, Drink me",
+      "type": 61,
       "value": 1
     },
     {
-      "description": "Re-rolls your team's three worst players.",
-      "id": "reroll_worst_players_3",
-      "subheader": "Brought to you by @Necrobarista@https://store.steampowered.com/app/725270/Necrobarista/",
-      "title": "Radical Alchemy",
-      "type": 10,
+      "description": "Zero to hero. The worst player on your team will earn 5x payouts for Idol Pendants.",
+      "id": "worst_player_big_payouts",
+      "subheader": "Brought to you by@the garages@https://thegarages.bandcamp.com",
+      "title": "Credit to the Team",
+      "type": 112,
+      "value": 1
+    },
+    {
+      "description": "They'll never see it coming. Maximize a random Pitcher in your Shadows.",
+      "id": "maximize_random_shadow_pitcher",
+      "subheader": "Brought to you by @It Came From A Basement Podcast@http://itcamefromabasement.com/blaseball",
+      "title": "Secret Weapon",
+      "type": 120,
+      "value": 1
+    },
+    {
+      "description": "Steal a Hitter from another Team's Shadows.",
+      "id": "steal_random_team_best_bench",
+      "title": "Grab and Smash",
+      "type": 102,
+      "value": 1
+    },
+    {
+      "description": "Send your 2 Worst Pitchers to the Shadows and call up your First 2 Relievers.",
+      "id": "send_worst_pitchers_to_shadows",
+      "title": "Out of Sight",
+      "type": 118,
+      "value": 2
+    },
+    {
+      "description": "Send your Worst 3 Hitters to the Shadows and call up the first 3 Shadows Hitters",
+      "id": "send_worst_hitters_to_shadows",
+      "title": "Disappearing Acts",
+      "type": 119,
       "value": 3
     },
     {
-      "description": "Your team is protected from Incinerations for the following season.",
-      "id": "mod_team_fireproof",
-      "subheader": "Brought to you by @IndieCade@https://www.kickstarter.com/projects/indiecade/anywhere-and-everywhere",
-      "title": "Anti Burnout",
-      "type": 64,
+      "description": "Give your Team Love Blood Type.",
+      "id": "team_love_blood_type",
+      "title": "Feel the Love",
+      "type": 116,
       "value": 1
     },
     {
-      "description": "Where did you find these? Improve 3 random pitchers on your team by one Star (20%)",
-      "id": "random_pitcher_star_boost",
-      "subheader": "Brought to you by @Pro Gymnast@http://www.walaber.com/pro-gymnast",
-      "title": "Replacement Elbows",
-      "type": 53,
-      "value": 3
-    },
-    {
-      "description": "Enter the code. Recruit a rookie to be the 6th player in your Rotation.",
-      "id": "add_new_player_rotation",
-      "subheader": "Brought to you by @Blaseball Cares@https://www.blaseballcares.com",
-      "title": "Promo Code",
-      "type": 107,
+      "description": "Help yourselves. A player on each team in your Division gets Spicy.",
+      "id": "mod_division_spicy",
+      "title": "Hot Sauce Bar",
+      "type": 115,
       "value": 1
     },
     {
-      "description": "Oh, that’s what they do. Your team will play 50% Better in Bird Weather.",
-      "id": "mod_team_bird_boost",
-      "subheader": "Brought to you by @The Society for Internet Blaseball Research@https://sibr.dev/",
-      "title": "Affinity For Crows",
-      "type": 97,
+      "description": "Give all of the teams not in your Division the Fifth Base.",
+      "id": "mod_non_division_fifth_base",
+      "title": "Fifth Base Bubble",
+      "type": 109,
       "value": 1
     },
     {
-      "description": "No place like home. Your Team starts with 1 Run when playing at home next season.",
-      "id": "mod_team_home_field",
-      "title": "Home Field Advantage",
-      "type": 98,
+      "description": "Give all of the teams not in your Division Targeted Shame.",
+      "id": "mod_non_division_targeted_shame",
+      "title": "The Shame Bubble",
+      "type": 86,
       "value": 1
     },
     {
-      "description": "Reinforced. Remove the Worst Player from your Rotation. Your Rotation is now shorter.",
-      "id": "remove_worst_rotation",
-      "title": "Composite",
-      "type": 108,
+      "description": "Improve your team's pitching by 10%. The last place team in the opposite subleague also gets +10% team pitching.",
+      "id": "shared_team_pitching",
+      "title": "Tag Team Pitching",
+      "type": 111,
+      "value": 0.1
+    },
+    {
+      "description": "Improve your team's hitting by 10%. The last place team in the opposite subleague also gets +10% team hitting.",
+      "id": "shared_team_hitting",
+      "title": "Tag Team Hitting",
+      "type": 110,
+      "value": 0.1
+    },
+    {
+      "description": "Incinerate the Most Idolized Player on your Team.",
+      "id": "incinerate_most_idolized",
+      "title": "Kill Your Darling",
+      "type": 114,
       "value": 1
     },
     {
-      "description": "Steal the 14th Most Idolized Player in the League.",
-      "id": "steal_leaderboard_player_14",
-      "title": "Lottery Pick",
-      "type": 78,
-      "value": 14
-    },
-    {
-      "description": "Steal the 21st Most Idolized Player on the Leaderboard.",
-      "id": "steal_leaderboard_player_21",
-      "title": "Blind Date",
-      "type": 78,
-      "value": 21
-    },
-    {
-      "description": "Never heard of them. Maximize and steal the least Idolized player in the league.",
-      "id": "max_steal_least_popular",
-      "title": "Who? You too?",
-      "type": 70,
+      "description": "Shed it. Incinerate the Worst Player on Your Team.",
+      "id": "incinerate_worst_player",
+      "title": "Dead Weight",
+      "type": 113,
       "value": 1
-    },
-    {
-      "description": "Hello? Who's there? Replace a player on your team with the Alternate of a random player from another team.",
-      "id": "duplicate_random_player",
-      "title": "Party Line",
-      "type": 82,
-      "value": 1
-    },
-    {
-      "description": "Under the cover of darkness. Steal a Pitcher from a Divisional Opponent's Shadows.",
-      "id": "steal_random_team_best_bullpen",
-      "title": "Thief in the Night",
-      "type": 101,
-      "value": 1
-    },
-    {
-      "description": "Vision of things to come. Improve 3 random hitters on your team by one Star (20%)",
-      "id": "random_hitter_star_boost",
-      "title": "Precognition",
-      "type": 52,
-      "value": 3
     },
     {
       "description": "A warm welcome. Incinerate the Least Idolized Player on Your Team.",
@@ -112,60 +109,78 @@
       "value": 1
     },
     {
-      "description": "Feed the Hall Monitor. Fans of your team receive a big barrel of peanuts.",
-      "id": "barrel_of_peanuts",
-      "title": "Barrel of Tiny Eggs",
+      "description": "Feed the Hall Monitor. Fans of your team receive a big boatload of peanuts.",
+      "id": "boatload_of_peanuts",
+      "title": "Boatload of Tiny Eggs",
       "type": 104,
       "value": 10000
     },
     {
-      "description": "Swap your team into the other Division in your Subleague.",
-      "id": "division_swap",
-      "title": "Divisional Swap",
-      "type": 99,
+      "description": "Recruit a rookie to be the 10th player in your lineup.",
+      "id": "add_new_player_lineup",
+      "title": "New Recruit",
+      "type": 94,
       "value": 1
     },
     {
-      "description": "Swap your team into another Division in the opposite Subleague.",
-      "id": "subleague_swap",
-      "title": "Subleague Swap",
-      "type": 100,
+      "description": "Remove the worst player from your lineup. Your lineup is now shorter.",
+      "id": "remove_worst_lineup",
+      "title": "Downsizing",
+      "type": 95,
       "value": 1
     },
     {
-      "description": "The grass is greener on the other side. Give your team Grass Blood Type.",
-      "id": "team_blood_type_grass",
-      "title": "Astroturf",
-      "type": 105,
+      "description": "Item. Max Out Defense for a random player on your team.",
+      "id": "random_player_max_defense",
+      "title": "Fishing Net",
+      "type": 117,
       "value": 1
     },
     {
-      "description": "Succumb. Give your team Base Blood Type.",
-      "id": "team_blood_type_base",
-      "title": "Base Instincts",
-      "type": 106,
-      "value": 1
+      "description": "Keep your enemies closer. Improve your entire division by 2%.",
+      "id": "division_improve_overall",
+      "title": "Mutually Arising",
+      "type": 73,
+      "value": 0.02
     }
   ],
   "decrees": [
     {
-      "description": "Every Season, a random team from each Subleague will leave Party Time to become the 5th Playoff team. A best of 3 Wild Card series will happen on Fridays.",
-      "id": "wild_cards",
-      "title": "Wild Cards",
-      "type": 31
+      "description": "Forecast: Eclipse",
+      "id": "forecast_eclipse",
+      "title": " ",
+      "type": 37
     },
     {
-      "description": "Next Season, the bottom four teams will have Relief. When one of their pitchers gives up 5 runs, they'll immediately be replaced by a pitcher from their Shadows.",
-      "id": "relief",
-      "title": "Relief",
-      "type": 32
+      "description": "Forecast: Peanuts",
+      "id": "forecast_peanuts",
+      "title": " ",
+      "type": 39
     },
     {
-      "description": "Whenever a team defeats the team currently leading their Division, they'll earn an extra win. Permanent effect.",
-      "id": "double_jumps",
-      "title": "Double Jumps",
-      "type": 33
+      "description": "Forecast: Birds",
+      "id": "forecast_birds",
+      "title": " ",
+      "type": 34
+    },
+    {
+      "description": "Forecast: Feedback",
+      "id": "forecast_feedback",
+      "title": " ",
+      "type": 35
+    },
+    {
+      "description": "Forecast: Reverb",
+      "id": "forecast_reverb",
+      "title": " ",
+      "type": 38
+    },
+    {
+      "description": "Forecast: Blooddrain",
+      "id": "forecast_blooddrain",
+      "title": " ",
+      "type": 36
     }
   ],
-  "decreesToPass": 1
+  "decreesToPass": 3
 }
