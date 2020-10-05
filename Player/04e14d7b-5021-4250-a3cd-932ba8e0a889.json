@@ -29,7 +29,7 @@
   "peanutAllergy": false,
   "permAttr": [
     "RETURNED",
-    "DEBT",
+    "DEBT_TWO",
     "FLICKERING"
   ],
   "pressurization": 0.3628148179494586,
