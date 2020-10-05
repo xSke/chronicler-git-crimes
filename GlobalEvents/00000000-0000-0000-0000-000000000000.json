@@ -48,5 +48,10 @@
     "expire": null,
     "id": "in_memoriam",
     "msg": "In memoriam: so so many"
+  },
+  {
+    "expire": "2020-10-05T18:16:12.872Z",
+    "id": "c0dc211d-ad98-43b0-ac0c-92864b1f9ba9",
+    "msg": "The Wild Wings had their rotation shuffled in the Reverb!"
   }
 ]
