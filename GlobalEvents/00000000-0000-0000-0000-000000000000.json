@@ -50,18 +50,18 @@
     "msg": "In memoriam: so so many"
   },
   {
-    "expire": "2020-10-12T20:30:26.308Z",
-    "id": "hitting_stat_leaders_update",
-    "msg": "Stolen Base Leaders: ... Richardson Games, Charleston Shoe Thieves - 6 ..... Don Mitchell, San Francisco Lovers - 6 ..... Justice Spoon, Chicago Firefighters - 6 ..... Avila Guzman, Miami Dale - 5 ..... Tillman Henderson, Baltimore Crabs - 5 ..... "
-  },
-  {
-    "expire": "2020-10-12T20:30:26.309Z",
-    "id": "pitching_stat_leaders_update",
-    "msg": "Pitcher Loss Leaders: ... Sexton Wheerer, Unlimited Tacos - 5 ..... Dunn Keyes, Boston Flowers - 2 ..... Mummy Melcon, Hades Tigers - 2 ..... Bevan Underbuck, Hawaii Fridays - 2 ..... Leach Herman, Dallas Steaks - 2 ..... "
-  },
-  {
     "expire": "2020-10-05T23:17:59.051Z",
     "id": "d1d18c72-a67a-4054-a585-8c089babf41a",
     "msg": "NaN flickers! NaN and Valentine Games switched teams in the feedback!"
+  },
+  {
+    "expire": "2020-10-12T21:31:24.075Z",
+    "id": "hitting_stat_leaders_update",
+    "msg": "Batting Average Leaders: ... NaN, Houston Spies - 1.000 ..... Eugenia Garbage, Canada Moist Talkers - 0.545 ..... Fish Summer, Canada Moist Talkers - 0.520 ..... Valentine Games, Unlimited Tacos - 0.500 ..... Eduardo Woodman, Philly Pies - 0.457 ..... "
+  },
+  {
+    "expire": "2020-10-12T21:31:24.076Z",
+    "id": "pitching_stat_leaders_update",
+    "msg": "Strikeout Leaders: ... Greer Lott, Canada Moist Talkers - 32 ..... Betsy Trombone, Philly Pies - 30 ..... Alexandria Rosales, Houston Spies - 30 ..... Sexton Wheerer, Unlimited Tacos - 25 ..... Sandoval Crossing, Hellmouth Sunbeams - 23 ..... "
   }
 ]
