@@ -50,18 +50,18 @@
     "msg": "In memoriam: so so many"
   },
   {
-    "expire": "2020-10-12T16:38:56.322Z",
+    "expire": "2020-10-12T16:56:48.197Z",
+    "id": "hitting_stat_leaders_update",
+    "msg": "Batting Average Leaders: ... Caleb Novak, Miami Dale - 1.000 ..... Hahn Fox, Hellmouth Sunbeams - 0.833 ..... Elijah Valenzuela, Breckenridge Jazz Hands - 0.800 ..... Randy Dennis, Miami Dale - 0.750 ..... Wyatt Dovenpart, Unlimited Tacos - 0.750 ..... "
+  },
+  {
+    "expire": "2020-10-12T16:56:48.198Z",
     "id": "pitching_stat_leaders_update",
-    "msg": "Strikeout Leaders: ... Alexandria Rosales, Houston Spies - 13 ..... Greer Lott, Canada Moist Talkers - 10 ..... Betsy Trombone, Philly Pies - 10 ..... Jaylen Hotdogfingers, Seattle Garages - 9 ..... Sandoval Crossing, Hellmouth Sunbeams - 8 ..... "
+    "msg": "Strikeout Leaders: ... Alexandria Rosales, Houston Spies - 26 ..... Greer Lott, Canada Moist Talkers - 20 ..... Betsy Trombone, Philly Pies - 20 ..... Jaylen Hotdogfingers, Seattle Garages - 18 ..... Sandoval Crossing, Hellmouth Sunbeams - 16 ..... "
   },
   {
     "expire": "2020-10-05T18:16:12.872Z",
     "id": "c0dc211d-ad98-43b0-ac0c-92864b1f9ba9",
     "msg": "The Wild Wings had their rotation shuffled in the Reverb!"
-  },
-  {
-    "expire": "2020-10-12T16:38:56.321Z",
-    "id": "hitting_stat_leaders_update",
-    "msg": "Batting Average Leaders: ... Caleb Novak, Miami Dale - 1.000 ..... Hahn Fox, Hellmouth Sunbeams - 0.833 ..... Elijah Valenzuela, Breckenridge Jazz Hands - 0.800 ..... Randy Dennis, Miami Dale - 0.750 ..... Wyatt Dovenpart, Unlimited Tacos - 0.750 ..... "
   }
 ]
