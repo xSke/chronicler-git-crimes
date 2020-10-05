@@ -116,7 +116,7 @@
       "value": 10000
     },
     {
-      "description": "Recruit a rookie to be the 10th player in your lineup.",
+      "description": "Recruit a rookie to be an extra player in your lineup.",
       "id": "add_new_player_lineup",
       "title": "New Recruit",
       "type": 94,
