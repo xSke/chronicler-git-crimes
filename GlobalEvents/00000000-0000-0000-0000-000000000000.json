@@ -50,18 +50,18 @@
     "msg": "In memoriam: so so many"
   },
   {
-    "expire": "2020-10-12T17:30:20.256Z",
-    "id": "hitting_stat_leaders_update",
-    "msg": "Home Run Leaders: ... Hahn Fox, Hellmouth Sunbeams - 4 ..... Cannonball Sports, Miami Dale - 4 ..... Randy Dennis, Miami Dale - 4 ..... Blood Hamburger, Charleston Shoe Thieves - 4 ..... Inez Owens, Boston Flowers - 3 ..... "
-  },
-  {
-    "expire": "2020-10-12T17:30:20.257Z",
-    "id": "pitching_stat_leaders_update",
-    "msg": "Earned Run Average Leaders: ... Jaylen Hotdogfingers, Seattle Garages - 0.000 ..... Alexandria Rosales, Houston Spies - 0.000 ..... Fitzgerald Wanderlust, Charleston Shoe Thieves - 1.000 ..... Brock Forbes, Baltimore Crabs - 1.000 ..... Caleb Alvarado, Chicago Firefighters - 1.000 ..... "
-  },
-  {
     "expire": "2020-10-05T20:18:54.967Z",
     "id": "604a35bc-9b88-4116-8e9e-ec0cca8207e0",
     "msg": "The Blooddrain gurgled! Yong Wright siphoned some of Kennedy Loser's defensive ability!"
+  },
+  {
+    "expire": "2020-10-12T18:29:33.032Z",
+    "id": "hitting_stat_leaders_update",
+    "msg": "Runs Batted In Leaders: ... Howell Franklin, Charleston Shoe Thieves - 16 ..... Sigmund Castillo, Hellmouth Sunbeams - 10 ..... Randy Dennis, Miami Dale - 10 ..... Blood Hamburger, Charleston Shoe Thieves - 10 ..... Hahn Fox, Hellmouth Sunbeams - 8 ..... "
+  },
+  {
+    "expire": "2020-10-12T18:29:33.033Z",
+    "id": "pitching_stat_leaders_update",
+    "msg": "WHIP Leaders: ... Caleb Alvarado, Chicago Firefighters - 0.222 ..... Brock Forbes, Baltimore Crabs - 0.333 ..... Rivers Rosa, Chicago Firefighters - 0.333 ..... Eugenia Bickle, Hellmouth Sunbeams - 0.444 ..... Jaylen Hotdogfingers, Seattle Garages - 0.444 ..... "
   }
 ]
