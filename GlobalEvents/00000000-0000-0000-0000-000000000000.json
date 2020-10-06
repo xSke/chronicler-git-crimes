@@ -50,18 +50,18 @@
     "msg": "In memoriam: so so many"
   },
   {
-    "expire": "2020-10-13T14:30:16.592Z",
-    "id": "hitting_stat_leaders_update",
-    "msg": "Runs Batted In Leaders: ... Peanut Holloway, Philly Pies - 27 ..... Comfort Septemberish, Houston Spies - 26 ..... Kennedy Loser, Baltimore Crabs - 22 ..... Baby Doyle, Breckenridge Jazz Hands - 20 ..... Hahn Fox, Hellmouth Sunbeams - 19 ..... "
-  },
-  {
-    "expire": "2020-10-13T14:30:16.593Z",
-    "id": "pitching_stat_leaders_update",
-    "msg": "WHIP Leaders: ... Betsy Trombone, Philly Pies - 0.556 ..... Brock Forbes, Baltimore Crabs - 0.556 ..... Alexandria Rosales, Houston Spies - 0.583 ..... Gunther O'Brian, Charleston Shoe Thieves - 0.600 ..... Math Velazquez, Houston Spies - 0.630 ..... "
-  },
-  {
     "expire": "2020-10-06T17:10:30.392Z",
     "id": "7a18455b-cb37-455c-9630-f637a2438ef8",
     "msg": "The Blooddrain gurgled! Hendricks Richardson siphoned some of Justice Spoon's baserunning ability!"
+  },
+  {
+    "expire": "2020-10-13T15:33:15.767Z",
+    "id": "hitting_stat_leaders_update",
+    "msg": "On Base Percentage Leaders: ... Sosa Hayes, Mexico City Wild Wings - 0.500 ..... Jacob Haynes, Boston Flowers - 0.478 ..... Caleb Novak, Miami Dale - 0.472 ..... Nerd Pacheco, Hellmouth Sunbeams - 0.458 ..... Tillman Henderson, Baltimore Crabs - 0.446 ..... "
+  },
+  {
+    "expire": "2020-10-13T15:33:15.769Z",
+    "id": "pitching_stat_leaders_update",
+    "msg": "Pitcher Win Leaders: ... Montgomery Bullock, Baltimore Crabs - 6 ..... King Weatherman, Boston Flowers - 4 ..... Qais Dogwalker, Miami Dale - 4 ..... Greer Lott, Canada Moist Talkers - 4 ..... Famous Owens, Hades Tigers - 4 ..... "
   }
 ]
