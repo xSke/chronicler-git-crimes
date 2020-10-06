@@ -50,18 +50,18 @@
     "msg": "In memoriam: so so many"
   },
   {
-    "expire": "2020-10-13T02:28:50.336Z",
-    "id": "hitting_stat_leaders_update",
-    "msg": "Batting Average Leaders: ... Jacob Haynes, Boston Flowers - 0.542 ..... Oliver Mueller, Seattle Garages - 0.524 ..... Steph Weeks, Breckenridge Jazz Hands - 0.519 ..... Sosa Hayes, Mexico City Wild Wings - 0.500 ..... Sebastian Woodman, Charleston Shoe Thieves - 0.478 ..... "
-  },
-  {
-    "expire": "2020-10-13T02:28:50.338Z",
-    "id": "pitching_stat_leaders_update",
-    "msg": "Strikeout Leaders: ... Greer Lott, Canada Moist Talkers - 31 ..... Fitzgerald Wanderlust, Charleston Shoe Thieves - 19 ..... Alexandria Rosales, Houston Spies - 19 ..... Sexton Wheerer, Unlimited Tacos - 16 ..... Mummy Melcon, Hades Tigers - 15 ..... "
-  },
-  {
     "expire": "2020-10-06T05:14:07.371Z",
     "id": "7252e3c7-85a7-44de-b563-056671cbd8aa",
     "msg": "The Garages had their lineup shuffled in the Reverb!"
+  },
+  {
+    "expire": "2020-10-13T03:29:21.078Z",
+    "id": "hitting_stat_leaders_update",
+    "msg": "Home Run Leaders: ... Nerd Pacheco, Hellmouth Sunbeams - 7 ..... Hahn Fox, Hellmouth Sunbeams - 5 ..... Cannonball Sports, Miami Dale - 5 ..... Marco Stink, Kansas City Breath Mints - 5 ..... Annie Roland, Yellowstone Magic - 5 ..... "
+  },
+  {
+    "expire": "2020-10-13T03:29:21.079Z",
+    "id": "pitching_stat_leaders_update",
+    "msg": "Earned Run Average Leaders: ... Jaylen Hotdogfingers, Seattle Garages - 0.000 ..... Arturo Huerta, Seattle Garages - 0.000 ..... Beasley Gloom, Charleston Shoe Thieves - 0.000 ..... Alexandria Rosales, Houston Spies - 0.000 ..... Jordan Hildebert, Houston Spies - 0.000 ..... "
   }
 ]
