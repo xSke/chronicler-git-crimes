@@ -55,18 +55,18 @@
     "msg": "Jaylen Hotdogfingers flickers! Jaylen Hotdogfingers and Ortiz Morse switched teams in the feedback!"
   },
   {
+    "expire": "2020-10-14T20:40:06.485Z",
+    "id": "hitting_stat_leaders_update",
+    "msg": "Runs Batted In Leaders: ... Kennedy Loser, Baltimore Crabs - 30 ..... Hiroto Cerna, Boston Flowers - 27 ..... Malik Destiny, Seattle Garages - 26 ..... Conner Haley, Dallas Steaks - 24 ..... Howell Franklin, Charleston Shoe Thieves - 23 ..... "
+  },
+  {
+    "expire": "2020-10-14T20:40:06.486Z",
+    "id": "pitching_stat_leaders_update",
+    "msg": "WHIP Leaders: ... Sosa Hayes, Houston Spies - 0.000 ..... Betsy Trombone, Philly Pies - 0.556 ..... Jaylen Hotdogfingers, Seattle Garages - 0.595 ..... Brock Forbes, Baltimore Crabs - 0.600 ..... Elvis Figueroa, Philly Pies - 0.667 ..... "
+  },
+  {
     "expire": "2020-10-07T21:22:10.973Z",
     "id": "2728752b-5b7d-4188-a25c-f20ba40cc56e",
     "msg": "The Spies had several players shuffled in the Reverb!"
-  },
-  {
-    "expire": "2020-10-14T19:33:10.003Z",
-    "id": "hitting_stat_leaders_update",
-    "msg": "Home Run Leaders: ... Hiroto Cerna, Boston Flowers - 10 ..... Conner Haley, Dallas Steaks - 10 ..... Mcdowell Mason, Unlimited Tacos - 9 ..... Kennedy Loser, Baltimore Crabs - 9 ..... Pedro Davids, Baltimore Crabs - 9 ..... "
-  },
-  {
-    "expire": "2020-10-14T19:33:10.004Z",
-    "id": "pitching_stat_leaders_update",
-    "msg": "Earned Run Average Leaders: ... Sosa Hayes, Houston Spies - 0.000 ..... Brock Forbes, Baltimore Crabs - 1.000 ..... Jaylen Hotdogfingers, Seattle Garages - 1.250 ..... Burke Gonzales, Mexico City Wild Wings - 1.421 ..... Elvis Figueroa, Philly Pies - 1.615 ..... "
   }
 ]
