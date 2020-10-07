@@ -50,18 +50,18 @@
     "msg": "In memoriam: so so many"
   },
   {
+    "expire": "2020-10-14T12:40:55.786Z",
+    "id": "pitching_stat_leaders_update",
+    "msg": "Pitcher Loss Leaders: ... Sexton Wheerer, Unlimited Tacos - 9 ..... Mummy Melcon, Hades Tigers - 4 ..... Lars Taylor, Hellmouth Sunbeams - 3 ..... Wyatt Owens, Miami Dale - 3 ..... Peanut Bong, Miami Dale - 3 ..... "
+  },
+  {
     "expire": "2020-10-07T13:00:30.734Z",
     "id": "d3ea6c96-7a9d-456d-a39f-83979a952e15",
     "msg": "Dale hitter Caleb Novak swallowed a stray Peanut and had an allergic reaction!"
   },
   {
-    "expire": "2020-10-14T11:31:42.597Z",
+    "expire": "2020-10-14T12:40:55.785Z",
     "id": "hitting_stat_leaders_update",
-    "msg": "On Base Percentage Leaders: ... Quack Enjoyable, Seattle Garages - 0.508 ..... Margarito Nava, Boston Flowers - 0.491 ..... Knight Urlacher, San Francisco Lovers - 0.484 ..... Alexander Horne, San Francisco Lovers - 0.463 ..... Jacob Haynes, Boston Flowers - 0.462 ..... "
-  },
-  {
-    "expire": "2020-10-14T11:31:42.598Z",
-    "id": "pitching_stat_leaders_update",
-    "msg": "Pitcher Win Leaders: ... Sexton Wheerer, Unlimited Tacos - 6 ..... Greer Lott, Canada Moist Talkers - 5 ..... Montgomery Bullock, Baltimore Crabs - 5 ..... Zeboriah Wilson, Boston Flowers - 3 ..... King Weatherman, Boston Flowers - 3 ..... "
+    "msg": "Stolen Base Leaders: ... Richmond Harrison, Hades Tigers - 15 ..... Forrest Best, Baltimore Crabs - 15 ..... Marco Stink, Kansas City Breath Mints - 10 ..... Justice Spoon, Chicago Firefighters - 8 ..... Paula Mason, Hades Tigers - 7 ..... "
   }
 ]
