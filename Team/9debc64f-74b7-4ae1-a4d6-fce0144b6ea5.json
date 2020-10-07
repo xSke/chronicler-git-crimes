@@ -21,15 +21,15 @@
   "gameAttr": [],
   "id": "9debc64f-74b7-4ae1-a4d6-fce0144b6ea5",
   "lineup": [
-    "503a235f-9fa6-41b5-8514-9475c944273f",
+    "d2d76815-cbdc-4c4b-9c9e-32ebf2297cc7",
     "d8ee256f-e3d0-46cb-8c77-b1f88d8c9df9",
     "8ecea7e0-b1fb-4b74-8c8c-3271cb54f659",
     "f56657d3-3bdc-4840-a20c-91aca9cc360e",
     "285ce77d-e5cd-4daa-9784-801347140d48",
-    "7158d158-e7bf-4e9b-9259-62e5b25e3de8",
+    "32551e28-3a40-47ae-aed1-ff5bc66be879",
     "06ced607-7f96-41e7-a8cd-b501d11d1a7e",
-    "446a3366-3fe3-41bb-bfdd-d8717f2152a9",
-    "b7267aba-6114-4d53-a519-bf6c99f4e3a9"
+    "503a235f-9fa6-41b5-8514-9475c944273f",
+    "3a8c52d7-4124-4a65-a20d-d51abcbe6540"
   ],
   "location": "Houston",
   "mainColor": "#67556b",
@@ -39,9 +39,9 @@
   ],
   "rotation": [
     "e111a46d-5ada-4311-ac4f-175cca3357da",
-    "3a8c52d7-4124-4a65-a20d-d51abcbe6540",
-    "d2d76815-cbdc-4c4b-9c9e-32ebf2297cc7",
-    "32551e28-3a40-47ae-aed1-ff5bc66be879",
+    "b7267aba-6114-4d53-a519-bf6c99f4e3a9",
+    "446a3366-3fe3-41bb-bfdd-d8717f2152a9",
+    "7158d158-e7bf-4e9b-9259-62e5b25e3de8",
     "30218684-7fa1-41a5-a3b3-5d9cd97dd36b"
   ],
   "rotationSlot": 52,
