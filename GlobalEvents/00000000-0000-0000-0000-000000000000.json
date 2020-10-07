@@ -50,18 +50,18 @@
     "msg": "In memoriam: so so many"
   },
   {
-    "expire": "2020-10-14T10:38:16.968Z",
-    "id": "hitting_stat_leaders_update",
-    "msg": "Runs Batted In Leaders: ... Howell Franklin, Charleston Shoe Thieves - 20 ..... Kennedy Loser, Baltimore Crabs - 19 ..... Malik Romayne, Houston Spies - 17 ..... Malik Destiny, Seattle Garages - 16 ..... Aldon Cashmoney, Hades Tigers - 15 ..... "
-  },
-  {
-    "expire": "2020-10-14T10:38:16.969Z",
-    "id": "pitching_stat_leaders_update",
-    "msg": "WHIP Leaders: ... Jaylen Hotdogfingers, Seattle Garages - 0.444 ..... Brock Forbes, Baltimore Crabs - 0.519 ..... Betsy Trombone, Philly Pies - 0.556 ..... Evelton McBlase, Hawaii Fridays - 0.722 ..... Adalberto Tosser, Baltimore Crabs - 0.722 ..... "
-  },
-  {
     "expire": "2020-10-07T13:00:30.734Z",
     "id": "d3ea6c96-7a9d-456d-a39f-83979a952e15",
     "msg": "Dale hitter Caleb Novak swallowed a stray Peanut and had an allergic reaction!"
+  },
+  {
+    "expire": "2020-10-14T11:31:42.597Z",
+    "id": "hitting_stat_leaders_update",
+    "msg": "On Base Percentage Leaders: ... Quack Enjoyable, Seattle Garages - 0.508 ..... Margarito Nava, Boston Flowers - 0.491 ..... Knight Urlacher, San Francisco Lovers - 0.484 ..... Alexander Horne, San Francisco Lovers - 0.463 ..... Jacob Haynes, Boston Flowers - 0.462 ..... "
+  },
+  {
+    "expire": "2020-10-14T11:31:42.598Z",
+    "id": "pitching_stat_leaders_update",
+    "msg": "Pitcher Win Leaders: ... Sexton Wheerer, Unlimited Tacos - 6 ..... Greer Lott, Canada Moist Talkers - 5 ..... Montgomery Bullock, Baltimore Crabs - 5 ..... Zeboriah Wilson, Boston Flowers - 3 ..... King Weatherman, Boston Flowers - 3 ..... "
   }
 ]
