@@ -50,11 +50,6 @@
     "msg": "In memoriam: so so many"
   },
   {
-    "expire": "2020-10-14T12:40:55.786Z",
-    "id": "pitching_stat_leaders_update",
-    "msg": "Pitcher Loss Leaders: ... Sexton Wheerer, Unlimited Tacos - 9 ..... Mummy Melcon, Hades Tigers - 4 ..... Lars Taylor, Hellmouth Sunbeams - 3 ..... Wyatt Owens, Miami Dale - 3 ..... Peanut Bong, Miami Dale - 3 ..... "
-  },
-  {
     "expire": "2020-10-07T15:16:58.148Z",
     "id": "7515a6a7-ee54-40f9-81cf-3ea5b4cd4376",
     "msg": "The Blooddrain gurgled! Burke Gonzales siphoned some of Baby Doyle's pitching ability!"
@@ -65,8 +60,13 @@
     "msg": "A Big Peanut crashes into the field, encasing Wyatt Quitter!"
   },
   {
-    "expire": "2020-10-14T12:40:55.785Z",
+    "expire": "2020-10-14T13:31:09.576Z",
     "id": "hitting_stat_leaders_update",
-    "msg": "Stolen Base Leaders: ... Richmond Harrison, Hades Tigers - 15 ..... Forrest Best, Baltimore Crabs - 15 ..... Marco Stink, Kansas City Breath Mints - 10 ..... Justice Spoon, Chicago Firefighters - 8 ..... Paula Mason, Hades Tigers - 7 ..... "
+    "msg": "Batting Average Leaders: ... Knight Urlacher, San Francisco Lovers - 0.397 ..... Richmond Harrison, Hades Tigers - 0.391 ..... Margarito Nava, Boston Flowers - 0.391 ..... Alston Cerveza, Canada Moist Talkers - 0.386 ..... Hiroto Cerna, Boston Flowers - 0.379 ..... "
+  },
+  {
+    "expire": "2020-10-14T13:31:09.578Z",
+    "id": "pitching_stat_leaders_update",
+    "msg": "Strikeout Leaders: ... Sexton Wheerer, Unlimited Tacos - 67 ..... Greer Lott, Canada Moist Talkers - 57 ..... Mummy Melcon, Hades Tigers - 40 ..... Hiroto Wilcox, Hades Tigers - 34 ..... Fitzgerald Wanderlust, Charleston Shoe Thieves - 33 ..... "
   }
 ]
