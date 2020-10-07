@@ -50,18 +50,18 @@
     "msg": "In memoriam: so so many"
   },
   {
-    "expire": "2020-10-14T08:30:24.269Z",
-    "id": "hitting_stat_leaders_update",
-    "msg": "Batting Average Leaders: ... Quack Enjoyable, Seattle Garages - 0.417 ..... Alston Cerveza, Canada Moist Talkers - 0.415 ..... Malik Romayne, Houston Spies - 0.413 ..... Jacob Haynes, Boston Flowers - 0.410 ..... Bevan Wise, Yellowstone Magic - 0.409 ..... "
-  },
-  {
-    "expire": "2020-10-14T08:30:24.271Z",
-    "id": "pitching_stat_leaders_update",
-    "msg": "Strikeout Leaders: ... Sexton Wheerer, Unlimited Tacos - 45 ..... Greer Lott, Canada Moist Talkers - 38 ..... Mummy Melcon, Hades Tigers - 32 ..... Alexandria Rosales, Houston Spies - 26 ..... Fitzgerald Wanderlust, Charleston Shoe Thieves - 24 ..... "
-  },
-  {
     "expire": "2020-10-07T11:17:53.596Z",
     "id": "2804ed84-11fd-46a1-9baf-26e3a1f33001",
     "msg": "Breath Mints hitter Marquez Clark swallowed a stray Peanut and had an allergic reaction!"
+  },
+  {
+    "expire": "2020-10-14T09:27:19.611Z",
+    "id": "hitting_stat_leaders_update",
+    "msg": "Home Run Leaders: ... Mcdowell Mason, Unlimited Tacos - 6 ..... Aldon Cashmoney, Hades Tigers - 6 ..... Ren Hunter, New York Millennials - 6 ..... Howell Franklin, Charleston Shoe Thieves - 6 ..... Kennedy Loser, Baltimore Crabs - 6 ..... "
+  },
+  {
+    "expire": "2020-10-14T09:27:19.613Z",
+    "id": "pitching_stat_leaders_update",
+    "msg": "Earned Run Average Leaders: ... Jaylen Hotdogfingers, Seattle Garages - 0.667 ..... Jenkins Good, Canada Moist Talkers - 0.900 ..... Cornelius Games, Charleston Shoe Thieves - 1.000 ..... Brock Forbes, Baltimore Crabs - 1.000 ..... Kennedy Rodgers, Chicago Firefighters - 1.059 ..... "
   }
 ]
