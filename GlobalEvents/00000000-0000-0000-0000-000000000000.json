@@ -50,18 +50,18 @@
     "msg": "In memoriam: so so many"
   },
   {
-    "expire": "2020-10-15T01:31:20.895Z",
+    "expire": "2020-10-15T02:29:58.221Z",
+    "id": "hitting_stat_leaders_update",
+    "msg": "On Base Percentage Leaders: ... Karato Bean, Houston Spies - 0.667 ..... Elijah Valenzuela, Breckenridge Jazz Hands - 0.611 ..... Reese Clark, Houston Spies - 0.611 ..... Fish Summer, Canada Moist Talkers - 0.579 ..... Aldon Cashmoney, Hades Tigers - 0.579 ..... "
+  },
+  {
+    "expire": "2020-10-15T02:29:58.224Z",
     "id": "pitching_stat_leaders_update",
-    "msg": "WHIP Leaders: ... Rafael Davids, Mexico City Wild Wings - 0.273 ..... Stevenson Heat, Hawaii Fridays - 0.333 ..... Jaylen Hotdogfingers, Seattle Garages - 0.444 ..... Henry Marshallow, Philly Pies - 0.444 ..... Alexandria Rosales, Houston Spies - 0.500 ..... "
+    "msg": "Pitcher Win Leaders: ... Greer Lott, Canada Moist Talkers - 3 ..... Sandoval Crossing, Hellmouth Sunbeams - 2 ..... Sixpack Santiago, Miami Dale - 2 ..... Leach Ingram, Kansas City Breath Mints - 2 ..... Montgomery Bullock, Baltimore Crabs - 2 ..... "
   },
   {
     "expire": "2020-10-08T03:21:36.253Z",
     "id": "2b01eb42-3c57-4b12-9b18-56212eb0fb77",
     "msg": "Breath Mints pitcher Mooney Doctor II swallowed a stray Peanut and had a yummy reaction!"
-  },
-  {
-    "expire": "2020-10-15T01:31:20.894Z",
-    "id": "hitting_stat_leaders_update",
-    "msg": "Runs Batted In Leaders: ... Nerd Pacheco, Hellmouth Sunbeams - 9 ..... Aldon Cashmoney, Hades Tigers - 8 ..... Charlatan Seabright, New York Millennials - 7 ..... Tot Fox, Baltimore Crabs - 7 ..... Alaynabella Hollywood, Boston Flowers - 6 ..... "
   }
 ]
