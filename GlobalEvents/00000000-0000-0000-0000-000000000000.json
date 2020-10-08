@@ -50,18 +50,18 @@
     "msg": "In memoriam: so so many"
   },
   {
-    "expire": "2020-10-15T17:30:56.627Z",
-    "id": "hitting_stat_leaders_update",
-    "msg": "On Base Percentage Leaders: ... Karato Bean, Houston Spies - 0.667 ..... Marco Escobar, Houston Spies - 0.500 ..... Aldon Cashmoney, Hades Tigers - 0.494 ..... Malik Romayne, Houston Spies - 0.476 ..... Jacob Haynes, Boston Flowers - 0.463 ..... "
-  },
-  {
-    "expire": "2020-10-15T17:30:56.628Z",
-    "id": "pitching_stat_leaders_update",
-    "msg": "Pitcher Win Leaders: ... Montgomery Bullock, Baltimore Crabs - 8 ..... Sexton Wheerer, Unlimited Tacos - 7 ..... Greer Lott, Canada Moist Talkers - 7 ..... Sandoval Crossing, Hellmouth Sunbeams - 5 ..... Sixpack Santiago, Miami Dale - 5 ..... "
-  },
-  {
     "expire": "2020-10-08T20:15:52.717Z",
     "id": "9fefc50f-9235-42e2-b587-174cdf355c33",
     "msg": "Flowers hitter Alaynabella Hollywood swallowed a stray Peanut and had an allergic reaction!"
+  },
+  {
+    "expire": "2020-10-15T18:30:57.025Z",
+    "id": "hitting_stat_leaders_update",
+    "msg": "Stolen Base Leaders: ... Aldon Cashmoney, Hades Tigers - 17 ..... Forrest Best, Baltimore Crabs - 16 ..... Richardson Games, Charleston Shoe Thieves - 12 ..... Beck Whitney, Miami Dale - 11 ..... Commissioner Vapor, Canada Moist Talkers - 11 ..... "
+  },
+  {
+    "expire": "2020-10-15T18:30:57.026Z",
+    "id": "pitching_stat_leaders_update",
+    "msg": "Pitcher Loss Leaders: ... Sexton Wheerer, Unlimited Tacos - 13 ..... Mummy Melcon, Hades Tigers - 5 ..... Bevan Underbuck, Hawaii Fridays - 5 ..... Combs Estes, Breckenridge Jazz Hands - 5 ..... Evelton McBlase, Hawaii Fridays - 4 ..... "
   }
 ]
