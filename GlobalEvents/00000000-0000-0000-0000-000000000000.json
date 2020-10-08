@@ -55,16 +55,6 @@
     "msg": "Garages pitcher Tot Clark swallowed a stray Peanut and had a yummy reaction!"
   },
   {
-    "expire": "2020-10-14T23:38:55.771Z",
-    "id": "hitting_stat_leaders_update",
-    "msg": "Batting Average Leaders: ... Elijah Valenzuela, Breckenridge Jazz Hands - 0.778 ..... Randy Dennis, Miami Dale - 0.714 ..... Richardson Games, Charleston Shoe Thieves - 0.700 ..... Wyatt Dovenpart, Unlimited Tacos - 0.625 ..... Alston Cerveza, Canada Moist Talkers - 0.625 ..... "
-  },
-  {
-    "expire": "2020-10-14T23:38:55.772Z",
-    "id": "pitching_stat_leaders_update",
-    "msg": "Strikeout Leaders: ... Greer Lott, Canada Moist Talkers - 21 ..... Yosh Carpenter, San Francisco Lovers - 18 ..... Alexandria Rosales, Houston Spies - 17 ..... Sandoval Crossing, Hellmouth Sunbeams - 15 ..... Leach Herman, Dallas Steaks - 15 ..... "
-  },
-  {
     "expire": "2020-10-08T02:15:21.787Z",
     "id": "c76b497c-4147-482d-98d9-e92088dc9d04",
     "msg": "Lovers hitter Kennedy Meh swallowed a stray Peanut and had an allergic reaction!"
@@ -73,5 +63,15 @@
     "expire": "2020-10-08T02:22:00.126Z",
     "id": "d265b335-abaa-413d-9d18-19527d460b63",
     "msg": "Firefighters hitter Justice Spoon swallowed a stray Peanut and had an allergic reaction!"
+  },
+  {
+    "expire": "2020-10-15T00:28:44.561Z",
+    "id": "hitting_stat_leaders_update",
+    "msg": "Home Run Leaders: ... Inez Owens, Boston Flowers - 3 ..... Hahn Fox, Hellmouth Sunbeams - 3 ..... Charlatan Seabright, New York Millennials - 3 ..... Tot Fox, Baltimore Crabs - 3 ..... Comfort Septemberish, Houston Spies - 3 ..... "
+  },
+  {
+    "expire": "2020-10-15T00:28:44.562Z",
+    "id": "pitching_stat_leaders_update",
+    "msg": "Earned Run Average Leaders: ... Stevenson Heat, Hawaii Fridays - 0.000 ..... Jaylen Hotdogfingers, Seattle Garages - 0.000 ..... Henry Marshallow, Philly Pies - 0.000 ..... Tot Clark, Seattle Garages - 1.000 ..... Alexandria Rosales, Houston Spies - 1.000 ..... "
   }
 ]
