@@ -50,6 +50,11 @@
     "msg": "In memoriam: so so many"
   },
   {
+    "expire": "2020-10-15T08:29:43.324Z",
+    "id": "pitching_stat_leaders_update",
+    "msg": "Pitcher Loss Leaders: ... Sexton Wheerer, Unlimited Tacos - 5 ..... Mummy Melcon, Hades Tigers - 4 ..... Dunn Keyes, Boston Flowers - 3 ..... Bevan Underbuck, Hawaii Fridays - 3 ..... Yeong-Ho Garcia, Yellowstone Magic - 3 ..... "
+  },
+  {
     "expire": "2020-10-08T09:01:51.45Z",
     "id": "f61185e8-4d0c-4c23-aefa-12575f7ab9de",
     "msg": "Steaks hitter Gallup Crueller swallowed a stray Peanut and had an allergic reaction!"
@@ -65,13 +70,8 @@
     "msg": "Jaylen Hotdogfingers flickers! Jaylen Hotdogfingers and Beasley Gloom switched teams in the feedback!"
   },
   {
-    "expire": "2020-10-15T07:34:30.643Z",
+    "expire": "2020-10-15T08:29:43.322Z",
     "id": "hitting_stat_leaders_update",
-    "msg": "On Base Percentage Leaders: ... Karato Bean, Houston Spies - 0.667 ..... Malik Romayne, Houston Spies - 0.575 ..... Reese Clark, Houston Spies - 0.543 ..... Rodriguez Internet, Kansas City Breath Mints - 0.512 ..... Silvaire Roadhouse, Baltimore Crabs - 0.500 ..... "
-  },
-  {
-    "expire": "2020-10-15T07:34:30.644Z",
-    "id": "pitching_stat_leaders_update",
-    "msg": "Pitcher Win Leaders: ... Sexton Wheerer, Unlimited Tacos - 6 ..... Greer Lott, Canada Moist Talkers - 4 ..... Montgomery Bullock, Baltimore Crabs - 4 ..... Sandoval Crossing, Hellmouth Sunbeams - 3 ..... Sixpack Santiago, Miami Dale - 3 ..... "
+    "msg": "Stolen Base Leaders: ... Richardson Games, Charleston Shoe Thieves - 9 ..... Aldon Cashmoney, Hades Tigers - 7 ..... Beck Whitney, Miami Dale - 6 ..... Paula Turnip, Seattle Garages - 6 ..... Avila Guzman, Miami Dale - 5 ..... "
   }
 ]
