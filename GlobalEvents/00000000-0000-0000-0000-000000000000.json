@@ -50,18 +50,18 @@
     "msg": "In memoriam: so so many"
   },
   {
-    "expire": "2020-10-16T12:35:08.088Z",
-    "id": "hitting_stat_leaders_update",
-    "msg": "Runs Batted In Leaders: ... Jaxon Buckley, Philly Pies - 18 ..... Kennedy Loser, Baltimore Crabs - 17 ..... Hahn Fox, Hellmouth Sunbeams - 15 ..... Randy Castillo, Hades Tigers - 14 ..... Thomas Dracaena, New York Millennials - 14 ..... "
-  },
-  {
-    "expire": "2020-10-16T12:35:08.089Z",
-    "id": "pitching_stat_leaders_update",
-    "msg": "WHIP Leaders: ... Jaylen Hotdogfingers, Seattle Garages - 0.444 ..... Miguel James, Hellmouth Sunbeams - 0.500 ..... Betsy Trombone, Philly Pies - 0.556 ..... Rafael Davids, Mexico City Wild Wings - 0.586 ..... King Weatherman, Boston Flowers - 0.722 ..... "
-  },
-  {
     "expire": "2020-10-09T15:14:12.051Z",
     "id": "09e6b298-4ee9-4bf5-9326-205964f98dd5",
     "msg": "Jazz Hands pitcher Agan Harrison swallowed a stray Peanut and had an allergic reaction!"
+  },
+  {
+    "expire": "2020-10-16T13:28:46.929Z",
+    "id": "hitting_stat_leaders_update",
+    "msg": "On Base Percentage Leaders: ... Tillman Henderson, Baltimore Crabs - 1.500 ..... Karato Bean, Houston Spies - 0.667 ..... Oliver Mueller, Seattle Garages - 0.500 ..... Marco Escobar, Houston Spies - 0.500 ..... Denzel Scott, Houston Spies - 0.475 ..... "
+  },
+  {
+    "expire": "2020-10-16T13:28:46.93Z",
+    "id": "pitching_stat_leaders_update",
+    "msg": "Pitcher Win Leaders: ... Sexton Wheerer, Unlimited Tacos - 5 ..... Sandoval Crossing, Hellmouth Sunbeams - 4 ..... Greer Lott, Canada Moist Talkers - 4 ..... Brock Forbes, Baltimore Crabs - 4 ..... Montgomery Bullock, Baltimore Crabs - 4 ..... "
   }
 ]
