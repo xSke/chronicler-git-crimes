@@ -47,13 +47,13 @@
   "seasAttr": [
     "PARTY_TIME"
   ],
-  "seasonShames": 4,
+  "seasonShames": 5,
   "seasonShamings": 3,
   "secondaryColor": "#3ee652",
-  "shameRuns": 0,
+  "shameRuns": 3,
   "shorthand": "HF",
   "slogan": "It's Island Time!",
-  "totalShames": 40,
+  "totalShames": 41,
   "totalShamings": 27,
   "weekAttr": []
 }
