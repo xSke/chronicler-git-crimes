@@ -60,18 +60,18 @@
     "msg": "NaN flickers! NaN and Kennedy Meh switched teams in the feedback!"
   },
   {
-    "expire": "2020-10-16T17:33:53.524Z",
-    "id": "hitting_stat_leaders_update",
-    "msg": "Runs Batted In Leaders: ... Simon Haley, Charleston Shoe Thieves - 7 ..... Steph Weeks, Breckenridge Jazz Hands - 7 ..... Howell Franklin, Charleston Shoe Thieves - 6 ..... Sigmund Castillo, Hellmouth Sunbeams - 5 ..... Cannonball Sports, Miami Dale - 5 ..... "
-  },
-  {
-    "expire": "2020-10-16T17:33:53.526Z",
-    "id": "pitching_stat_leaders_update",
-    "msg": "WHIP Leaders: ... Brock Forbes, Baltimore Crabs - 0.333 ..... Marco Escobar, Houston Spies - 0.333 ..... Jaylen Hotdogfingers, Seattle Garages - 0.444 ..... Oscar Vaughan, Kansas City Breath Mints - 0.444 ..... Gunther O'Brian, Charleston Shoe Thieves - 0.444 ..... "
-  },
-  {
     "expire": "2020-10-09T20:21:43.24Z",
     "id": "c3d4a98f-6582-459f-a7af-0d5c1cd96208",
     "msg": "The Blooddrain gurgled! Arturo Huerta siphoned some of Ronan Jaylee's pitching ability!"
+  },
+  {
+    "expire": "2020-10-16T18:43:30.814Z",
+    "id": "hitting_stat_leaders_update",
+    "msg": "On Base Percentage Leaders: ... Tillman Henderson, Baltimore Crabs - 1.500 ..... NaN, San Francisco Lovers - 1.000 ..... Knight Urlacher, San Francisco Lovers - 0.900 ..... Randy Dennis, Miami Dale - 0.857 ..... Caleb Novak, Miami Dale - 0.833 ..... "
+  },
+  {
+    "expire": "2020-10-16T18:43:30.815Z",
+    "id": "pitching_stat_leaders_update",
+    "msg": "Pitcher Win Leaders: ... King Weatherman, Boston Flowers - 1 ..... Sandoval Crossing, Hellmouth Sunbeams - 1 ..... Lars Taylor, Hellmouth Sunbeams - 1 ..... Sixpack Santiago, Miami Dale - 1 ..... Greer Lott, Canada Moist Talkers - 1 ..... "
   }
 ]
