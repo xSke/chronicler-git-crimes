@@ -50,18 +50,18 @@
     "msg": "In memoriam: so so many"
   },
   {
-    "expire": "2020-10-15T23:31:14.99Z",
-    "id": "hitting_stat_leaders_update",
-    "msg": "Stolen Base Leaders: ... Aldon Cashmoney, Hades Tigers - 22 ..... Forrest Best, Baltimore Crabs - 21 ..... Beck Whitney, Miami Dale - 14 ..... Commissioner Vapor, Canada Moist Talkers - 13 ..... Richardson Games, Charleston Shoe Thieves - 13 ..... "
-  },
-  {
-    "expire": "2020-10-15T23:31:14.991Z",
-    "id": "pitching_stat_leaders_update",
-    "msg": "Pitcher Loss Leaders: ... Sexton Wheerer, Unlimited Tacos - 15 ..... Mummy Melcon, Hades Tigers - 6 ..... Bevan Underbuck, Hawaii Fridays - 6 ..... Combs Estes, Breckenridge Jazz Hands - 6 ..... Evelton McBlase, Hawaii Fridays - 5 ..... "
-  },
-  {
     "expire": "2020-10-09T02:18:26.649Z",
     "id": "02ef77af-4d66-4a34-9722-9e3c0544c540",
     "msg": "Sunbeams hitter Igneus Delacruz swallowed a stray Peanut and had an allergic reaction!"
+  },
+  {
+    "expire": "2020-10-16T00:29:20.103Z",
+    "id": "hitting_stat_leaders_update",
+    "msg": "Batting Average Leaders: ... Esme Ramsey, Charleston Shoe Thieves - 0.857 ..... Eizabeth Elliott, Yellowstone Magic - 0.667 ..... Thomas Kirby, Chicago Firefighters - 0.667 ..... Randy Dennis, Miami Dale - 0.625 ..... Alston Cerveza, Canada Moist Talkers - 0.625 ..... "
+  },
+  {
+    "expire": "2020-10-16T00:29:20.105Z",
+    "id": "pitching_stat_leaders_update",
+    "msg": "Strikeout Leaders: ... Yosh Carpenter, San Francisco Lovers - 18 ..... Greer Lott, Canada Moist Talkers - 17 ..... Sandoval Crossing, Hellmouth Sunbeams - 16 ..... Mummy Melcon, Hades Tigers - 16 ..... Alexandria Rosales, Houston Spies - 16 ..... "
   }
 ]
