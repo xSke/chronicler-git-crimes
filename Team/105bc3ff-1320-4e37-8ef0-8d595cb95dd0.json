@@ -48,7 +48,8 @@
   ],
   "rotationSlot": 109,
   "seasAttr": [
-    "HOME_FIELD"
+    "HOME_FIELD",
+    "PARTY_TIME"
   ],
   "seasonShames": 5,
   "seasonShamings": 4,
