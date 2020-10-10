@@ -26,9 +26,9 @@
   "omniscience": 0.9562225800059416,
   "overpowerment": 1.1148738135644432,
   "patheticism": 0.01,
-  "peanutAllergy": false,
+  "peanutAllergy": true,
   "permAttr": [
-    "SHELLED"
+    "SUPERALLERGIC"
   ],
   "pressurization": 0.572681607691041,
   "ritual": "Cursing the sun",
