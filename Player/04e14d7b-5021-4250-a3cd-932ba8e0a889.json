@@ -30,7 +30,8 @@
   "permAttr": [
     "RETURNED",
     "DEBT_TWO",
-    "FLICKERING"
+    "FLICKERING",
+    "WILD"
   ],
   "pressurization": 0.3628148179494586,
   "ritual": "Checking their pulse",

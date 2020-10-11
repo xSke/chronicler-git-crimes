@@ -27,7 +27,9 @@
   "overpowerment": 0.869376541097655,
   "patheticism": 0.01,
   "peanutAllergy": true,
-  "permAttr": [],
+  "permAttr": [
+    "FLINCH"
+  ],
   "pressurization": 0.5195664478482989,
   "ritual": "Running the bases",
   "ruthlessness": 0.28879884447064286,

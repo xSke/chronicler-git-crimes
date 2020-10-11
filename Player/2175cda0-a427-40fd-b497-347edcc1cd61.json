@@ -27,7 +27,9 @@
   "overpowerment": 0.7793258635955349,
   "patheticism": 0.5200471376265952,
   "peanutAllergy": false,
-  "permAttr": [],
+  "permAttr": [
+    "FLINCH"
+  ],
   "pressurization": 0.9098026700935284,
   "ritual": "Research",
   "ruthlessness": 0.1092495609503634,

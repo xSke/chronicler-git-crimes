@@ -27,7 +27,9 @@
   "overpowerment": 1.0180012658160895,
   "patheticism": 0.14811850221323655,
   "peanutAllergy": true,
-  "permAttr": [],
+  "permAttr": [
+    "FLINCH"
+  ],
   "pressurization": 0.9172442304848458,
   "ritual": "Astral projection",
   "ruthlessness": 0.5387011749897854,

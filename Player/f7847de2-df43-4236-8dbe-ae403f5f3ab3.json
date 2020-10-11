@@ -27,7 +27,9 @@
   "overpowerment": 1.0264787754736453,
   "patheticism": 0.2707960472712341,
   "peanutAllergy": true,
-  "permAttr": [],
+  "permAttr": [
+    "FLINCH"
+  ],
   "pressurization": 0.9224335434501654,
   "ritual": "Eating grass",
   "ruthlessness": 0.6589575908705623,

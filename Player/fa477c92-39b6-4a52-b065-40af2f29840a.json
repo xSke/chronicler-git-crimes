@@ -27,7 +27,9 @@
   "overpowerment": 0.03,
   "patheticism": 0.01,
   "peanutAllergy": true,
-  "permAttr": [],
+  "permAttr": [
+    "FLINCH"
+  ],
   "pressurization": 0.6437276352663626,
   "ritual": "Communing with the ancestors",
   "ruthlessness": 0.03,

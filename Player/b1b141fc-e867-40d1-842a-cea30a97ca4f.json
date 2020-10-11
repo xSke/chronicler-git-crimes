@@ -27,7 +27,9 @@
   "overpowerment": 0.08539275507758191,
   "patheticism": 0.6167193275374738,
   "peanutAllergy": true,
-  "permAttr": [],
+  "permAttr": [
+    "FLINCH"
+  ],
   "pressurization": 0.8231759598388049,
   "ritual": "Essential oils",
   "ruthlessness": 0.24962633905603135,

@@ -27,7 +27,9 @@
   "overpowerment": 1.2155170758888283,
   "patheticism": 0.01,
   "peanutAllergy": false,
-  "permAttr": [],
+  "permAttr": [
+    "WILD"
+  ],
   "pressurization": 0.5116172880640464,
   "ritual": "Kneeling",
   "ruthlessness": 1.060513476066553,
