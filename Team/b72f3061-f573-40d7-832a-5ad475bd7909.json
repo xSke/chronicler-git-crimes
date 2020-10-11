@@ -43,12 +43,10 @@
     "73265ee3-bb35-40d1-b696-1f241a6f5966",
     "db33a54c-3934-478f-bad4-fc313ac2580e"
   ],
-  "rotationSlot": 99,
-  "seasAttr": [
-    "PARTY_TIME"
-  ],
-  "seasonShames": 7,
-  "seasonShamings": 6,
+  "rotationSlot": 0,
+  "seasAttr": [],
+  "seasonShames": 0,
+  "seasonShamings": 0,
   "secondaryColor": "#da0000",
   "shameRuns": 0,
   "shorthand": "SFL",

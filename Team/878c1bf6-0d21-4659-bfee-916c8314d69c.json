@@ -38,12 +38,10 @@
   "rotation": [
     "0bb35615-63f2-4492-80ec-b6b322dc5450"
   ],
-  "rotationSlot": 99,
-  "seasAttr": [
-    "PARTY_TIME"
-  ],
-  "seasonShames": 5,
-  "seasonShamings": 3,
+  "rotationSlot": 0,
+  "seasAttr": [],
+  "seasonShames": 0,
+  "seasonShamings": 0,
   "secondaryColor": "#b063c1",
   "shameRuns": 1,
   "shorthand": "LATA",
