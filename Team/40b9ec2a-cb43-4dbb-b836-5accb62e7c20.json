@@ -1,0 +1,49 @@
+{
+  "bench": [],
+  "bullpen": [],
+  "championships": 0,
+  "emoji": "0x1F95C",
+  "fullName": "THE SHELLED ONE'S PODS",
+  "gameAttr": [],
+  "id": "40b9ec2a-cb43-4dbb-b836-5accb62e7c20",
+  "lineup": [
+    "9820f2c5-f9da-4a07-b610-c2dd7bee2ef6",
+    "5ca7e854-dc00-4955-9235-d7fcd732ddcf",
+    "8903a74f-f322-41d2-bd75-dbf7563c4abb",
+    "a1ed3396-114a-40bc-9ff0-54d7e1ad1718",
+    "f741dc01-2bae-4459-bfc0-f97536193eea",
+    "ea44bd36-65b4-4f3b-ac71-78d87a540b48",
+    "de21c97e-f575-43b7-8be7-ecc5d8c4eaff",
+    "5ff66eae-7111-4e3b-a9b8-a9579165b0a5",
+    "86d4e22b-f107-4bcf-9625-32d387fcb521",
+    "083d09d4-7ed3-4100-b021-8fbe30dd43e8",
+    "667cb445-c288-4e62-b603-27291c1e475d"
+  ],
+  "location": "THE SHELLED ONE'S",
+  "mainColor": "#ff0000",
+  "nickname": "PODS",
+  "permAttr": [
+    "PEANUT_RAIN",
+    "CRUNCHY",
+    "GOD",
+    "EXTRA_STRIKE",
+    "CURSE_OF_CROWS",
+    "SUBJECTION",
+    "PITY",
+    "DESTRUCTION"
+  ],
+  "rotation": [
+    "3af96a6b-866c-4b03-bc14-090acf6ecee5"
+  ],
+  "rotationSlot": 0,
+  "seasAttr": [],
+  "seasonShames": 0,
+  "seasonShamings": 0,
+  "secondaryColor": "#ff0000",
+  "shameRuns": 0,
+  "shorthand": "THEP",
+  "slogan": "TREMBLE BEFORE MY PODS",
+  "totalShames": 0,
+  "totalShamings": 0,
+  "weekAttr": []
+}

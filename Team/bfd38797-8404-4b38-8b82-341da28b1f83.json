@@ -15,7 +15,7 @@
     "2d22f026-2873-410b-a45f-3b1dac665ffd",
     "d002946f-e7ed-4ce4-a405-63bdaf5eabb5"
   ],
-  "championships": 0,
+  "championships": 1,
   "emoji": "0x1F45F",
   "fullName": "Charleston Shoe Thieves",
   "gameAttr": [],
@@ -47,12 +47,12 @@
   "rotationSlot": 113,
   "seasAttr": [],
   "seasonShames": 6,
-  "seasonShamings": 4,
+  "seasonShamings": 5,
   "secondaryColor": "#ffce0a",
   "shameRuns": 0,
   "shorthand": "CHST",
   "slogan": "Your Kicks are My Kicks.",
   "totalShames": 44,
-  "totalShamings": 17,
+  "totalShamings": 18,
   "weekAttr": []
 }
