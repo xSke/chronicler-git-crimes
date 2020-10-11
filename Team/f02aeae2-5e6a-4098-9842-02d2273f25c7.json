@@ -46,7 +46,9 @@
     "333067fd-c2b4-4045-a9a4-e87a8d0332d0"
   ],
   "rotationSlot": 0,
-  "seasAttr": [],
+  "seasAttr": [
+    "EXTRA_BASE"
+  ],
   "seasonShames": 0,
   "seasonShamings": 0,
   "secondaryColor": "#fffbab",

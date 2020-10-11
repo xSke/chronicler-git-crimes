@@ -1,5 +1,6 @@
 {
   "bench": [
+    "0d5300f6-0966-430f-903f-a4c2338abf00",
     "5149c919-48fe-45c6-b7ee-bb8e5828a095",
     "63a31035-2e6d-4922-a3f9-fa6e659b54ad",
     "937c1a37-4b05-4dc5-a86d-d75226f8490a"
@@ -26,7 +27,6 @@
     "bf6a24d1-4e89-4790-a4ba-eeb2870cbf6f",
     "27c68d7f-5e40-4afa-8b6f-9df47b79e7dd",
     "c755efce-d04d-4e00-b5c1-d801070d3808",
-    "0d5300f6-0966-430f-903f-a4c2338abf00",
     "2e13249e-38ff-46a2-a55e-d15fa692468a"
   ],
   "location": "Unlimited",
@@ -39,7 +39,9 @@
     "0bb35615-63f2-4492-80ec-b6b322dc5450"
   ],
   "rotationSlot": 0,
-  "seasAttr": [],
+  "seasAttr": [
+    "EXTRA_BASE"
+  ],
   "seasonShames": 0,
   "seasonShamings": 0,
   "secondaryColor": "#b063c1",

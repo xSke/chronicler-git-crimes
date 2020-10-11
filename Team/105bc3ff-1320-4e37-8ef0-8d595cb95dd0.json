@@ -1,9 +1,9 @@
 {
   "bench": [
-    "061b209a-9cda-44e8-88ce-6a4a37251970",
-    "1c73f91e-0562-480d-9543-2aab1d5e5acd",
     "b88d313f-e546-407e-8bc6-94040499daa5",
-    "25581c43-f8da-4657-9e96-e704df0a8878"
+    "25581c43-f8da-4657-9e96-e704df0a8878",
+    "7e9a514a-7850-4ed0-93ab-f3a6e2f41c03",
+    "061b209a-9cda-44e8-88ce-6a4a37251970"
   ],
   "bullpen": [
     "c6a277c3-d2b5-4363-839b-950896a5ec5e",
@@ -30,7 +30,7 @@
     "8b53ce82-4b1a-48f0-999d-1774b3719202",
     "f3ddfd87-73a2-4681-96fe-829476c97886",
     "5bcfb3ff-5786-4c6c-964c-5c325fcc48d7",
-    "7e9a514a-7850-4ed0-93ab-f3a6e2f41c03"
+    "1c73f91e-0562-480d-9543-2aab1d5e5acd"
   ],
   "location": "Seattle",
   "mainColor": "#2b4075",
@@ -47,7 +47,10 @@
     "019ce117-2399-4382-8036-8c14db7e1d30"
   ],
   "rotationSlot": 0,
-  "seasAttr": [],
+  "seasAttr": [
+    "EXTRA_BASE",
+    "SHAME_PIT"
+  ],
   "seasonShames": 0,
   "seasonShamings": 0,
   "secondaryColor": "#5a83ea",

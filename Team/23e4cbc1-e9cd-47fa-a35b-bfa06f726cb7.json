@@ -27,7 +27,7 @@
     "405dfadf-d435-4307-82f6-8eba2287e87a",
     "da0bbbe6-d13c-40cc-9594-8c476975d93d",
     "ecb8d2f5-4ff5-4890-9693-5654e00055f6",
-    "66cebbbf-9933-4329-924a-72bd3718f321"
+    "fcbe1d14-04c4-4331-97ad-46e170610633"
   ],
   "location": "Philly",
   "mainColor": "#399d8f",
@@ -44,7 +44,10 @@
     "80dff591-2393-448a-8d88-122bd424fa4c"
   ],
   "rotationSlot": 0,
-  "seasAttr": [],
+  "seasAttr": [
+    "EXTRA_BASE",
+    "SHAME_PIT"
+  ],
   "seasonShames": 0,
   "seasonShamings": 0,
   "secondaryColor": "#58c3b4",

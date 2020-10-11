@@ -34,7 +34,8 @@
   "mainColor": "#780018",
   "nickname": "Lovers",
   "permAttr": [
-    "BLOOD_PITY"
+    "BLOOD_PITY",
+    "LOVE"
   ],
   "rotation": [
     "3c331c87-1634-46c4-87ce-e4b9c59e2969",
@@ -44,7 +45,9 @@
     "db33a54c-3934-478f-bad4-fc313ac2580e"
   ],
   "rotationSlot": 0,
-  "seasAttr": [],
+  "seasAttr": [
+    "SHAME_PIT"
+  ],
   "seasonShames": 0,
   "seasonShamings": 0,
   "secondaryColor": "#da0000",
