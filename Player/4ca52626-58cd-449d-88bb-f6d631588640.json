@@ -28,7 +28,8 @@
   "patheticism": 0.7691260754181972,
   "peanutAllergy": false,
   "permAttr": [
-    "FLINCH"
+    "FLINCH",
+    "FIRE_EATER"
   ],
   "pressurization": 0.9384923224961412,
   "ritual": "Shouting 'GAMETIME!'",

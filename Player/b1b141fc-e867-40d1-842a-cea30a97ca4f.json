@@ -28,7 +28,8 @@
   "patheticism": 0.6167193275374738,
   "peanutAllergy": true,
   "permAttr": [
-    "FLINCH"
+    "FLINCH",
+    "SIPHON"
   ],
   "pressurization": 0.8231759598388049,
   "ritual": "Essential oils",

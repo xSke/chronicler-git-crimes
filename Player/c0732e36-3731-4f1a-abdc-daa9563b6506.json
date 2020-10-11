@@ -28,7 +28,9 @@
   "patheticism": 0.01,
   "peanutAllergy": true,
   "permAttr": [
-    "SUPERALLERGIC"
+    "SUPERALLERGIC",
+    "SIPHON",
+    "FIRE_EATER"
   ],
   "pressurization": 0.572681607691041,
   "ritual": "Cursing the sun",

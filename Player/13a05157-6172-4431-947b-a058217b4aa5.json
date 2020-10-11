@@ -27,7 +27,9 @@
   "overpowerment": 0.18495297411744,
   "patheticism": 0.7609339469451102,
   "peanutAllergy": true,
-  "permAttr": [],
+  "permAttr": [
+    "SIPHON"
+  ],
   "pressurization": 0.7418632026108982,
   "ritual": "Playing pranks",
   "ruthlessness": 0.7188727044026423,

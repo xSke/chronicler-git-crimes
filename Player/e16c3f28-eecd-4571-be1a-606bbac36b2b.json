@@ -27,7 +27,10 @@
   "overpowerment": 0.17617356151088776,
   "patheticism": 0.9273286744842832,
   "peanutAllergy": true,
-  "permAttr": [],
+  "permAttr": [
+    "FIRE_EATER",
+    "CREDIT_TO_THE_TEAM"
+  ],
   "pressurization": 0.5072750604949114,
   "ritual": "Feeding the bugs",
   "ruthlessness": 0.0859411081594958,

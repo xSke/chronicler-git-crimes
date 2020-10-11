@@ -3,7 +3,7 @@
   "armor": "",
   "baseThirst": 0.4130611854114716,
   "bat": "",
-  "blood": 12,
+  "blood": 9,
   "buoyancy": 0.8946104971912276,
   "chasiness": 0.43146309236982144,
   "cinnamon": 0.3215186155024976,
@@ -27,7 +27,9 @@
   "overpowerment": 0.5052687218196218,
   "patheticism": 0.8200707163055589,
   "peanutAllergy": false,
-  "permAttr": [],
+  "permAttr": [
+    "FRIEND_OF_CROWS"
+  ],
   "pressurization": 0.6626654225357724,
   "ritual": "Research",
   "ruthlessness": 0.14762347647264645,

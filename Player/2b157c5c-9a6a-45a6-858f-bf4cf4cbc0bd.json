@@ -3,7 +3,7 @@
   "armor": "",
   "baseThirst": 0.8917944704765566,
   "bat": "",
-  "blood": 4,
+  "blood": 9,
   "buoyancy": 0.8829494249570792,
   "chasiness": 0.5002580645802502,
   "cinnamon": 0.911095778951376,
@@ -27,7 +27,9 @@
   "overpowerment": 0.6622058175917155,
   "patheticism": 0.36132069498329944,
   "peanutAllergy": false,
-  "permAttr": [],
+  "permAttr": [
+    "FIRE_EATER"
+  ],
   "pressurization": 0.8427501339313199,
   "ritual": "Yoga",
   "ruthlessness": 0.5236680200775687,

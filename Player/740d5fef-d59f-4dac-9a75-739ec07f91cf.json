@@ -27,7 +27,9 @@
   "overpowerment": 0.5956791518618345,
   "patheticism": 0.3402071096275461,
   "peanutAllergy": true,
-  "permAttr": [],
+  "permAttr": [
+    "SPICY"
+  ],
   "pressurization": 0.08034602736685281,
   "ritual": "Podcasts",
   "ruthlessness": 0.6542952032185609,

@@ -27,7 +27,9 @@
   "overpowerment": 0.6240859001142638,
   "patheticism": 0.919582617799636,
   "peanutAllergy": true,
-  "permAttr": [],
+  "permAttr": [
+    "SIPHON"
+  ],
   "pressurization": 0.3856185779831285,
   "ritual": "Getting struck by lightning",
   "ruthlessness": 0.8999049478812817,

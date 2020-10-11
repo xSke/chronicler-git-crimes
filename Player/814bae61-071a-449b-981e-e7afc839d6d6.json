@@ -27,7 +27,9 @@
   "overpowerment": 0.8279484520950022,
   "patheticism": 0.01,
   "peanutAllergy": false,
-  "permAttr": [],
+  "permAttr": [
+    "FRIEND_OF_CROWS"
+  ],
   "pressurization": 0.9777448533424058,
   "ritual": "Channeling chi",
   "ruthlessness": 0.3796490984215199,

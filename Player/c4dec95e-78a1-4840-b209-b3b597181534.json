@@ -27,7 +27,9 @@
   "overpowerment": 0.4308550947809177,
   "patheticism": 0.8439781833048409,
   "peanutAllergy": true,
-  "permAttr": [],
+  "permAttr": [
+    "SPICY"
+  ],
   "pressurization": 0.037726958854510606,
   "ritual": "Bottling up emotions",
   "ruthlessness": 0.4310330835606102,

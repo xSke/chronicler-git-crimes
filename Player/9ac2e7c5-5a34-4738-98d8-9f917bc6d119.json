@@ -27,7 +27,9 @@
   "overpowerment": 0.5533091658178925,
   "patheticism": 0.4127704814268563,
   "peanutAllergy": true,
-  "permAttr": [],
+  "permAttr": [
+    "FIRE_EATER"
+  ],
   "pressurization": 0.7694240369628592,
   "ritual": "Re-inflating",
   "ruthlessness": 0.6774481941698638,

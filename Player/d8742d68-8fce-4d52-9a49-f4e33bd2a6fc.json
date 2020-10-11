@@ -27,7 +27,9 @@
   "overpowerment": 0.8581853799552754,
   "patheticism": 0.8063718283363867,
   "peanutAllergy": true,
-  "permAttr": [],
+  "permAttr": [
+    "SIPHON"
+  ],
   "pressurization": 0.7519261141944162,
   "ritual": "Molting",
   "ruthlessness": 0.07334059591842604,

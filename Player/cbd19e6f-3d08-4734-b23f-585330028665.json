@@ -27,7 +27,9 @@
   "overpowerment": 0.8021384994524631,
   "patheticism": 0.3422292086125862,
   "peanutAllergy": false,
-  "permAttr": [],
+  "permAttr": [
+    "SIPHON"
+  ],
   "pressurization": 0.7816458937113402,
   "ritual": "Bagels",
   "ruthlessness": 0.34793373254741733,

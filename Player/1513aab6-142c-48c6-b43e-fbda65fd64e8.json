@@ -27,7 +27,9 @@
   "overpowerment": 0.8383916419928166,
   "patheticism": 0.2695413800364796,
   "peanutAllergy": true,
-  "permAttr": [],
+  "permAttr": [
+    "FRIEND_OF_CROWS"
+  ],
   "pressurization": 0.2971706221420969,
   "ritual": "Putting on their uniform the same way every time",
   "ruthlessness": 0.7336162978208715,

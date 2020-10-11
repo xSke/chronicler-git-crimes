@@ -27,7 +27,9 @@
   "overpowerment": 1.0739611609163688,
   "patheticism": 0.24248888544157088,
   "peanutAllergy": true,
-  "permAttr": [],
+  "permAttr": [
+    "FRIEND_OF_CROWS"
+  ],
   "pressurization": 0.9297926107404768,
   "ritual": "Whispering",
   "ruthlessness": 0.9244547139021378,

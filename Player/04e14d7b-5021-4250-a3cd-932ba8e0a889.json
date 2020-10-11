@@ -31,7 +31,8 @@
     "RETURNED",
     "DEBT_TWO",
     "FLICKERING",
-    "WILD"
+    "WILD",
+    "FRIEND_OF_CROWS"
   ],
   "pressurization": 0.3628148179494586,
   "ritual": "Checking their pulse",
