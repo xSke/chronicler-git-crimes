@@ -48,13 +48,13 @@
     "EXTRA_BASE",
     "SHAME_PIT"
   ],
-  "seasonShames": 0,
+  "seasonShames": 1,
   "seasonShamings": 0,
   "secondaryColor": "#b2b3b5",
-  "shameRuns": 0,
+  "shameRuns": 1,
   "shorthand": "DAL",
   "slogan": "Well Done.",
-  "totalShames": 32,
+  "totalShames": 33,
   "totalShamings": 46,
   "weekAttr": []
 }
