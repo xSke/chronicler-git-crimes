@@ -1,186 +1,168 @@
 {
   "blessings": [
     {
-      "description": "A random player on your team becomes BIG. Increased Power, Max Vibe. Decreased Baserunning.",
-      "id": "item_mushroom",
-      "subheader": "Brought to you by @HoloVista@https://apps.apple.com/us/app/holovista/id1474114304",
-      "title": "Eat me, Drink me",
-      "type": 61,
+      "description": "Item. Take off. A random player on your Team scores 0.2 runs on each Stolen Base next season.",
+      "id": "item_actual_airplane",
+      "subheader": "Brought to you by @An Airport for Aliens Currently Run by Dogs@http://patreon.com/strangescaffold",
+      "title": "An Actual Airplane",
+      "type": 123,
       "value": 1
     },
     {
-      "description": "Zero to hero. The worst player on your team will earn 5x payouts for Idol Pendants.",
-      "id": "worst_player_big_payouts",
-      "subheader": "Brought to you by@the garages@https://thegarages.bandcamp.com",
-      "title": "Credit to the Team",
-      "type": 112,
+      "description": "Rub it in. Your Team is permanently Fireproof.",
+      "id": "mod_team_fireproof_permanent",
+      "subheader": "Brought to you by @OMEN Podcast@https://www.omeninvestigations.com/p/blaseball/",
+      "title": "Doctor Smedley's Umpire Cream",
+      "type": 129,
       "value": 1
     },
     {
-      "description": "They'll never see it coming. Maximize a random Pitcher in your Shadows.",
-      "id": "maximize_random_shadow_pitcher",
-      "subheader": "Brought to you by @It Came From A Basement Podcast@http://itcamefromabasement.com/blaseball",
-      "title": "Secret Weapon",
-      "type": 120,
+      "description": "Your Team is no longer allergic to Peanuts.",
+      "id": "team_removes_allergies",
+      "subheader": "Brought to you by @NeoScum Podcast@https://neoscum.com/starter",
+      "title": "The Nut Button",
+      "type": 130,
       "value": 1
     },
     {
-      "description": "Steal a Hitter from another Team's Shadows.",
-      "id": "steal_random_team_best_bench",
-      "title": "Grab and Smash",
-      "type": 102,
+      "description": "Items. Your players are protected from Feedback.",
+      "id": "item_team_headphones",
+      "title": "Noise-Canceling Headphones",
+      "type": 131,
       "value": 1
     },
     {
-      "description": "Send your 2 Worst Pitchers to the Shadows and call up your First 2 Relievers.",
-      "id": "send_worst_pitchers_to_shadows",
-      "title": "Out of Sight",
-      "type": 118,
-      "value": 2
+      "description": "Birds will unshell your players much more often.",
+      "id": "mod_team_birds_unshell",
+      "title": "Bird Seed",
+      "type": 134,
+      "value": 1
     },
     {
-      "description": "Send your Worst 3 Hitters to the Shadows and call up the first 3 Shadows Hitters",
-      "id": "send_worst_hitters_to_shadows",
-      "title": "Disappearing Acts",
-      "type": 119,
+      "description": "Plug the leak. Your Team cannot have blood stolen in Blooddrain.",
+      "id": "mod_team_keep_blood",
+      "title": "Sealant",
+      "type": 133,
+      "value": 1
+    },
+    {
+      "description": "5 Hitters on your Team become permanently Repeating.",
+      "id": "mod_hitters_repeating",
+      "title": "Rogue Waves",
+      "type": 132,
+      "value": 5
+    },
+    {
+      "description": "Oh Yes. Give your Team O No Blood type.",
+      "id": "team_ono_blood_type",
+      "title": "O-No Blood Type",
+      "type": 122,
+      "value": 1
+    },
+    {
+      "description": "Your Team plays 5% better during Away Games.",
+      "id": "mod_team_traveling",
+      "title": "Traveling Team",
+      "type": 128,
+      "value": 1
+    },
+    {
+      "description": "Give Your Team and the last place Team in the opposite Sub-League the Fourth Strike next Season.",
+      "id": "shared_team_mod_fourth_strike",
+      "title": "Tag-Team Fourth Strike",
+      "type": 135,
+      "value": 1
+    },
+    {
+      "description": "Take a stroll. Your Division Walks on Ball 3 next season.",
+      "id": "mod_division_walk_park",
+      "title": "Divisional Walk in the Park",
+      "type": 124,
+      "value": 1
+    },
+    {
+      "description": "Haunt a random player on your Team.",
+      "id": "mod_player_haunted",
+      "title": "Haunted",
+      "type": 121,
+      "value": 1
+    },
+    {
+      "description": "Ban together. Improve your Division’s Shadows overall by 3%.",
+      "id": "division_shadow_boost",
+      "title": "Shadow Ban Together",
+      "type": 127,
+      "value": 0.04
+    },
+    {
+      "description": "Recruit the best pitcher from your Shadows to your Rotation.",
+      "id": "pull_best_player_from_bullpen",
+      "title": "Dark Star",
+      "type": 126,
+      "value": 1
+    },
+    {
+      "description": "Recruit the best hitter from your Shadows to your Lineup.",
+      "id": "pull_best_player_from_bench",
+      "title": "Hidden Power",
+      "type": 125,
+      "value": 1
+    },
+    {
+      "description": "OMG they noticed us. Steal a random player from the Idol Leaderboard.",
+      "id": "steal_random_leaderboard_player",
+      "title": "Popular by Association",
+      "type": 87,
+      "value": 1
+    },
+    {
+      "description": "Swap your Team into the other Division in your Subleague.",
+      "id": "division_swap",
+      "title": "Divisional Swap",
+      "type": 99,
+      "value": 1
+    },
+    {
+      "description": "Swap your Team into another Division in the opposite Subleague.",
+      "id": "subleague_swap",
+      "title": "Subleague Swap",
+      "type": 100,
+      "value": 1
+    },
+    {
+      "description": "It's not stealing if we all do it. Improve your division by +10% hitting, -5% pitching.",
+      "id": "division_pitching_tradeoff",
+      "title": "Sharing Signs",
+      "type": 74,
+      "value": 0.1
+    },
+    {
+      "description": "Steal 3 random players from the Internet Series Champion.",
+      "id": "steal_champion_players",
+      "title": "People's Champions",
+      "type": 88,
       "value": 3
-    },
-    {
-      "description": "Give your Team Love Blood Type.",
-      "id": "team_love_blood_type",
-      "title": "Feel the Love",
-      "type": 116,
-      "value": 1
-    },
-    {
-      "description": "Help yourselves. A player on each team in your Division gets Spicy.",
-      "id": "mod_division_spicy",
-      "title": "Hot Sauce Bar",
-      "type": 115,
-      "value": 1
-    },
-    {
-      "description": "Give all of the teams not in your Division the Fifth Base.",
-      "id": "mod_non_division_fifth_base",
-      "title": "Fifth Base Bubble",
-      "type": 109,
-      "value": 1
-    },
-    {
-      "description": "Give all of the teams not in your Division Targeted Shame.",
-      "id": "mod_non_division_targeted_shame",
-      "title": "The Shame Bubble",
-      "type": 86,
-      "value": 1
-    },
-    {
-      "description": "Improve your team's pitching by 10%. The last place team in the opposite subleague also gets +10% team pitching.",
-      "id": "shared_team_pitching",
-      "title": "Tag Team Pitching",
-      "type": 111,
-      "value": 0.1
-    },
-    {
-      "description": "Improve your team's hitting by 10%. The last place team in the opposite subleague also gets +10% team hitting.",
-      "id": "shared_team_hitting",
-      "title": "Tag Team Hitting",
-      "type": 110,
-      "value": 0.1
-    },
-    {
-      "description": "Incinerate the Most Idolized Player on your Team.",
-      "id": "incinerate_most_idolized",
-      "title": "Kill Your Darling",
-      "type": 114,
-      "value": 1
-    },
-    {
-      "description": "Shed it. Incinerate the Worst Player on Your Team.",
-      "id": "incinerate_worst_player",
-      "title": "Dead Weight",
-      "type": 113,
-      "value": 1
-    },
-    {
-      "description": "A warm welcome. Incinerate the Least Idolized Player on Your Team.",
-      "id": "incinerate_least_idolized",
-      "title": "New Kid",
-      "type": 103,
-      "value": 1
-    },
-    {
-      "description": "Feed the Hall Monitor. Fans of your team receive a big boatload of peanuts.",
-      "id": "boatload_of_peanuts",
-      "title": "Boatload of Tiny Eggs",
-      "type": 104,
-      "value": 10000
-    },
-    {
-      "description": "Recruit a rookie to be an extra player in your lineup.",
-      "id": "add_new_player_lineup",
-      "title": "New Recruit",
-      "type": 94,
-      "value": 1
-    },
-    {
-      "description": "Remove the worst player from your lineup. Your lineup is now shorter.",
-      "id": "remove_worst_lineup",
-      "title": "Downsizing",
-      "type": 95,
-      "value": 1
-    },
-    {
-      "description": "Item. Max Out Defense for a random player on your team.",
-      "id": "random_player_max_defense",
-      "title": "Fishing Net",
-      "type": 117,
-      "value": 1
-    },
-    {
-      "description": "Keep your enemies closer. Improve your entire division by 2%.",
-      "id": "division_improve_overall",
-      "title": "Mutually Arising",
-      "type": 73,
-      "value": 0.02
     }
   ],
   "decrees": [
     {
-      "description": "Forecast: Eclipse",
-      "id": "forecast_eclipse",
-      "title": " ",
-      "type": 37
+      "description": "If your Team scores 10+ Runs in a game, launch a Tactical Nuke.",
+      "id": "tactical_nuke",
+      "title": "Tactical Nuke",
+      "type": 40
     },
     {
-      "description": "Forecast: Peanuts",
-      "id": "forecast_peanuts",
-      "title": " ",
-      "type": 39
+      "description": "Every time a team hits a Home Run, there is a chance your Opponent loses a hitter for the remainder of the game.",
+      "id": "eliminator",
+      "title": "Eliminator",
+      "type": 41
     },
     {
-      "description": "Forecast: Birds",
-      "id": "forecast_birds",
-      "title": " ",
-      "type": 34
-    },
-    {
-      "description": "Forecast: Feedback",
-      "id": "forecast_feedback",
-      "title": " ",
-      "type": 35
-    },
-    {
-      "description": "Forecast: Reverb",
-      "id": "forecast_reverb",
-      "title": " ",
-      "type": 38
-    },
-    {
-      "description": "Forecast: Blooddrain",
-      "id": "forecast_blooddrain",
-      "title": " ",
-      "type": 36
+      "description": "When your Team is Shamed, initiate the Countdown.",
+      "id": "self_destruct",
+      "title": "Self-Destruct",
+      "type": 42
     }
   ],
-  "decreesToPass": 3
+  "decreesToPass": 1
 }
