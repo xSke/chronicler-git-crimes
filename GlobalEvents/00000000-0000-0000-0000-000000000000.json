@@ -10,16 +10,6 @@
     "msg": "The Blooddrain gurgled! Richmond Harrison siphoned some of Denzel Scott's hitting ability to remove a Strike!"
   },
   {
-    "expire": "2020-10-19T22:32:49.901Z",
-    "id": "hitting_stat_leaders_update",
-    "msg": "Home Run Leaders: ... Fish Summer, Canada Moist Talkers - 6 ..... Oliver Notarobot, Seattle Garages - 4 ..... Conner Haley, Dallas Steaks - 4 ..... Jaxon Buckley, Philly Pies - 4 ..... Schneider Bendie, New York Millennials - 3 ..... "
-  },
-  {
-    "expire": "2020-10-19T22:32:49.902Z",
-    "id": "pitching_stat_leaders_update",
-    "msg": "Earned Run Average Leaders: ... Qais Dogwalker, Miami Dale - 0.000 ..... Silvia Rugrat, Mexico City Wild Wings - 0.000 ..... Gunther O'Brian, Charleston Shoe Thieves - 0.000 ..... Yosh Carpenter, San Francisco Lovers - 0.500 ..... Miguel James, Hellmouth Sunbeams - 1.000 ..... "
-  },
-  {
     "expire": "2020-10-13T01:05:48.722Z",
     "id": "a44c84af-70a9-4889-a388-91e08209bcff",
     "msg": "The Blooddrain gurgled! Beans McBlase siphoned some of Lawrence Horne's defensive ability to add an Out!"
@@ -63,6 +53,16 @@
     "expire": "2020-10-13T01:33:00.645Z",
     "id": "df6a900c-ccce-4b12-a684-3f8b6ad8afaa",
     "msg": "The Blooddrain gurgled! Lang Richardson siphoned some of Blood Hamburger's defensive ability!"
+  },
+  {
+    "expire": "2020-10-19T23:39:35.549Z",
+    "id": "hitting_stat_leaders_update",
+    "msg": "Runs Batted In Leaders: ... Fish Summer, Canada Moist Talkers - 11 ..... Randy Castillo, Hades Tigers - 9 ..... Sam Scandal, Dallas Steaks - 9 ..... Eduardo Woodman, Philly Pies - 9 ..... Conner Haley, Dallas Steaks - 8 ..... "
+  },
+  {
+    "expire": "2020-10-19T23:39:35.55Z",
+    "id": "pitching_stat_leaders_update",
+    "msg": "WHIP Leaders: ... Patty Fox, New York Millennials - 0.333 ..... Qais Dogwalker, Miami Dale - 0.444 ..... Silvia Rugrat, Mexico City Wild Wings - 0.444 ..... Gunther O'Brian, Charleston Shoe Thieves - 0.444 ..... Montgomery Bullock, Baltimore Crabs - 0.444 ..... "
   },
   {
     "expire": null,
