@@ -15,19 +15,19 @@
     "msg": "The Blooddrain gurgled! Cory Ross siphoned some of Jaxon Buckley's defensive ability!"
   },
   {
-    "expire": "2020-10-19T20:47:08.911Z",
-    "id": "hitting_stat_leaders_update",
-    "msg": "Stolen Base Leaders: ... Richardson Games, Charleston Shoe Thieves - 8 ..... Aldon Cashmoney, Hades Tigers - 3 ..... Comfort Septemberish, Houston Spies - 2 ..... Logan Horseman, Miami Dale - 2 ..... Sutton Picklestein, Yellowstone Magic - 2 ..... "
-  },
-  {
-    "expire": "2020-10-19T20:47:08.912Z",
-    "id": "pitching_stat_leaders_update",
-    "msg": "Pitcher Loss Leaders: ... Sandoval Crossing, Hellmouth Sunbeams - 1 ..... Dunn Keyes, Boston Flowers - 1 ..... Chambers Simmons, Boston Flowers - 1 ..... Sixpack Santiago, Miami Dale - 1 ..... Sexton Wheerer, Unlimited Tacos - 1 ..... "
-  },
-  {
     "expire": "2020-10-12T23:22:17.395Z",
     "id": "b7d1a708-1ad2-477c-8284-619c60202ae3",
     "msg": "The Blooddrain gurgled! Cory Ross siphoned some of Farrell Seagull's defensive ability to remove a Ball!"
+  },
+  {
+    "expire": "2020-10-19T21:35:53.269Z",
+    "id": "hitting_stat_leaders_update",
+    "msg": "Batting Average Leaders: ... Reese Clark, Houston Spies - 0.667 ..... Cell Barajas, Mexico City Wild Wings - 0.556 ..... Fran Beans, Mexico City Wild Wings - 0.545 ..... Fish Summer, Canada Moist Talkers - 0.538 ..... Jaxon Buckley, Philly Pies - 0.533 ..... "
+  },
+  {
+    "expire": "2020-10-19T21:35:53.271Z",
+    "id": "pitching_stat_leaders_update",
+    "msg": "Strikeout Leaders: ... PolkaDot Patterson, Canada Moist Talkers - 20 ..... Alexandria Rosales, Houston Spies - 19 ..... Sexton Wheerer, Unlimited Tacos - 19 ..... Brock Forbes, Baltimore Crabs - 19 ..... Sandoval Crossing, Hellmouth Sunbeams - 18 ..... "
   },
   {
     "expire": null,
