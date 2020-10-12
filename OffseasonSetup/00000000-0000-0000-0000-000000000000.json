@@ -146,9 +146,9 @@
   ],
   "decrees": [
     {
-      "description": "If your Team scores 10+ Runs in a game, launch a Tactical Nuke.",
+      "description": "If your Team scores 10+ Runs in a game, open a Black Hole.",
       "id": "tactical_nuke",
-      "title": "Tactical Nuke",
+      "title": "Black Hole",
       "type": 40
     },
     {
