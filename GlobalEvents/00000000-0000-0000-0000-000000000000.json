@@ -1,15 +1,5 @@
 [
   {
-    "expire": "2020-10-19T18:38:49.852Z",
-    "id": "hitting_stat_leaders_update",
-    "msg": "Runs Batted In Leaders: ... Eduardo Woodman, Philly Pies - 7 ..... Greer Gwiffin, Seattle Garages - 5 ..... Eizabeth Elliott, Yellowstone Magic - 4 ..... Carmelo Plums, Hades Tigers - 4 ..... Paula Turnip, Seattle Garages - 4 ..... "
-  },
-  {
-    "expire": "2020-10-19T18:38:49.853Z",
-    "id": "pitching_stat_leaders_update",
-    "msg": "WHIP Leaders: ... Dunlap Figueroa, Hades Tigers - 0.222 ..... Brock Forbes, Baltimore Crabs - 0.222 ..... Alexandria Rosales, Houston Spies - 0.333 ..... Nicholas Mora, Philly Pies - 0.444 ..... Lowe Forbes, Breckenridge Jazz Hands - 0.444 ..... "
-  },
-  {
     "expire": "2020-10-12T21:04:57.964Z",
     "id": "6fe86566-72a3-4d12-860d-9511025bba12",
     "msg": "The Blooddrain gurgled! Halexandrey Walton siphoned some of Hahn Fox's hitting ability to remove an Out!"
@@ -33,6 +23,16 @@
     "expire": "2020-10-12T21:17:38.085Z",
     "id": "76a938f6-ff97-4bf0-84b4-4d0b96183bf5",
     "msg": "The Blooddrain gurgled! Dudley Mueller siphoned some of Valentine Games's defensive ability!"
+  },
+  {
+    "expire": "2020-10-19T19:34:59.192Z",
+    "id": "hitting_stat_leaders_update",
+    "msg": "On Base Percentage Leaders: ... Randy Dennis, Miami Dale - 0.600 ..... Don Elliott, Miami Dale - 0.563 ..... Howell Franklin, Charleston Shoe Thieves - 0.545 ..... Logan Horseman, Miami Dale - 0.538 ..... Dickerson Morse, Dallas Steaks - 0.538 ..... "
+  },
+  {
+    "expire": "2020-10-19T19:34:59.193Z",
+    "id": "pitching_stat_leaders_update",
+    "msg": "Pitcher Win Leaders: ... Sexton Wheerer, Unlimited Tacos - 3 ..... Eugenia Bickle, Hellmouth Sunbeams - 1 ..... Alexandria Rosales, Houston Spies - 1 ..... Sosa Hayes, Houston Spies - 1 ..... Karato Bean, Houston Spies - 1 ..... "
   },
   {
     "expire": null,
