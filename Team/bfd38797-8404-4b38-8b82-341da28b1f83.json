@@ -49,13 +49,13 @@
     "EXTRA_BASE",
     "SHAME_PIT"
   ],
-  "seasonShames": 0,
+  "seasonShames": 1,
   "seasonShamings": 0,
   "secondaryColor": "#ffce0a",
-  "shameRuns": 0,
+  "shameRuns": 3,
   "shorthand": "CHST",
   "slogan": "Your Kicks are My Kicks.",
-  "totalShames": 44,
+  "totalShames": 45,
   "totalShamings": 18,
   "weekAttr": []
 }
