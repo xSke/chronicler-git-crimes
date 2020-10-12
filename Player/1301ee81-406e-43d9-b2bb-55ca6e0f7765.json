@@ -29,8 +29,7 @@
   "peanutAllergy": false,
   "permAttr": [
     "ALTERNATE",
-    "FIRE_EATER",
-    "MAGMATIC"
+    "FIRE_EATER"
   ],
   "pressurization": 0.5871506451142308,
   "ritual": "Gasping for air",
