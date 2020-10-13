@@ -20,16 +20,6 @@
     "msg": "The Blooddrain gurgled! Richmond Harrison siphoned some of Juice Collins's defensive ability to remove a Ball!"
   },
   {
-    "expire": "2020-10-20T14:30:26.603Z",
-    "id": "hitting_stat_leaders_update",
-    "msg": "Runs Batted In Leaders: ... Fish Summer, Canada Moist Talkers - 24 ..... Eduardo Woodman, Philly Pies - 24 ..... Baby Doyle, Breckenridge Jazz Hands - 21 ..... Kichiro Guerra, San Francisco Lovers - 20 ..... Nagomi Mcdaniel, Baltimore Crabs - 19 ..... "
-  },
-  {
-    "expire": "2020-10-20T14:30:26.604Z",
-    "id": "pitching_stat_leaders_update",
-    "msg": "WHIP Leaders: ... Greer Lott, Canada Moist Talkers - 0.611 ..... Silvia Rugrat, Mexico City Wild Wings - 0.639 ..... Alexandria Rosales, Houston Spies - 0.705 ..... Winnie Hess, Kansas City Breath Mints - 0.750 ..... PolkaDot Zavala, Kansas City Breath Mints - 0.759 ..... "
-  },
-  {
     "expire": "2020-10-13T17:13:43.805Z",
     "id": "45b267b8-ee4c-4f9c-aff5-f0919b7b42d6",
     "msg": "The Blooddrain gurgled! Dudley Mueller siphoned some of Kichiro Guerra's defensive ability to add a Strike!"
@@ -43,6 +33,16 @@
     "expire": "2020-10-13T17:17:49.381Z",
     "id": "d5dcb811-84b5-49ef-8fad-85b1035a6539",
     "msg": "The Blooddrain gurgled! Isaac Johnson siphoned some of Elijah Valenzuela's defensive ability!"
+  },
+  {
+    "expire": "2020-10-20T15:29:43.956Z",
+    "id": "hitting_stat_leaders_update",
+    "msg": "On Base Percentage Leaders: ... Esme Ramsey, Charleston Shoe Thieves - 0.548 ..... Rodriguez Internet, Kansas City Breath Mints - 0.494 ..... Nagomi Mcdaniel, Baltimore Crabs - 0.487 ..... Richardson Games, Charleston Shoe Thieves - 0.461 ..... Comfort Septemberish, Houston Spies - 0.439 ..... "
+  },
+  {
+    "expire": "2020-10-20T15:29:43.957Z",
+    "id": "pitching_stat_leaders_update",
+    "msg": "Pitcher Win Leaders: ... Sexton Wheerer, Unlimited Tacos - 14 ..... Finn James, Baltimore Crabs - 5 ..... Mummy Melcon, Hades Tigers - 4 ..... Famous Owens, Hades Tigers - 4 ..... PolkaDot Patterson, Canada Moist Talkers - 4 ..... "
   },
   {
     "expire": null,
