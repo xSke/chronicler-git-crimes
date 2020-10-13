@@ -25,19 +25,19 @@
     "msg": "The Blooddrain gurgled! Richardson Games siphoned some of Yeong-Ho Benitez's defensive ability to add a Strike!"
   },
   {
-    "expire": "2020-10-20T00:31:26.197Z",
-    "id": "hitting_stat_leaders_update",
-    "msg": "On Base Percentage Leaders: ... Rodriguez Internet, Kansas City Breath Mints - 0.842 ..... Richardson Games, Charleston Shoe Thieves - 0.800 ..... Sebastian Woodman, Charleston Shoe Thieves - 0.700 ..... Stu Trololol, Charleston Shoe Thieves - 0.636 ..... Thomas Dracaena, New York Millennials - 0.630 ..... "
-  },
-  {
-    "expire": "2020-10-20T00:31:26.198Z",
-    "id": "pitching_stat_leaders_update",
-    "msg": "Pitcher Win Leaders: ... Sexton Wheerer, Unlimited Tacos - 4 ..... Mummy Melcon, Hades Tigers - 3 ..... Brock Forbes, Baltimore Crabs - 3 ..... PolkaDot Patterson, Canada Moist Talkers - 2 ..... Henry Marshallow, Philly Pies - 2 ..... "
-  },
-  {
     "expire": "2020-10-13T03:27:44.536Z",
     "id": "a33bf7dc-442a-4b53-a719-58aac6c43ebb",
     "msg": "The Blooddrain gurgled! Winnie Hess siphoned some of Wyatt Glover's pitching ability!"
+  },
+  {
+    "expire": "2020-10-20T01:48:27.168Z",
+    "id": "hitting_stat_leaders_update",
+    "msg": "Stolen Base Leaders: ... Richardson Games, Charleston Shoe Thieves - 17 ..... Aldon Cashmoney, Hades Tigers - 9 ..... Hewitt Best, Kansas City Breath Mints - 6 ..... Simon Haley, Charleston Shoe Thieves - 6 ..... Sigmund Castillo, Hellmouth Sunbeams - 5 ..... "
+  },
+  {
+    "expire": "2020-10-20T01:48:27.169Z",
+    "id": "pitching_stat_leaders_update",
+    "msg": "Pitcher Loss Leaders: ... Sandoval Crossing, Hellmouth Sunbeams - 2 ..... Chambers Simmons, Boston Flowers - 2 ..... Sixpack Santiago, Miami Dale - 2 ..... Rivers Clembons, Miami Dale - 2 ..... Sexton Wheerer, Unlimited Tacos - 2 ..... "
   },
   {
     "expire": null,
