@@ -5,16 +5,6 @@
     "msg": "The Blooddrain gurgled! Richmond Harrison siphoned some of Sam Scandal's defensive ability!"
   },
   {
-    "expire": "2020-10-20T02:39:14.103Z",
-    "id": "hitting_stat_leaders_update",
-    "msg": "Batting Average Leaders: ... Thomas Dracaena, New York Millennials - 0.543 ..... Baby Doyle, Breckenridge Jazz Hands - 0.516 ..... Conner Haley, Dallas Steaks - 0.486 ..... Fish Summer, Canada Moist Talkers - 0.485 ..... Kennedy Loser, Baltimore Crabs - 0.467 ..... "
-  },
-  {
-    "expire": "2020-10-20T02:39:14.105Z",
-    "id": "pitching_stat_leaders_update",
-    "msg": "Strikeout Leaders: ... Sexton Wheerer, Unlimited Tacos - 54 ..... Sandoval Crossing, Hellmouth Sunbeams - 27 ..... PolkaDot Patterson, Canada Moist Talkers - 27 ..... Brock Forbes, Baltimore Crabs - 27 ..... Yeong-Ho Garcia, Yellowstone Magic - 26 ..... "
-  },
-  {
     "expire": "2020-10-13T05:01:51.748Z",
     "id": "a2da6f7b-9af5-47f2-a1df-a6a10c9a8de8",
     "msg": "The Blooddrain gurgled! Isaac Johnson siphoned some of Margarito Nava's defensive ability to add an Out!"
@@ -35,6 +25,11 @@
     "msg": "The Blooddrain gurgled! Dudley Mueller siphoned some of Math Velazquez's defensive ability to remove a Ball!"
   },
   {
+    "expire": "2020-10-20T03:28:29.566Z",
+    "id": "hitting_stat_leaders_update",
+    "msg": "Home Run Leaders: ... Conner Haley, Dallas Steaks - 9 ..... Fish Summer, Canada Moist Talkers - 8 ..... Eduardo Woodman, Philly Pies - 6 ..... Margarito Nava, Boston Flowers - 5 ..... Oliver Notarobot, Seattle Garages - 5 ..... "
+  },
+  {
     "expire": "2020-10-13T04:06:34.087Z",
     "id": "1b9e64fe-e8ff-43be-ab4a-c841ccefef66",
     "msg": "The Blooddrain gurgled! Richmond Harrison siphoned some of Conner Haley's defensive ability to remove a Ball!"
@@ -43,6 +38,11 @@
     "expire": "2020-10-13T04:07:36.469Z",
     "id": "f67c1727-5708-4893-b9d4-e427f87ddc8a",
     "msg": "The Blooddrain gurgled! Cory Ross siphoned some of Zion Aliciakeyes's defensive ability to add an Out!"
+  },
+  {
+    "expire": "2020-10-20T03:28:29.567Z",
+    "id": "pitching_stat_leaders_update",
+    "msg": "Earned Run Average Leaders: ... Penelope Mathews, New York Millennials - 0.000 ..... Walton Sports, Breckenridge Jazz Hands - 0.000 ..... Agan Harrison, Breckenridge Jazz Hands - 0.000 ..... Qais Dogwalker, Miami Dale - 0.346 ..... Snyder Briggs, Charleston Shoe Thieves - 0.500 ..... "
   },
   {
     "expire": null,
