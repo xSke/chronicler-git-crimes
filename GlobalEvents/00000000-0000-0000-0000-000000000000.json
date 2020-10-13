@@ -10,19 +10,19 @@
     "msg": "The Blooddrain gurgled! Richardson Games siphoned some of Ren Hunter's hitting ability!"
   },
   {
-    "expire": "2020-10-20T22:31:32.065Z",
-    "id": "hitting_stat_leaders_update",
-    "msg": "Stolen Base Leaders: ... Aldon Cashmoney, Hades Tigers - 7 ..... Sandie Turner, New York Millennials - 5 ..... Marco Stink, Kansas City Breath Mints - 5 ..... Richardson Games, Charleston Shoe Thieves - 5 ..... Beck Whitney, Miami Dale - 4 ..... "
-  },
-  {
-    "expire": "2020-10-20T22:31:32.065Z",
-    "id": "pitching_stat_leaders_update",
-    "msg": "Pitcher Loss Leaders: ... Sexton Wheerer, Unlimited Tacos - 2 ..... Sandoval Crossing, Hellmouth Sunbeams - 1 ..... Eugenia Bickle, Hellmouth Sunbeams - 1 ..... Lars Taylor, Hellmouth Sunbeams - 1 ..... Karato Bean, Houston Spies - 1 ..... "
-  },
-  {
     "expire": "2020-10-14T01:18:25.143Z",
     "id": "a5a18b5f-8244-45dd-9577-b2d26696cbea",
     "msg": "The Blooddrain gurgled! Knight Urlacher siphoned some of Ronan Combs's defensive ability to add an Out!"
+  },
+  {
+    "expire": "2020-10-20T23:29:10.969Z",
+    "id": "hitting_stat_leaders_update",
+    "msg": "Batting Average Leaders: ... Sandie Turner, New York Millennials - 0.500 ..... Rodriguez Internet, Kansas City Breath Mints - 0.500 ..... Jasmine Washington, Miami Dale - 0.471 ..... Howell Franklin, Charleston Shoe Thieves - 0.467 ..... Isaac Johnson, Chicago Firefighters - 0.467 ..... "
+  },
+  {
+    "expire": "2020-10-20T23:29:10.97Z",
+    "id": "pitching_stat_leaders_update",
+    "msg": "Strikeout Leaders: ... PolkaDot Patterson, Canada Moist Talkers - 22 ..... Betsy Trombone, Seattle Garages - 22 ..... Sandoval Crossing, Hellmouth Sunbeams - 20 ..... Yosh Carpenter, San Francisco Lovers - 20 ..... Henry Marshallow, Philly Pies - 19 ..... "
   },
   {
     "expire": null,
