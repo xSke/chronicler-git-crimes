@@ -1,5 +1,15 @@
 [
   {
+    "expire": "2020-10-20T13:31:23.704Z",
+    "id": "hitting_stat_leaders_update",
+    "msg": "Home Run Leaders: ... Conner Haley, Dallas Steaks - 11 ..... Fish Summer, Canada Moist Talkers - 10 ..... Paula Mason, Hades Tigers - 9 ..... Eduardo Woodman, Philly Pies - 9 ..... Goobie Ballson, Chicago Firefighters - 9 ..... "
+  },
+  {
+    "expire": "2020-10-20T13:31:23.705Z",
+    "id": "pitching_stat_leaders_update",
+    "msg": "Earned Run Average Leaders: ... Curry Aliciakeyes, Yellowstone Magic - 1.241 ..... Silvia Rugrat, Mexico City Wild Wings - 1.250 ..... Greer Lott, Canada Moist Talkers - 1.500 ..... Betsy Trombone, Seattle Garages - 1.500 ..... PolkaDot Zavala, Kansas City Breath Mints - 1.552 ..... "
+  },
+  {
     "expire": "2020-10-13T14:08:59.643Z",
     "id": "899af66c-8588-4a38-a757-863c209d39f5",
     "msg": "The Blooddrain gurgled! Cory Ross siphoned some of Washer Barajas's baserunning ability to add a Ball!"
@@ -28,16 +38,6 @@
     "expire": "2020-10-13T14:21:37.184Z",
     "id": "e081bcac-ec68-4082-af38-49bc60363b0c",
     "msg": "The Blooddrain gurgled! Combs Estes siphoned some of Dudley Mueller's pitching ability!"
-  },
-  {
-    "expire": "2020-10-20T12:30:53.51Z",
-    "id": "hitting_stat_leaders_update",
-    "msg": "Batting Average Leaders: ... Rodriguez Internet, Kansas City Breath Mints - 0.408 ..... Carmelo Plums, Hades Tigers - 0.395 ..... Yusef Puddles, Philly Pies - 0.386 ..... Jode Preston, Philly Pies - 0.374 ..... Conner Haley, Dallas Steaks - 0.366 ..... "
-  },
-  {
-    "expire": "2020-10-20T12:30:53.511Z",
-    "id": "pitching_stat_leaders_update",
-    "msg": "Strikeout Leaders: ... Sexton Wheerer, Unlimited Tacos - 110 ..... Sandoval Crossing, Hellmouth Sunbeams - 50 ..... Betsy Trombone, Seattle Garages - 45 ..... Elvis Figueroa, Philly Pies - 45 ..... Brock Forbes, Baltimore Crabs - 45 ..... "
   },
   {
     "expire": "2020-10-13T15:01:11.202Z",
