@@ -1,15 +1,5 @@
 [
   {
-    "expire": "2020-10-20T08:28:18.954Z",
-    "id": "hitting_stat_leaders_update",
-    "msg": "Home Run Leaders: ... Conner Haley, Dallas Steaks - 10 ..... Fish Summer, Canada Moist Talkers - 9 ..... Knight Urlacher, San Francisco Lovers - 8 ..... Margarito Nava, Boston Flowers - 7 ..... Mcdowell Mason, Unlimited Tacos - 7 ..... "
-  },
-  {
-    "expire": "2020-10-20T08:28:18.955Z",
-    "id": "pitching_stat_leaders_update",
-    "msg": "Earned Run Average Leaders: ... Curry Aliciakeyes, Yellowstone Magic - 0.900 ..... PolkaDot Zavala, Kansas City Breath Mints - 0.900 ..... Inky Rutledge, Yellowstone Magic - 1.000 ..... Greer Lott, Canada Moist Talkers - 1.333 ..... Fynn Doyle, New York Millennials - 1.350 ..... "
-  },
-  {
     "expire": "2020-10-13T11:00:40.918Z",
     "id": "8617e411-30fb-43f2-9813-1c7ef43244b6",
     "msg": "The Blooddrain gurgled! Nagomi Mcdaniel siphoned some of Margarito Nava's defensive ability to remove a Ball!"
@@ -18,6 +8,16 @@
     "expire": "2020-10-13T11:25:53.171Z",
     "id": "17bb51e8-8ea4-4d32-964f-dfe6e3e59737",
     "msg": "The Blooddrain gurgled! Beans McBlase siphoned some of Schneider Bendie's defensive ability to remove a Ball!"
+  },
+  {
+    "expire": "2020-10-20T09:36:08.27Z",
+    "id": "hitting_stat_leaders_update",
+    "msg": "Runs Batted In Leaders: ... Eduardo Woodman, Philly Pies - 20 ..... Baby Doyle, Breckenridge Jazz Hands - 19 ..... Nagomi Mcdaniel, Baltimore Crabs - 18 ..... Fish Summer, Canada Moist Talkers - 17 ..... Ziwa Mueller, Canada Moist Talkers - 16 ..... "
+  },
+  {
+    "expire": "2020-10-20T09:36:08.272Z",
+    "id": "pitching_stat_leaders_update",
+    "msg": "WHIP Leaders: ... Greer Lott, Canada Moist Talkers - 0.630 ..... Curry Aliciakeyes, Yellowstone Magic - 0.650 ..... PolkaDot Patterson, Canada Moist Talkers - 0.694 ..... PolkaDot Zavala, Kansas City Breath Mints - 0.700 ..... Silvia Rugrat, Mexico City Wild Wings - 0.704 ..... "
   },
   {
     "expire": null,
