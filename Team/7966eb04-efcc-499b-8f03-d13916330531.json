@@ -48,13 +48,13 @@
     "EXTRA_BASE",
     "SHAME_PIT"
   ],
-  "seasonShames": 2,
+  "seasonShames": 3,
   "seasonShamings": 1,
   "secondaryColor": "#f60f63",
-  "shameRuns": 0,
+  "shameRuns": 1,
   "shorthand": "YELL",
   "slogan": "As Above, So Below",
-  "totalShames": 31,
+  "totalShames": 32,
   "totalShamings": 28,
   "weekAttr": []
 }
