@@ -29,7 +29,8 @@
   "peanutAllergy": true,
   "permAttr": [
     "SIPHON",
-    "SPICY"
+    "SPICY",
+    "HEATING_UP"
   ],
   "pressurization": 0.5716978886508219,
   "ritual": "Summoning circle",
