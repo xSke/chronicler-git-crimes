@@ -28,7 +28,8 @@
   "patheticism": 0.01,
   "peanutAllergy": false,
   "permAttr": [
-    "FIRE_EATER"
+    "FIRE_EATER",
+    "MAGMATIC"
   ],
   "pressurization": 0.7609978072552137,
   "ritual": "Having an epiphany",
