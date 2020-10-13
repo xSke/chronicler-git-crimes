@@ -28,7 +28,8 @@
   "patheticism": 0.01,
   "peanutAllergy": true,
   "permAttr": [
-    "FIRE_EATER"
+    "FIRE_EATER",
+    "MAGMATIC"
   ],
   "pressurization": 0.5237241381954538,
   "ritual": "Lucid dreaming",
