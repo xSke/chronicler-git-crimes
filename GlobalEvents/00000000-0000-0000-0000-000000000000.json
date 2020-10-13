@@ -1,15 +1,5 @@
 [
   {
-    "expire": "2020-10-20T19:04:37.817Z",
-    "id": "hitting_stat_leaders_update",
-    "msg": "Home Run Leaders: ... Eduardo Woodman, Philly Pies - 14 ..... Fish Summer, Canada Moist Talkers - 13 ..... Conner Haley, Dallas Steaks - 13 ..... Paula Mason, Hades Tigers - 12 ..... Jode Preston, Philly Pies - 11 ..... "
-  },
-  {
-    "expire": "2020-10-20T19:04:37.818Z",
-    "id": "pitching_stat_leaders_update",
-    "msg": "Earned Run Average Leaders: ... Greer Lott, Canada Moist Talkers - 1.200 ..... Parker Meng, San Francisco Lovers - 1.500 ..... Sandford Garner, San Francisco Lovers - 1.636 ..... Betsy Trombone, Seattle Garages - 1.653 ..... Lowe Forbes, Breckenridge Jazz Hands - 2.045 ..... "
-  },
-  {
     "expire": "2020-10-13T22:13:26.513Z",
     "id": "9cad146b-48ee-4416-9e11-ac742c6fc14b",
     "msg": "The Blooddrain gurgled! Richardson Games siphoned some of Andrew Solis's defensive ability!"
@@ -28,6 +18,16 @@
     "expire": "2020-10-13T22:23:20.651Z",
     "id": "b116c474-ab83-4ad8-99ac-b2af34a74383",
     "msg": "The Blooddrain gurgled! Glabe Moon siphoned some of Steph Weeks's defensive ability to add a Strike!"
+  },
+  {
+    "expire": "2020-10-20T20:29:10.871Z",
+    "id": "hitting_stat_leaders_update",
+    "msg": "Runs Batted In Leaders: ... Eduardo Woodman, Philly Pies - 31 ..... Fish Summer, Canada Moist Talkers - 28 ..... Paula Mason, Hades Tigers - 24 ..... Jode Preston, Philly Pies - 23 ..... Summers Pony, Seattle Garages - 22 ..... "
+  },
+  {
+    "expire": "2020-10-20T20:29:10.872Z",
+    "id": "pitching_stat_leaders_update",
+    "msg": "WHIP Leaders: ... Greer Lott, Canada Moist Talkers - 0.622 ..... Alexandria Rosales, Houston Spies - 0.709 ..... Elvis Figueroa, Philly Pies - 0.733 ..... Montgomery Bullock, Baltimore Crabs - 0.759 ..... Parker Meng, San Francisco Lovers - 0.778 ..... "
   },
   {
     "expire": null,
