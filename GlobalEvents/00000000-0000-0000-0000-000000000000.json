@@ -1,18 +1,18 @@
 [
   {
-    "expire": "2020-10-20T10:30:01.036Z",
-    "id": "hitting_stat_leaders_update",
-    "msg": "On Base Percentage Leaders: ... Esme Ramsey, Charleston Shoe Thieves - 0.587 ..... Rodriguez Internet, Kansas City Breath Mints - 0.563 ..... Thomas Dracaena, New York Millennials - 0.485 ..... Richardson Games, Charleston Shoe Thieves - 0.483 ..... Nagomi Mcdaniel, Baltimore Crabs - 0.467 ..... "
-  },
-  {
-    "expire": "2020-10-20T10:30:01.037Z",
-    "id": "pitching_stat_leaders_update",
-    "msg": "Pitcher Win Leaders: ... Sexton Wheerer, Unlimited Tacos - 12 ..... PolkaDot Patterson, Canada Moist Talkers - 4 ..... Brock Forbes, Baltimore Crabs - 4 ..... Burke Gonzales, Mexico City Wild Wings - 3 ..... Mummy Melcon, Hades Tigers - 3 ..... "
-  },
-  {
     "expire": "2020-10-13T13:22:36.425Z",
     "id": "88137b82-db61-4ff4-a767-a438c8e4b2f0",
     "msg": "The Blooddrain gurgled! Richmond Harrison siphoned some of Ren Hunter's defensive ability!"
+  },
+  {
+    "expire": "2020-10-20T11:30:58.696Z",
+    "id": "hitting_stat_leaders_update",
+    "msg": "Stolen Base Leaders: ... Richardson Games, Charleston Shoe Thieves - 24 ..... Hewitt Best, Kansas City Breath Mints - 23 ..... Forrest Best, Baltimore Crabs - 21 ..... Aldon Cashmoney, Hades Tigers - 18 ..... Beck Whitney, Miami Dale - 13 ..... "
+  },
+  {
+    "expire": "2020-10-20T11:30:58.697Z",
+    "id": "pitching_stat_leaders_update",
+    "msg": "Pitcher Loss Leaders: ... Sexton Wheerer, Unlimited Tacos - 5 ..... Sandoval Crossing, Hellmouth Sunbeams - 4 ..... Leach Herman, Dallas Steaks - 4 ..... Evelton McBlase, Hawai'i Fridays - 4 ..... Zack Sanders, Hellmouth Sunbeams - 3 ..... "
   },
   {
     "expire": null,
