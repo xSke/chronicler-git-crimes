@@ -25,16 +25,6 @@
     "msg": "The Blooddrain gurgled! Lang Richardson siphoned some of Blood Hamburger's defensive ability!"
   },
   {
-    "expire": "2020-10-19T23:39:35.549Z",
-    "id": "hitting_stat_leaders_update",
-    "msg": "Runs Batted In Leaders: ... Fish Summer, Canada Moist Talkers - 11 ..... Randy Castillo, Hades Tigers - 9 ..... Sam Scandal, Dallas Steaks - 9 ..... Eduardo Woodman, Philly Pies - 9 ..... Conner Haley, Dallas Steaks - 8 ..... "
-  },
-  {
-    "expire": "2020-10-19T23:39:35.55Z",
-    "id": "pitching_stat_leaders_update",
-    "msg": "WHIP Leaders: ... Patty Fox, New York Millennials - 0.333 ..... Qais Dogwalker, Miami Dale - 0.444 ..... Silvia Rugrat, Mexico City Wild Wings - 0.444 ..... Gunther O'Brian, Charleston Shoe Thieves - 0.444 ..... Montgomery Bullock, Baltimore Crabs - 0.444 ..... "
-  },
-  {
     "expire": "2020-10-13T02:03:37.469Z",
     "id": "d9cf06f3-ab49-4d95-8527-79ac07f8876b",
     "msg": "The Blooddrain gurgled! Yeong-Ho Benitez siphoned some of Stu Trololol's defensive ability to add an Out!"
@@ -58,6 +48,16 @@
     "expire": "2020-10-13T02:24:38.423Z",
     "id": "6bcf1cd1-c136-4568-b6fb-0cbd9d5238f2",
     "msg": "The Blooddrain gurgled! Richardson Games siphoned some of Yeong-Ho Benitez's defensive ability to add a Strike!"
+  },
+  {
+    "expire": "2020-10-20T00:31:26.197Z",
+    "id": "hitting_stat_leaders_update",
+    "msg": "On Base Percentage Leaders: ... Rodriguez Internet, Kansas City Breath Mints - 0.842 ..... Richardson Games, Charleston Shoe Thieves - 0.800 ..... Sebastian Woodman, Charleston Shoe Thieves - 0.700 ..... Stu Trololol, Charleston Shoe Thieves - 0.636 ..... Thomas Dracaena, New York Millennials - 0.630 ..... "
+  },
+  {
+    "expire": "2020-10-20T00:31:26.198Z",
+    "id": "pitching_stat_leaders_update",
+    "msg": "Pitcher Win Leaders: ... Sexton Wheerer, Unlimited Tacos - 4 ..... Mummy Melcon, Hades Tigers - 3 ..... Brock Forbes, Baltimore Crabs - 3 ..... PolkaDot Patterson, Canada Moist Talkers - 2 ..... Henry Marshallow, Philly Pies - 2 ..... "
   },
   {
     "expire": null,
