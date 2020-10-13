@@ -1,15 +1,5 @@
 [
   {
-    "expire": "2020-10-20T13:31:23.704Z",
-    "id": "hitting_stat_leaders_update",
-    "msg": "Home Run Leaders: ... Conner Haley, Dallas Steaks - 11 ..... Fish Summer, Canada Moist Talkers - 10 ..... Paula Mason, Hades Tigers - 9 ..... Eduardo Woodman, Philly Pies - 9 ..... Goobie Ballson, Chicago Firefighters - 9 ..... "
-  },
-  {
-    "expire": "2020-10-20T13:31:23.705Z",
-    "id": "pitching_stat_leaders_update",
-    "msg": "Earned Run Average Leaders: ... Curry Aliciakeyes, Yellowstone Magic - 1.241 ..... Silvia Rugrat, Mexico City Wild Wings - 1.250 ..... Greer Lott, Canada Moist Talkers - 1.500 ..... Betsy Trombone, Seattle Garages - 1.500 ..... PolkaDot Zavala, Kansas City Breath Mints - 1.552 ..... "
-  },
-  {
     "expire": "2020-10-13T16:01:36.528Z",
     "id": "db1470a0-60ca-4604-9a9d-6ee72d266919",
     "msg": "The Blooddrain gurgled! Beans McBlase siphoned some of Sparks Beans's hitting ability to remove an Out!"
@@ -28,6 +18,16 @@
     "expire": "2020-10-13T16:16:32.835Z",
     "id": "acfeeef8-d91e-4926-b8f4-89d1bc0100cc",
     "msg": "The Blooddrain gurgled! Richmond Harrison siphoned some of Juice Collins's defensive ability to remove a Ball!"
+  },
+  {
+    "expire": "2020-10-20T14:30:26.603Z",
+    "id": "hitting_stat_leaders_update",
+    "msg": "Runs Batted In Leaders: ... Fish Summer, Canada Moist Talkers - 24 ..... Eduardo Woodman, Philly Pies - 24 ..... Baby Doyle, Breckenridge Jazz Hands - 21 ..... Kichiro Guerra, San Francisco Lovers - 20 ..... Nagomi Mcdaniel, Baltimore Crabs - 19 ..... "
+  },
+  {
+    "expire": "2020-10-20T14:30:26.604Z",
+    "id": "pitching_stat_leaders_update",
+    "msg": "WHIP Leaders: ... Greer Lott, Canada Moist Talkers - 0.611 ..... Silvia Rugrat, Mexico City Wild Wings - 0.639 ..... Alexandria Rosales, Houston Spies - 0.705 ..... Winnie Hess, Kansas City Breath Mints - 0.750 ..... PolkaDot Zavala, Kansas City Breath Mints - 0.759 ..... "
   },
   {
     "expire": "2020-10-13T15:01:11.202Z",
