@@ -5,16 +5,6 @@
     "msg": "The Blooddrain gurgled! Richardson Games siphoned some of Chorby Short's hitting ability to add a Ball!"
   },
   {
-    "expire": "2020-10-21T22:29:32.019Z",
-    "id": "hitting_stat_leaders_update",
-    "msg": "On Base Percentage Leaders: ... Fish Summer, Canada Moist Talkers - 0.488 ..... Nerd Pacheco, Hellmouth Sunbeams - 0.483 ..... Richardson Games, Charleston Shoe Thieves - 0.477 ..... Nagomi Mcdaniel, Baltimore Crabs - 0.465 ..... Alston Cerveza, Canada Moist Talkers - 0.458 ..... "
-  },
-  {
-    "expire": "2020-10-21T22:29:32.02Z",
-    "id": "pitching_stat_leaders_update",
-    "msg": "Pitcher Win Leaders: ... Sexton Wheerer, Unlimited Tacos - 10 ..... Sixpack Santiago, Miami Dale - 6 ..... Alexandria Rosales, Houston Spies - 5 ..... Mummy Melcon, Hades Tigers - 5 ..... Hiroto Wilcox, Hades Tigers - 5 ..... "
-  },
-  {
     "expire": "2020-10-15T01:04:55.005Z",
     "id": "8e1c9537-715a-438e-92e9-6448b8b68cc8",
     "msg": "The Blooddrain gurgled! Knight Urlacher siphoned some of Silvaire Roadhouse's defensive ability to add an Out!"
@@ -33,6 +23,16 @@
     "expire": "2020-10-15T01:20:45.006Z",
     "id": "23b081e3-5b8e-455f-aeb0-9a6133af6d66",
     "msg": "The Blooddrain gurgled! Randy Dennis siphoned some of Valentine Games's defensive ability to add an Out!"
+  },
+  {
+    "expire": "2020-10-21T23:29:35.154Z",
+    "id": "hitting_stat_leaders_update",
+    "msg": "Stolen Base Leaders: ... Aldon Cashmoney, Hades Tigers - 28 ..... Richardson Games, Charleston Shoe Thieves - 28 ..... Don Mitchell, San Francisco Lovers - 22 ..... Richmond Harrison, Hades Tigers - 21 ..... Beck Whitney, Miami Dale - 20 ..... "
+  },
+  {
+    "expire": "2020-10-21T23:29:35.155Z",
+    "id": "pitching_stat_leaders_update",
+    "msg": "Pitcher Loss Leaders: ... Sexton Wheerer, Unlimited Tacos - 14 ..... Rivers Clembons, Miami Dale - 5 ..... Felix Garbage, New York Millennials - 5 ..... Bevan Underbuck, Hawai'i Fridays - 5 ..... Agan Harrison, Breckenridge Jazz Hands - 5 ..... "
   },
   {
     "expire": null,
