@@ -48,13 +48,13 @@
     "EXTRA_BASE",
     "SHAME_PIT"
   ],
-  "seasonShames": 0,
+  "seasonShames": 1,
   "seasonShamings": 4,
   "secondaryColor": "#58c3b4",
-  "shameRuns": 0,
+  "shameRuns": 2,
   "shorthand": "PHIL",
   "slogan": "Pie or Die.",
-  "totalShames": 39,
+  "totalShames": 40,
   "totalShamings": 33,
   "weekAttr": []
 }
