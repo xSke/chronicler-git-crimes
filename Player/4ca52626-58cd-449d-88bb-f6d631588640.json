@@ -2,7 +2,7 @@
   "anticapitalism": 0.8389620686616085,
   "armor": "",
   "baseThirst": 0.16023664142871957,
-  "baserunningRating": 0.42425788745548904,
+  "baserunningRating": 0.42425788745548915,
   "bat": "",
   "blood": 10,
   "buoyancy": 0.904293034628321,
@@ -34,7 +34,7 @@
     "FLINCH",
     "FIRE_EATER"
   ],
-  "pitchingRating": 0.5422812481048163,
+  "pitchingRating": 0.5422812481048161,
   "pressurization": 0.9384923224961412,
   "ritual": "Shouting 'GAMETIME!'",
   "ruthlessness": 0.5433177138798466,

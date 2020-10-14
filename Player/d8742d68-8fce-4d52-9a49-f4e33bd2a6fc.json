@@ -12,7 +12,7 @@
   "coldness": 0.15269178674362135,
   "continuation": 0.0750314377090233,
   "deceased": false,
-  "defenseRating": 0.5856615040872126,
+  "defenseRating": 0.5856615040872125,
   "divinity": 0.16401166932617248,
   "fate": 97,
   "gameAttr": [],
@@ -33,7 +33,7 @@
   "permAttr": [
     "SIPHON"
   ],
-  "pitchingRating": 0.23097183840297297,
+  "pitchingRating": 0.230971838402973,
   "pressurization": 0.7519261141944162,
   "ritual": "Molting",
   "ruthlessness": 0.07334059591842604,
