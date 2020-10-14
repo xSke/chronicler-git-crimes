@@ -5,19 +5,9 @@
     "msg": "The Blooddrain gurgled! Randy Dennis siphoned some of Eizabeth Elliott's defensive ability to add a Strike!"
   },
   {
-    "expire": "2020-10-21T03:38:04.691Z",
-    "id": "hitting_stat_leaders_update",
-    "msg": "Stolen Base Leaders: ... Richardson Games, Charleston Shoe Thieves - 8 ..... Greer Gwiffin, Seattle Garages - 7 ..... Sutton Picklestein, Yellowstone Magic - 6 ..... Collins Melon, Breckenridge Jazz Hands - 5 ..... Beck Whitney, Miami Dale - 4 ..... "
-  },
-  {
     "expire": null,
     "id": "5603efa2-0b6c-11eb-9b23-1282b8cd3f6f",
     "msg": "We are all love blaseball"
-  },
-  {
-    "expire": "2020-10-21T03:38:04.692Z",
-    "id": "pitching_stat_leaders_update",
-    "msg": "Pitcher Loss Leaders: ... Sexton Wheerer, Unlimited Tacos - 2 ..... Sandoval Crossing, Hellmouth Sunbeams - 1 ..... Eugenia Bickle, Hellmouth Sunbeams - 1 ..... Lars Taylor, Hellmouth Sunbeams - 1 ..... Miguel James, Hellmouth Sunbeams - 1 ..... "
   },
   {
     "expire": "2020-10-14T06:03:37.429Z",
@@ -33,5 +23,15 @@
     "expire": "2020-10-14T06:23:27.736Z",
     "id": "0fdeadb4-a11c-46f2-9caa-587a5e238f2b",
     "msg": "The Blooddrain gurgled! Glabe Moon siphoned some of Stew Briggs's defensive ability!"
+  },
+  {
+    "expire": "2020-10-21T04:35:03.548Z",
+    "id": "hitting_stat_leaders_update",
+    "msg": "Batting Average Leaders: ... Fish Summer, Canada Moist Talkers - 0.600 ..... Aldon Cashmoney, Hades Tigers - 0.474 ..... Kennedy Loser, Baltimore Crabs - 0.474 ..... Jesús Koch, Canada Moist Talkers - 0.455 ..... Alston Cerveza, Canada Moist Talkers - 0.450 ..... "
+  },
+  {
+    "expire": "2020-10-21T04:35:03.549Z",
+    "id": "pitching_stat_leaders_update",
+    "msg": "Strikeout Leaders: ... Sexton Wheerer, Unlimited Tacos - 30 ..... PolkaDot Patterson, Canada Moist Talkers - 27 ..... Yosh Carpenter, San Francisco Lovers - 20 ..... Alexandria Rosales, Houston Spies - 19 ..... Yeong-Ho Garcia, Yellowstone Magic - 19 ..... "
   }
 ]
