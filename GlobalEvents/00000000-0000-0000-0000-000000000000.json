@@ -10,23 +10,23 @@
     "msg": "The Blooddrain gurgled! Glabe Moon siphoned some of Marco Stink's defensive ability to add an Out!"
   },
   {
-    "expire": "2020-10-21T02:53:57.171Z",
-    "id": "hitting_stat_leaders_update",
-    "msg": "On Base Percentage Leaders: ... Fran Beans, Mexico City Wild Wings - 0.778 ..... Howell Franklin, Charleston Shoe Thieves - 0.750 ..... Beck Whitney, Miami Dale - 0.636 ..... Alston Cerveza, Canada Moist Talkers - 0.636 ..... Fish Summer, Canada Moist Talkers - 0.636 ..... "
-  },
-  {
-    "expire": "2020-10-21T02:53:57.172Z",
-    "id": "pitching_stat_leaders_update",
-    "msg": "Pitcher Win Leaders: ... Sixpack Santiago, Miami Dale - 2 ..... Sexton Wheerer, Unlimited Tacos - 2 ..... Mummy Melcon, Hades Tigers - 2 ..... Brock Forbes, Baltimore Crabs - 2 ..... Alexandria Rosales, Houston Spies - 1 ..... "
-  },
-  {
     "expire": "2020-10-14T05:08:24.28Z",
     "id": "6c7bd4de-cc18-4303-8ce7-8d6c37502e49",
     "msg": "The Blooddrain gurgled! Randy Dennis siphoned some of Eizabeth Elliott's defensive ability to add a Strike!"
   },
   {
+    "expire": "2020-10-21T03:38:04.691Z",
+    "id": "hitting_stat_leaders_update",
+    "msg": "Stolen Base Leaders: ... Richardson Games, Charleston Shoe Thieves - 8 ..... Greer Gwiffin, Seattle Garages - 7 ..... Sutton Picklestein, Yellowstone Magic - 6 ..... Collins Melon, Breckenridge Jazz Hands - 5 ..... Beck Whitney, Miami Dale - 4 ..... "
+  },
+  {
     "expire": null,
     "id": "5603efa2-0b6c-11eb-9b23-1282b8cd3f6f",
     "msg": "We are all love blaseball"
+  },
+  {
+    "expire": "2020-10-21T03:38:04.692Z",
+    "id": "pitching_stat_leaders_update",
+    "msg": "Pitcher Loss Leaders: ... Sexton Wheerer, Unlimited Tacos - 2 ..... Sandoval Crossing, Hellmouth Sunbeams - 1 ..... Eugenia Bickle, Hellmouth Sunbeams - 1 ..... Lars Taylor, Hellmouth Sunbeams - 1 ..... Miguel James, Hellmouth Sunbeams - 1 ..... "
   }
 ]
