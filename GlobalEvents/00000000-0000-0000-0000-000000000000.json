@@ -1,23 +1,23 @@
 [
   {
-    "expire": "2020-10-21T00:40:44.084Z",
-    "id": "pitching_stat_leaders_update",
-    "msg": "Earned Run Average Leaders: ... Jordan Hildebert, Houston Spies - 0.000 ..... Penelope Mathews, New York Millennials - 0.000 ..... Edric Tosser, Chicago Firefighters - 0.000 ..... Brock Forbes, Baltimore Crabs - 0.000 ..... Adalberto Tosser, Baltimore Crabs - 0.000 ..... "
-  },
-  {
     "expire": "2020-10-14T03:17:03.866Z",
     "id": "e975ef46-7cb7-4bbc-a6df-da38b9d081e1",
     "msg": "The Blooddrain gurgled! Spears Taylor siphoned some of Cory Ross's defensive ability to add a Strike!"
   },
   {
+    "expire": "2020-10-21T01:30:31.296Z",
+    "id": "hitting_stat_leaders_update",
+    "msg": "Runs Batted In Leaders: ... Randy Castillo, Hades Tigers - 11 ..... Nagomi Mcdaniel, Baltimore Crabs - 10 ..... Nagomi Nava, Hellmouth Sunbeams - 9 ..... Beck Whitney, Miami Dale - 9 ..... Ziwa Mueller, Canada Moist Talkers - 8 ..... "
+  },
+  {
+    "expire": "2020-10-21T01:30:31.298Z",
+    "id": "pitching_stat_leaders_update",
+    "msg": "WHIP Leaders: ... Brock Forbes, Baltimore Crabs - 0.259 ..... Beasley Gloom, Canada Moist Talkers - 0.333 ..... Qais Dogwalker, Miami Dale - 0.444 ..... Elvis Figueroa, Philly Pies - 0.444 ..... Nicholas Mora, Philly Pies - 0.444 ..... "
+  },
+  {
     "expire": "2020-10-14T02:06:59.545Z",
     "id": "549bae1c-92ab-4cce-b17d-8e307557c6eb",
     "msg": "The Blooddrain gurgled! Spears Taylor siphoned some of Sam Scandal's defensive ability!"
-  },
-  {
-    "expire": "2020-10-21T00:40:44.083Z",
-    "id": "hitting_stat_leaders_update",
-    "msg": "Home Run Leaders: ... Hewitt Best, Kansas City Breath Mints - 5 ..... Don Mitchell, San Francisco Lovers - 5 ..... Nagomi Nava, Hellmouth Sunbeams - 4 ..... Annie Roland, Yellowstone Magic - 4 ..... Randy Castillo, Hades Tigers - 4 ..... "
   },
   {
     "expire": null,
