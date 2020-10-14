@@ -51,13 +51,13 @@
     "EXTRA_BASE",
     "SHAME_PIT"
   ],
-  "seasonShames": 0,
+  "seasonShames": 1,
   "seasonShamings": 4,
   "secondaryColor": "#5a83ea",
-  "shameRuns": 0,
+  "shameRuns": 2,
   "shorthand": "SEA",
   "slogan": "Smells like Team Spirit.",
-  "totalShames": 38,
+  "totalShames": 39,
   "totalShamings": 35,
   "weekAttr": []
 }
