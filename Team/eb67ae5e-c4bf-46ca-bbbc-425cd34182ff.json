@@ -43,7 +43,7 @@
     "36786f44-9066-4028-98d9-4fa84465ab9e",
     "9ba361a1-16d5-4f30-b590-fc4fc2fb53d2"
   ],
-  "rotationSlot": 32,
+  "rotationSlot": 33,
   "seasAttr": [
     "EXTRA_BASE",
     "SHAME_PIT"
@@ -51,7 +51,7 @@
   "seasonShames": 2,
   "seasonShamings": 1,
   "secondaryColor": "#f5feff",
-  "shameRuns": 1,
+  "shameRuns": 0,
   "shorthand": "CAN",
   "slogan": "SPRAY IT, DON'T SAY IT",
   "totalShames": 47,
