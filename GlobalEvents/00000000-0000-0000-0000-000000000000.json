@@ -1,10 +1,5 @@
 [
   {
-    "expire": "2020-10-21T05:48:39.239Z",
-    "id": "pitching_stat_leaders_update",
-    "msg": "Earned Run Average Leaders: ... King Weatherman, Boston Flowers - 0.000 ..... Sixpack Dogwalker, Dallas Steaks - 0.000 ..... Elvis Figueroa, Philly Pies - 0.000 ..... Walton Sports, Breckenridge Jazz Hands - 0.000 ..... Fitzgerald Wanderlust, Charleston Shoe Thieves - 0.509 ..... "
-  },
-  {
     "expire": "2020-10-14T08:00:45.992Z",
     "id": "a7ddb11d-0745-4410-b71f-5f8d7708db5e",
     "msg": "The Blooddrain gurgled! Randy Dennis siphoned some of Comfort Septemberish's defensive ability!"
@@ -23,6 +18,16 @@
     "expire": "2020-10-14T08:27:18.249Z",
     "id": "f30a2781-5dab-47ce-ae21-d05c2f0c9068",
     "msg": "The Blooddrain gurgled! Glabe Moon siphoned some of Dudley Mueller's defensive ability!"
+  },
+  {
+    "expire": "2020-10-21T06:34:52.419Z",
+    "id": "hitting_stat_leaders_update",
+    "msg": "Runs Batted In Leaders: ... Nagomi Mcdaniel, Baltimore Crabs - 13 ..... Vito Kravitz, Unlimited Tacos - 12 ..... Eugenia Garbage, Canada Moist Talkers - 11 ..... Tot Fox, Baltimore Crabs - 10 ..... Aldon Cashmoney, Hades Tigers - 9 ..... "
+  },
+  {
+    "expire": "2020-10-21T06:34:52.42Z",
+    "id": "pitching_stat_leaders_update",
+    "msg": "WHIP Leaders: ... Elvis Figueroa, Philly Pies - 0.222 ..... Evelton McBlase, Hawai'i Fridays - 0.333 ..... Brock Forbes, Baltimore Crabs - 0.370 ..... Qais Dogwalker, Miami Dale - 0.556 ..... Alexandria Rosales, Houston Spies - 0.611 ..... "
   },
   {
     "expire": null,
@@ -48,10 +53,5 @@
     "expire": "2020-10-14T07:43:22.823Z",
     "id": "d2aa9e7d-18e6-4b7f-a583-31d12cb19c75",
     "msg": "The Blooddrain gurgled! Halexandrey Walton siphoned some of Oscar Vaughan's hitting ability to add a Ball!"
-  },
-  {
-    "expire": "2020-10-21T05:48:39.238Z",
-    "id": "hitting_stat_leaders_update",
-    "msg": "Home Run Leaders: ... Eugenia Garbage, Canada Moist Talkers - 7 ..... Vito Kravitz, Unlimited Tacos - 5 ..... Howell Franklin, Charleston Shoe Thieves - 5 ..... Nagomi Mcdaniel, Baltimore Crabs - 5 ..... Alston Cerveza, Canada Moist Talkers - 4 ..... "
   }
 ]
