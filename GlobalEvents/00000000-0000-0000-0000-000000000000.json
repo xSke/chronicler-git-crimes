@@ -1,15 +1,5 @@
 [
   {
-    "expire": "2020-10-21T17:29:44.833Z",
-    "id": "hitting_stat_leaders_update",
-    "msg": "On Base Percentage Leaders: ... Alston Cerveza, Canada Moist Talkers - 0.478 ..... Fish Summer, Canada Moist Talkers - 0.477 ..... Ortiz Lopez, San Francisco Lovers - 0.458 ..... Richardson Games, Charleston Shoe Thieves - 0.449 ..... Nagomi Mcdaniel, Baltimore Crabs - 0.449 ..... "
-  },
-  {
-    "expire": "2020-10-21T17:29:44.834Z",
-    "id": "pitching_stat_leaders_update",
-    "msg": "Pitcher Win Leaders: ... Sexton Wheerer, Unlimited Tacos - 7 ..... Sixpack Santiago, Miami Dale - 5 ..... Mummy Melcon, Hades Tigers - 5 ..... Brock Forbes, Baltimore Crabs - 5 ..... Alexandria Rosales, Houston Spies - 4 ..... "
-  },
-  {
     "expire": "2020-10-14T20:02:21.846Z",
     "id": "b4b9dcea-78af-4d83-93ab-312f84eddd7e",
     "msg": "The Blooddrain gurgled! Glabe Moon siphoned some of Collins Melon's defensive ability to add a Strike!"
@@ -33,6 +23,16 @@
     "expire": "2020-10-14T20:13:18.501Z",
     "id": "5c25dc5c-9f87-45fa-baa2-3b064f4d7033",
     "msg": "The Blooddrain gurgled! Richardson Games siphoned some of Ren Morin's defensive ability!"
+  },
+  {
+    "expire": "2020-10-21T18:31:07.952Z",
+    "id": "hitting_stat_leaders_update",
+    "msg": "Stolen Base Leaders: ... Richardson Games, Charleston Shoe Thieves - 23 ..... Aldon Cashmoney, Hades Tigers - 20 ..... Beck Whitney, Miami Dale - 16 ..... Don Mitchell, San Francisco Lovers - 16 ..... Sutton Picklestein, Yellowstone Magic - 15 ..... "
+  },
+  {
+    "expire": "2020-10-21T18:31:07.952Z",
+    "id": "pitching_stat_leaders_update",
+    "msg": "Pitcher Loss Leaders: ... Sexton Wheerer, Unlimited Tacos - 11 ..... Rivers Clembons, Miami Dale - 4 ..... Felix Garbage, New York Millennials - 4 ..... Leach Herman, Dallas Steaks - 4 ..... Kit Adamses, Dallas Steaks - 4 ..... "
   },
   {
     "expire": "2020-10-14T19:07:46.429Z",
