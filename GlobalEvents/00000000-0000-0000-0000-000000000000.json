@@ -25,16 +25,6 @@
     "msg": "The Blooddrain gurgled! Richardson Games siphoned some of Ren Morin's defensive ability!"
   },
   {
-    "expire": "2020-10-21T18:31:07.952Z",
-    "id": "hitting_stat_leaders_update",
-    "msg": "Stolen Base Leaders: ... Richardson Games, Charleston Shoe Thieves - 23 ..... Aldon Cashmoney, Hades Tigers - 20 ..... Beck Whitney, Miami Dale - 16 ..... Don Mitchell, San Francisco Lovers - 16 ..... Sutton Picklestein, Yellowstone Magic - 15 ..... "
-  },
-  {
-    "expire": "2020-10-21T18:31:07.952Z",
-    "id": "pitching_stat_leaders_update",
-    "msg": "Pitcher Loss Leaders: ... Sexton Wheerer, Unlimited Tacos - 11 ..... Rivers Clembons, Miami Dale - 4 ..... Felix Garbage, New York Millennials - 4 ..... Leach Herman, Dallas Steaks - 4 ..... Kit Adamses, Dallas Steaks - 4 ..... "
-  },
-  {
     "expire": "2020-10-14T21:18:04.05Z",
     "id": "1234575b-aeb3-4732-ad8d-914c3a732ac9",
     "msg": "The Blooddrain gurgled! Cory Ross siphoned some of Malik Destiny's defensive ability!"
@@ -43,5 +33,15 @@
     "expire": null,
     "id": "5603efa2-0b6c-11eb-9b23-1282b8cd3f6f",
     "msg": "We are all love blaseball"
+  },
+  {
+    "expire": "2020-10-21T19:34:39.561Z",
+    "id": "hitting_stat_leaders_update",
+    "msg": "Batting Average Leaders: ... Fish Summer, Canada Moist Talkers - 0.466 ..... Yeong-Ho Benitez, Philly Pies - 0.400 ..... Jaxon Buckley, Philly Pies - 0.396 ..... Commissioner Vapor, Canada Moist Talkers - 0.373 ..... Yusef Puddles, Philly Pies - 0.369 ..... "
+  },
+  {
+    "expire": "2020-10-21T19:34:39.562Z",
+    "id": "pitching_stat_leaders_update",
+    "msg": "Strikeout Leaders: ... Sexton Wheerer, Unlimited Tacos - 107 ..... Dunlap Figueroa, Hades Tigers - 58 ..... PolkaDot Patterson, Canada Moist Talkers - 53 ..... Mummy Melcon, Hades Tigers - 50 ..... Hiroto Wilcox, Hades Tigers - 48 ..... "
   }
 ]
