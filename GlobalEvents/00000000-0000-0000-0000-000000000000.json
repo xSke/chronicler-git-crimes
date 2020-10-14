@@ -45,16 +45,6 @@
     "msg": "The Blooddrain gurgled! Knight Urlacher siphoned some of Basilio Mason's defensive ability to add an Out!"
   },
   {
-    "expire": "2020-10-21T08:32:10.488Z",
-    "id": "hitting_stat_leaders_update",
-    "msg": "Stolen Base Leaders: ... Richardson Games, Charleston Shoe Thieves - 14 ..... Greer Gwiffin, Seattle Garages - 11 ..... Aldon Cashmoney, Hades Tigers - 9 ..... Beck Whitney, Miami Dale - 8 ..... Sutton Picklestein, Yellowstone Magic - 6 ..... "
-  },
-  {
-    "expire": "2020-10-21T08:32:10.489Z",
-    "id": "pitching_stat_leaders_update",
-    "msg": "Pitcher Loss Leaders: ... Sexton Wheerer, Unlimited Tacos - 6 ..... Sandoval Crossing, Hellmouth Sunbeams - 2 ..... Lars Taylor, Hellmouth Sunbeams - 2 ..... Miguel James, Hellmouth Sunbeams - 2 ..... Owen Picklestein, Boston Flowers - 2 ..... "
-  },
-  {
     "expire": "2020-10-14T11:05:38.104Z",
     "id": "872bb3aa-1c85-410c-b057-b33dc98cbc27",
     "msg": "The Blooddrain gurgled! Cory Ross siphoned some of Beasley Day's defensive ability!"
@@ -78,6 +68,16 @@
     "expire": "2020-10-14T11:23:57.558Z",
     "id": "24437c72-b6fb-41de-a76b-4564535a42ae",
     "msg": "The Blooddrain gurgled! Dudley Mueller siphoned some of Summers Preston's defensive ability!"
+  },
+  {
+    "expire": "2020-10-21T09:30:58.334Z",
+    "id": "hitting_stat_leaders_update",
+    "msg": "Batting Average Leaders: ... Fish Summer, Canada Moist Talkers - 0.500 ..... Nagomi Mcdaniel, Baltimore Crabs - 0.447 ..... Ortiz Lopez, San Francisco Lovers - 0.419 ..... Jesús Koch, Canada Moist Talkers - 0.405 ..... Alston Cerveza, Canada Moist Talkers - 0.400 ..... "
+  },
+  {
+    "expire": "2020-10-21T09:30:58.336Z",
+    "id": "pitching_stat_leaders_update",
+    "msg": "Strikeout Leaders: ... Sexton Wheerer, Unlimited Tacos - 56 ..... PolkaDot Patterson, Canada Moist Talkers - 36 ..... Mummy Melcon, Hades Tigers - 31 ..... Brock Forbes, Baltimore Crabs - 31 ..... Yosh Carpenter, San Francisco Lovers - 26 ..... "
   },
   {
     "expire": null,
