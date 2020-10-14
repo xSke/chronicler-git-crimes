@@ -1,5 +1,15 @@
 [
   {
+    "expire": "2020-10-21T17:29:44.833Z",
+    "id": "hitting_stat_leaders_update",
+    "msg": "On Base Percentage Leaders: ... Alston Cerveza, Canada Moist Talkers - 0.478 ..... Fish Summer, Canada Moist Talkers - 0.477 ..... Ortiz Lopez, San Francisco Lovers - 0.458 ..... Richardson Games, Charleston Shoe Thieves - 0.449 ..... Nagomi Mcdaniel, Baltimore Crabs - 0.449 ..... "
+  },
+  {
+    "expire": "2020-10-21T17:29:44.834Z",
+    "id": "pitching_stat_leaders_update",
+    "msg": "Pitcher Win Leaders: ... Sexton Wheerer, Unlimited Tacos - 7 ..... Sixpack Santiago, Miami Dale - 5 ..... Mummy Melcon, Hades Tigers - 5 ..... Brock Forbes, Baltimore Crabs - 5 ..... Alexandria Rosales, Houston Spies - 4 ..... "
+  },
+  {
     "expire": "2020-10-14T17:37:38.453Z",
     "id": "6c5c4e33-3e93-4775-aa08-27301b4e2d94",
     "msg": "The Blooddrain gurgled! Logan Rodriguez siphoned some of Andrew Solis's pitching ability to add an Out!"
@@ -23,16 +33,6 @@
     "expire": "2020-10-14T18:21:49.39Z",
     "id": "c14e4ffe-87a3-4296-8910-ae702b340d07",
     "msg": "The Blooddrain gurgled! Halexandrey Walton siphoned some of Fish Summer's defensive ability!"
-  },
-  {
-    "expire": "2020-10-21T16:32:25.402Z",
-    "id": "hitting_stat_leaders_update",
-    "msg": "Runs Batted In Leaders: ... Nagomi Mcdaniel, Baltimore Crabs - 24 ..... Jaxon Buckley, Philly Pies - 21 ..... Howell Franklin, Charleston Shoe Thieves - 19 ..... Hahn Fox, Hellmouth Sunbeams - 18 ..... Vito Kravitz, Unlimited Tacos - 18 ..... "
-  },
-  {
-    "expire": "2020-10-21T16:32:25.403Z",
-    "id": "pitching_stat_leaders_update",
-    "msg": "WHIP Leaders: ... Elvis Figueroa, Philly Pies - 0.517 ..... Brock Forbes, Baltimore Crabs - 0.523 ..... Qais Dogwalker, Miami Dale - 0.657 ..... Fitzgerald Wanderlust, Charleston Shoe Thieves - 0.708 ..... Alexandria Rosales, Houston Spies - 0.722 ..... "
   },
   {
     "expire": "2020-10-14T19:07:46.429Z",
