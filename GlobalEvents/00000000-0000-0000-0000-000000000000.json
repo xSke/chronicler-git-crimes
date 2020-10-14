@@ -20,19 +20,19 @@
     "msg": "The Blooddrain gurgled! Richardson Games siphoned some of Greer Gwiffin's defensive ability to add an Out!"
   },
   {
-    "expire": "2020-10-21T14:31:04.49Z",
-    "id": "hitting_stat_leaders_update",
-    "msg": "Batting Average Leaders: ... Fish Summer, Canada Moist Talkers - 0.436 ..... Ortiz Lopez, San Francisco Lovers - 0.404 ..... Yeong-Ho Benitez, Philly Pies - 0.400 ..... Holden Stanton, Breckenridge Jazz Hands - 0.392 ..... Gloria Bugsnax, Boston Flowers - 0.370 ..... "
-  },
-  {
-    "expire": "2020-10-21T14:31:04.492Z",
-    "id": "pitching_stat_leaders_update",
-    "msg": "Strikeout Leaders: ... Sexton Wheerer, Unlimited Tacos - 88 ..... PolkaDot Patterson, Canada Moist Talkers - 40 ..... Hiroto Wilcox, Hades Tigers - 39 ..... Mummy Melcon, Hades Tigers - 38 ..... Brock Forbes, Baltimore Crabs - 37 ..... "
-  },
-  {
     "expire": "2020-10-14T17:37:38.453Z",
     "id": "6c5c4e33-3e93-4775-aa08-27301b4e2d94",
     "msg": "The Blooddrain gurgled! Logan Rodriguez siphoned some of Andrew Solis's pitching ability to add an Out!"
+  },
+  {
+    "expire": "2020-10-21T15:41:18.318Z",
+    "id": "hitting_stat_leaders_update",
+    "msg": "Home Run Leaders: ... Vito Kravitz, Unlimited Tacos - 10 ..... Nagomi Mcdaniel, Baltimore Crabs - 9 ..... Andrew Solis, New York Millennials - 8 ..... Eugenia Garbage, Canada Moist Talkers - 8 ..... Jaxon Buckley, Philly Pies - 8 ..... "
+  },
+  {
+    "expire": "2020-10-21T15:41:18.319Z",
+    "id": "pitching_stat_leaders_update",
+    "msg": "Earned Run Average Leaders: ... Fitzgerald Wanderlust, Charleston Shoe Thieves - 0.764 ..... Jenkins Good, Canada Moist Talkers - 0.931 ..... Gabriel Griffith, Hawai'i Fridays - 1.000 ..... Evelton McBlase, Hawai'i Fridays - 1.161 ..... Parker Meng, San Francisco Lovers - 1.333 ..... "
   },
   {
     "expire": null,
