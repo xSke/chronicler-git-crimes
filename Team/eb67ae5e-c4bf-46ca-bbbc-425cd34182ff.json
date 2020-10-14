@@ -48,13 +48,13 @@
     "EXTRA_BASE",
     "SHAME_PIT"
   ],
-  "seasonShames": 2,
+  "seasonShames": 3,
   "seasonShamings": 1,
   "secondaryColor": "#f5feff",
-  "shameRuns": 0,
+  "shameRuns": 1,
   "shorthand": "CAN",
   "slogan": "SPRAY IT, DON'T SAY IT",
-  "totalShames": 47,
+  "totalShames": 48,
   "totalShamings": 32,
   "weekAttr": []
 }
