@@ -5,16 +5,6 @@
     "msg": "The Blooddrain gurgled! Spears Taylor siphoned some of Cory Ross's defensive ability to add a Strike!"
   },
   {
-    "expire": "2020-10-21T01:37:17.869Z",
-    "id": "hitting_stat_leaders_update",
-    "msg": "Runs Batted In Leaders: ... Beck Whitney, Miami Dale - 6 ..... Vito Kravitz, Unlimited Tacos - 5 ..... Eduardo Woodman, Philly Pies - 4 ..... Howell Franklin, Charleston Shoe Thieves - 4 ..... Tot Fox, Baltimore Crabs - 4 ..... "
-  },
-  {
-    "expire": "2020-10-21T01:37:17.87Z",
-    "id": "pitching_stat_leaders_update",
-    "msg": "WHIP Leaders: ... Brock Forbes, Baltimore Crabs - 0.222 ..... Alexandria Rosales, Houston Spies - 0.333 ..... Jenkins Good, Canada Moist Talkers - 0.400 ..... Marco Escobar, Houston Spies - 0.500 ..... Jaylen Hotdogfingers, Charleston Shoe Thieves - 0.500 ..... "
-  },
-  {
     "expire": "2020-10-14T04:00:15.989Z",
     "id": "566f89fa-6a86-439d-89b2-37bbf328f2f7",
     "msg": "The Blooddrain gurgled! Glabe Moon siphoned some of Pudge Nakatamo's defensive ability!"
@@ -23,6 +13,16 @@
     "expire": "2020-10-14T04:03:18.985Z",
     "id": "fbe881be-ab5a-4d33-9626-893b4102e199",
     "msg": "The Blooddrain gurgled! Glabe Moon siphoned some of Marco Stink's defensive ability to add an Out!"
+  },
+  {
+    "expire": "2020-10-21T02:53:57.171Z",
+    "id": "hitting_stat_leaders_update",
+    "msg": "On Base Percentage Leaders: ... Fran Beans, Mexico City Wild Wings - 0.778 ..... Howell Franklin, Charleston Shoe Thieves - 0.750 ..... Beck Whitney, Miami Dale - 0.636 ..... Alston Cerveza, Canada Moist Talkers - 0.636 ..... Fish Summer, Canada Moist Talkers - 0.636 ..... "
+  },
+  {
+    "expire": "2020-10-21T02:53:57.172Z",
+    "id": "pitching_stat_leaders_update",
+    "msg": "Pitcher Win Leaders: ... Sixpack Santiago, Miami Dale - 2 ..... Sexton Wheerer, Unlimited Tacos - 2 ..... Mummy Melcon, Hades Tigers - 2 ..... Brock Forbes, Baltimore Crabs - 2 ..... Alexandria Rosales, Houston Spies - 1 ..... "
   },
   {
     "expire": null,
