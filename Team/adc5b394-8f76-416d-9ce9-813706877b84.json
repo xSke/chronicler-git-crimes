@@ -49,13 +49,13 @@
     "EXTRA_BASE",
     "SHAME_PIT"
   ],
-  "seasonShames": 2,
+  "seasonShames": 3,
   "seasonShamings": 3,
   "secondaryColor": "#178f55",
-  "shameRuns": 0,
+  "shameRuns": 1,
   "shorthand": "KCBM",
   "slogan": "Fresh Breath, Here We Come.",
-  "totalShames": 38,
+  "totalShames": 39,
   "totalShamings": 25,
   "weekAttr": []
 }
