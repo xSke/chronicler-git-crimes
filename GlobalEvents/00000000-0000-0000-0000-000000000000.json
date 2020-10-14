@@ -20,19 +20,19 @@
     "msg": "The Blooddrain gurgled! Glabe Moon siphoned some of Dudley Mueller's defensive ability!"
   },
   {
-    "expire": "2020-10-21T06:34:52.419Z",
-    "id": "hitting_stat_leaders_update",
-    "msg": "Runs Batted In Leaders: ... Nagomi Mcdaniel, Baltimore Crabs - 13 ..... Vito Kravitz, Unlimited Tacos - 12 ..... Eugenia Garbage, Canada Moist Talkers - 11 ..... Tot Fox, Baltimore Crabs - 10 ..... Aldon Cashmoney, Hades Tigers - 9 ..... "
-  },
-  {
-    "expire": "2020-10-21T06:34:52.42Z",
-    "id": "pitching_stat_leaders_update",
-    "msg": "WHIP Leaders: ... Elvis Figueroa, Philly Pies - 0.222 ..... Evelton McBlase, Hawai'i Fridays - 0.333 ..... Brock Forbes, Baltimore Crabs - 0.370 ..... Qais Dogwalker, Miami Dale - 0.556 ..... Alexandria Rosales, Houston Spies - 0.611 ..... "
-  },
-  {
     "expire": "2020-10-14T09:01:26.43Z",
     "id": "c42c5254-8428-4cb5-be6d-8bc4f3652979",
     "msg": "Rogue Umpire incinerated Magic hitter Annie Roland! Replaced by Bonk Jokes"
+  },
+  {
+    "expire": "2020-10-21T07:30:25.497Z",
+    "id": "hitting_stat_leaders_update",
+    "msg": "On Base Percentage Leaders: ... Bonk Jokes, Yellowstone Magic - 0.667 ..... Nagomi Mcdaniel, Baltimore Crabs - 0.667 ..... Ortiz Lopez, San Francisco Lovers - 0.600 ..... Fran Beans, Mexico City Wild Wings - 0.556 ..... Alston Cerveza, Canada Moist Talkers - 0.533 ..... "
+  },
+  {
+    "expire": "2020-10-21T07:30:25.498Z",
+    "id": "pitching_stat_leaders_update",
+    "msg": "Pitcher Win Leaders: ... Sixpack Santiago, Miami Dale - 3 ..... Sexton Wheerer, Unlimited Tacos - 3 ..... Mummy Melcon, Hades Tigers - 3 ..... Brock Forbes, Baltimore Crabs - 3 ..... Alexandria Rosales, Houston Spies - 2 ..... "
   },
   {
     "expire": null,
