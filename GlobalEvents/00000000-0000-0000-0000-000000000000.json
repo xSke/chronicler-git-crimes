@@ -10,18 +10,18 @@
     "msg": "The Blooddrain gurgled! Cory Ross siphoned some of Beasley Day's defensive ability!"
   },
   {
-    "expire": "2020-10-21T20:34:25.389Z",
-    "id": "hitting_stat_leaders_update",
-    "msg": "Home Run Leaders: ... Vito Kravitz, Unlimited Tacos - 14 ..... Jaxon Buckley, Philly Pies - 12 ..... Ortiz Lopez, San Francisco Lovers - 12 ..... Nagomi Mcdaniel, Baltimore Crabs - 12 ..... Andrew Solis, New York Millennials - 9 ..... "
-  },
-  {
-    "expire": "2020-10-21T20:34:25.39Z",
-    "id": "pitching_stat_leaders_update",
-    "msg": "Earned Run Average Leaders: ... Fitzgerald Wanderlust, Charleston Shoe Thieves - 1.165 ..... Hiroto Wilcox, Hades Tigers - 1.227 ..... Mummy Melcon, Hades Tigers - 1.482 ..... Brock Forbes, Baltimore Crabs - 1.528 ..... Jenkins Good, Canada Moist Talkers - 1.658 ..... "
-  },
-  {
     "expire": "2020-10-14T23:10:30.279Z",
     "id": "75cec3fe-0e43-4c3c-8cb4-8b6cfda26c1a",
     "msg": "The Blooddrain gurgled! Nagomi Mcdaniel siphoned some of Don Elliott's defensive ability to add an Out!"
+  },
+  {
+    "expire": "2020-10-21T21:30:42.68Z",
+    "id": "hitting_stat_leaders_update",
+    "msg": "Runs Batted In Leaders: ... Jaxon Buckley, Philly Pies - 26 ..... Vito Kravitz, Unlimited Tacos - 25 ..... Nagomi Mcdaniel, Baltimore Crabs - 25 ..... Hahn Fox, Hellmouth Sunbeams - 23 ..... Ortiz Lopez, San Francisco Lovers - 23 ..... "
+  },
+  {
+    "expire": "2020-10-21T21:30:42.681Z",
+    "id": "pitching_stat_leaders_update",
+    "msg": "WHIP Leaders: ... Brock Forbes, Baltimore Crabs - 0.551 ..... Elvis Figueroa, Philly Pies - 0.675 ..... Jaylen Hotdogfingers, Charleston Shoe Thieves - 0.689 ..... Alexandria Rosales, Houston Spies - 0.733 ..... Hiroto Wilcox, Hades Tigers - 0.750 ..... "
   }
 ]
