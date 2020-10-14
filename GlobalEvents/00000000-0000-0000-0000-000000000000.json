@@ -20,16 +20,6 @@
     "msg": "The Blooddrain gurgled! Halexandrey Walton siphoned some of Tamara Crankit's defensive ability to add an Out!"
   },
   {
-    "expire": "2020-10-21T13:34:46.841Z",
-    "id": "hitting_stat_leaders_update",
-    "msg": "Stolen Base Leaders: ... Richardson Games, Charleston Shoe Thieves - 22 ..... Aldon Cashmoney, Hades Tigers - 16 ..... Beck Whitney, Miami Dale - 15 ..... Greer Gwiffin, Seattle Garages - 12 ..... Logan Horseman, Miami Dale - 11 ..... "
-  },
-  {
-    "expire": "2020-10-21T13:34:46.841Z",
-    "id": "pitching_stat_leaders_update",
-    "msg": "Pitcher Loss Leaders: ... Sexton Wheerer, Unlimited Tacos - 9 ..... Lars Taylor, Hellmouth Sunbeams - 3 ..... Miguel James, Hellmouth Sunbeams - 3 ..... Wyatt Owens, Miami Dale - 3 ..... Inky Rutledge, Yellowstone Magic - 3 ..... "
-  },
-  {
     "expire": "2020-10-14T16:03:12.038Z",
     "id": "747e5790-2f53-4379-9047-f59e2de0f7a6",
     "msg": "The Blooddrain gurgled! Nagomi Mcdaniel siphoned some of Steph Weeks's defensive ability to add a Strike!"
@@ -48,6 +38,16 @@
     "expire": "2020-10-14T16:15:17.195Z",
     "id": "e9e8fd65-c047-480b-8104-409247fb7269",
     "msg": "The Blooddrain gurgled! Richardson Games siphoned some of Greer Gwiffin's defensive ability to add an Out!"
+  },
+  {
+    "expire": "2020-10-21T14:31:04.49Z",
+    "id": "hitting_stat_leaders_update",
+    "msg": "Batting Average Leaders: ... Fish Summer, Canada Moist Talkers - 0.436 ..... Ortiz Lopez, San Francisco Lovers - 0.404 ..... Yeong-Ho Benitez, Philly Pies - 0.400 ..... Holden Stanton, Breckenridge Jazz Hands - 0.392 ..... Gloria Bugsnax, Boston Flowers - 0.370 ..... "
+  },
+  {
+    "expire": "2020-10-21T14:31:04.492Z",
+    "id": "pitching_stat_leaders_update",
+    "msg": "Strikeout Leaders: ... Sexton Wheerer, Unlimited Tacos - 88 ..... PolkaDot Patterson, Canada Moist Talkers - 40 ..... Hiroto Wilcox, Hades Tigers - 39 ..... Mummy Melcon, Hades Tigers - 38 ..... Brock Forbes, Baltimore Crabs - 37 ..... "
   },
   {
     "expire": null,
