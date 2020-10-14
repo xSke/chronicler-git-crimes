@@ -1,23 +1,23 @@
 [
   {
+    "expire": "2020-10-21T00:40:44.084Z",
+    "id": "pitching_stat_leaders_update",
+    "msg": "Earned Run Average Leaders: ... Jordan Hildebert, Houston Spies - 0.000 ..... Penelope Mathews, New York Millennials - 0.000 ..... Edric Tosser, Chicago Firefighters - 0.000 ..... Brock Forbes, Baltimore Crabs - 0.000 ..... Adalberto Tosser, Baltimore Crabs - 0.000 ..... "
+  },
+  {
     "expire": "2020-10-14T01:18:25.143Z",
     "id": "a5a18b5f-8244-45dd-9577-b2d26696cbea",
     "msg": "The Blooddrain gurgled! Knight Urlacher siphoned some of Ronan Combs's defensive ability to add an Out!"
   },
   {
-    "expire": "2020-10-20T23:29:10.969Z",
-    "id": "hitting_stat_leaders_update",
-    "msg": "Batting Average Leaders: ... Sandie Turner, New York Millennials - 0.500 ..... Rodriguez Internet, Kansas City Breath Mints - 0.500 ..... Jasmine Washington, Miami Dale - 0.471 ..... Howell Franklin, Charleston Shoe Thieves - 0.467 ..... Isaac Johnson, Chicago Firefighters - 0.467 ..... "
-  },
-  {
-    "expire": "2020-10-20T23:29:10.97Z",
-    "id": "pitching_stat_leaders_update",
-    "msg": "Strikeout Leaders: ... PolkaDot Patterson, Canada Moist Talkers - 22 ..... Betsy Trombone, Seattle Garages - 22 ..... Sandoval Crossing, Hellmouth Sunbeams - 20 ..... Yosh Carpenter, San Francisco Lovers - 20 ..... Henry Marshallow, Philly Pies - 19 ..... "
-  },
-  {
     "expire": "2020-10-14T02:06:59.545Z",
     "id": "549bae1c-92ab-4cce-b17d-8e307557c6eb",
     "msg": "The Blooddrain gurgled! Spears Taylor siphoned some of Sam Scandal's defensive ability!"
+  },
+  {
+    "expire": "2020-10-21T00:40:44.083Z",
+    "id": "hitting_stat_leaders_update",
+    "msg": "Home Run Leaders: ... Hewitt Best, Kansas City Breath Mints - 5 ..... Don Mitchell, San Francisco Lovers - 5 ..... Nagomi Nava, Hellmouth Sunbeams - 4 ..... Annie Roland, Yellowstone Magic - 4 ..... Randy Castillo, Hades Tigers - 4 ..... "
   },
   {
     "expire": null,
