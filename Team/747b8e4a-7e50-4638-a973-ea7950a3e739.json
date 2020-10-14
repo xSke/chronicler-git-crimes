@@ -48,13 +48,13 @@
     "EXTRA_BASE",
     "SHAME_PIT"
   ],
-  "seasonShames": 1,
+  "seasonShames": 2,
   "seasonShamings": 4,
   "secondaryColor": "#e83622",
-  "shameRuns": 0,
+  "shameRuns": 2,
   "shorthand": "HAT",
   "slogan": "Never Look Back.",
-  "totalShames": 32,
+  "totalShames": 33,
   "totalShamings": 49,
   "weekAttr": []
 }
