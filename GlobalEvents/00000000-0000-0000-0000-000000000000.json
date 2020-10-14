@@ -1,18 +1,18 @@
 [
   {
-    "expire": "2020-10-21T10:28:49.813Z",
-    "id": "hitting_stat_leaders_update",
-    "msg": "Home Run Leaders: ... Eugenia Garbage, Canada Moist Talkers - 8 ..... Nagomi Mcdaniel, Baltimore Crabs - 8 ..... Vito Kravitz, Unlimited Tacos - 7 ..... Howell Franklin, Charleston Shoe Thieves - 7 ..... Ortiz Lopez, San Francisco Lovers - 6 ..... "
-  },
-  {
-    "expire": "2020-10-21T10:28:49.814Z",
-    "id": "pitching_stat_leaders_update",
-    "msg": "Earned Run Average Leaders: ... Hiroto Wilcox, Hades Tigers - 0.667 ..... Fitzgerald Wanderlust, Charleston Shoe Thieves - 0.675 ..... Elvis Figueroa, Philly Pies - 0.900 ..... Evelton McBlase, Hawai'i Fridays - 0.947 ..... Gabriel Griffith, Hawai'i Fridays - 0.964 ..... "
-  },
-  {
     "expire": "2020-10-14T13:02:11.568Z",
     "id": "97c5e172-d38f-4f4b-b610-75144b309f34",
     "msg": "The Blooddrain gurgled! Isaac Johnson siphoned some of Fran Beans's defensive ability to add an Out!"
+  },
+  {
+    "expire": "2020-10-21T11:38:08.9Z",
+    "id": "hitting_stat_leaders_update",
+    "msg": "Runs Batted In Leaders: ... Nagomi Mcdaniel, Baltimore Crabs - 19 ..... Hahn Fox, Hellmouth Sunbeams - 16 ..... Howell Franklin, Charleston Shoe Thieves - 16 ..... Vito Kravitz, Unlimited Tacos - 14 ..... Jaxon Buckley, Philly Pies - 13 ..... "
+  },
+  {
+    "expire": "2020-10-21T11:38:08.901Z",
+    "id": "pitching_stat_leaders_update",
+    "msg": "WHIP Leaders: ... Elvis Figueroa, Philly Pies - 0.200 ..... Brock Forbes, Baltimore Crabs - 0.514 ..... Famous Owens, Hades Tigers - 0.556 ..... Evelton McBlase, Hawai'i Fridays - 0.632 ..... Jenkins Good, Canada Moist Talkers - 0.655 ..... "
   },
   {
     "expire": null,
