@@ -1,15 +1,5 @@
 [
   {
-    "expire": "2020-10-22T15:31:20.75Z",
-    "id": "hitting_stat_leaders_update",
-    "msg": "Batting Average Leaders: ... Sandie Turner, New York Millennials - 0.508 ..... Commissioner Vapor, Canada Moist Talkers - 0.421 ..... Jacob Haynes, Boston Flowers - 0.417 ..... Rodriguez Internet, Kansas City Breath Mints - 0.413 ..... Yeong-Ho Benitez, Philly Pies - 0.400 ..... "
-  },
-  {
-    "expire": "2020-10-22T15:31:20.751Z",
-    "id": "pitching_stat_leaders_update",
-    "msg": "Strikeout Leaders: ... Sexton Wheerer, Unlimited Tacos - 76 ..... Henry Marshallow, Philly Pies - 42 ..... PolkaDot Patterson, Canada Moist Talkers - 39 ..... Sandoval Crossing, Hellmouth Sunbeams - 37 ..... Yosh Carpenter, San Francisco Lovers - 37 ..... "
-  },
-  {
     "expire": "2020-10-15T18:14:53.735Z",
     "id": "9b5b72ad-60b0-4c5b-9177-d8989d78cfdc",
     "msg": "The Blooddrain gurgled! Beans McBlase siphoned some of Carmelo Plums's defensive ability to add a Strike!"
@@ -18,6 +8,16 @@
     "expire": "2020-10-15T18:25:50.973Z",
     "id": "f8c92e1c-9459-4a4d-8f51-b01c8d3b20b7",
     "msg": "The Blooddrain gurgled! Isaac Johnson siphoned some of Wyatt Owens's baserunning ability!"
+  },
+  {
+    "expire": "2020-10-22T16:38:37.576Z",
+    "id": "hitting_stat_leaders_update",
+    "msg": "Home Run Leaders: ... Margarito Nava, Boston Flowers - 9 ..... Valentine Games, Unlimited Tacos - 8 ..... Fran Beans, Mexico City Wild Wings - 7 ..... Ren Hunter, New York Millennials - 7 ..... Eduardo Woodman, Philly Pies - 7 ..... "
+  },
+  {
+    "expire": "2020-10-22T16:38:37.577Z",
+    "id": "pitching_stat_leaders_update",
+    "msg": "Earned Run Average Leaders: ... Alexandria Rosales, Houston Spies - 1.000 ..... Beasley Gloom, Canada Moist Talkers - 1.000 ..... Percival Wheeler, San Francisco Lovers - 1.012 ..... Winnie Hess, Kansas City Breath Mints - 1.333 ..... Caleb Alvarado, Chicago Firefighters - 1.333 ..... "
   },
   {
     "expire": null,
