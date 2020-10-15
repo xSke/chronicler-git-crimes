@@ -10,16 +10,6 @@
     "msg": "The Blooddrain gurgled! Isaac Johnson siphoned some of Dudley Mueller's defensive ability!"
   },
   {
-    "expire": "2020-10-22T00:42:17.097Z",
-    "id": "hitting_stat_leaders_update",
-    "msg": "Batting Average Leaders: ... Fish Summer, Canada Moist Talkers - 0.466 ..... Yeong-Ho Benitez, Philly Pies - 0.400 ..... Yusef Puddles, Philly Pies - 0.372 ..... Don Mitchell, San Francisco Lovers - 0.363 ..... Jaxon Buckley, Philly Pies - 0.354 ..... "
-  },
-  {
-    "expire": "2020-10-22T00:42:17.099Z",
-    "id": "pitching_stat_leaders_update",
-    "msg": "Strikeout Leaders: ... Sexton Wheerer, Unlimited Tacos - 130 ..... Dunlap Figueroa, Hades Tigers - 64 ..... PolkaDot Patterson, Canada Moist Talkers - 60 ..... Hiroto Wilcox, Hades Tigers - 55 ..... Yosh Carpenter, San Francisco Lovers - 54 ..... "
-  },
-  {
     "expire": "2020-10-15T03:01:37.734Z",
     "id": "852ada13-e8f3-4701-b2ce-789869c6c562",
     "msg": "The Blooddrain gurgled! Halexandrey Walton siphoned some of Raúl Leal's defensive ability to add an Out!"
@@ -28,6 +18,16 @@
     "expire": "2020-10-15T03:03:52.662Z",
     "id": "09984902-bac1-4391-9f93-9f6482328293",
     "msg": "The Blooddrain gurgled! Isaac Johnson siphoned some of Sigmund Castillo's defensive ability to remove a Ball!"
+  },
+  {
+    "expire": "2020-10-22T01:30:24.07Z",
+    "id": "hitting_stat_leaders_update",
+    "msg": "Home Run Leaders: ... Nagomi Mcdaniel, Baltimore Crabs - 15 ..... Vito Kravitz, Unlimited Tacos - 14 ..... Marco Stink, Kansas City Breath Mints - 13 ..... Jaxon Buckley, Philly Pies - 13 ..... Ortiz Lopez, San Francisco Lovers - 12 ..... "
+  },
+  {
+    "expire": "2020-10-22T01:30:24.071Z",
+    "id": "pitching_stat_leaders_update",
+    "msg": "Earned Run Average Leaders: ... Fitzgerald Wanderlust, Charleston Shoe Thieves - 1.118 ..... Hiroto Wilcox, Hades Tigers - 1.189 ..... Mooney Doctor II, Kansas City Breath Mints - 1.500 ..... Jenkins Good, Canada Moist Talkers - 1.532 ..... Jaylen Hotdogfingers, Charleston Shoe Thieves - 1.600 ..... "
   },
   {
     "expire": null,
