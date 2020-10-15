@@ -5,6 +5,16 @@
     "msg": "The Blooddrain gurgled! Richmond Harrison siphoned some of Nandy Fantastic's defensive ability to add a Strike!"
   },
   {
+    "expire": "2020-10-22T11:30:25.563Z",
+    "id": "hitting_stat_leaders_update",
+    "msg": "Home Run Leaders: ... Margarito Nava, Boston Flowers - 7 ..... Eduardo Woodman, Philly Pies - 7 ..... Fran Beans, Mexico City Wild Wings - 6 ..... Ren Hunter, New York Millennials - 5 ..... Nagomi Mcdaniel, Baltimore Crabs - 5 ..... "
+  },
+  {
+    "expire": "2020-10-22T11:30:25.564Z",
+    "id": "pitching_stat_leaders_update",
+    "msg": "Earned Run Average Leaders: ... Finn James, Baltimore Crabs - 0.500 ..... Beasley Gloom, Canada Moist Talkers - 0.947 ..... Rafael Davids, Mexico City Wild Wings - 1.000 ..... Alexandria Rosales, Houston Spies - 1.333 ..... Brock Forbes, Baltimore Crabs - 1.333 ..... "
+  },
+  {
     "expire": "2020-10-15T12:11:00.826Z",
     "id": "e1920284-749f-4ad9-81eb-91477984481a",
     "msg": "The Blooddrain gurgled! Spears Taylor siphoned some of Howell Franklin's defensive ability!"
@@ -18,16 +28,6 @@
     "expire": "2020-10-15T12:15:19.726Z",
     "id": "00c01db0-4de6-4e9f-87b0-4bbe9ab9e4dc",
     "msg": "The Blooddrain gurgled! Richardson Games siphoned some of Baldwin Breadwinner's defensive ability!"
-  },
-  {
-    "expire": "2020-10-22T10:36:13.581Z",
-    "id": "hitting_stat_leaders_update",
-    "msg": "Batting Average Leaders: ... Jacob Haynes, Boston Flowers - 0.469 ..... Sandie Turner, New York Millennials - 0.409 ..... Ren Hunter, New York Millennials - 0.405 ..... Yeong-Ho Benitez, Philly Pies - 0.400 ..... Hotbox Sato, Charleston Shoe Thieves - 0.400 ..... "
-  },
-  {
-    "expire": "2020-10-22T10:36:13.583Z",
-    "id": "pitching_stat_leaders_update",
-    "msg": "Strikeout Leaders: ... Sexton Wheerer, Unlimited Tacos - 52 ..... PolkaDot Patterson, Canada Moist Talkers - 33 ..... Henry Marshallow, Philly Pies - 27 ..... Yosh Carpenter, San Francisco Lovers - 26 ..... Sandoval Crossing, Hellmouth Sunbeams - 25 ..... "
   },
   {
     "expire": "2020-10-15T13:11:07.269Z",
