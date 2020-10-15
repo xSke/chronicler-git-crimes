@@ -1,23 +1,23 @@
 [
   {
-    "expire": "2020-10-22T03:33:14.605Z",
-    "id": "pitching_stat_leaders_update",
-    "msg": "Pitcher Win Leaders: ... Sexton Wheerer, Unlimited Tacos - 2 ..... Eugenia Bickle, Hellmouth Sunbeams - 1 ..... Alexandria Rosales, Houston Spies - 1 ..... Karato Bean, Houston Spies - 1 ..... King Weatherman, Boston Flowers - 1 ..... "
-  },
-  {
     "expire": "2020-10-15T06:19:34.628Z",
     "id": "574914bf-2de6-4d72-ab93-d83c24a5be58",
     "msg": "The Blooddrain gurgled! Knight Urlacher siphoned some of Igneus Delacruz's defensive ability to add an Out!"
   },
   {
+    "expire": "2020-10-22T04:39:54.817Z",
+    "id": "hitting_stat_leaders_update",
+    "msg": "Stolen Base Leaders: ... Richardson Games, Charleston Shoe Thieves - 12 ..... Aldon Cashmoney, Hades Tigers - 10 ..... Richmond Harrison, Hades Tigers - 6 ..... Beck Whitney, Miami Dale - 5 ..... Carmelo Plums, Hades Tigers - 5 ..... "
+  },
+  {
+    "expire": "2020-10-22T04:39:54.818Z",
+    "id": "pitching_stat_leaders_update",
+    "msg": "Pitcher Loss Leaders: ... Sexton Wheerer, Unlimited Tacos - 2 ..... Sandoval Crossing, Hellmouth Sunbeams - 1 ..... Lars Taylor, Hellmouth Sunbeams - 1 ..... Miguel James, Hellmouth Sunbeams - 1 ..... Marco Escobar, Houston Spies - 1 ..... "
+  },
+  {
     "expire": "2020-10-15T05:31:45.646Z",
     "id": "df234c0c-d05c-4e39-9c19-5d7e73c0ee61",
     "msg": "The Blooddrain gurgled! Cory Ross siphoned some of Sebastian Woodman's defensive ability to add an Out!"
-  },
-  {
-    "expire": "2020-10-22T03:33:14.605Z",
-    "id": "hitting_stat_leaders_update",
-    "msg": "On Base Percentage Leaders: ... Esme Ramsey, Charleston Shoe Thieves - 1.000 ..... Howell Franklin, Charleston Shoe Thieves - 0.818 ..... Sandie Turner, New York Millennials - 0.769 ..... Richardson Games, Charleston Shoe Thieves - 0.727 ..... Blood Hamburger, Charleston Shoe Thieves - 0.667 ..... "
   },
   {
     "expire": null,
