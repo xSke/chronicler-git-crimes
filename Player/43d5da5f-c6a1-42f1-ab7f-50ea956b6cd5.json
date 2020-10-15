@@ -32,7 +32,8 @@
   "peanutAllergy": true,
   "permAttr": [
     "ALTERNATE",
-    "FIRE_EATER"
+    "FIRE_EATER",
+    "MAGMATIC"
   ],
   "pitchingRating": 0.04675353098494877,
   "pressurization": 0.0320638002948348,
