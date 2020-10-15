@@ -1,18 +1,18 @@
 [
   {
-    "expire": "2020-10-22T21:41:19.833Z",
-    "id": "hitting_stat_leaders_update",
-    "msg": "Home Run Leaders: ... Igneus Delacruz, Hellmouth Sunbeams - 2 ..... Nagomi Nava, Hellmouth Sunbeams - 2 ..... Don Elliott, Miami Dale - 2 ..... Greer Gwiffin, Seattle Garages - 2 ..... Pudge Nakatamo, Kansas City Breath Mints - 2 ..... "
-  },
-  {
-    "expire": "2020-10-22T21:41:19.834Z",
-    "id": "pitching_stat_leaders_update",
-    "msg": "Earned Run Average Leaders: ... Yosh Carpenter, San Francisco Lovers - 0.000 ..... Brock Forbes, Baltimore Crabs - 0.000 ..... Mummy Melcon, Hades Tigers - 0.500 ..... Stevenson Heat, Hawai'i Fridays - 1.000 ..... Fitzgerald Wanderlust, Charleston Shoe Thieves - 1.038 ..... "
-  },
-  {
     "expire": "2020-10-16T00:31:49.709Z",
     "id": "3c78ad4c-ba44-4bd1-9cf3-2c9511abffba",
     "msg": "The Blooddrain gurgled! Cory Ross siphoned some of Esme Ramsey's defensive ability!"
+  },
+  {
+    "expire": "2020-10-22T22:34:30.935Z",
+    "id": "hitting_stat_leaders_update",
+    "msg": "Runs Batted In Leaders: ... Eduardo Woodman, Philly Pies - 8 ..... Igneus Delacruz, Hellmouth Sunbeams - 6 ..... Velasquez Alstott, Charleston Shoe Thieves - 5 ..... Hahn Fox, Hellmouth Sunbeams - 4 ..... Hendricks Richardson, Hellmouth Sunbeams - 4 ..... "
+  },
+  {
+    "expire": "2020-10-22T22:34:30.936Z",
+    "id": "pitching_stat_leaders_update",
+    "msg": "WHIP Leaders: ... Brock Forbes, Baltimore Crabs - 0.222 ..... Alexandria Rosales, Houston Spies - 0.333 ..... Jenkins Good, Canada Moist Talkers - 0.444 ..... Montgomery Bullock, Baltimore Crabs - 0.444 ..... Mummy Melcon, Hades Tigers - 0.611 ..... "
   },
   {
     "expire": "2020-10-15T21:45:56.708Z",
