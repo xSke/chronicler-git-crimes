@@ -5,16 +5,6 @@
     "msg": "The Blooddrain gurgled! Halexandrey Walton siphoned some of Theo King's defensive ability to add an Out!"
   },
   {
-    "expire": "2020-10-22T17:28:10.79Z",
-    "id": "hitting_stat_leaders_update",
-    "msg": "Runs Batted In Leaders: ... Eduardo Woodman, Philly Pies - 18 ..... Ren Hunter, New York Millennials - 17 ..... Nagomi Mcdaniel, Baltimore Crabs - 17 ..... Fran Beans, Mexico City Wild Wings - 15 ..... Aldon Cashmoney, Hades Tigers - 15 ..... "
-  },
-  {
-    "expire": "2020-10-22T17:28:10.792Z",
-    "id": "pitching_stat_leaders_update",
-    "msg": "WHIP Leaders: ... Alexandria Rosales, Houston Spies - 0.528 ..... Finn James, Baltimore Crabs - 0.556 ..... Jenkins Good, Canada Moist Talkers - 0.667 ..... Beasley Gloom, Canada Moist Talkers - 0.704 ..... PolkaDot Zavala, Kansas City Breath Mints - 0.704 ..... "
-  },
-  {
     "expire": "2020-10-15T20:06:53.904Z",
     "id": "386aa249-4ba2-459f-830d-c0c3288553cc",
     "msg": "The Blooddrain gurgled! Glabe Moon siphoned some of Denzel Scott's defensive ability!"
@@ -23,6 +13,16 @@
     "expire": "2020-10-15T20:15:04.646Z",
     "id": "c3513454-dff0-4321-8903-a849a0d16f8c",
     "msg": "The Blooddrain gurgled! Glabe Moon siphoned some of Malik Romayne's hitting ability!"
+  },
+  {
+    "expire": "2020-10-22T18:34:36.313Z",
+    "id": "hitting_stat_leaders_update",
+    "msg": "On Base Percentage Leaders: ... Sebastian Woodman, Charleston Shoe Thieves - 0.548 ..... Richardson Games, Charleston Shoe Thieves - 0.536 ..... Sandie Turner, New York Millennials - 0.532 ..... Esme Ramsey, Charleston Shoe Thieves - 0.517 ..... Commissioner Vapor, Canada Moist Talkers - 0.500 ..... "
+  },
+  {
+    "expire": "2020-10-22T18:34:36.314Z",
+    "id": "pitching_stat_leaders_update",
+    "msg": "Pitcher Win Leaders: ... Sexton Wheerer, Unlimited Tacos - 9 ..... Alexandria Rosales, Houston Spies - 4 ..... Karato Bean, Houston Spies - 4 ..... Rivers Clembons, Miami Dale - 4 ..... Penelope Mathews, New York Millennials - 4 ..... "
   },
   {
     "expire": null,
