@@ -10,16 +10,6 @@
     "msg": "The Blooddrain gurgled! Isaac Johnson siphoned some of Sigmund Castillo's defensive ability to remove a Ball!"
   },
   {
-    "expire": "2020-10-22T01:30:24.07Z",
-    "id": "hitting_stat_leaders_update",
-    "msg": "Home Run Leaders: ... Nagomi Mcdaniel, Baltimore Crabs - 15 ..... Vito Kravitz, Unlimited Tacos - 14 ..... Marco Stink, Kansas City Breath Mints - 13 ..... Jaxon Buckley, Philly Pies - 13 ..... Ortiz Lopez, San Francisco Lovers - 12 ..... "
-  },
-  {
-    "expire": "2020-10-22T01:30:24.071Z",
-    "id": "pitching_stat_leaders_update",
-    "msg": "Earned Run Average Leaders: ... Fitzgerald Wanderlust, Charleston Shoe Thieves - 1.118 ..... Hiroto Wilcox, Hades Tigers - 1.189 ..... Mooney Doctor II, Kansas City Breath Mints - 1.500 ..... Jenkins Good, Canada Moist Talkers - 1.532 ..... Jaylen Hotdogfingers, Charleston Shoe Thieves - 1.600 ..... "
-  },
-  {
     "expire": "2020-10-15T04:16:42.219Z",
     "id": "0d168970-2040-417e-b83b-8ee506d368f3",
     "msg": "The Blooddrain gurgled! Randy Dennis siphoned some of Moses Mason's defensive ability to add an Out!"
@@ -38,6 +28,16 @@
     "expire": "2020-10-15T04:22:40.982Z",
     "id": "edf34272-edbb-4005-a52f-7f7a6322b0f0",
     "msg": "The Blooddrain gurgled! Dudley Mueller siphoned some of NaN's defensive ability!"
+  },
+  {
+    "expire": "2020-10-22T02:36:56.408Z",
+    "id": "hitting_stat_leaders_update",
+    "msg": "Runs Batted In Leaders: ... Howell Franklin, Charleston Shoe Thieves - 5 ..... Sigmund Castillo, Hellmouth Sunbeams - 4 ..... Nagomi Nava, Hellmouth Sunbeams - 4 ..... Brock Watson, Mexico City Wild Wings - 4 ..... Greer Gwiffin, Seattle Garages - 4 ..... "
+  },
+  {
+    "expire": "2020-10-22T02:36:56.409Z",
+    "id": "pitching_stat_leaders_update",
+    "msg": "WHIP Leaders: ... Brock Forbes, Baltimore Crabs - 0.222 ..... Alexandria Rosales, Houston Spies - 0.333 ..... Jenkins Good, Canada Moist Talkers - 0.444 ..... Rafael Davids, Mexico City Wild Wings - 0.556 ..... Jaylen Hotdogfingers, Charleston Shoe Thieves - 0.556 ..... "
   },
   {
     "expire": null,
