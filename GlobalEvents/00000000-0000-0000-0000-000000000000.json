@@ -5,16 +5,6 @@
     "msg": "The Blooddrain gurgled! Cory Ross siphoned some of Esme Ramsey's defensive ability!"
   },
   {
-    "expire": "2020-10-22T22:34:30.935Z",
-    "id": "hitting_stat_leaders_update",
-    "msg": "Runs Batted In Leaders: ... Eduardo Woodman, Philly Pies - 8 ..... Igneus Delacruz, Hellmouth Sunbeams - 6 ..... Velasquez Alstott, Charleston Shoe Thieves - 5 ..... Hahn Fox, Hellmouth Sunbeams - 4 ..... Hendricks Richardson, Hellmouth Sunbeams - 4 ..... "
-  },
-  {
-    "expire": "2020-10-22T22:34:30.936Z",
-    "id": "pitching_stat_leaders_update",
-    "msg": "WHIP Leaders: ... Brock Forbes, Baltimore Crabs - 0.222 ..... Alexandria Rosales, Houston Spies - 0.333 ..... Jenkins Good, Canada Moist Talkers - 0.444 ..... Montgomery Bullock, Baltimore Crabs - 0.444 ..... Mummy Melcon, Hades Tigers - 0.611 ..... "
-  },
-  {
     "expire": "2020-10-16T01:01:16.555Z",
     "id": "7d2855cb-9357-4795-823a-b1c71daad85d",
     "msg": "The Blooddrain gurgled! Nagomi Mcdaniel siphoned some of Hendricks Richardson's defensive ability to add an Out!"
@@ -25,6 +15,11 @@
     "msg": "The Blooddrain gurgled! Halexandrey Walton siphoned some of Agan Harrison's baserunning ability to add a Ball!"
   },
   {
+    "expire": "2020-10-22T23:34:29.68Z",
+    "id": "hitting_stat_leaders_update",
+    "msg": "On Base Percentage Leaders: ... Richardson Games, Charleston Shoe Thieves - 1.000 ..... Howell Franklin, Charleston Shoe Thieves - 0.833 ..... Sebastian Woodman, Charleston Shoe Thieves - 0.786 ..... Jacob Haynes, Boston Flowers - 0.667 ..... Scores Baserunner, Boston Flowers - 0.667 ..... "
+  },
+  {
     "expire": "2020-10-15T21:45:56.708Z",
     "id": "04332d27-5efd-42e0-8ea7-437e2eb9f5f9",
     "msg": "The Blooddrain gurgled! Spears Taylor siphoned some of Sebastian Woodman's defensive ability to add an Out!"
@@ -33,6 +28,11 @@
     "expire": "2020-10-15T21:50:25.628Z",
     "id": "7e05d0b1-fb47-47c3-acc3-034ac21a90a3",
     "msg": "The Blooddrain gurgled! Spears Taylor siphoned some of Hotbox Sato's defensive ability!"
+  },
+  {
+    "expire": "2020-10-22T23:34:29.682Z",
+    "id": "pitching_stat_leaders_update",
+    "msg": "Pitcher Win Leaders: ... Sexton Wheerer, Unlimited Tacos - 3 ..... Mummy Melcon, Hades Tigers - 2 ..... Betsy Trombone, Seattle Garages - 2 ..... Brock Forbes, Baltimore Crabs - 2 ..... Zack Sanders, Hellmouth Sunbeams - 1 ..... "
   },
   {
     "expire": "2020-10-15T22:04:48.057Z",
