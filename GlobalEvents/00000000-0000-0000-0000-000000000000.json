@@ -15,16 +15,6 @@
     "msg": "The Blooddrain gurgled! Glabe Moon siphoned some of Malik Romayne's hitting ability!"
   },
   {
-    "expire": "2020-10-22T18:34:36.313Z",
-    "id": "hitting_stat_leaders_update",
-    "msg": "On Base Percentage Leaders: ... Sebastian Woodman, Charleston Shoe Thieves - 0.548 ..... Richardson Games, Charleston Shoe Thieves - 0.536 ..... Sandie Turner, New York Millennials - 0.532 ..... Esme Ramsey, Charleston Shoe Thieves - 0.517 ..... Commissioner Vapor, Canada Moist Talkers - 0.500 ..... "
-  },
-  {
-    "expire": "2020-10-22T18:34:36.314Z",
-    "id": "pitching_stat_leaders_update",
-    "msg": "Pitcher Win Leaders: ... Sexton Wheerer, Unlimited Tacos - 9 ..... Alexandria Rosales, Houston Spies - 4 ..... Karato Bean, Houston Spies - 4 ..... Rivers Clembons, Miami Dale - 4 ..... Penelope Mathews, New York Millennials - 4 ..... "
-  },
-  {
     "expire": "2020-10-15T21:05:28.324Z",
     "id": "044b09f7-a760-4015-bd0c-67ae476b158d",
     "msg": "The Blooddrain gurgled! Spears Taylor siphoned some of Sebastian Woodman's defensive ability!"
@@ -43,6 +33,16 @@
     "expire": "2020-10-15T21:50:25.628Z",
     "id": "7e05d0b1-fb47-47c3-acc3-034ac21a90a3",
     "msg": "The Blooddrain gurgled! Spears Taylor siphoned some of Hotbox Sato's defensive ability!"
+  },
+  {
+    "expire": "2020-10-22T19:53:56.052Z",
+    "id": "hitting_stat_leaders_update",
+    "msg": "Stolen Base Leaders: ... Richardson Games, Charleston Shoe Thieves - 33 ..... Aldon Cashmoney, Hades Tigers - 18 ..... Beck Whitney, Miami Dale - 16 ..... Hewitt Best, Kansas City Breath Mints - 16 ..... Don Mitchell, San Francisco Lovers - 16 ..... "
+  },
+  {
+    "expire": "2020-10-22T19:53:56.053Z",
+    "id": "pitching_stat_leaders_update",
+    "msg": "Pitcher Loss Leaders: ... Sexton Wheerer, Unlimited Tacos - 9 ..... Dunlap Figueroa, Hades Tigers - 5 ..... Sandoval Crossing, Hellmouth Sunbeams - 4 ..... Qais Dogwalker, Miami Dale - 4 ..... Burke Gonzales, Mexico City Wild Wings - 4 ..... "
   },
   {
     "expire": null,
