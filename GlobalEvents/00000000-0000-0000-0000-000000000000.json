@@ -1,18 +1,13 @@
 [
   {
-    "expire": "2020-10-15T19:05:53.587Z",
-    "id": "4fb4659f-7b7c-4735-88fe-d3e5def127d6",
-    "msg": "The Blooddrain gurgled! Halexandrey Walton siphoned some of Theo King's defensive ability to add an Out!"
+    "expire": "2020-10-22T21:41:19.833Z",
+    "id": "hitting_stat_leaders_update",
+    "msg": "Home Run Leaders: ... Igneus Delacruz, Hellmouth Sunbeams - 2 ..... Nagomi Nava, Hellmouth Sunbeams - 2 ..... Don Elliott, Miami Dale - 2 ..... Greer Gwiffin, Seattle Garages - 2 ..... Pudge Nakatamo, Kansas City Breath Mints - 2 ..... "
   },
   {
-    "expire": "2020-10-15T20:06:53.904Z",
-    "id": "386aa249-4ba2-459f-830d-c0c3288553cc",
-    "msg": "The Blooddrain gurgled! Glabe Moon siphoned some of Denzel Scott's defensive ability!"
-  },
-  {
-    "expire": "2020-10-15T20:15:04.646Z",
-    "id": "c3513454-dff0-4321-8903-a849a0d16f8c",
-    "msg": "The Blooddrain gurgled! Glabe Moon siphoned some of Malik Romayne's hitting ability!"
+    "expire": "2020-10-22T21:41:19.834Z",
+    "id": "pitching_stat_leaders_update",
+    "msg": "Earned Run Average Leaders: ... Yosh Carpenter, San Francisco Lovers - 0.000 ..... Brock Forbes, Baltimore Crabs - 0.000 ..... Mummy Melcon, Hades Tigers - 0.500 ..... Stevenson Heat, Hawai'i Fridays - 1.000 ..... Fitzgerald Wanderlust, Charleston Shoe Thieves - 1.038 ..... "
   },
   {
     "expire": "2020-10-15T21:45:56.708Z",
@@ -28,16 +23,6 @@
     "expire": "2020-10-15T22:04:48.057Z",
     "id": "40e435ee-baa9-405a-ad17-ddb61a3405f3",
     "msg": "The Blooddrain gurgled! Isaac Johnson siphoned some of Math Velazquez's defensive ability!"
-  },
-  {
-    "expire": "2020-10-22T21:34:39.208Z",
-    "id": "hitting_stat_leaders_update",
-    "msg": "Home Run Leaders: ... Margarito Nava, Boston Flowers - 12 ..... Valentine Games, Unlimited Tacos - 11 ..... Eduardo Woodman, Philly Pies - 11 ..... Nandy Fantastic, New York Millennials - 8 ..... Greer Gwiffin, Seattle Garages - 8 ..... "
-  },
-  {
-    "expire": "2020-10-22T21:34:39.21Z",
-    "id": "pitching_stat_leaders_update",
-    "msg": "Earned Run Average Leaders: ... Beasley Gloom, Canada Moist Talkers - 1.000 ..... Alexandria Rosales, Houston Spies - 1.400 ..... Mooney Doctor II, Kansas City Breath Mints - 1.500 ..... Winnie Hess, Kansas City Breath Mints - 1.500 ..... Owen Picklestein, Boston Flowers - 1.543 ..... "
   },
   {
     "expire": null,
