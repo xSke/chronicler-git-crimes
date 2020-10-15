@@ -1,5 +1,15 @@
 [
   {
+    "expire": "2020-10-22T15:31:20.75Z",
+    "id": "hitting_stat_leaders_update",
+    "msg": "Batting Average Leaders: ... Sandie Turner, New York Millennials - 0.508 ..... Commissioner Vapor, Canada Moist Talkers - 0.421 ..... Jacob Haynes, Boston Flowers - 0.417 ..... Rodriguez Internet, Kansas City Breath Mints - 0.413 ..... Yeong-Ho Benitez, Philly Pies - 0.400 ..... "
+  },
+  {
+    "expire": "2020-10-22T15:31:20.751Z",
+    "id": "pitching_stat_leaders_update",
+    "msg": "Strikeout Leaders: ... Sexton Wheerer, Unlimited Tacos - 76 ..... Henry Marshallow, Philly Pies - 42 ..... PolkaDot Patterson, Canada Moist Talkers - 39 ..... Sandoval Crossing, Hellmouth Sunbeams - 37 ..... Yosh Carpenter, San Francisco Lovers - 37 ..... "
+  },
+  {
     "expire": null,
     "id": "5603efa2-0b6c-11eb-9b23-1282b8cd3f6f",
     "msg": "We are all love blaseball"
@@ -13,15 +23,5 @@
     "expire": "2020-10-15T16:21:05.194Z",
     "id": "3f25f41d-784c-4ef1-8d62-c43d1a7eb377",
     "msg": "The Blooddrain gurgled! Halexandrey Walton siphoned some of Chambers Simmons's hitting ability to remove an Out!"
-  },
-  {
-    "expire": "2020-10-22T14:33:36.094Z",
-    "id": "hitting_stat_leaders_update",
-    "msg": "Stolen Base Leaders: ... Richardson Games, Charleston Shoe Thieves - 20 ..... Aldon Cashmoney, Hades Tigers - 18 ..... Richmond Harrison, Hades Tigers - 15 ..... Beck Whitney, Miami Dale - 12 ..... Hewitt Best, Kansas City Breath Mints - 12 ..... "
-  },
-  {
-    "expire": "2020-10-22T14:33:36.095Z",
-    "id": "pitching_stat_leaders_update",
-    "msg": "Pitcher Loss Leaders: ... Sexton Wheerer, Unlimited Tacos - 8 ..... Sandoval Crossing, Hellmouth Sunbeams - 3 ..... Burke Gonzales, Mexico City Wild Wings - 3 ..... Cory Twelve, Yellowstone Magic - 3 ..... Dunlap Figueroa, Hades Tigers - 3 ..... "
   }
 ]
