@@ -43,7 +43,7 @@
     "94baa9ac-ff96-4f56-a987-10358e917d91",
     "a5f8ce83-02b2-498c-9e48-533a1d81aebf"
   ],
-  "rotationSlot": 70,
+  "rotationSlot": 71,
   "seasAttr": [
     "EXTRA_BASE",
     "SHAME_PIT"
@@ -51,7 +51,7 @@
   "seasonShames": 1,
   "seasonShamings": 2,
   "secondaryColor": "#3ee652",
-  "shameRuns": 1,
+  "shameRuns": 0,
   "shorthand": "HF",
   "slogan": "It's Island Time!",
   "totalShames": 42,
