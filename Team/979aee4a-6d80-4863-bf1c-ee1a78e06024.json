@@ -48,13 +48,13 @@
     "EXTRA_BASE",
     "SHAME_PIT"
   ],
-  "seasonShames": 0,
+  "seasonShames": 1,
   "seasonShamings": 2,
   "secondaryColor": "#3ee652",
-  "shameRuns": 0,
+  "shameRuns": 1,
   "shorthand": "HF",
   "slogan": "It's Island Time!",
-  "totalShames": 41,
+  "totalShames": 42,
   "totalShamings": 29,
   "weekAttr": []
 }
