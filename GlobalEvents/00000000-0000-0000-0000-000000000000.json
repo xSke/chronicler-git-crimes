@@ -1,5 +1,10 @@
 [
   {
+    "expire": "2020-10-22T03:33:14.605Z",
+    "id": "pitching_stat_leaders_update",
+    "msg": "Pitcher Win Leaders: ... Sexton Wheerer, Unlimited Tacos - 2 ..... Eugenia Bickle, Hellmouth Sunbeams - 1 ..... Alexandria Rosales, Houston Spies - 1 ..... Karato Bean, Houston Spies - 1 ..... King Weatherman, Boston Flowers - 1 ..... "
+  },
+  {
     "expire": "2020-10-15T04:16:42.219Z",
     "id": "0d168970-2040-417e-b83b-8ee506d368f3",
     "msg": "The Blooddrain gurgled! Randy Dennis siphoned some of Moses Mason's defensive ability to add an Out!"
@@ -20,19 +25,14 @@
     "msg": "The Blooddrain gurgled! Dudley Mueller siphoned some of NaN's defensive ability!"
   },
   {
-    "expire": "2020-10-22T02:36:56.408Z",
-    "id": "hitting_stat_leaders_update",
-    "msg": "Runs Batted In Leaders: ... Howell Franklin, Charleston Shoe Thieves - 5 ..... Sigmund Castillo, Hellmouth Sunbeams - 4 ..... Nagomi Nava, Hellmouth Sunbeams - 4 ..... Brock Watson, Mexico City Wild Wings - 4 ..... Greer Gwiffin, Seattle Garages - 4 ..... "
-  },
-  {
-    "expire": "2020-10-22T02:36:56.409Z",
-    "id": "pitching_stat_leaders_update",
-    "msg": "WHIP Leaders: ... Brock Forbes, Baltimore Crabs - 0.222 ..... Alexandria Rosales, Houston Spies - 0.333 ..... Jenkins Good, Canada Moist Talkers - 0.444 ..... Rafael Davids, Mexico City Wild Wings - 0.556 ..... Jaylen Hotdogfingers, Charleston Shoe Thieves - 0.556 ..... "
-  },
-  {
     "expire": "2020-10-15T05:31:45.646Z",
     "id": "df234c0c-d05c-4e39-9c19-5d7e73c0ee61",
     "msg": "The Blooddrain gurgled! Cory Ross siphoned some of Sebastian Woodman's defensive ability to add an Out!"
+  },
+  {
+    "expire": "2020-10-22T03:33:14.605Z",
+    "id": "hitting_stat_leaders_update",
+    "msg": "On Base Percentage Leaders: ... Esme Ramsey, Charleston Shoe Thieves - 1.000 ..... Howell Franklin, Charleston Shoe Thieves - 0.818 ..... Sandie Turner, New York Millennials - 0.769 ..... Richardson Games, Charleston Shoe Thieves - 0.727 ..... Blood Hamburger, Charleston Shoe Thieves - 0.667 ..... "
   },
   {
     "expire": null,
