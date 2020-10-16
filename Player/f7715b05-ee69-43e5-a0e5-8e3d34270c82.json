@@ -35,7 +35,9 @@
   "pressurization": 0.4952517478218767,
   "ritual": "Dodging debt collectors",
   "ruthlessness": 0.9586864273489096,
-  "seasAttr": [],
+  "seasAttr": [
+    "FRIEND_OF_CROWS"
+  ],
   "shakespearianism": 0.6790135321964024,
   "soul": 3,
   "suppression": 0.9979348921731352,

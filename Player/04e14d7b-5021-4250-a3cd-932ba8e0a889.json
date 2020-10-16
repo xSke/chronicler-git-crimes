@@ -11,7 +11,7 @@
   "coffee": 8,
   "coldness": 0.9014797005763427,
   "continuation": 0.17330417141476118,
-  "deceased": false,
+  "deceased": true,
   "defenseRating": 0.4554263403959212,
   "divinity": 0.12639401612629375,
   "fate": 10,
@@ -31,10 +31,9 @@
   "patheticism": 0.7661289986744477,
   "peanutAllergy": false,
   "permAttr": [
-    "RETURNED",
-    "FLICKERING",
     "WILD",
-    "FRIEND_OF_CROWS"
+    "FRIEND_OF_CROWS",
+    "FLIICKERRRIIING"
   ],
   "pitchingRating": 0.8318316474288293,
   "pressurization": 0.3628148179494586,

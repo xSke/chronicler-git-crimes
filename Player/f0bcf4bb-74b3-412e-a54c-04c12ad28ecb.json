@@ -35,7 +35,9 @@
   "pressurization": 0.6097971828349589,
   "ritual": "Kissing up to ownership",
   "ruthlessness": 0.978716702284184,
-  "seasAttr": [],
+  "seasAttr": [
+    "FRIEND_OF_CROWS"
+  ],
   "shakespearianism": 0.464694140179297,
   "soul": 7,
   "suppression": 0.909924472365132,
