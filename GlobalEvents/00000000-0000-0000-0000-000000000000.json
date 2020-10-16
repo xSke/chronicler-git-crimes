@@ -1,18 +1,18 @@
 [
   {
-    "expire": "2020-10-23T06:53:30.719Z",
+    "expire": "2020-10-23T07:30:08.06Z",
+    "id": "hitting_stat_leaders_update",
+    "msg": "Home Run Leaders: ... Cannonball Sports, Miami Dale - 3 ..... Lawrence Horne, Mexico City Wild Wings - 3 ..... Eduardo Woodman, Philly Pies - 3 ..... Howell Franklin, Charleston Shoe Thieves - 3 ..... Theodore Holloway, Houston Spies - 2 ..... "
+  },
+  {
+    "expire": "2020-10-23T07:30:08.061Z",
     "id": "pitching_stat_leaders_update",
-    "msg": "Strikeout Leaders: ... PolkaDot Patterson, Canada Moist Talkers - 26 ..... Sandoval Crossing, Hellmouth Sunbeams - 19 ..... Yosh Carpenter, San Francisco Lovers - 18 ..... Alexandria Rosales, Houston Spies - 16 ..... Yeong-Ho Garcia, Yellowstone Magic - 16 ..... "
+    "msg": "Earned Run Average Leaders: ... Zack Sanders, Hellmouth Sunbeams - 0.000 ..... Orville Manco, Dallas Steaks - 0.000 ..... Nicholas Mora, Philly Pies - 0.000 ..... Brock Forbes, Baltimore Crabs - 0.000 ..... Yosh Carpenter, San Francisco Lovers - 0.500 ..... "
   },
   {
     "expire": "2020-10-16T08:07:03.731Z",
     "id": "a4cfe2f3-201d-43bb-9b52-7bf81e85267d",
     "msg": "The Blooddrain gurgled! Beans McBlase siphoned some of Bates Bentley's defensive ability to add an Out!"
-  },
-  {
-    "expire": "2020-10-23T06:53:30.718Z",
-    "id": "hitting_stat_leaders_update",
-    "msg": "Batting Average Leaders: ... Howell Franklin, Charleston Shoe Thieves - 0.800 ..... Rodriguez Internet, Kansas City Breath Mints - 0.625 ..... Cell Barajas, Mexico City Wild Wings - 0.571 ..... Fish Summer, Canada Moist Talkers - 0.571 ..... Oliver Mueller, Seattle Garages - 0.571 ..... "
   },
   {
     "expire": null,
