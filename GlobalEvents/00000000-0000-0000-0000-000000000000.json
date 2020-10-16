@@ -10,19 +10,9 @@
     "msg": "The Blooddrain gurgled! Spears Taylor siphoned some of Hotbox Sato's defensive ability!"
   },
   {
-    "expire": "2020-10-23T00:31:07.681Z",
-    "id": "hitting_stat_leaders_update",
-    "msg": "Stolen Base Leaders: ... Richardson Games, Charleston Shoe Thieves - 13 ..... Aldon Cashmoney, Hades Tigers - 11 ..... Beck Whitney, Miami Dale - 5 ..... Beasley Day, Philly Pies - 5 ..... Forrest Best, Baltimore Crabs - 5 ..... "
-  },
-  {
     "expire": "2020-10-15T22:04:48.057Z",
     "id": "40e435ee-baa9-405a-ad17-ddb61a3405f3",
     "msg": "The Blooddrain gurgled! Isaac Johnson siphoned some of Math Velazquez's defensive ability!"
-  },
-  {
-    "expire": "2020-10-23T00:31:07.682Z",
-    "id": "pitching_stat_leaders_update",
-    "msg": "Pitcher Loss Leaders: ... Sandoval Crossing, Hellmouth Sunbeams - 1 ..... Eugenia Bickle, Hellmouth Sunbeams - 1 ..... Lars Taylor, Hellmouth Sunbeams - 1 ..... Miguel James, Hellmouth Sunbeams - 1 ..... Marco Escobar, Houston Spies - 1 ..... "
   },
   {
     "expire": "2020-10-16T03:01:01.62Z",
@@ -48,6 +38,16 @@
     "expire": "2020-10-16T03:24:27.68Z",
     "id": "8db294f7-0260-46b4-b08a-07f6614f9483",
     "msg": "The Blooddrain gurgled! Richmond Harrison siphoned some of Bates Bentley's defensive ability to add a Strike!"
+  },
+  {
+    "expire": "2020-10-23T01:34:07.099Z",
+    "id": "hitting_stat_leaders_update",
+    "msg": "Batting Average Leaders: ... Scores Baserunner, Boston Flowers - 0.500 ..... Rodriguez Internet, Kansas City Breath Mints - 0.478 ..... Fish Summer, Canada Moist Talkers - 0.471 ..... Caleb Novak, Miami Dale - 0.455 ..... Eduardo Woodman, Philly Pies - 0.444 ..... "
+  },
+  {
+    "expire": "2020-10-23T01:34:07.101Z",
+    "id": "pitching_stat_leaders_update",
+    "msg": "Strikeout Leaders: ... PolkaDot Patterson, Canada Moist Talkers - 31 ..... Mummy Melcon, Hades Tigers - 26 ..... Sexton Wheerer, Unlimited Tacos - 25 ..... Betsy Trombone, Seattle Garages - 22 ..... Brock Forbes, Baltimore Crabs - 19 ..... "
   },
   {
     "expire": null,
