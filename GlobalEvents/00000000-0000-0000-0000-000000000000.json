@@ -1,18 +1,8 @@
 [
   {
-    "expire": "2020-10-15T21:45:56.708Z",
-    "id": "04332d27-5efd-42e0-8ea7-437e2eb9f5f9",
-    "msg": "The Blooddrain gurgled! Spears Taylor siphoned some of Sebastian Woodman's defensive ability to add an Out!"
-  },
-  {
-    "expire": "2020-10-15T21:50:25.628Z",
-    "id": "7e05d0b1-fb47-47c3-acc3-034ac21a90a3",
-    "msg": "The Blooddrain gurgled! Spears Taylor siphoned some of Hotbox Sato's defensive ability!"
-  },
-  {
-    "expire": "2020-10-15T22:04:48.057Z",
-    "id": "40e435ee-baa9-405a-ad17-ddb61a3405f3",
-    "msg": "The Blooddrain gurgled! Isaac Johnson siphoned some of Math Velazquez's defensive ability!"
+    "expire": "2020-10-23T06:53:30.719Z",
+    "id": "pitching_stat_leaders_update",
+    "msg": "Strikeout Leaders: ... PolkaDot Patterson, Canada Moist Talkers - 26 ..... Sandoval Crossing, Hellmouth Sunbeams - 19 ..... Yosh Carpenter, San Francisco Lovers - 18 ..... Alexandria Rosales, Houston Spies - 16 ..... Yeong-Ho Garcia, Yellowstone Magic - 16 ..... "
   },
   {
     "expire": "2020-10-16T08:07:03.731Z",
@@ -20,14 +10,9 @@
     "msg": "The Blooddrain gurgled! Beans McBlase siphoned some of Bates Bentley's defensive ability to add an Out!"
   },
   {
-    "expire": "2020-10-23T06:27:30.189Z",
+    "expire": "2020-10-23T06:53:30.718Z",
     "id": "hitting_stat_leaders_update",
-    "msg": "Batting Average Leaders: ... Rodriguez Internet, Kansas City Breath Mints - 0.435 ..... Quack Enjoyable, Seattle Garages - 0.413 ..... Yeong-Ho Benitez, Philly Pies - 0.400 ..... Nagomi Mcdaniel, Baltimore Crabs - 0.400 ..... Castillo Turner, Boston Flowers - 0.387 ..... "
-  },
-  {
-    "expire": "2020-10-23T06:27:30.19Z",
-    "id": "pitching_stat_leaders_update",
-    "msg": "Strikeout Leaders: ... Sexton Wheerer, Unlimited Tacos - 53 ..... PolkaDot Patterson, Canada Moist Talkers - 42 ..... Mummy Melcon, Hades Tigers - 33 ..... Betsy Trombone, Seattle Garages - 31 ..... Henry Marshallow, Philly Pies - 27 ..... "
+    "msg": "Batting Average Leaders: ... Howell Franklin, Charleston Shoe Thieves - 0.800 ..... Rodriguez Internet, Kansas City Breath Mints - 0.625 ..... Cell Barajas, Mexico City Wild Wings - 0.571 ..... Fish Summer, Canada Moist Talkers - 0.571 ..... Oliver Mueller, Seattle Garages - 0.571 ..... "
   },
   {
     "expire": null,
