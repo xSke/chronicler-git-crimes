@@ -18,7 +18,7 @@
   "gameAttr": [],
   "groundFriction": 0.04832686093163649,
   "hitStreak": 0,
-  "hittingRating": 0.4889873742990876,
+  "hittingRating": 0.48871091088087265,
   "id": "5dbf11c0-994a-4482-bd1e-99379148ee45",
   "indulgence": 1.0012381237817534,
   "laserlikeness": 0.5361326067825283,
@@ -42,7 +42,7 @@
   "tenaciousness": 0.7186669227806641,
   "thwackability": 0.6816702759902991,
   "totalFingers": 10,
-  "tragicness": 0.04763468239057719,
+  "tragicness": 0.1,
   "unthwackability": 0.4828063265317911,
   "watchfulness": 0.6185370390401826,
   "weekAttr": []
