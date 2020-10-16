@@ -20,16 +20,6 @@
     "msg": "The Blooddrain gurgled! Spears Taylor siphoned some of Grey Alvarado's defensive ability to add an Out!"
   },
   {
-    "expire": "2020-10-23T09:46:24.466Z",
-    "id": "hitting_stat_leaders_update",
-    "msg": "On Base Percentage Leaders: ... Jacob Haynes, Boston Flowers - 1.111 ..... Margarito Nava, Boston Flowers - 0.750 ..... Rodriguez Internet, Kansas City Breath Mints - 0.750 ..... Math Velazquez, Houston Spies - 0.632 ..... Beck Whitney, Miami Dale - 0.625 ..... "
-  },
-  {
-    "expire": "2020-10-23T09:46:24.466Z",
-    "id": "pitching_stat_leaders_update",
-    "msg": "Pitcher Win Leaders: ... Sexton Wheerer, Unlimited Tacos - 2 ..... Mummy Melcon, Hades Tigers - 2 ..... PolkaDot Patterson, Canada Moist Talkers - 2 ..... Henry Marshallow, Philly Pies - 2 ..... Fitzgerald Wanderlust, Charleston Shoe Thieves - 2 ..... "
-  },
-  {
     "expire": "2020-10-16T12:00:20.932Z",
     "id": "05064762-e0a6-4d16-9253-113f54341294",
     "msg": "The Blooddrain gurgled! Jordan Hildebert siphoned some of Silvia Rugrat's pitching ability to add a Strike!"
@@ -38,6 +28,16 @@
     "expire": "2020-10-16T12:14:27.412Z",
     "id": "24bda832-c7c2-462a-838b-31ad6e5a1975",
     "msg": "The Blooddrain gurgled! Dudley Mueller siphoned some of Baby Urlacher's defensive ability to add an Out!"
+  },
+  {
+    "expire": "2020-10-23T10:36:50.039Z",
+    "id": "hitting_stat_leaders_update",
+    "msg": "Stolen Base Leaders: ... Richardson Games, Charleston Shoe Thieves - 11 ..... Beck Whitney, Miami Dale - 8 ..... Conner Haley, Dallas Steaks - 8 ..... Sutton Picklestein, Yellowstone Magic - 5 ..... Aldon Cashmoney, Hades Tigers - 5 ..... "
+  },
+  {
+    "expire": "2020-10-23T10:36:50.039Z",
+    "id": "pitching_stat_leaders_update",
+    "msg": "Pitcher Loss Leaders: ... Sexton Wheerer, Unlimited Tacos - 3 ..... Sandoval Crossing, Hellmouth Sunbeams - 2 ..... Rivers Clembons, Miami Dale - 2 ..... Yeong-Ho Garcia, Yellowstone Magic - 2 ..... Theodore Cervantes, New York Millennials - 2 ..... "
   },
   {
     "expire": null,
