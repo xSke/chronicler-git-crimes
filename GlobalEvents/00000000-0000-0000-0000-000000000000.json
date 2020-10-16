@@ -5,24 +5,24 @@
     "msg": "The Blooddrain gurgled! Glabe Moon siphoned some of Avila Guzman's defensive ability to add a Strike!"
   },
   {
-    "expire": "2020-10-23T11:37:45.674Z",
-    "id": "hitting_stat_leaders_update",
-    "msg": "Batting Average Leaders: ... Math Velazquez, Houston Spies - 0.519 ..... Jacob Haynes, Boston Flowers - 0.500 ..... Richmond Harrison, Hades Tigers - 0.471 ..... Nagomi Mcdaniel, Baltimore Crabs - 0.452 ..... Knight Urlacher, San Francisco Lovers - 0.448 ..... "
-  },
-  {
-    "expire": "2020-10-23T11:37:45.676Z",
-    "id": "pitching_stat_leaders_update",
-    "msg": "Strikeout Leaders: ... PolkaDot Patterson, Canada Moist Talkers - 39 ..... Sexton Wheerer, Unlimited Tacos - 37 ..... Sandoval Crossing, Hellmouth Sunbeams - 35 ..... Betsy Trombone, Seattle Garages - 30 ..... Burke Gonzales, Mexico City Wild Wings - 28 ..... "
-  },
-  {
     "expire": "2020-10-16T14:05:08.13Z",
     "id": "cad3bf53-60e2-47ae-9082-b636f544c103",
     "msg": "The Blooddrain gurgled! Isaac Johnson siphoned some of Kathy Mathews's defensive ability to add an Out!"
   },
   {
+    "expire": "2020-10-23T12:38:20.721Z",
+    "id": "hitting_stat_leaders_update",
+    "msg": "Home Run Leaders: ... Nerd Pacheco, Hellmouth Sunbeams - 5 ..... Avila Guzman, Miami Dale - 5 ..... Sutton Bishop, Hellmouth Sunbeams - 4 ..... Nagomi Nava, Hellmouth Sunbeams - 4 ..... Cannonball Sports, Miami Dale - 4 ..... "
+  },
+  {
     "expire": "2020-10-16T08:07:03.731Z",
     "id": "a4cfe2f3-201d-43bb-9b52-7bf81e85267d",
     "msg": "The Blooddrain gurgled! Beans McBlase siphoned some of Bates Bentley's defensive ability to add an Out!"
+  },
+  {
+    "expire": "2020-10-23T12:38:20.722Z",
+    "id": "pitching_stat_leaders_update",
+    "msg": "Earned Run Average Leaders: ... Jordan Hildebert, Houston Spies - 0.000 ..... Mooney Doctor, Canada Moist Talkers - 0.000 ..... Mooney Doctor II, Kansas City Breath Mints - 0.000 ..... PolkaDot Zavala, Kansas City Breath Mints - 0.000 ..... Jaylen Hotdogfingers, Charleston Shoe Thieves - 0.000 ..... "
   },
   {
     "expire": "2020-10-16T13:02:56.919Z",
