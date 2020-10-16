@@ -1,15 +1,5 @@
 [
   {
-    "expire": "2020-10-23T16:28:34.826Z",
-    "id": "hitting_stat_leaders_update",
-    "msg": "Batting Average Leaders: ... Jacob Haynes, Boston Flowers - 0.531 ..... Math Velazquez, Houston Spies - 0.490 ..... Fish Summer, Canada Moist Talkers - 0.465 ..... Eugenia Garbage, Canada Moist Talkers - 0.423 ..... Oliver Notarobot, Seattle Garages - 0.412 ..... "
-  },
-  {
-    "expire": "2020-10-23T16:28:34.828Z",
-    "id": "pitching_stat_leaders_update",
-    "msg": "Strikeout Leaders: ... Sexton Wheerer, Unlimited Tacos - 56 ..... Sandoval Crossing, Hellmouth Sunbeams - 47 ..... PolkaDot Patterson, Canada Moist Talkers - 46 ..... Yosh Carpenter, San Francisco Lovers - 38 ..... Burke Gonzales, Mexico City Wild Wings - 35 ..... "
-  },
-  {
     "expire": "2020-10-16T19:04:33.357Z",
     "id": "43d7b773-c239-4262-8442-34894714cc12",
     "msg": "The Blooddrain gurgled! Knight Urlacher siphoned some of Pedro Davids's defensive ability!"
@@ -23,6 +13,16 @@
     "expire": "2020-10-16T19:13:26.264Z",
     "id": "2ba976eb-d69e-4f47-b2a3-ebdc45e1f810",
     "msg": "The Blooddrain gurgled! Knight Urlacher siphoned some of Sutton Dreamy's defensive ability to add an Out!"
+  },
+  {
+    "expire": "2020-10-23T17:28:55.368Z",
+    "id": "hitting_stat_leaders_update",
+    "msg": "Home Run Leaders: ... Avila Guzman, Miami Dale - 7 ..... Halexandrey Walton, Unlimited Tacos - 7 ..... Nerd Pacheco, Hellmouth Sunbeams - 6 ..... Nagomi Nava, Hellmouth Sunbeams - 6 ..... Cannonball Sports, Miami Dale - 6 ..... "
+  },
+  {
+    "expire": "2020-10-23T17:28:55.369Z",
+    "id": "pitching_stat_leaders_update",
+    "msg": "Earned Run Average Leaders: ... Jordan Hildebert, Houston Spies - 0.000 ..... Jaylen Hotdogfingers, Charleston Shoe Thieves - 0.000 ..... Brock Forbes, Baltimore Crabs - 0.250 ..... PolkaDot Patterson, Canada Moist Talkers - 0.505 ..... Yosh Carpenter, San Francisco Lovers - 0.947 ..... "
   },
   {
     "expire": "2020-10-16T08:07:03.731Z",
