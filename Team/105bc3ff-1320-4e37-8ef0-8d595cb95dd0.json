@@ -52,13 +52,13 @@
     "SHAME_PIT",
     "PARTY_TIME"
   ],
-  "seasonShames": 3,
+  "seasonShames": 4,
   "seasonShamings": 6,
   "secondaryColor": "#5a83ea",
-  "shameRuns": 0,
+  "shameRuns": 2,
   "shorthand": "SEA",
   "slogan": "Smells like Team Spirit.",
-  "totalShames": 41,
+  "totalShames": 42,
   "totalShamings": 37,
   "weekAttr": []
 }
