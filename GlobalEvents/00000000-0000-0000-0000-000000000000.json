@@ -15,6 +15,16 @@
     "msg": "The Blooddrain gurgled! Glabe Moon siphoned some of Summers Preston's defensive ability!"
   },
   {
+    "expire": "2020-10-23T14:50:11.432Z",
+    "id": "hitting_stat_leaders_update",
+    "msg": "On Base Percentage Leaders: ... Jacob Haynes, Boston Flowers - 0.731 ..... Math Velazquez, Houston Spies - 0.581 ..... Knight Urlacher, San Francisco Lovers - 0.575 ..... Rodriguez Internet, Kansas City Breath Mints - 0.571 ..... Beck Whitney, Miami Dale - 0.514 ..... "
+  },
+  {
+    "expire": "2020-10-23T14:50:11.433Z",
+    "id": "pitching_stat_leaders_update",
+    "msg": "Pitcher Win Leaders: ... Sexton Wheerer, Unlimited Tacos - 5 ..... Hiroto Wilcox, Hades Tigers - 3 ..... PolkaDot Patterson, Canada Moist Talkers - 3 ..... Henry Marshallow, Philly Pies - 3 ..... Yosh Carpenter, San Francisco Lovers - 3 ..... "
+  },
+  {
     "expire": "2020-10-16T08:07:03.731Z",
     "id": "a4cfe2f3-201d-43bb-9b52-7bf81e85267d",
     "msg": "The Blooddrain gurgled! Beans McBlase siphoned some of Bates Bentley's defensive ability to add an Out!"
@@ -23,16 +33,6 @@
     "expire": "2020-10-16T15:10:30.434Z",
     "id": "7c7c0215-88b7-4224-b0ab-5e546fb94f54",
     "msg": "The Blooddrain gurgled! Randy Dennis siphoned some of Owen Picklestein's hitting ability to remove an Out!"
-  },
-  {
-    "expire": "2020-10-23T13:43:14.347Z",
-    "id": "hitting_stat_leaders_update",
-    "msg": "Runs Batted In Leaders: ... Avila Guzman, Miami Dale - 16 ..... Aldon Cashmoney, Hades Tigers - 14 ..... Nagomi Mcdaniel, Baltimore Crabs - 14 ..... Cannonball Sports, Miami Dale - 12 ..... Forrest Best, Baltimore Crabs - 11 ..... "
-  },
-  {
-    "expire": "2020-10-23T13:43:14.348Z",
-    "id": "pitching_stat_leaders_update",
-    "msg": "WHIP Leaders: ... Brock Forbes, Baltimore Crabs - 0.370 ..... Gabriel Griffith, Hawai'i Fridays - 0.480 ..... Jaylen Hotdogfingers, Charleston Shoe Thieves - 0.500 ..... Yosh Carpenter, San Francisco Lovers - 0.517 ..... King Weatherman, Boston Flowers - 0.556 ..... "
   },
   {
     "expire": null,
