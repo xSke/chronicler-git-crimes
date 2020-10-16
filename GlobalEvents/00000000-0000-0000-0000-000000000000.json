@@ -30,14 +30,14 @@
     "msg": "The Blooddrain gurgled! Richmond Harrison siphoned some of Summers Pony's defensive ability to add a Strike!"
   },
   {
-    "expire": "2020-10-23T04:44:58.322Z",
+    "expire": "2020-10-23T05:30:46.977Z",
     "id": "hitting_stat_leaders_update",
-    "msg": "On Base Percentage Leaders: ... Richardson Games, Charleston Shoe Thieves - 0.625 ..... Howell Franklin, Charleston Shoe Thieves - 0.563 ..... Gloria Bugsnax, Boston Flowers - 0.545 ..... Jacob Haynes, Boston Flowers - 0.542 ..... Quack Enjoyable, Seattle Garages - 0.541 ..... "
+    "msg": "Stolen Base Leaders: ... Aldon Cashmoney, Hades Tigers - 21 ..... Richardson Games, Charleston Shoe Thieves - 15 ..... Forrest Best, Baltimore Crabs - 10 ..... Paula Mason, Hades Tigers - 9 ..... Beck Whitney, Miami Dale - 8 ..... "
   },
   {
-    "expire": "2020-10-23T04:44:58.323Z",
+    "expire": "2020-10-23T05:30:46.977Z",
     "id": "pitching_stat_leaders_update",
-    "msg": "Pitcher Win Leaders: ... Sexton Wheerer, Unlimited Tacos - 6 ..... Brock Forbes, Baltimore Crabs - 3 ..... Zack Sanders, Hellmouth Sunbeams - 2 ..... Alexandria Rosales, Houston Spies - 2 ..... Qais Dogwalker, Miami Dale - 2 ..... "
+    "msg": "Pitcher Loss Leaders: ... Sixpack Santiago, Miami Dale - 3 ..... Sexton Wheerer, Unlimited Tacos - 3 ..... Sandoval Crossing, Hellmouth Sunbeams - 2 ..... Lars Taylor, Hellmouth Sunbeams - 2 ..... Marco Escobar, Houston Spies - 2 ..... "
   },
   {
     "expire": null,
