@@ -48,13 +48,13 @@
     "SHAME_PIT",
     "PARTY_TIME"
   ],
-  "seasonShames": 4,
+  "seasonShames": 5,
   "seasonShamings": 6,
   "secondaryColor": "#7ba9d7",
-  "shameRuns": 0,
+  "shameRuns": 1,
   "shorthand": "BJAZ",
   "slogan": "We’ve Got Winning to Do. Just for You.",
-  "totalShames": 49,
+  "totalShames": 50,
   "totalShamings": 36,
   "weekAttr": []
 }
