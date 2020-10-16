@@ -15,19 +15,19 @@
     "msg": "The Blooddrain gurgled! Isaac Johnson siphoned some of Math Velazquez's defensive ability!"
   },
   {
-    "expire": "2020-10-23T05:30:46.977Z",
-    "id": "hitting_stat_leaders_update",
-    "msg": "Stolen Base Leaders: ... Aldon Cashmoney, Hades Tigers - 21 ..... Richardson Games, Charleston Shoe Thieves - 15 ..... Forrest Best, Baltimore Crabs - 10 ..... Paula Mason, Hades Tigers - 9 ..... Beck Whitney, Miami Dale - 8 ..... "
-  },
-  {
-    "expire": "2020-10-23T05:30:46.977Z",
-    "id": "pitching_stat_leaders_update",
-    "msg": "Pitcher Loss Leaders: ... Sixpack Santiago, Miami Dale - 3 ..... Sexton Wheerer, Unlimited Tacos - 3 ..... Sandoval Crossing, Hellmouth Sunbeams - 2 ..... Lars Taylor, Hellmouth Sunbeams - 2 ..... Marco Escobar, Houston Spies - 2 ..... "
-  },
-  {
     "expire": "2020-10-16T08:07:03.731Z",
     "id": "a4cfe2f3-201d-43bb-9b52-7bf81e85267d",
     "msg": "The Blooddrain gurgled! Beans McBlase siphoned some of Bates Bentley's defensive ability to add an Out!"
+  },
+  {
+    "expire": "2020-10-23T06:27:30.189Z",
+    "id": "hitting_stat_leaders_update",
+    "msg": "Batting Average Leaders: ... Rodriguez Internet, Kansas City Breath Mints - 0.435 ..... Quack Enjoyable, Seattle Garages - 0.413 ..... Yeong-Ho Benitez, Philly Pies - 0.400 ..... Nagomi Mcdaniel, Baltimore Crabs - 0.400 ..... Castillo Turner, Boston Flowers - 0.387 ..... "
+  },
+  {
+    "expire": "2020-10-23T06:27:30.19Z",
+    "id": "pitching_stat_leaders_update",
+    "msg": "Strikeout Leaders: ... Sexton Wheerer, Unlimited Tacos - 53 ..... PolkaDot Patterson, Canada Moist Talkers - 42 ..... Mummy Melcon, Hades Tigers - 33 ..... Betsy Trombone, Seattle Garages - 31 ..... Henry Marshallow, Philly Pies - 27 ..... "
   },
   {
     "expire": null,
