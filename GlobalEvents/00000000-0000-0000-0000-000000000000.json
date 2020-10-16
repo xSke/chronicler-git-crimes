@@ -1,15 +1,5 @@
 [
   {
-    "expire": "2020-10-23T02:31:43.595Z",
-    "id": "hitting_stat_leaders_update",
-    "msg": "Home Run Leaders: ... Eduardo Woodman, Philly Pies - 7 ..... Beasley Day, Philly Pies - 4 ..... Jaxon Buckley, Philly Pies - 4 ..... Randy Dennis, Miami Dale - 3 ..... Beck Whitney, Miami Dale - 3 ..... "
-  },
-  {
-    "expire": "2020-10-23T02:31:43.596Z",
-    "id": "pitching_stat_leaders_update",
-    "msg": "Earned Run Average Leaders: ... Mooney Doctor, Canada Moist Talkers - 0.000 ..... Edric Tosser, Chicago Firefighters - 0.000 ..... Brock Forbes, Baltimore Crabs - 0.000 ..... Hiroto Wilcox, Hades Tigers - 0.500 ..... Yosh Carpenter, San Francisco Lovers - 0.500 ..... "
-  },
-  {
     "expire": "2020-10-16T05:00:51.352Z",
     "id": "80334808-4e21-423b-91c7-7d2f7ffe552b",
     "msg": "The Blooddrain gurgled! Halexandrey Walton siphoned some of Nic Winkler's defensive ability to add an Out!"
@@ -48,6 +38,16 @@
     "expire": "2020-10-15T22:04:48.057Z",
     "id": "40e435ee-baa9-405a-ad17-ddb61a3405f3",
     "msg": "The Blooddrain gurgled! Isaac Johnson siphoned some of Math Velazquez's defensive ability!"
+  },
+  {
+    "expire": "2020-10-23T03:33:40.047Z",
+    "id": "hitting_stat_leaders_update",
+    "msg": "Runs Batted In Leaders: ... Eduardo Woodman, Philly Pies - 18 ..... Kennedy Loser, Baltimore Crabs - 13 ..... Nagomi Mcdaniel, Baltimore Crabs - 12 ..... Hahn Fox, Hellmouth Sunbeams - 9 ..... Don Mitchell, San Francisco Lovers - 9 ..... "
+  },
+  {
+    "expire": "2020-10-23T03:33:40.048Z",
+    "id": "pitching_stat_leaders_update",
+    "msg": "WHIP Leaders: ... Brock Forbes, Baltimore Crabs - 0.333 ..... Finn James, Baltimore Crabs - 0.333 ..... Campos Arias, Breckenridge Jazz Hands - 0.375 ..... Jenkins Good, Canada Moist Talkers - 0.389 ..... Betsy Trombone, Seattle Garages - 0.556 ..... "
   },
   {
     "expire": "2020-10-16T04:10:15.582Z",
