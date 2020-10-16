@@ -49,13 +49,13 @@
     "SHAME_PIT",
     "PARTY_TIME"
   ],
-  "seasonShames": 4,
+  "seasonShames": 5,
   "seasonShamings": 2,
   "secondaryColor": "#b2b3b5",
-  "shameRuns": 0,
+  "shameRuns": 1,
   "shorthand": "DAL",
   "slogan": "Well Done.",
-  "totalShames": 36,
+  "totalShames": 37,
   "totalShamings": 48,
   "weekAttr": []
 }
