@@ -46,7 +46,8 @@
   "rotationSlot": 81,
   "seasAttr": [
     "EXTRA_BASE",
-    "SHAME_PIT"
+    "SHAME_PIT",
+    "PARTY_TIME"
   ],
   "seasonShames": 2,
   "seasonShamings": 2,
