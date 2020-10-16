@@ -50,13 +50,13 @@
     "EXTRA_BASE",
     "PARTY_TIME"
   ],
-  "seasonShames": 4,
+  "seasonShames": 5,
   "seasonShamings": 0,
   "secondaryColor": "#fffbab",
-  "shameRuns": 0,
+  "shameRuns": 2,
   "shorthand": "SUN",
   "slogan": "Stare into the Sun...",
-  "totalShames": 44,
+  "totalShames": 45,
   "totalShamings": 27,
   "weekAttr": []
 }
