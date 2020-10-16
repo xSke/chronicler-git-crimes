@@ -1,5 +1,15 @@
 [
   {
+    "expire": "2020-10-23T02:31:43.595Z",
+    "id": "hitting_stat_leaders_update",
+    "msg": "Home Run Leaders: ... Eduardo Woodman, Philly Pies - 7 ..... Beasley Day, Philly Pies - 4 ..... Jaxon Buckley, Philly Pies - 4 ..... Randy Dennis, Miami Dale - 3 ..... Beck Whitney, Miami Dale - 3 ..... "
+  },
+  {
+    "expire": "2020-10-23T02:31:43.596Z",
+    "id": "pitching_stat_leaders_update",
+    "msg": "Earned Run Average Leaders: ... Mooney Doctor, Canada Moist Talkers - 0.000 ..... Edric Tosser, Chicago Firefighters - 0.000 ..... Brock Forbes, Baltimore Crabs - 0.000 ..... Hiroto Wilcox, Hades Tigers - 0.500 ..... Yosh Carpenter, San Francisco Lovers - 0.500 ..... "
+  },
+  {
     "expire": "2020-10-15T21:45:56.708Z",
     "id": "04332d27-5efd-42e0-8ea7-437e2eb9f5f9",
     "msg": "The Blooddrain gurgled! Spears Taylor siphoned some of Sebastian Woodman's defensive ability to add an Out!"
@@ -38,16 +48,6 @@
     "expire": "2020-10-16T03:24:27.68Z",
     "id": "8db294f7-0260-46b4-b08a-07f6614f9483",
     "msg": "The Blooddrain gurgled! Richmond Harrison siphoned some of Bates Bentley's defensive ability to add a Strike!"
-  },
-  {
-    "expire": "2020-10-23T01:34:07.099Z",
-    "id": "hitting_stat_leaders_update",
-    "msg": "Batting Average Leaders: ... Scores Baserunner, Boston Flowers - 0.500 ..... Rodriguez Internet, Kansas City Breath Mints - 0.478 ..... Fish Summer, Canada Moist Talkers - 0.471 ..... Caleb Novak, Miami Dale - 0.455 ..... Eduardo Woodman, Philly Pies - 0.444 ..... "
-  },
-  {
-    "expire": "2020-10-23T01:34:07.101Z",
-    "id": "pitching_stat_leaders_update",
-    "msg": "Strikeout Leaders: ... PolkaDot Patterson, Canada Moist Talkers - 31 ..... Mummy Melcon, Hades Tigers - 26 ..... Sexton Wheerer, Unlimited Tacos - 25 ..... Betsy Trombone, Seattle Garages - 22 ..... Brock Forbes, Baltimore Crabs - 19 ..... "
   },
   {
     "expire": "2020-10-16T04:10:15.582Z",
