@@ -5,6 +5,16 @@
     "msg": "The Blooddrain gurgled! Glabe Moon siphoned some of Avila Guzman's defensive ability to add a Strike!"
   },
   {
+    "expire": "2020-10-23T11:37:45.674Z",
+    "id": "hitting_stat_leaders_update",
+    "msg": "Batting Average Leaders: ... Math Velazquez, Houston Spies - 0.519 ..... Jacob Haynes, Boston Flowers - 0.500 ..... Richmond Harrison, Hades Tigers - 0.471 ..... Nagomi Mcdaniel, Baltimore Crabs - 0.452 ..... Knight Urlacher, San Francisco Lovers - 0.448 ..... "
+  },
+  {
+    "expire": "2020-10-23T11:37:45.676Z",
+    "id": "pitching_stat_leaders_update",
+    "msg": "Strikeout Leaders: ... PolkaDot Patterson, Canada Moist Talkers - 39 ..... Sexton Wheerer, Unlimited Tacos - 37 ..... Sandoval Crossing, Hellmouth Sunbeams - 35 ..... Betsy Trombone, Seattle Garages - 30 ..... Burke Gonzales, Mexico City Wild Wings - 28 ..... "
+  },
+  {
     "expire": "2020-10-16T08:07:03.731Z",
     "id": "a4cfe2f3-201d-43bb-9b52-7bf81e85267d",
     "msg": "The Blooddrain gurgled! Beans McBlase siphoned some of Bates Bentley's defensive ability to add an Out!"
@@ -18,16 +28,6 @@
     "expire": "2020-10-16T12:14:27.412Z",
     "id": "24bda832-c7c2-462a-838b-31ad6e5a1975",
     "msg": "The Blooddrain gurgled! Dudley Mueller siphoned some of Baby Urlacher's defensive ability to add an Out!"
-  },
-  {
-    "expire": "2020-10-23T10:36:50.039Z",
-    "id": "hitting_stat_leaders_update",
-    "msg": "Stolen Base Leaders: ... Richardson Games, Charleston Shoe Thieves - 11 ..... Beck Whitney, Miami Dale - 8 ..... Conner Haley, Dallas Steaks - 8 ..... Sutton Picklestein, Yellowstone Magic - 5 ..... Aldon Cashmoney, Hades Tigers - 5 ..... "
-  },
-  {
-    "expire": "2020-10-23T10:36:50.039Z",
-    "id": "pitching_stat_leaders_update",
-    "msg": "Pitcher Loss Leaders: ... Sexton Wheerer, Unlimited Tacos - 3 ..... Sandoval Crossing, Hellmouth Sunbeams - 2 ..... Rivers Clembons, Miami Dale - 2 ..... Yeong-Ho Garcia, Yellowstone Magic - 2 ..... Theodore Cervantes, New York Millennials - 2 ..... "
   },
   {
     "expire": "2020-10-16T13:02:56.919Z",
