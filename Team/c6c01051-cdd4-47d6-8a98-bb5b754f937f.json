@@ -1,0 +1,50 @@
+{
+  "bench": [],
+  "bullpen": [],
+  "championships": 0,
+  "emoji": "0x1F991",
+  "fullName": "The Hall Stars",
+  "gameAttr": [],
+  "id": "c6c01051-cdd4-47d6-8a98-bb5b754f937f",
+  "lineup": [
+    "493a83de-6bcf-41a1-97dd-cc5e150548a3",
+    "d74a2473-1f29-40fa-a41e-66fa2281dfca",
+    "8604e861-d784-43f0-b0f8-0d43ea6f7814",
+    "bd4c6837-eeaa-4675-ae48-061efa0fd11a",
+    "31f83a89-44e3-47b7-8c9e-0dfdcd8bd30f",
+    "7310c32f-8f32-40f2-b086-54555a2c0e86",
+    "14d88771-7a96-48aa-ba59-07bae1733e96",
+    "18798b8f-6391-4cb2-8a5f-6fb540d646d5",
+    "4941976e-31fc-49b5-801a-18abe072178b",
+    "98a98014-9636-4ece-a46a-4625b47c65d5",
+    "afc90398-b891-4cdf-9dea-af8a3a79d793",
+    "f7715b05-ee69-43e5-a0e5-8e3d34270c82",
+    "25376b55-bb6f-48a7-9381-7b8210842fad"
+  ],
+  "location": "The Hall",
+  "mainColor": "#5988ff",
+  "nickname": "Hall Stars",
+  "permAttr": [
+    "SQUIDDEST",
+    "UNFLAMED",
+    "TRIBUTE",
+    "LOYALTY",
+    "ESCAPE",
+    "CONTAINMENT"
+  ],
+  "rotation": [
+    "04e14d7b-5021-4250-a3cd-932ba8e0a889"
+  ],
+  "rotationSlot": 0,
+  "seasAttr": [],
+  "seasonShames": 0,
+  "seasonShamings": 0,
+  "secondaryColor": "#5988ff",
+  "shameRuns": 0,
+  "shorthand": "TheH",
+  "slogan": "Hey now, you're a Hall Star",
+  "teamSpirit": 1,
+  "totalShames": 0,
+  "totalShamings": 0,
+  "weekAttr": []
+}
