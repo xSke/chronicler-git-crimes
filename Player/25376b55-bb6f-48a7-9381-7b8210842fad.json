@@ -11,7 +11,7 @@
   "coffee": 8,
   "coldness": 0.6870883456957735,
   "continuation": 0.1756278714829369,
-  "deceased": true,
+  "deceased": false,
   "defenseRating": 0.291180467710743,
   "divinity": 0.8333763809952872,
   "fate": 29,
@@ -30,7 +30,9 @@
   "overpowerment": 0.7989239259689733,
   "patheticism": 0.6559136004687005,
   "peanutAllergy": true,
-  "permAttr": [],
+  "permAttr": [
+    "SQUIDDISH"
+  ],
   "pitchingRating": 0.09570954289128254,
   "pressurization": 0.9069812269588736,
   "ritual": "Opening up the pit",

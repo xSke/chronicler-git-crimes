@@ -11,7 +11,7 @@
   "coffee": 8,
   "coldness": 0.7967379785486801,
   "continuation": 0.10255863901104025,
-  "deceased": true,
+  "deceased": false,
   "defenseRating": 0.6691804607091796,
   "divinity": 0.3425084098163682,
   "fate": 47,
@@ -30,7 +30,9 @@
   "overpowerment": 0.6125757652443082,
   "patheticism": 0.12097247703608628,
   "peanutAllergy": true,
-  "permAttr": [],
+  "permAttr": [
+    "SQUIDDISH"
+  ],
   "pitchingRating": 0.6911795074907824,
   "pressurization": 0.4952517478218767,
   "ritual": "Dodging debt collectors",

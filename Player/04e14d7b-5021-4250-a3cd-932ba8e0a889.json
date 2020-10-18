@@ -11,7 +11,7 @@
   "coffee": 8,
   "coldness": 0.9014797005763427,
   "continuation": 0.17330417141476118,
-  "deceased": true,
+  "deceased": false,
   "defenseRating": 0.4554263403959212,
   "divinity": 0.12639401612629375,
   "fate": 10,
@@ -33,7 +33,8 @@
   "permAttr": [
     "WILD",
     "FRIEND_OF_CROWS",
-    "FLIICKERRRIIING"
+    "FLIICKERRRIIING",
+    "SQUIDDISH"
   ],
   "pitchingRating": 0.8318316474288293,
   "pressurization": 0.3628148179494586,

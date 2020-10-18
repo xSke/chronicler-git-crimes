@@ -11,7 +11,7 @@
   "coffee": 11,
   "coldness": 0.393512918180827,
   "continuation": 0.4696139116904363,
-  "deceased": true,
+  "deceased": false,
   "defenseRating": 0.29643001145053577,
   "divinity": 0.1157765461957839,
   "fate": 68,
@@ -31,7 +31,8 @@
   "patheticism": 0.537219839199374,
   "peanutAllergy": false,
   "permAttr": [
-    "ALTERNATE"
+    "ALTERNATE",
+    "SQUIDDISH"
   ],
   "pitchingRating": 0.5276400304349067,
   "pressurization": 0.46979471189615896,
