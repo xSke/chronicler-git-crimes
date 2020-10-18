@@ -30,7 +30,9 @@
   "overpowerment": 0.8183885591895397,
   "patheticism": 0.9176643964027588,
   "peanutAllergy": true,
-  "permAttr": [],
+  "permAttr": [
+    "REPEATING"
+  ],
   "pitchingRating": 0.1440622706855421,
   "pressurization": 0.13619251185564565,
   "ritual": "Grooming",

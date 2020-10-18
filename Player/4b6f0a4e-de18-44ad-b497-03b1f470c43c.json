@@ -32,7 +32,8 @@
   "peanutAllergy": true,
   "permAttr": [
     "ALTERNATE",
-    "FIRE_EATER"
+    "FIRE_EATER",
+    "REPEATING"
   ],
   "pitchingRating": 0.4689931549822372,
   "pressurization": 0.09845690110078112,

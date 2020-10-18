@@ -30,7 +30,9 @@
   "overpowerment": 0.8260435415986972,
   "patheticism": 0.5097830626593688,
   "peanutAllergy": false,
-  "permAttr": [],
+  "permAttr": [
+    "REPEATING"
+  ],
   "pitchingRating": 0.44112038530916303,
   "pressurization": 0.19174640935235124,
   "ritual": "Talking to god",

@@ -1,6 +1,6 @@
 {
   "anticapitalism": 0.21819302523557568,
-  "armor": "",
+  "armor": "HEADPHONES",
   "baseThirst": 0.9965541410759006,
   "baserunningRating": 0.22849884607860504,
   "bat": "",
@@ -31,7 +31,8 @@
   "patheticism": 0.01,
   "peanutAllergy": true,
   "permAttr": [
-    "FLINCH"
+    "FLINCH",
+    "HAUNTED"
   ],
   "pitchingRating": 0.47867290087153985,
   "pressurization": 0.5195664478482989,

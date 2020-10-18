@@ -30,7 +30,9 @@
   "overpowerment": 0.24511308441002425,
   "patheticism": 0.7194818136469769,
   "peanutAllergy": true,
-  "permAttr": [],
+  "permAttr": [
+    "REPEATING"
+  ],
   "pitchingRating": 0.3775355035726477,
   "pressurization": 0.8064601195290763,
   "ritual": "Rage",
