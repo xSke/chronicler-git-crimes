@@ -14,7 +14,7 @@
   "deceased": false,
   "defenseRating": 0.8682288631869919,
   "divinity": 0.35225361197729477,
-  "fate": 59,
+  "fate": 12,
   "gameAttr": [],
   "groundFriction": 0.8818945269381331,
   "hitStreak": 0,
@@ -49,6 +49,6 @@
   "unthwackability": 1.3087018521578744,
   "watchfulness": 1.05833337358486,
   "weekAttr": [
-    "SABOTEUR"
+    "LIBERATED"
   ]
 }
