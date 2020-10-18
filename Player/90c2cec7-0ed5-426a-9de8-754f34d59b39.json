@@ -30,7 +30,9 @@
   "overpowerment": 0.08934638537427936,
   "patheticism": 0.33478614508501436,
   "peanutAllergy": false,
-  "permAttr": [],
+  "permAttr": [
+    "FLINCH"
+  ],
   "pitchingRating": 0.4215659125600151,
   "pressurization": 0.1967169760847065,
   "ritual": "Smoke Cleansing",

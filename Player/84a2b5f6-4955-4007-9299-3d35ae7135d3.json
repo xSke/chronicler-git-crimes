@@ -30,7 +30,9 @@
   "overpowerment": 0.29032596572441205,
   "patheticism": 0.01,
   "peanutAllergy": false,
-  "permAttr": [],
+  "permAttr": [
+    "FLINCH"
+  ],
   "pitchingRating": 0.7287022760716193,
   "pressurization": 0.45612744390847126,
   "ritual": "Tarot",

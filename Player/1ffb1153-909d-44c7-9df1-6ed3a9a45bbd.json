@@ -31,7 +31,8 @@
   "patheticism": 0.01,
   "peanutAllergy": false,
   "permAttr": [
-    "FRIEND_OF_CROWS"
+    "FRIEND_OF_CROWS",
+    "WILD"
   ],
   "pitchingRating": 0.6833615399282265,
   "pressurization": 0.33838804525950206,

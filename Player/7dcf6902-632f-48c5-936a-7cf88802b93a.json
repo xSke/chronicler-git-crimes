@@ -30,7 +30,9 @@
   "overpowerment": 0.6495953324654846,
   "patheticism": 0.8485169579715954,
   "peanutAllergy": false,
-  "permAttr": [],
+  "permAttr": [
+    "FLINCH"
+  ],
   "pitchingRating": 0.30853882471432215,
   "pressurization": 0.44295933110478813,
   "ritual": "Mourning",

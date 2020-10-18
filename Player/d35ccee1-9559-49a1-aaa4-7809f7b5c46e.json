@@ -30,7 +30,9 @@
   "overpowerment": 0.8834891099986169,
   "patheticism": 0.4871488950894235,
   "peanutAllergy": true,
-  "permAttr": [],
+  "permAttr": [
+    "FLINCH"
+  ],
   "pitchingRating": 1.1313705534119458,
   "pressurization": 0.006728126764180775,
   "ritual": "Doing crimes",

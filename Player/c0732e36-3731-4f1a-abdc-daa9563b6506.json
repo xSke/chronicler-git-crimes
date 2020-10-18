@@ -33,7 +33,8 @@
   "permAttr": [
     "SUPERALLERGIC",
     "SIPHON",
-    "FIRE_EATER"
+    "FIRE_EATER",
+    "FLINCH"
   ],
   "pitchingRating": 1.1375661567178148,
   "pressurization": 0.572681607691041,

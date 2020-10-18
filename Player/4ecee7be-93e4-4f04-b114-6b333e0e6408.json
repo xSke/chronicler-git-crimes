@@ -30,7 +30,9 @@
   "overpowerment": 0.2232863031099032,
   "patheticism": 0.504573407485704,
   "peanutAllergy": false,
-  "permAttr": [],
+  "permAttr": [
+    "FLINCH"
+  ],
   "pitchingRating": 0.4732852997602255,
   "pressurization": 0.11439430032032694,
   "ritual": "Questioning everything",

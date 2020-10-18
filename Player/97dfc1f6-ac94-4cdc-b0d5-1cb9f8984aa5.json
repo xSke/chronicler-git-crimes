@@ -30,7 +30,9 @@
   "overpowerment": 0.3220308720293187,
   "patheticism": 0.3376029085797788,
   "peanutAllergy": true,
-  "permAttr": [],
+  "permAttr": [
+    "WILD"
+  ],
   "pitchingRating": 0.7387286499361487,
   "pressurization": 0.49843552394620527,
   "ritual": "Playing fetch",

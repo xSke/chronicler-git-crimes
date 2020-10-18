@@ -30,7 +30,9 @@
   "overpowerment": 0.9471020273511032,
   "patheticism": 0.926332166229461,
   "peanutAllergy": true,
-  "permAttr": [],
+  "permAttr": [
+    "WILD"
+  ],
   "pitchingRating": 0.6568783081463693,
   "pressurization": 0.6821710922051616,
   "ritual": "Having an epiphany",

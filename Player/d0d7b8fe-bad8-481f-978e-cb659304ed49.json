@@ -30,7 +30,9 @@
   "overpowerment": 0.19077801392672833,
   "patheticism": 0.13891439815619075,
   "peanutAllergy": true,
-  "permAttr": [],
+  "permAttr": [
+    "WILD"
+  ],
   "pitchingRating": 0.5931367978789444,
   "pressurization": 0.6889340729236781,
   "ritual": "Nursing a grudge",

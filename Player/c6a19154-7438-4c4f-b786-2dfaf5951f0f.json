@@ -30,7 +30,9 @@
   "overpowerment": 0.9659426524569464,
   "patheticism": 0.04841050071044717,
   "peanutAllergy": false,
-  "permAttr": [],
+  "permAttr": [
+    "FLINCH"
+  ],
   "pitchingRating": 0.2652171808711711,
   "pressurization": 0.39393407677432024,
   "ritual": "Astrology",

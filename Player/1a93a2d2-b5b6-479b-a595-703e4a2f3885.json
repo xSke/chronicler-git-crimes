@@ -30,7 +30,9 @@
   "overpowerment": 0.4945939634134616,
   "patheticism": 0.6007252406024599,
   "peanutAllergy": true,
-  "permAttr": [],
+  "permAttr": [
+    "FLINCH"
+  ],
   "pitchingRating": 0.5187319715618599,
   "pressurization": 0.905892757793139,
   "ritual": "Bragging",
