@@ -14,7 +14,7 @@
   "deceased": false,
   "defenseRating": 0.8682288631869919,
   "divinity": 0.35225361197729477,
-  "fate": 20,
+  "fate": 64,
   "gameAttr": [],
   "groundFriction": 0.8818945269381331,
   "hitStreak": 0,
@@ -31,7 +31,8 @@
   "patheticism": 0.19205201434874183,
   "peanutAllergy": true,
   "permAttr": [
-    "HONEY_ROASTED"
+    "HONEY_ROASTED",
+    "SQUIDDISH"
   ],
   "pitchingRating": 1.188556332333526,
   "pressurization": 0.3729562413771852,
