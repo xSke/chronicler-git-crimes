@@ -43,7 +43,9 @@
     "cfb42325-592a-4119-9b40-4cdc19959b09"
   ],
   "rotationSlot": 0,
-  "seasAttr": [],
+  "seasAttr": [
+    "FAIRNESS"
+  ],
   "seasonShames": 0,
   "seasonShamings": 0,
   "secondaryColor": "#e830ab",

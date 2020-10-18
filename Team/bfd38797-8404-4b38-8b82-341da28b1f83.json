@@ -48,7 +48,8 @@
   "rotationSlot": 0,
   "seasAttr": [
     "TRAVELING",
-    "EXTRA_STRIKE"
+    "EXTRA_STRIKE",
+    "FAIRNESS"
   ],
   "seasonShames": 0,
   "seasonShamings": 0,
