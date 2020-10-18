@@ -36,7 +36,8 @@
   "nickname": "Tigers",
   "permAttr": [
     "BLOOD_DONOR",
-    "FIREPROOF"
+    "FIREPROOF",
+    "SEALANT"
   ],
   "rotation": [
     "1db2f602-64b1-4a5c-8697-1932cc2c6df1",
@@ -46,7 +47,6 @@
   ],
   "rotationSlot": 0,
   "seasAttr": [
-    "SEALANT",
     "FAIRNESS"
   ],
   "seasonShames": 0,

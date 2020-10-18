@@ -35,7 +35,8 @@
   "mainColor": "#ffd4d8",
   "nickname": "Millennials",
   "permAttr": [
-    "BLOOD_PITY"
+    "BLOOD_PITY",
+    "BIRD_SEED"
   ],
   "rotation": [
     "ae4acebd-edb5-4d20-bf69-f2d5151312ff",
@@ -47,7 +48,6 @@
   ],
   "rotationSlot": 0,
   "seasAttr": [
-    "BIRD_SEED",
     "FAIRNESS"
   ],
   "seasonShames": 0,

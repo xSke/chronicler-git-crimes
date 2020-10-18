@@ -36,7 +36,8 @@
   "mainColor": "#ffce0a",
   "nickname": "Shoe Thieves",
   "permAttr": [
-    "BLOOD_THIEF"
+    "BLOOD_THIEF",
+    "TRAVELING"
   ],
   "rotation": [
     "f0594932-8ef7-4d70-9894-df4be64875d8",
@@ -47,7 +48,6 @@
   ],
   "rotationSlot": 0,
   "seasAttr": [
-    "TRAVELING",
     "EXTRA_STRIKE",
     "FAIRNESS"
   ],
