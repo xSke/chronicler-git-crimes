@@ -34,7 +34,8 @@
   "mainColor": "#bf0043",
   "nickname": "Magic",
   "permAttr": [
-    "BLOOD_THIEF"
+    "BLOOD_THIEF",
+    "O_NO"
   ],
   "rotation": [
     "9397ed91-608e-4b13-98ea-e94c795f651e",

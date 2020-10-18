@@ -46,7 +46,10 @@
     "5e4dfa16-f1b9-400f-b8ef-a1613c2b026a"
   ],
   "rotationSlot": 0,
-  "seasAttr": [],
+  "seasAttr": [
+    "TRAVELING",
+    "EXTRA_STRIKE"
+  ],
   "seasonShames": 0,
   "seasonShamings": 0,
   "secondaryColor": "#ffce0a",

@@ -35,7 +35,8 @@
   "mainColor": "#5c1c1c",
   "nickname": "Tigers",
   "permAttr": [
-    "BLOOD_DONOR"
+    "BLOOD_DONOR",
+    "FIREPROOF"
   ],
   "rotation": [
     "1db2f602-64b1-4a5c-8697-1932cc2c6df1",
@@ -44,7 +45,9 @@
     "b3e512df-c411-4100-9544-0ceadddb28cf"
   ],
   "rotationSlot": 0,
-  "seasAttr": [],
+  "seasAttr": [
+    "SEALANT"
+  ],
   "seasonShames": 0,
   "seasonShamings": 0,
   "secondaryColor": "#e83622",

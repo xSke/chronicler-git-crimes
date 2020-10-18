@@ -47,7 +47,9 @@
     "30218684-7fa1-41a5-a3b3-5d9cd97dd36b"
   ],
   "rotationSlot": 0,
-  "seasAttr": [],
+  "seasAttr": [
+    "WALK_IN_THE_PARK"
+  ],
   "seasonShames": 0,
   "seasonShamings": 0,
   "secondaryColor": "#9e82a4",
