@@ -48,16 +48,17 @@
   "rotationSlot": 111,
   "seasAttr": [
     "EXTRA_BASE",
-    "SHAME_PIT"
+    "SHAME_PIT",
+    "PARTY_TIME"
   ],
-  "seasonShames": 4,
+  "seasonShames": 5,
   "seasonShamings": 8,
   "secondaryColor": "#ffce0a",
-  "shameRuns": 0,
+  "shameRuns": 1,
   "shorthand": "CHST",
   "slogan": "Your Kicks are My Kicks.",
   "teamSpirit": 0,
-  "totalShames": 48,
+  "totalShames": 49,
   "totalShamings": 26,
   "weekAttr": []
 }
