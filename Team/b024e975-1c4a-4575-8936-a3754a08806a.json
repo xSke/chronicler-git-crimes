@@ -35,7 +35,8 @@
   "mainColor": "#8c8d8f",
   "nickname": "Steaks",
   "permAttr": [
-    "BLOOD_DONOR"
+    "BLOOD_DONOR",
+    "FAIRNESS"
   ],
   "rotation": [
     "b7ca8f3f-2fdc-477b-84f4-157f2802e9b5",
@@ -45,9 +46,7 @@
     "3a96d76a-c508-45a0-94a0-8f64cd6beeb4"
   ],
   "rotationSlot": 0,
-  "seasAttr": [
-    "FAIRNESS"
-  ],
+  "seasAttr": [],
   "seasonShames": 0,
   "seasonShamings": 0,
   "secondaryColor": "#b2b3b5",

@@ -34,7 +34,9 @@
   "location": "Tokyo",
   "mainColor": "#e830ab",
   "nickname": "Lift",
-  "permAttr": [],
+  "permAttr": [
+    "FAIRNESS"
+  ],
   "rotation": [
     "62ae6aa9-e346-4faa-b07c-1f7623580015",
     "c549f280-82ba-4d8e-a4ce-c49e56461fb6",
@@ -43,9 +45,7 @@
     "cfb42325-592a-4119-9b40-4cdc19959b09"
   ],
   "rotationSlot": 0,
-  "seasAttr": [
-    "FAIRNESS"
-  ],
+  "seasAttr": [],
   "seasonShames": 0,
   "seasonShamings": 0,
   "secondaryColor": "#e830ab",

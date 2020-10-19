@@ -37,7 +37,8 @@
   "nickname": "Lovers",
   "permAttr": [
     "BLOOD_PITY",
-    "LOVE"
+    "LOVE",
+    "FAIRNESS"
   ],
   "rotation": [
     "3c331c87-1634-46c4-87ce-e4b9c59e2969",
@@ -48,9 +49,7 @@
     "04e14d7b-5021-4250-a3cd-932ba8e0a889"
   ],
   "rotationSlot": 0,
-  "seasAttr": [
-    "FAIRNESS"
-  ],
+  "seasAttr": [],
   "seasonShames": 0,
   "seasonShamings": 0,
   "secondaryColor": "#da0000",

@@ -37,7 +37,8 @@
   "nickname": "Shoe Thieves",
   "permAttr": [
     "BLOOD_THIEF",
-    "TRAVELING"
+    "TRAVELING",
+    "FAIRNESS"
   ],
   "rotation": [
     "f0594932-8ef7-4d70-9894-df4be64875d8",
@@ -48,8 +49,7 @@
   ],
   "rotationSlot": 0,
   "seasAttr": [
-    "EXTRA_STRIKE",
-    "FAIRNESS"
+    "EXTRA_STRIKE"
   ],
   "seasonShames": 0,
   "seasonShamings": 0,

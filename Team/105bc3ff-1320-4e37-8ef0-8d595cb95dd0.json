@@ -36,7 +36,8 @@
   "mainColor": "#2b4075",
   "nickname": "Garages",
   "permAttr": [
-    "BLOOD_DONOR"
+    "BLOOD_DONOR",
+    "FAIRNESS"
   ],
   "rotation": [
     "1732e623-ffc2-40f0-87ba-fdcf97131f1f",
@@ -48,9 +49,7 @@
     "de21c97e-f575-43b7-8be7-ecc5d8c4eaff"
   ],
   "rotationSlot": 0,
-  "seasAttr": [
-    "FAIRNESS"
-  ],
+  "seasAttr": [],
   "seasonShames": 0,
   "seasonShamings": 0,
   "secondaryColor": "#5a83ea",

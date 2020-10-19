@@ -37,7 +37,8 @@
   "mainColor": "#67556b",
   "nickname": "Spies",
   "permAttr": [
-    "BLOOD_WINNER"
+    "BLOOD_WINNER",
+    "FAIRNESS"
   ],
   "rotation": [
     "e111a46d-5ada-4311-ac4f-175cca3357da",
@@ -48,8 +49,7 @@
   ],
   "rotationSlot": 0,
   "seasAttr": [
-    "WALK_IN_THE_PARK",
-    "FAIRNESS"
+    "WALK_IN_THE_PARK"
   ],
   "seasonShames": 0,
   "seasonShamings": 0,

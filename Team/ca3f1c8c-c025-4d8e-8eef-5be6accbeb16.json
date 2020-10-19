@@ -37,7 +37,8 @@
   "mainColor": "#8c2a3e",
   "nickname": "Firefighters",
   "permAttr": [
-    "BLOOD_PITY"
+    "BLOOD_PITY",
+    "FAIRNESS"
   ],
   "rotation": [
     "e4e4c17d-8128-4704-9e04-f244d4573c4d",
@@ -47,9 +48,7 @@
     "d23a1f7e-0071-444e-8361-6ae01f13036f"
   ],
   "rotationSlot": 0,
-  "seasAttr": [
-    "FAIRNESS"
-  ],
+  "seasAttr": [],
   "seasonShames": 0,
   "seasonShamings": 0,
   "secondaryColor": "#d13757",

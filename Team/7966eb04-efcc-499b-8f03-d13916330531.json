@@ -35,7 +35,8 @@
   "nickname": "Magic",
   "permAttr": [
     "BLOOD_THIEF",
-    "O_NO"
+    "O_NO",
+    "FAIRNESS"
   ],
   "rotation": [
     "9397ed91-608e-4b13-98ea-e94c795f651e",
@@ -45,9 +46,7 @@
     "2da49de2-34e5-49d0-b752-af2a2ee061be"
   ],
   "rotationSlot": 0,
-  "seasAttr": [
-    "FAIRNESS"
-  ],
+  "seasAttr": [],
   "seasonShames": 0,
   "seasonShamings": 0,
   "secondaryColor": "#f60f63",

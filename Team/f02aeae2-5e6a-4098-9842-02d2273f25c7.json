@@ -37,7 +37,8 @@
   "nickname": "Sunbeams",
   "permAttr": [
     "BLOOD_WINNER",
-    "BASE_INSTINCTS"
+    "BASE_INSTINCTS",
+    "FAIRNESS"
   ],
   "rotation": [
     "5703141c-25d9-46d0-b680-0cf9cfbf4777",
@@ -49,8 +50,7 @@
   "rotationSlot": 0,
   "seasAttr": [
     "EXTRA_STRIKE",
-    "WALK_IN_THE_PARK",
-    "FAIRNESS"
+    "WALK_IN_THE_PARK"
   ],
   "seasonShames": 0,
   "seasonShamings": 0,

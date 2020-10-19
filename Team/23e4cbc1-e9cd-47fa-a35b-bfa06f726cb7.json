@@ -35,7 +35,8 @@
   "nickname": "Pies",
   "permAttr": [
     "BLOOD_THIEF",
-    "AFFINITY_FOR_CROWS"
+    "AFFINITY_FOR_CROWS",
+    "FAIRNESS"
   ],
   "rotation": [
     "c6e2e389-ed04-4626-a5ba-fe398fe89568",
@@ -45,9 +46,7 @@
     "80dff591-2393-448a-8d88-122bd424fa4c"
   ],
   "rotationSlot": 0,
-  "seasAttr": [
-    "FAIRNESS"
-  ],
+  "seasAttr": [],
   "seasonShames": 0,
   "seasonShamings": 0,
   "secondaryColor": "#58c3b4",

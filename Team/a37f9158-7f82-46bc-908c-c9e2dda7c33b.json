@@ -34,7 +34,8 @@
   "mainColor": "#6388ad",
   "nickname": "Jazz Hands",
   "permAttr": [
-    "BLOOD_PITY"
+    "BLOOD_PITY",
+    "FAIRNESS"
   ],
   "rotation": [
     "0295c6c2-b33c-47dd-affa-349da7fa1760",
@@ -45,9 +46,7 @@
     "ea44bd36-65b4-4f3b-ac71-78d87a540b48"
   ],
   "rotationSlot": 0,
-  "seasAttr": [
-    "FAIRNESS"
-  ],
+  "seasAttr": [],
   "seasonShames": 0,
   "seasonShamings": 0,
   "secondaryColor": "#7ba9d7",
