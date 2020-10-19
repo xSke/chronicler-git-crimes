@@ -8,5 +8,15 @@
     "expire": "2020-10-25T19:00:00.726Z",
     "id": "WHERE_THEY_GO",
     "msg": "Where did the Crabs go?"
+  },
+  {
+    "expire": "2020-10-26T16:30:27.794Z",
+    "id": "hitting_stat_leaders_update",
+    "msg": "Batting Average Leaders: ... Jenna Maldonado, Charleston Shoe Thieves - 1.000 ..... Avila Guzman, Miami Dale - 1.000 ..... Sigmund Castillo, Hellmouth Sunbeams - 0.833 ..... Greer Gwiffin, Seattle Garages - 0.800 ..... Malik Destiny, Seattle Garages - 0.800 ..... "
+  },
+  {
+    "expire": "2020-10-26T16:30:27.795Z",
+    "id": "pitching_stat_leaders_update",
+    "msg": "Strikeout Leaders: ... PolkaDot Patterson, Canada Moist Talkers - 14 ..... Theodore Cervantes, New York Millennials - 12 ..... Montgomery Bullock, Hawai'i Fridays - 8 ..... Burke Gonzales, Mexico City Wild Wings - 8 ..... Alexandria Rosales, Houston Spies - 8 ..... "
   }
 ]
