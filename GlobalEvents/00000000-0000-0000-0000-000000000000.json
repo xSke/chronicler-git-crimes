@@ -1,5 +1,15 @@
 [
   {
+    "expire": "2020-10-26T17:31:50.569Z",
+    "id": "hitting_stat_leaders_update",
+    "msg": "Home Run Leaders: ... Vito Kravitz, Unlimited Tacos - 3 ..... Ren Hunter, New York Millennials - 2 ..... Marco Stink, Kansas City Breath Mints - 2 ..... Helga Washington, Kansas City Breath Mints - 2 ..... Conner Haley, Dallas Steaks - 2 ..... "
+  },
+  {
+    "expire": "2020-10-26T17:31:50.571Z",
+    "id": "pitching_stat_leaders_update",
+    "msg": "Earned Run Average Leaders: ... Yosh Carpenter, San Francisco Lovers - 0.000 ..... Betsy Trombone, Seattle Garages - 0.000 ..... Orville Manco, Dallas Steaks - 1.000 ..... Hiroto Wilcox, Hades Tigers - 1.000 ..... Alexandria Rosales, Houston Spies - 1.000 ..... "
+  },
+  {
     "expire": null,
     "id": "e8812720-10e2-11eb-ac29-1282b8cd3f6f",
     "msg": "⚠️ ️THE COMMISSIONER IS DOING A GREAT JOB ⚠️"
@@ -8,15 +18,5 @@
     "expire": "2020-10-25T19:00:00.726Z",
     "id": "WHERE_THEY_GO",
     "msg": "Where did the Crabs go?"
-  },
-  {
-    "expire": "2020-10-26T16:30:27.794Z",
-    "id": "hitting_stat_leaders_update",
-    "msg": "Batting Average Leaders: ... Jenna Maldonado, Charleston Shoe Thieves - 1.000 ..... Avila Guzman, Miami Dale - 1.000 ..... Sigmund Castillo, Hellmouth Sunbeams - 0.833 ..... Greer Gwiffin, Seattle Garages - 0.800 ..... Malik Destiny, Seattle Garages - 0.800 ..... "
-  },
-  {
-    "expire": "2020-10-26T16:30:27.795Z",
-    "id": "pitching_stat_leaders_update",
-    "msg": "Strikeout Leaders: ... PolkaDot Patterson, Canada Moist Talkers - 14 ..... Theodore Cervantes, New York Millennials - 12 ..... Montgomery Bullock, Hawai'i Fridays - 8 ..... Burke Gonzales, Mexico City Wild Wings - 8 ..... Alexandria Rosales, Houston Spies - 8 ..... "
   }
 ]
