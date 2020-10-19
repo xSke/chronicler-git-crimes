@@ -1,13 +1,13 @@
 [
   {
-    "expire": "2020-10-26T21:58:56.944Z",
+    "expire": "2020-10-26T22:40:02.133Z",
     "id": "hitting_stat_leaders_update",
-    "msg": "Batting Average Leaders: ... Jenna Maldonado, Charleston Shoe Thieves - 1.000 ..... August Sky, Dallas Steaks - 0.750 ..... Avila Guzman, Miami Dale - 0.714 ..... Conner Haley, Dallas Steaks - 0.667 ..... Lotus Mango, Tokyo Lift - 0.667 ..... "
+    "msg": "Home Run Leaders: ... Conner Haley, Dallas Steaks - 5 ..... August Sky, Dallas Steaks - 5 ..... Kline Greenlemon, Dallas Steaks - 4 ..... Dickerson Morse, Dallas Steaks - 4 ..... Cory Ross, Dallas Steaks - 3 ..... "
   },
   {
-    "expire": "2020-10-26T21:58:56.946Z",
+    "expire": "2020-10-26T22:40:02.135Z",
     "id": "pitching_stat_leaders_update",
-    "msg": "Strikeout Leaders: ... PolkaDot Patterson, Canada Moist Talkers - 22 ..... Sandoval Crossing, Hellmouth Sunbeams - 17 ..... Burke Gonzales, Mexico City Wild Wings - 16 ..... Yeong-Ho Garcia, Yellowstone Magic - 15 ..... Theodore Cervantes, New York Millennials - 12 ..... "
+    "msg": "Earned Run Average Leaders: ... Nicholas Mora, Philly Pies - 0.000 ..... Betsy Trombone, Seattle Garages - 0.000 ..... Pitching Machine, Seattle Garages - 1.000 ..... Gunther O'Brian, Charleston Shoe Thieves - 1.385 ..... Burke Gonzales, Mexico City Wild Wings - 1.500 ..... "
   },
   {
     "expire": null,
