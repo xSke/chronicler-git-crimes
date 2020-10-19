@@ -1,168 +1,201 @@
 {
   "blessings": [
     {
-      "description": "Item. Take off. A random player on your Team scores 0.2 runs on each Stolen Base next season.",
-      "id": "item_actual_airplane",
-      "subheader": "Brought to you by @An Airport for Aliens Currently Run by Dogs@http://patreon.com/strangescaffold",
-      "title": "An Actual Airplane",
-      "type": 123,
+      "description": "The Magician",
+      "id": "tarot_magician",
+      "title": "I",
+      "type": 136,
+      "value": 0
+    },
+    {
+      "description": "The High Priestess",
+      "id": "tarot_high_priestess",
+      "title": "II",
+      "type": 136,
       "value": 1
     },
     {
-      "description": "Rub it in. Your Team is permanently Fireproof.",
-      "id": "mod_team_fireproof_permanent",
-      "subheader": "Brought to you by @OMEN Podcast@https://www.omeninvestigations.com/p/blaseball/",
-      "title": "Doctor Smedley's Umpire Cream",
-      "type": 129,
-      "value": 1
+      "description": "The Empress",
+      "id": "tarot_empress",
+      "title": "III",
+      "type": 136,
+      "value": 2
     },
     {
-      "description": "Your Team is no longer allergic to Peanuts.",
-      "id": "team_removes_allergies",
-      "subheader": "Brought to you by @NeoScum Podcast@https://neoscum.com/starter",
-      "title": "The Nut Button",
-      "type": 130,
-      "value": 1
+      "description": "The Emperor",
+      "id": "tarot_emperor",
+      "title": "IIII",
+      "type": 136,
+      "value": 3
     },
     {
-      "description": "Items. Your players are protected from Feedback.",
-      "id": "item_team_headphones",
-      "title": "Noise-Canceling Headphones",
-      "type": 131,
-      "value": 1
+      "description": "The Pope",
+      "id": "tarot_pope",
+      "title": "V",
+      "type": 136,
+      "value": 4
     },
     {
-      "description": "Birds will unshell your players much more often.",
-      "id": "mod_team_birds_unshell",
-      "title": "Bird Seed",
-      "type": 134,
-      "value": 1
-    },
-    {
-      "description": "Plug the leak. Your Team cannot have blood stolen in Blooddrain.",
-      "id": "mod_team_keep_blood",
-      "title": "Sealant",
-      "type": 133,
-      "value": 1
-    },
-    {
-      "description": "5 Hitters on your Team become permanently Repeating.",
-      "id": "mod_hitters_repeating",
-      "title": "Rogue Waves",
-      "type": 132,
+      "description": "The Lover",
+      "id": "tarot_lover",
+      "title": "VI",
+      "type": 136,
       "value": 5
     },
     {
-      "description": "Oh Yes. Give your Team O No Blood type.",
-      "id": "team_ono_blood_type",
-      "title": "O-No Blood Type",
-      "type": 122,
-      "value": 1
+      "description": "The Chariot",
+      "id": "tarot_chariot",
+      "title": "VII",
+      "type": 136,
+      "value": 6
     },
     {
-      "description": "Your Team plays 5% better during Away Games.",
-      "id": "mod_team_traveling",
-      "title": "Traveling Team",
-      "type": 128,
-      "value": 1
+      "description": "Justice",
+      "id": "tarot_justice",
+      "title": "VIII",
+      "type": 136,
+      "value": 7
     },
     {
-      "description": "Give Your Team and the last place Team in the opposite Sub-League the Fourth Strike next Season.",
-      "id": "shared_team_mod_fourth_strike",
-      "title": "Tag-Team Fourth Strike",
-      "type": 135,
-      "value": 1
+      "description": "The Hermit",
+      "id": "tarot_hermit",
+      "title": "VIIII",
+      "type": 136,
+      "value": 8
     },
     {
-      "description": "Take a stroll. Your Division Walks on Ball 3 next season.",
-      "id": "mod_division_walk_park",
-      "title": "Divisional Walk in the Park",
-      "type": 124,
-      "value": 1
+      "description": "The Wheel of Fortune",
+      "id": "tarot_wheel",
+      "title": "X",
+      "type": 136,
+      "value": 9
     },
     {
-      "description": "Haunt a random player on your Team.",
-      "id": "mod_player_haunted",
-      "title": "Haunted",
-      "type": 121,
-      "value": 1
+      "description": "Strength",
+      "id": "tarot_strength",
+      "title": "XI",
+      "type": 136,
+      "value": 10
     },
     {
-      "description": "Ban together. Improve your Division’s Shadows overall by 3%.",
-      "id": "division_shadow_boost",
-      "title": "Shadow Ban Together",
-      "type": 127,
-      "value": 0.03
+      "description": "The Hanged Man",
+      "id": "tarot_hanged_man",
+      "title": "XII",
+      "type": 136,
+      "value": 11
     },
     {
-      "description": "Recruit the best pitcher from your Shadows to your Rotation.",
-      "id": "pull_best_player_from_bullpen",
-      "title": "Dark Star",
-      "type": 126,
-      "value": 1
+      "description": "",
+      "id": "tarot_xiii",
+      "title": "XIII",
+      "type": 136,
+      "value": 12
     },
     {
-      "description": "Recruit the best hitter from your Shadows to your Lineup.",
-      "id": "pull_best_player_from_bench",
-      "title": "Hidden Power",
-      "type": 125,
-      "value": 1
+      "description": "Temperance",
+      "id": "tarot_temperance",
+      "title": "XIIII",
+      "type": 136,
+      "value": 13
     },
     {
-      "description": "OMG they noticed us. Steal a random player from the Idol Leaderboard.",
-      "id": "steal_random_leaderboard_player",
-      "title": "Popular by Association",
-      "type": 87,
-      "value": 1
+      "description": "The Devil",
+      "id": "tarot_devil",
+      "title": "XV",
+      "type": 136,
+      "value": 14
     },
     {
-      "description": "Swap your Team into the other Division in your Subleague.",
-      "id": "division_swap",
-      "title": "Divisional Swap",
-      "type": 99,
-      "value": 1
+      "description": "The Tower",
+      "id": "tarot_tower",
+      "title": "XVI",
+      "type": 136,
+      "value": 15
     },
     {
-      "description": "Swap your Team into another Division in the opposite Subleague.",
-      "id": "subleague_swap",
-      "title": "Subleague Swap",
-      "type": 100,
-      "value": 1
+      "description": "The Star",
+      "id": "tarot_star",
+      "title": "XVII",
+      "type": 136,
+      "value": 16
     },
     {
-      "description": "It's not stealing if we all do it. Improve your division by +10% hitting, -5% pitching.",
-      "id": "division_pitching_tradeoff",
-      "title": "Sharing Signs",
-      "type": 74,
-      "value": 0.1
+      "description": "The Moon",
+      "id": "tarot_moon",
+      "title": "XVIII",
+      "type": 136,
+      "value": 17
     },
     {
-      "description": "Steal 3 random players from the Internet Series Champion.",
-      "id": "steal_champion_players",
-      "title": "People's Champions",
-      "type": 88,
-      "value": 3
+      "description": "The Sun",
+      "id": "tarot_sun",
+      "title": "XVIIII",
+      "type": 136,
+      "value": 18
+    },
+    {
+      "description": "Judgment",
+      "id": "tarot_judgment",
+      "title": "XX",
+      "type": 136,
+      "value": 19
     }
   ],
   "decrees": [
     {
-      "description": "If your Team scores 10+ Runs in a game, open a Black Hole.",
-      "id": "tactical_nuke",
-      "title": "Black Hole",
-      "type": 40
+      "description": "Bury the Forbidden Book",
+      "id": "book_bury",
+      "title": "Bury",
+      "type": 43
     },
     {
-      "description": "Every time a team hits a Home Run, there is a chance your Opponent loses a hitter for the remainder of the game.",
-      "id": "eliminator",
-      "title": "Eliminator",
-      "type": 41
+      "description": "Burn the Forbidden Book",
+      "id": "book_burn",
+      "title": "Burn",
+      "type": 44
     },
     {
-      "description": "When your Team is Shamed, initiate the Countdown.",
-      "id": "self_destruct",
-      "title": "Self-Destruct",
-      "type": 42
+      "description": "Close the Forbidden Book",
+      "id": "book_close",
+      "title": "Close",
+      "type": 45
+    },
+    {
+      "description": "Deface the Forbidden Book",
+      "id": "book_deface",
+      "title": "Deface",
+      "type": 46
+    },
+    {
+      "description": "Eat the Forbidden Book",
+      "id": "book_eat",
+      "title": "Eat",
+      "type": 47
+    },
+    {
+      "description": "Freeze the Forbidden Book",
+      "id": "book_freeze",
+      "title": "Freeze",
+      "type": 48
+    },
+    {
+      "description": "Shred the Forbidden Book",
+      "id": "book_shred",
+      "title": "Shred",
+      "type": 49
+    },
+    {
+      "description": "Sink the Forbidden Book",
+      "id": "book_sink",
+      "title": "Sink",
+      "type": 50
+    },
+    {
+      "description": "Trash the Forbidden Book",
+      "id": "book_trash",
+      "title": "Trash",
+      "type": 51
     }
   ],
-  "decreesToPass": 1
+  "decreesToPass": 3
 }
