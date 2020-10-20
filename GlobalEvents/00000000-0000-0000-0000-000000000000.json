@@ -1,13 +1,13 @@
 [
   {
-    "expire": "2020-10-27T04:45:21.427Z",
+    "expire": "2020-10-27T05:37:44.485Z",
     "id": "hitting_stat_leaders_update",
-    "msg": "Runs Batted In Leaders: ... Hahn Fox, Hellmouth Sunbeams - 21 ..... Conner Haley, Dallas Steaks - 15 ..... Vito Kravitz, Unlimited Tacos - 15 ..... Rat Mason, Unlimited Tacos - 14 ..... Hendricks Richardson, Hellmouth Sunbeams - 14 ..... "
+    "msg": "On Base Percentage Leaders: ... Jenna Maldonado, Charleston Shoe Thieves - 1.000 ..... Bryanayah Chang, Charleston Shoe Thieves - 1.000 ..... Derrick Krueger, Charleston Shoe Thieves - 1.000 ..... Hahn Fox, Hellmouth Sunbeams - 0.638 ..... Conner Haley, Dallas Steaks - 0.628 ..... "
   },
   {
-    "expire": "2020-10-27T04:45:21.428Z",
+    "expire": "2020-10-27T05:37:44.487Z",
     "id": "pitching_stat_leaders_update",
-    "msg": "WHIP Leaders: ... Sixpack Dogwalker, Dallas Steaks - 0.333 ..... Elvis Figueroa, Philly Pies - 0.556 ..... Pitching Machine, Seattle Garages - 0.556 ..... Gabriel Griffith, Hawai'i Fridays - 0.625 ..... PolkaDot Patterson, Canada Moist Talkers - 0.630 ..... "
+    "msg": "Pitcher Win Leaders: ... Fitzgerald Wanderlust, Charleston Shoe Thieves - 3 ..... Combs Estes, Breckenridge Jazz Hands - 3 ..... Rivers Clembons, Miami Dale - 3 ..... Theodore Cervantes, New York Millennials - 2 ..... Stevenson Heat, Hawai'i Fridays - 2 ..... "
   },
   {
     "expire": null,
