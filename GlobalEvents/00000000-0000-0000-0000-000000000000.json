@@ -1,13 +1,13 @@
 [
   {
-    "expire": "2020-10-27T17:32:27.984Z",
-    "id": "hitting_stat_leaders_update",
-    "msg": "Batting Average Leaders: ... Jenna Maldonado, Charleston Shoe Thieves - 1.000 ..... Bryanayah Chang, Charleston Shoe Thieves - 1.000 ..... Derrick Krueger, Charleston Shoe Thieves - 1.000 ..... Yeong-Ho Benitez, Charleston Shoe Thieves - 1.000 ..... Jorge Ito, Charleston Shoe Thieves - 1.000 ..... "
+    "expire": "2020-10-27T18:33:33.643Z",
+    "id": "pitching_stat_leaders_update",
+    "msg": "Earned Run Average Leaders: ... Beasley Gloom, Canada Moist Talkers - 1.500 ..... King Weatherman, Boston Flowers - 1.543 ..... Jenkins Good, Canada Moist Talkers - 1.703 ..... Campos Arias, Breckenridge Jazz Hands - 2.250 ..... Betsy Trombone, Seattle Garages - 2.314 ..... "
   },
   {
-    "expire": "2020-10-27T17:32:27.988Z",
-    "id": "pitching_stat_leaders_update",
-    "msg": "Strikeout Leaders: ... PolkaDot Patterson, Canada Moist Talkers - 63 ..... Peanut Bong, Unlimited Tacos - 56 ..... Hiroto Wilcox, Hades Tigers - 50 ..... Sandoval Crossing, Hellmouth Sunbeams - 46 ..... Burke Gonzales, Mexico City Wild Wings - 44 ..... "
+    "expire": "2020-10-27T18:33:33.64Z",
+    "id": "hitting_stat_leaders_update",
+    "msg": "Home Run Leaders: ... Conner Haley, Dallas Steaks - 14 ..... Vito Kravitz, Unlimited Tacos - 12 ..... Valentine Games, Unlimited Tacos - 11 ..... Comfort Septemberish, Houston Spies - 10 ..... Halexandrey Walton, Unlimited Tacos - 10 ..... "
   },
   {
     "expire": null,
