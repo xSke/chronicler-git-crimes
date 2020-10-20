@@ -50,14 +50,14 @@
   ],
   "rotationSlot": 22,
   "seasAttr": [],
-  "seasonShames": 2,
+  "seasonShames": 3,
   "seasonShamings": 2,
   "secondaryColor": "#5a83ea",
-  "shameRuns": 0,
+  "shameRuns": 1,
   "shorthand": "SEA",
   "slogan": "Smells like Team Spirit.",
   "teamSpirit": 0,
-  "totalShames": 44,
+  "totalShames": 45,
   "totalShamings": 40,
   "weekAttr": []
 }
