@@ -49,14 +49,14 @@
   ],
   "rotationSlot": 41,
   "seasAttr": [],
-  "seasonShames": 2,
+  "seasonShames": 3,
   "seasonShamings": 4,
   "secondaryColor": "#178f55",
-  "shameRuns": 0,
+  "shameRuns": -8,
   "shorthand": "KCBM",
   "slogan": "Fresh Breath, Here We Come.",
   "teamSpirit": 0,
-  "totalShames": 45,
+  "totalShames": 46,
   "totalShamings": 34,
   "weekAttr": []
 }
