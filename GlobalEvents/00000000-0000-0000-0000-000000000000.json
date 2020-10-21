@@ -1,13 +1,13 @@
 [
   {
-    "expire": "2020-10-28T06:37:31.857Z",
+    "expire": "2020-10-28T07:26:43.134Z",
     "id": "hitting_stat_leaders_update",
-    "msg": "Runs Batted In Leaders: ... Rat Mason, Unlimited Tacos - 15 ..... Mcdowell Mason, Unlimited Tacos - 13 ..... Valentine Games, Unlimited Tacos - 12 ..... Math Velazquez, Houston Spies - 11 ..... Dudley Mueller, Hellmouth Sunbeams - 11 ..... "
+    "msg": "On Base Percentage Leaders: ... Jenna Maldonado, Charleston Shoe Thieves - 1.000 ..... Halexandrey Walton, Unlimited Tacos - 0.800 ..... Jacob Haynes, Boston Flowers - 0.765 ..... Igneus Delacruz, Hellmouth Sunbeams - 0.714 ..... Sebastian Woodman, Charleston Shoe Thieves - 0.696 ..... "
   },
   {
-    "expire": "2020-10-28T06:37:31.858Z",
+    "expire": "2020-10-28T07:26:43.136Z",
     "id": "pitching_stat_leaders_update",
-    "msg": "WHIP Leaders: ... Hiroto Wilcox, Hades Tigers - 0.421 ..... Orville Manco, Dallas Steaks - 0.444 ..... Alexandria Rosales, Houston Spies - 0.500 ..... Evelton McBlase, Hawai'i Fridays - 0.556 ..... Combs Estes, Breckenridge Jazz Hands - 0.556 ..... "
+    "msg": "Pitcher Win Leaders: ... PolkaDot Zavala, Kansas City Breath Mints - 2 ..... Yosh Carpenter, San Francisco Lovers - 2 ..... Fitzgerald Wanderlust, Charleston Shoe Thieves - 2 ..... Hiroto Wilcox, Hades Tigers - 2 ..... Dunlap Figueroa, Hades Tigers - 2 ..... "
   },
   {
     "expire": null,
