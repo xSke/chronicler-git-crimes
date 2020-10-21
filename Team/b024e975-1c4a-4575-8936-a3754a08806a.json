@@ -47,14 +47,14 @@
   ],
   "rotationSlot": 45,
   "seasAttr": [],
-  "seasonShames": 4,
+  "seasonShames": 5,
   "seasonShamings": 3,
   "secondaryColor": "#b2b3b5",
-  "shameRuns": 0,
+  "shameRuns": 1,
   "shorthand": "DAL",
   "slogan": "Well Done.",
   "teamSpirit": 0,
-  "totalShames": 41,
+  "totalShames": 42,
   "totalShamings": 51,
   "weekAttr": []
 }
