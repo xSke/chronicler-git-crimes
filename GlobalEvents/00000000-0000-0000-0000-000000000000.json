@@ -1,13 +1,13 @@
 [
   {
-    "expire": "2020-10-28T02:00:12.022Z",
-    "id": "hitting_stat_leaders_update",
-    "msg": "On Base Percentage Leaders: ... Jacob Haynes, Boston Flowers - 1.250 ..... Knight Triumphant, San Francisco Lovers - 1.000 ..... Jenna Maldonado, Charleston Shoe Thieves - 1.000 ..... Halexandrey Walton, Unlimited Tacos - 1.000 ..... Avila Guzman, Miami Dale - 1.000 ..... "
-  },
-  {
-    "expire": "2020-10-28T02:00:12.023Z",
+    "expire": "2020-10-28T02:10:58.127Z",
     "id": "pitching_stat_leaders_update",
     "msg": "Pitcher Win Leaders: ... Theodore Cervantes, New York Millennials - 1 ..... Penelope Mathews, New York Millennials - 1 ..... PolkaDot Zavala, Kansas City Breath Mints - 1 ..... Leach Herman, Dallas Steaks - 1 ..... Yosh Carpenter, San Francisco Lovers - 1 ..... "
+  },
+  {
+    "expire": "2020-10-28T02:10:58.126Z",
+    "id": "hitting_stat_leaders_update",
+    "msg": "On Base Percentage Leaders: ... Jacob Haynes, Boston Flowers - 1.250 ..... Knight Triumphant, San Francisco Lovers - 1.000 ..... Jenna Maldonado, Charleston Shoe Thieves - 1.000 ..... Halexandrey Walton, Unlimited Tacos - 1.000 ..... Avila Guzman, Miami Dale - 1.000 ..... "
   },
   {
     "expire": null,
