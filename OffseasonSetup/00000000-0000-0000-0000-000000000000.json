@@ -143,55 +143,55 @@
   ],
   "decrees": [
     {
-      "description": "Bury the Forbidden Book",
+      "description": "Bury! The Forbidden Book",
       "id": "book_bury",
       "title": "Bury",
       "type": 43
     },
     {
-      "description": "Burn the Forbidden Book",
+      "description": "Burn! The Forbidden Book",
       "id": "book_burn",
       "title": "Burn",
       "type": 44
     },
     {
-      "description": "Close the Forbidden Book",
+      "description": "Close! The Forbidden Book",
       "id": "book_close",
       "title": "Close",
       "type": 45
     },
     {
-      "description": "Deface the Forbidden Book",
+      "description": "Deface! The Forbidden Book",
       "id": "book_deface",
       "title": "Deface",
       "type": 46
     },
     {
-      "description": "Eat the Forbidden Book",
+      "description": "Eat! The Forbidden Book",
       "id": "book_eat",
       "title": "Eat",
       "type": 47
     },
     {
-      "description": "Freeze the Forbidden Book",
+      "description": "Freeze! The Forbidden Book",
       "id": "book_freeze",
       "title": "Freeze",
       "type": 48
     },
     {
-      "description": "Shred the Forbidden Book",
+      "description": "Shred! The Forbidden Book",
       "id": "book_shred",
       "title": "Shred",
       "type": 49
     },
     {
-      "description": "Sink the Forbidden Book",
+      "description": "Sink! The Forbidden Book",
       "id": "book_sink",
       "title": "Sink",
       "type": 50
     },
     {
-      "description": "Trash the Forbidden Book",
+      "description": "Trash! The Forbidden Book",
       "id": "book_trash",
       "title": "Trash",
       "type": 51
