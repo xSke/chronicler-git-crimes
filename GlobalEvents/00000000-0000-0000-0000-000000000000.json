@@ -1,13 +1,13 @@
 [
   {
-    "expire": "2020-10-28T11:33:31.839Z",
-    "id": "pitching_stat_leaders_update",
-    "msg": "WHIP Leaders: ... Hiroto Wilcox, Hades Tigers - 0.429 ..... Durham Spaceman, Seattle Garages - 0.556 ..... Betsy Trombone, Seattle Garages - 0.593 ..... Patty Fox, New York Millennials - 0.667 ..... Beasley Gloom, Canada Moist Talkers - 0.722 ..... "
+    "expire": "2020-10-28T12:33:46.61Z",
+    "id": "hitting_stat_leaders_update",
+    "msg": "On Base Percentage Leaders: ... Jenna Maldonado, Charleston Shoe Thieves - 1.000 ..... Hurley Pacheco, Charleston Shoe Thieves - 1.000 ..... Avila Guzman, Miami Dale - 0.684 ..... Jacob Haynes, Boston Flowers - 0.667 ..... Sebastian Woodman, Charleston Shoe Thieves - 0.641 ..... "
   },
   {
-    "expire": "2020-10-28T11:33:31.837Z",
-    "id": "hitting_stat_leaders_update",
-    "msg": "Runs Batted In Leaders: ... Reese Clark, Houston Spies - 19 ..... Rat Mason, Unlimited Tacos - 19 ..... Valentine Games, Unlimited Tacos - 17 ..... Dudley Mueller, Hellmouth Sunbeams - 17 ..... Fitzgerald Blackburn, Houston Spies - 15 ..... "
+    "expire": "2020-10-28T12:33:46.612Z",
+    "id": "pitching_stat_leaders_update",
+    "msg": "Pitcher Win Leaders: ... Sexton Wheerer, Unlimited Tacos - 4 ..... Yosh Carpenter, San Francisco Lovers - 3 ..... Hiroto Wilcox, Hades Tigers - 3 ..... Dunlap Figueroa, Hades Tigers - 3 ..... Grollis Zephyr, Tokyo Lift - 3 ..... "
   },
   {
     "expire": null,
