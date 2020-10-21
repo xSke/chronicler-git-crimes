@@ -1,13 +1,13 @@
 [
   {
-    "expire": "2020-10-28T10:42:28.778Z",
-    "id": "hitting_stat_leaders_update",
-    "msg": "Home Run Leaders: ... Malik Romayne, Houston Spies - 6 ..... Marco Stink, Kansas City Breath Mints - 5 ..... York Silk, Canada Moist Talkers - 5 ..... Brock Watson, Mexico City Wild Wings - 5 ..... Comfort Septemberish, Houston Spies - 5 ..... "
+    "expire": "2020-10-28T11:33:31.839Z",
+    "id": "pitching_stat_leaders_update",
+    "msg": "WHIP Leaders: ... Hiroto Wilcox, Hades Tigers - 0.429 ..... Durham Spaceman, Seattle Garages - 0.556 ..... Betsy Trombone, Seattle Garages - 0.593 ..... Patty Fox, New York Millennials - 0.667 ..... Beasley Gloom, Canada Moist Talkers - 0.722 ..... "
   },
   {
-    "expire": "2020-10-28T10:42:28.779Z",
-    "id": "pitching_stat_leaders_update",
-    "msg": "Earned Run Average Leaders: ... Inky Rutledge, Yellowstone Magic - 0.000 ..... Walton Sports, Breckenridge Jazz Hands - 0.000 ..... Hiroto Wilcox, Hades Tigers - 0.643 ..... Eugenia Bickle, Hellmouth Sunbeams - 1.000 ..... Betsy Trombone, Seattle Garages - 1.000 ..... "
+    "expire": "2020-10-28T11:33:31.837Z",
+    "id": "hitting_stat_leaders_update",
+    "msg": "Runs Batted In Leaders: ... Reese Clark, Houston Spies - 19 ..... Rat Mason, Unlimited Tacos - 19 ..... Valentine Games, Unlimited Tacos - 17 ..... Dudley Mueller, Hellmouth Sunbeams - 17 ..... Fitzgerald Blackburn, Houston Spies - 15 ..... "
   },
   {
     "expire": null,
