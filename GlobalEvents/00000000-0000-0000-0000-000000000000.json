@@ -1,13 +1,13 @@
 [
   {
-    "expire": "2020-10-29T07:37:32.708Z",
+    "expire": "2020-10-29T08:40:56.416Z",
     "id": "hitting_stat_leaders_update",
-    "msg": "Runs Batted In Leaders: ... Halexandrey Walton, Unlimited Tacos - 21 ..... Nagomi Nava, Hellmouth Sunbeams - 20 ..... Comfort Septemberish, Houston Spies - 19 ..... Fitzgerald Blackburn, Houston Spies - 19 ..... Avila Guzman, Miami Dale - 18 ..... "
+    "msg": "On Base Percentage Leaders: ... Logan Horseman, Miami Dale - 0.600 ..... Beck Whitney, Miami Dale - 0.593 ..... Reese Clark, Houston Spies - 0.583 ..... Igneus Delacruz, Hellmouth Sunbeams - 0.560 ..... Nagomi Nava, Hellmouth Sunbeams - 0.559 ..... "
   },
   {
-    "expire": "2020-10-29T07:37:32.711Z",
+    "expire": "2020-10-29T08:40:56.416Z",
     "id": "pitching_stat_leaders_update",
-    "msg": "WHIP Leaders: ... Wyatt Pothos, Breckenridge Jazz Hands - 0.389 ..... Winnie Hess, Kansas City Breath Mints - 0.556 ..... PolkaDot Patterson, Canada Moist Talkers - 0.571 ..... Pitching Machine, Seattle Garages - 0.700 ..... Famous Owens, Hades Tigers - 0.731 ..... "
+    "msg": "Pitcher Win Leaders: ... Sexton Wheerer, Unlimited Tacos - 5 ..... Cornelius Games, Charleston Shoe Thieves - 4 ..... Hiroto Wilcox, Hades Tigers - 4 ..... Ruslan Greatness, Philly Pies - 4 ..... Winnie Hess, Kansas City Breath Mints - 3 ..... "
   },
   {
     "expire": null,
