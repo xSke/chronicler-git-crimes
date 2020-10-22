@@ -47,14 +47,14 @@
   ],
   "rotationSlot": 65,
   "seasAttr": [],
-  "seasonShames": 5,
+  "seasonShames": 6,
   "seasonShamings": 2,
   "secondaryColor": "#f60f63",
-  "shameRuns": 0,
+  "shameRuns": -4,
   "shorthand": "YELL",
   "slogan": "As Above, So Below",
   "teamSpirit": 0,
-  "totalShames": 40,
+  "totalShames": 41,
   "totalShamings": 31,
   "weekAttr": []
 }
