@@ -53,14 +53,14 @@
     "WALK_IN_THE_PARK",
     "PARTY_TIME"
   ],
-  "seasonShames": 2,
+  "seasonShames": 3,
   "seasonShamings": 6,
   "secondaryColor": "#f7d1ff",
-  "shameRuns": 0,
+  "shameRuns": 3,
   "shorthand": "BOF",
   "slogan": "Bloom Goes The Dynamite!",
   "teamSpirit": 0,
-  "totalShames": 39,
+  "totalShames": 40,
   "totalShamings": 42,
   "weekAttr": []
 }
