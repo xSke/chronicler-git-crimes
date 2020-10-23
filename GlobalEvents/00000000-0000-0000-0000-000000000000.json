@@ -1,13 +1,13 @@
 [
   {
-    "expire": "2020-10-30T13:40:04.933Z",
-    "id": "hitting_stat_leaders_update",
-    "msg": "Runs Batted In Leaders: ... Rat Mason, Unlimited Tacos - 21 ..... Valentine Games, Unlimited Tacos - 18 ..... Basilio Fig, Unlimited Tacos - 16 ..... Sigmund Castillo, Hellmouth Sunbeams - 16 ..... Nagomi Mcdaniel, Hawai'i Fridays - 15 ..... "
+    "expire": "2020-10-30T14:36:17.489Z",
+    "id": "pitching_stat_leaders_update",
+    "msg": "Pitcher Win Leaders: ... Leach Herman, Dallas Steaks - 3 ..... Fitzgerald Wanderlust, Charleston Shoe Thieves - 3 ..... Curry Aliciakeyes, Yellowstone Magic - 3 ..... Mummy Melcon, Hades Tigers - 3 ..... Sexton Wheerer, Unlimited Tacos - 3 ..... "
   },
   {
-    "expire": "2020-10-30T13:40:04.936Z",
-    "id": "pitching_stat_leaders_update",
-    "msg": "WHIP Leaders: ... Winnie Hess, Kansas City Breath Mints - 0.444 ..... Wyatt Pothos, Breckenridge Jazz Hands - 0.611 ..... Campos Arias, Breckenridge Jazz Hands - 0.647 ..... King Weatherman, Boston Flowers - 0.667 ..... Pitching Machine, Seattle Garages - 0.684 ..... "
+    "expire": "2020-10-30T14:36:17.487Z",
+    "id": "hitting_stat_leaders_update",
+    "msg": "On Base Percentage Leaders: ... Jenna Maldonado, Charleston Shoe Thieves - 1.000 ..... Zi Delacruz, Charleston Shoe Thieves - 1.000 ..... Yeong-Ho Benitez, Charleston Shoe Thieves - 1.000 ..... Annie Roland, Charleston Shoe Thieves - 1.000 ..... Hendricks Rangel, Charleston Shoe Thieves - 1.000 ..... "
   },
   {
     "expire": null,
