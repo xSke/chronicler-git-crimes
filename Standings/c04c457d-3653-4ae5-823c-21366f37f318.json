@@ -3,7 +3,7 @@
   "losses": {
     "105bc3ff-1320-4e37-8ef0-8d595cb95dd0": 43,
     "23e4cbc1-e9cd-47fa-a35b-bfa06f726cb7": 54,
-    "36569151-a2fb-43c1-9df7-2df512424c82": 52,
+    "36569151-a2fb-43c1-9df7-2df512424c82": 53,
     "3f8bbb15-61c0-4e3f-8e4a-907a5fb1565e": 45,
     "57ec08cc-0411-4643-b304-0e80dbc15ac7": 58,
     "747b8e4a-7e50-4638-a973-ea7950a3e739": 38,
@@ -18,12 +18,12 @@
     "b72f3061-f573-40d7-832a-5ad475bd7909": 46,
     "bfd38797-8404-4b38-8b82-341da28b1f83": 35,
     "c73b705c-40ad-4633-a6ed-d357ee2e2bcf": 55,
-    "ca3f1c8c-c025-4d8e-8eef-5be6accbeb16": 39,
+    "ca3f1c8c-c025-4d8e-8eef-5be6accbeb16": 40,
     "eb67ae5e-c4bf-46ca-bbbc-425cd34182ff": 35,
     "f02aeae2-5e6a-4098-9842-02d2273f25c7": 37
   },
   "wins": {
-    "105bc3ff-1320-4e37-8ef0-8d595cb95dd0": 48,
+    "105bc3ff-1320-4e37-8ef0-8d595cb95dd0": 49,
     "23e4cbc1-e9cd-47fa-a35b-bfa06f726cb7": 30,
     "36569151-a2fb-43c1-9df7-2df512424c82": 36,
     "3f8bbb15-61c0-4e3f-8e4a-907a5fb1565e": 44,
@@ -39,7 +39,7 @@
     "b63be8c2-576a-4d6e-8daf-814f8bcea96f": 44,
     "b72f3061-f573-40d7-832a-5ad475bd7909": 43,
     "bfd38797-8404-4b38-8b82-341da28b1f83": 58,
-    "c73b705c-40ad-4633-a6ed-d357ee2e2bcf": 25,
+    "c73b705c-40ad-4633-a6ed-d357ee2e2bcf": 26,
     "ca3f1c8c-c025-4d8e-8eef-5be6accbeb16": 54,
     "eb67ae5e-c4bf-46ca-bbbc-425cd34182ff": 60,
     "f02aeae2-5e6a-4098-9842-02d2273f25c7": 62
