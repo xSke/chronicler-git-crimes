@@ -2,7 +2,8 @@
   "bench": [
     "945974c5-17d9-43e7-92f6-ba49064bbc59",
     "c6146c45-3d9b-4749-9f03-d4faae61e2c3",
-    "ac57cf28-556f-47af-9154-6bcea2ace9fc"
+    "ac57cf28-556f-47af-9154-6bcea2ace9fc",
+    "7b779947-46ef-4b77-be37-962d60875647"
   ],
   "bullpen": [
     "9a031b9a-16f8-4165-a468-5d0e28a81151",
@@ -46,9 +47,7 @@
     "2da49de2-34e5-49d0-b752-af2a2ee061be"
   ],
   "rotationSlot": 99,
-  "seasAttr": [
-    "PARTY_TIME"
-  ],
+  "seasAttr": [],
   "seasonShames": 9,
   "seasonShamings": 6,
   "secondaryColor": "#f60f63",
