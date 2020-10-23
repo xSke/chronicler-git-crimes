@@ -1,13 +1,13 @@
 [
   {
-    "expire": "2020-10-30T14:36:17.489Z",
-    "id": "pitching_stat_leaders_update",
-    "msg": "Pitcher Win Leaders: ... Leach Herman, Dallas Steaks - 3 ..... Fitzgerald Wanderlust, Charleston Shoe Thieves - 3 ..... Curry Aliciakeyes, Yellowstone Magic - 3 ..... Mummy Melcon, Hades Tigers - 3 ..... Sexton Wheerer, Unlimited Tacos - 3 ..... "
+    "expire": "2020-10-30T15:35:24.181Z",
+    "id": "hitting_stat_leaders_update",
+    "msg": "Stolen Base Leaders: ... Richardson Games, Charleston Shoe Thieves - 17 ..... Paula Turnip, Seattle Garages - 11 ..... Aldon Cashmoney, Hades Tigers - 10 ..... Nagomi Mcdaniel, Hawai'i Fridays - 7 ..... Sigmund Castillo, Hellmouth Sunbeams - 7 ..... "
   },
   {
-    "expire": "2020-10-30T14:36:17.487Z",
-    "id": "hitting_stat_leaders_update",
-    "msg": "On Base Percentage Leaders: ... Jenna Maldonado, Charleston Shoe Thieves - 1.000 ..... Zi Delacruz, Charleston Shoe Thieves - 1.000 ..... Yeong-Ho Benitez, Charleston Shoe Thieves - 1.000 ..... Annie Roland, Charleston Shoe Thieves - 1.000 ..... Hendricks Rangel, Charleston Shoe Thieves - 1.000 ..... "
+    "expire": "2020-10-30T15:35:24.185Z",
+    "id": "pitching_stat_leaders_update",
+    "msg": "Pitcher Loss Leaders: ... Sexton Wheerer, Unlimited Tacos - 4 ..... Peanut Bong, Unlimited Tacos - 4 ..... Montgomery Bullock, Hawai'i Fridays - 3 ..... James Mora, Hawai'i Fridays - 3 ..... Gabriel Griffith, Hawai'i Fridays - 3 ..... "
   },
   {
     "expire": null,
