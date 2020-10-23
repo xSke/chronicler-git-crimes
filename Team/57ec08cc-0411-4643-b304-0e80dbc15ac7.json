@@ -48,14 +48,14 @@
   "seasAttr": [
     "PARTY_TIME"
   ],
-  "seasonShames": 6,
+  "seasonShames": 7,
   "seasonShamings": 2,
   "secondaryColor": "#ee6300",
-  "shameRuns": 0,
+  "shameRuns": -8,
   "shorthand": "MCWW",
   "slogan": "Wings. Beer. Blaseball.",
   "teamSpirit": 0,
-  "totalShames": 52,
+  "totalShames": 53,
   "totalShamings": 33,
   "weekAttr": []
 }

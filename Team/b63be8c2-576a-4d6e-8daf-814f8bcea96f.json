@@ -48,16 +48,17 @@
   ],
   "rotationSlot": 90,
   "seasAttr": [
-    "WALK_IN_THE_PARK"
+    "WALK_IN_THE_PARK",
+    "PARTY_TIME"
   ],
   "seasonShames": 3,
-  "seasonShamings": 2,
+  "seasonShamings": 3,
   "secondaryColor": "#cd76fa",
   "shameRuns": -5,
   "shorthand": "MIA",
   "slogan": "¡Dale!",
   "teamSpirit": 0,
   "totalShames": 52,
-  "totalShamings": 25,
+  "totalShamings": 26,
   "weekAttr": []
 }
