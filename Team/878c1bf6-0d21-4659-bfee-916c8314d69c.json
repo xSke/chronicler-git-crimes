@@ -45,14 +45,14 @@
   "seasAttr": [
     "WALK_IN_THE_PARK"
   ],
-  "seasonShames": 9,
+  "seasonShames": 10,
   "seasonShamings": 3,
   "secondaryColor": "#b063c1",
-  "shameRuns": 0,
+  "shameRuns": -8,
   "shorthand": "LATA",
   "slogan": "72° and Infinite",
   "teamSpirit": 0,
-  "totalShames": 70,
+  "totalShames": 71,
   "totalShamings": 20,
   "weekAttr": []
 }
