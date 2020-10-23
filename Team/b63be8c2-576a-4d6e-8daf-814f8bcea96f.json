@@ -51,14 +51,14 @@
     "WALK_IN_THE_PARK",
     "PARTY_TIME"
   ],
-  "seasonShames": 3,
+  "seasonShames": 4,
   "seasonShamings": 4,
   "secondaryColor": "#cd76fa",
-  "shameRuns": -5,
+  "shameRuns": 4,
   "shorthand": "MIA",
   "slogan": "¡Dale!",
   "teamSpirit": 0,
-  "totalShames": 52,
+  "totalShames": 53,
   "totalShamings": 27,
   "weekAttr": []
 }
