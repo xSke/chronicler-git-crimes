@@ -52,14 +52,14 @@
     "EXTRA_STRIKE",
     "WALK_IN_THE_PARK"
   ],
-  "seasonShames": 3,
+  "seasonShames": 4,
   "seasonShamings": 9,
   "secondaryColor": "#fffbab",
-  "shameRuns": 0,
+  "shameRuns": 2,
   "shorthand": "SUN",
   "slogan": "Stare into the Sun...",
   "teamSpirit": 0,
-  "totalShames": 50,
+  "totalShames": 51,
   "totalShamings": 37,
   "weekAttr": []
 }
