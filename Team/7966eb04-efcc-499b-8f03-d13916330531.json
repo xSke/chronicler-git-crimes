@@ -46,7 +46,9 @@
     "2da49de2-34e5-49d0-b752-af2a2ee061be"
   ],
   "rotationSlot": 95,
-  "seasAttr": [],
+  "seasAttr": [
+    "PARTY_TIME"
+  ],
   "seasonShames": 6,
   "seasonShamings": 6,
   "secondaryColor": "#f60f63",
