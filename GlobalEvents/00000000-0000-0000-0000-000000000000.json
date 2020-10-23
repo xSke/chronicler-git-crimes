@@ -1,13 +1,13 @@
 [
   {
-    "expire": "2020-10-30T04:40:27.514Z",
+    "expire": "2020-10-30T05:36:23.284Z",
     "id": "hitting_stat_leaders_update",
-    "msg": "On Base Percentage Leaders: ... Nagomi Mcdaniel, Hawai'i Fridays - 1.000 ..... Jenna Maldonado, Charleston Shoe Thieves - 1.000 ..... Zi Delacruz, Charleston Shoe Thieves - 1.000 ..... Morrow Wilson, Houston Spies - 0.818 ..... Castillo Turner, Boston Flowers - 0.778 ..... "
+    "msg": "Stolen Base Leaders: ... Jacob Winner, Hawai'i Fridays - 5 ..... Sigmund Castillo, Hellmouth Sunbeams - 5 ..... Nagomi Mcdaniel, Hawai'i Fridays - 4 ..... Don Mitchell, San Francisco Lovers - 3 ..... Sutton Picklestein, Yellowstone Magic - 3 ..... "
   },
   {
-    "expire": "2020-10-30T04:40:27.515Z",
+    "expire": "2020-10-30T05:36:23.286Z",
     "id": "pitching_stat_leaders_update",
-    "msg": "Pitcher Win Leaders: ... Theodore Cervantes, New York Millennials - 1 ..... Felix Garbage, New York Millennials - 1 ..... Alejandro Leaf, New York Millennials - 1 ..... Mooney Doctor II, Kansas City Breath Mints - 1 ..... PolkaDot Zavala, Kansas City Breath Mints - 1 ..... "
+    "msg": "Pitcher Loss Leaders: ... Sexton Wheerer, Unlimited Tacos - 2 ..... Leach Ingram, Kansas City Breath Mints - 1 ..... Montgomery Bullock, Hawai'i Fridays - 1 ..... James Mora, Hawai'i Fridays - 1 ..... Gabriel Griffith, Hawai'i Fridays - 1 ..... "
   },
   {
     "expire": null,
