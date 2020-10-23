@@ -52,14 +52,14 @@
   "seasAttr": [
     "PARTY_TIME"
   ],
-  "seasonShames": 3,
+  "seasonShames": 4,
   "seasonShamings": 5,
   "secondaryColor": "#da0000",
-  "shameRuns": 0,
+  "shameRuns": 1,
   "shorthand": "SFL",
   "slogan": "Let's Go All The Way!",
   "teamSpirit": 0,
-  "totalShames": 54,
+  "totalShames": 55,
   "totalShamings": 47,
   "weekAttr": []
 }
