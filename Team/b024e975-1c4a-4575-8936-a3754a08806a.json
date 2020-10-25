@@ -36,9 +36,7 @@
   "location": "Dallas",
   "mainColor": "#8c8d8f",
   "nickname": "Steaks",
-  "permAttr": [
-    "BLOOD_DONOR"
-  ],
+  "permAttr": [],
   "rotation": [
     "b7ca8f3f-2fdc-477b-84f4-157f2802e9b5",
     "6b8d128f-ed51-496d-a965-6614476f8256",

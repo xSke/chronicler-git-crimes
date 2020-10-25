@@ -37,7 +37,6 @@
   "mainColor": "#5c1c1c",
   "nickname": "Tigers",
   "permAttr": [
-    "BLOOD_DONOR",
     "FIREPROOF",
     "SEALANT"
   ],
