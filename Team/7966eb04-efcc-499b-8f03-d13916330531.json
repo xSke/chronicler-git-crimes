@@ -15,7 +15,7 @@
     "db53211c-f841-4f33-accf-0c3e167889a0",
     "b77dffaa-e0f5-408f-b9f2-1894ed26e744"
   ],
-  "card": -1,
+  "card": 0,
   "championships": 0,
   "emoji": "0x2728",
   "fullName": "Yellowstone Magic",
@@ -37,8 +37,7 @@
   "nickname": "Magic",
   "permAttr": [
     "BLOOD_THIEF",
-    "O_NO",
-    "FAIRNESS"
+    "O_NO"
   ],
   "rotation": [
     "9397ed91-608e-4b13-98ea-e94c795f651e",

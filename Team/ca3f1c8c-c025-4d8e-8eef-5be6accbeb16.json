@@ -15,7 +15,7 @@
     "520e6066-b14b-45cf-985c-0a6ee2dc3f7a",
     "5f3b5dc2-351a-4dee-a9d6-fa5f44f2a365"
   ],
-  "card": -1,
+  "card": 13,
   "championships": 1,
   "emoji": "0x1F525",
   "fullName": "Chicago Firefighters",
@@ -38,8 +38,7 @@
   "mainColor": "#8c2a3e",
   "nickname": "Firefighters",
   "permAttr": [
-    "BLOOD_PITY",
-    "FAIRNESS"
+    "BLOOD_PITY"
   ],
   "rotation": [
     "e4e4c17d-8128-4704-9e04-f244d4573c4d",

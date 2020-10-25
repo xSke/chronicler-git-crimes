@@ -15,7 +15,7 @@
     "b7cdb93b-6f9d-468a-ae00-54cbc324ee84",
     "c4951cae-0b47-468b-a3ac-390cc8e9fd05"
   ],
-  "card": -1,
+  "card": 5,
   "championships": 0,
   "emoji": "0x1F4F1",
   "fullName": "New York Millennials",
@@ -37,8 +37,7 @@
   "nickname": "Millennials",
   "permAttr": [
     "BLOOD_PITY",
-    "BIRD_SEED",
-    "FAIRNESS"
+    "BIRD_SEED"
   ],
   "rotation": [
     "ae4acebd-edb5-4d20-bf69-f2d5151312ff",

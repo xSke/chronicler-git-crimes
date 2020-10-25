@@ -16,7 +16,7 @@
     "2cadc28c-88a5-4e25-a6eb-cdab60dd446d",
     "e3e1d190-2b94-40c0-8e88-baa3fd198d0f"
   ],
-  "card": -1,
+  "card": 2,
   "championships": 0,
   "emoji": "0x1F339",
   "fullName": "Boston Flowers",
@@ -40,8 +40,7 @@
   "nickname": "Flowers",
   "permAttr": [
     "BLOOD_WINNER",
-    "GROWTH",
-    "FAIRNESS"
+    "GROWTH"
   ],
   "rotation": [
     "ff5a37d9-a6dd-49aa-b6fb-b935fd670820",

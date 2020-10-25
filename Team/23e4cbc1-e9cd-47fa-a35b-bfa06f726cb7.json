@@ -16,7 +16,7 @@
     "b85161da-7f4c-42a8-b7f6-19789cf6861d",
     "d2a1e734-60d9-4989-b7d9-6eacda70486b"
   ],
-  "card": -1,
+  "card": 8,
   "championships": 2,
   "emoji": "0x1F967",
   "fullName": "Philly Pies",
@@ -36,8 +36,7 @@
   "nickname": "Pies",
   "permAttr": [
     "BLOOD_THIEF",
-    "AFFINITY_FOR_CROWS",
-    "FAIRNESS"
+    "AFFINITY_FOR_CROWS"
   ],
   "rotation": [
     "c6e2e389-ed04-4626-a5ba-fe398fe89568",

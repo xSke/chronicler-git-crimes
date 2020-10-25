@@ -14,7 +14,7 @@
     "7fed72df-87de-407d-8253-2295a2b60d3b",
     "889c9ef9-d521-4436-b41c-9021b81b4dfb"
   ],
-  "card": -1,
+  "card": 16,
   "championships": 0,
   "emoji": "0x1F6A4",
   "fullName": "Miami Dale",
@@ -38,8 +38,7 @@
   "permAttr": [
     "BLOOD_WINNER",
     "LIFE_OF_PARTY",
-    "ELECTRIC",
-    "FAIRNESS"
+    "ELECTRIC"
   ],
   "rotation": [
     "a38ada0a-aeac-4a3d-b9a5-968687ccd2f9",

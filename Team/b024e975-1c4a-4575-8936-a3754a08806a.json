@@ -15,7 +15,7 @@
     "ebf2da50-7711-46ba-9e49-341ce3487e00",
     "d796d287-77ef-49f0-89ef-87bcdeb280ee"
   ],
-  "card": -1,
+  "card": 3,
   "championships": 0,
   "emoji": "0x1F969",
   "fullName": "Dallas Steaks",
@@ -37,8 +37,7 @@
   "mainColor": "#8c8d8f",
   "nickname": "Steaks",
   "permAttr": [
-    "BLOOD_DONOR",
-    "FAIRNESS"
+    "BLOOD_DONOR"
   ],
   "rotation": [
     "b7ca8f3f-2fdc-477b-84f4-157f2802e9b5",

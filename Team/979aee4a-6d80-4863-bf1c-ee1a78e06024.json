@@ -15,7 +15,7 @@
     "ccc99f2f-2feb-4f32-a9b9-c289f619d84c",
     "fbb5291c-2438-400e-ab32-30ce1259c600"
   ],
-  "card": -1,
+  "card": 1,
   "championships": 0,
   "emoji": "0x1F3DD",
   "fullName": "Hawai'i Fridays",
@@ -35,8 +35,7 @@
   "mainColor": "#3ee652",
   "nickname": "Fridays",
   "permAttr": [
-    "BLOOD_THIEF",
-    "FAIRNESS"
+    "BLOOD_THIEF"
   ],
   "rotation": [
     "1ffb1153-909d-44c7-9df1-6ed3a9a45bbd",

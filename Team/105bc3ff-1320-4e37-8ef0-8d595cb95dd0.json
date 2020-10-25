@@ -17,7 +17,7 @@
     "d8742d68-8fce-4d52-9a49-f4e33bd2a6fc",
     "019ce117-2399-4382-8036-8c14db7e1d30"
   ],
-  "card": -1,
+  "card": 7,
   "championships": 0,
   "emoji": "0x1F3B8",
   "fullName": "Seattle Garages",
@@ -38,8 +38,7 @@
   "mainColor": "#2b4075",
   "nickname": "Garages",
   "permAttr": [
-    "BLOOD_DONOR",
-    "FAIRNESS"
+    "BLOOD_DONOR"
   ],
   "rotation": [
     "1732e623-ffc2-40f0-87ba-fdcf97131f1f",

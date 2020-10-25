@@ -17,7 +17,7 @@
     "2d22f026-2873-410b-a45f-3b1dac665ffd",
     "d002946f-e7ed-4ce4-a405-63bdaf5eabb5"
   ],
-  "card": -1,
+  "card": 9,
   "championships": 1,
   "emoji": "0x1F45F",
   "fullName": "Charleston Shoe Thieves",
@@ -39,8 +39,7 @@
   "nickname": "Shoe Thieves",
   "permAttr": [
     "BLOOD_THIEF",
-    "TRAVELING",
-    "FAIRNESS"
+    "TRAVELING"
   ],
   "rotation": [
     "f0594932-8ef7-4d70-9894-df4be64875d8",

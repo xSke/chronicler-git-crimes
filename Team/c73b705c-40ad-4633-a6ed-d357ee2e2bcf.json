@@ -14,7 +14,7 @@
     "f106291a-5935-449e-b075-75e62d1d1b07",
     "51c70634-c50a-47a9-bc11-60fa72329875"
   ],
-  "card": -1,
+  "card": 10,
   "championships": 0,
   "emoji": "🏋️‍♀️",
   "fullName": "Tokyo Lift",
@@ -35,9 +35,7 @@
   "location": "Tokyo",
   "mainColor": "#e830ab",
   "nickname": "Lift",
-  "permAttr": [
-    "FAIRNESS"
-  ],
+  "permAttr": [],
   "rotation": [
     "62ae6aa9-e346-4faa-b07c-1f7623580015",
     "c549f280-82ba-4d8e-a4ce-c49e56461fb6",
