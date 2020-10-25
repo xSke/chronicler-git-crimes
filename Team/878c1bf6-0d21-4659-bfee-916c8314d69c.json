@@ -42,13 +42,10 @@
     "0bb35615-63f2-4492-80ec-b6b322dc5450",
     "9820f2c5-f9da-4a07-b610-c2dd7bee2ef6"
   ],
-  "rotationSlot": 105,
-  "seasAttr": [
-    "WALK_IN_THE_PARK",
-    "PARTY_TIME"
-  ],
-  "seasonShames": 12,
-  "seasonShamings": 3,
+  "rotationSlot": 0,
+  "seasAttr": [],
+  "seasonShames": 0,
+  "seasonShamings": 0,
   "secondaryColor": "#b063c1",
   "shameRuns": 0,
   "shorthand": "LATA",

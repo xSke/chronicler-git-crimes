@@ -46,13 +46,10 @@
     "20be1c34-071d-40c6-8824-dde2af184b4d",
     "21d52455-6c2c-4ee4-8673-ab46b4b926b4"
   ],
-  "rotationSlot": 99,
-  "seasAttr": [
-    "WALK_IN_THE_PARK",
-    "PARTY_TIME"
-  ],
-  "seasonShames": 4,
-  "seasonShamings": 4,
+  "rotationSlot": 0,
+  "seasAttr": [],
+  "seasonShames": 0,
+  "seasonShamings": 0,
   "secondaryColor": "#cd76fa",
   "shameRuns": 0,
   "shorthand": "MIA",
