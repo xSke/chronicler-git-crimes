@@ -1,7 +1,6 @@
 {
   "bench": [
     "23110c0f-2cf9-4d9c-ab2d-634f2f18867e",
-    "8d337b47-2a7d-418d-a44e-ef81e401c2ef",
     "7951836f-581a-49d5-ae2f-049c6bcc575e"
   ],
   "bullpen": [
@@ -29,7 +28,8 @@
     "d6c69d2d-9344-4b19-85a4-6cfcbaead5d2",
     "e4f1f358-ee1f-4466-863e-f329766279d0",
     "bd8778e5-02e8-4d1f-9c31-7b63942cc570",
-    "4204c2d1-ca48-4af7-b827-e99907f12d61"
+    "4204c2d1-ca48-4af7-b827-e99907f12d61",
+    "8d337b47-2a7d-418d-a44e-ef81e401c2ef"
   ],
   "location": "Mexico City",
   "mainColor": "#d15700",
