@@ -1,0 +1,52 @@
+{
+  "bench": [
+    "4204c2d1-ca48-4af7-b827-e99907f12d61",
+    "f56657d3-3bdc-4840-a20c-91aca9cc360e"
+  ],
+  "bullpen": [
+    "36786f44-9066-4028-98d9-4fa84465ab9e",
+    "0eea4a48-c84b-4538-97e7-3303671934d2",
+    "12577256-bc4e-4955-81d6-b422d895fb12",
+    "a199a681-decf-4433-b6ab-5454450bbe5e"
+  ],
+  "card": -1,
+  "championships": 0,
+  "emoji": "0x1F95B",
+  "fullName": "Milk Proxy Society",
+  "gameAttr": [],
+  "id": "a7592bd7-1d3c-4ffb-8b3a-0b1e4bc321fd",
+  "lineup": [
+    "864b3be8-e836-426e-ae56-20345b41d03d",
+    "0bb35615-63f2-4492-80ec-b6b322dc5450",
+    "1301ee81-406e-43d9-b2bb-55ca6e0f7765",
+    "7b55d484-6ea9-4670-8145-986cb9e32412",
+    "814bae61-071a-449b-981e-e7afc839d6d6",
+    "81d7d022-19d6-427d-aafc-031fcb79b29e",
+    "6c346d8b-d186-4228-9adb-ae919d7131dd",
+    "2e13249e-38ff-46a2-a55e-d15fa692468a",
+    "ee55248b-318a-4bfb-8894-1cc70e4e0720"
+  ],
+  "location": "Milk Substitute",
+  "mainColor": "#ffffff",
+  "nickname": "Milk Proxy",
+  "permAttr": [],
+  "rotation": [
+    "20be1c34-071d-40c6-8824-dde2af184b4d",
+    "ea44bd36-65b4-4f3b-ac71-78d87a540b48",
+    "df4da81a-917b-434f-b309-f00423ee4967",
+    "87e6ae4b-67de-4973-aa56-0fc9835a1e1e",
+    "0c83e3b6-360e-4b7d-85e3-d906633c9ca0"
+  ],
+  "rotationSlot": 0,
+  "seasAttr": [],
+  "seasonShames": 0,
+  "seasonShamings": 0,
+  "secondaryColor": "#ffffff",
+  "shameRuns": 0,
+  "shorthand": "MPS",
+  "slogan": "Not Milk?",
+  "teamSpirit": 0,
+  "totalShames": 0,
+  "totalShamings": 0,
+  "weekAttr": []
+}

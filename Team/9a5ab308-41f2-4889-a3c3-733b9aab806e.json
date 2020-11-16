@@ -1,0 +1,55 @@
+{
+  "bench": [
+    "adcbc290-81c5-4da9-b4da-2e594b080710",
+    "4ecee7be-93e4-4f04-b114-6b333e0e6408",
+    "cc11963b-a05b-477b-b154-911dc31960df",
+    "e6502bc7-5b76-4939-9fb8-132057390b30",
+    "7663c3ca-40a1-4f13-a430-14637dce797a"
+  ],
+  "bullpen": [
+    "ff5a37d9-a6dd-49aa-b6fb-b935fd670820",
+    "b7ca8f3f-2fdc-477b-84f4-157f2802e9b5",
+    "d6c69d2d-9344-4b19-85a4-6cfcbaead5d2",
+    "d23a1f7e-0071-444e-8361-6ae01f13036f"
+  ],
+  "card": -1,
+  "championships": 0,
+  "emoji": "0x1F451",
+  "fullName": "Royal PoS",
+  "gameAttr": [],
+  "id": "9a5ab308-41f2-4889-a3c3-733b9aab806e",
+  "lineup": [
+    "2b5f5dd7-e31f-4829-bec5-546652103bc0",
+    "86d4e22b-f107-4bcf-9625-32d387fcb521",
+    "34267632-8c32-4a8b-b5e6-ce1568bb0639",
+    "bf6a24d1-4e89-4790-a4ba-eeb2870cbf6f",
+    "d4a10c2a-0c28-466a-9213-38ba3339b65e",
+    "32551e28-3a40-47ae-aed1-ff5bc66be879",
+    "4b6f0a4e-de18-44ad-b497-03b1f470c43c",
+    "8c8cc584-199b-4b76-b2cd-eaa9a74965e5",
+    "c755efce-d04d-4e00-b5c1-d801070d3808"
+  ],
+  "location": "Sugar",
+  "mainColor": "#470094",
+  "nickname": "Royal PoS",
+  "permAttr": [],
+  "rotation": [
+    "11de4da3-8208-43ff-a1ff-0b3480a0fbf1",
+    "333067fd-c2b4-4045-a9a4-e87a8d0332d0",
+    "ef9f8b95-9e73-49cd-be54-60f84858a285",
+    "c6e2e389-ed04-4626-a5ba-fe398fe89568",
+    "a691f2ba-9b69-41f8-892c-1acd42c336e4"
+  ],
+  "rotationSlot": 0,
+  "seasAttr": [],
+  "seasonShames": 0,
+  "seasonShamings": 0,
+  "secondaryColor": "#a959ff",
+  "shameRuns": 0,
+  "shorthand": "RPOS",
+  "slogan": "Oh, Sweet",
+  "teamSpirit": 0,
+  "totalShames": 0,
+  "totalShamings": 0,
+  "weekAttr": []
+}

@@ -1,0 +1,55 @@
+{
+  "bench": [
+    "a8a5cf36-d1a9-47d1-8d22-4a665933a7cc",
+    "f2468055-e880-40bf-8ac6-a0763d846eb2",
+    "ae81e172-801a-4236-929a-b990fc7190ce",
+    "316abea7-9890-4fb8-aaea-86b35e24d9be",
+    "9f85676a-7411-444a-8ae2-c7f8f73c285c",
+    "bd24e18b-800d-4f15-878d-e334fb4803c4",
+    "30218684-7fa1-41a5-a3b3-5d9cd97dd36b"
+  ],
+  "bullpen": [
+    "cfb42325-592a-4119-9b40-4cdc19959b09",
+    "21d52455-6c2c-4ee4-8673-ab46b4b926b4"
+  ],
+  "card": -1,
+  "championships": 0,
+  "emoji": "0x1F3C6",
+  "fullName": "Atlético Latte",
+  "gameAttr": [],
+  "id": "49181b72-7f1c-4f1c-929f-928d763ad7fb",
+  "lineup": [
+    "c675fcdf-6117-49a6-ac32-99a89a3a88aa",
+    "e16c3f28-eecd-4571-be1a-606bbac36b2b",
+    "f3ddfd87-73a2-4681-96fe-829476c97886",
+    "3d3be7b8-1cbf-450d-8503-fce0daf46cbf",
+    "be18d363-752d-4e4a-b06b-1a7e4641400b",
+    "2e86de11-a2dd-4b28-b5fe-f4d0c38cd20b",
+    "5ff66eae-7111-4e3b-a9b8-a9579165b0a5",
+    "e2f39815-5291-4dcf-ba19-97dcf0c015e9",
+    "4f69e8c2-b2a1-4e98-996a-ccf35ac844c5"
+  ],
+  "location": "Latte",
+  "mainColor": "#094f12",
+  "nickname": "Atlético",
+  "permAttr": [],
+  "rotation": [
+    "80dff591-2393-448a-8d88-122bd424fa4c",
+    "1513aab6-142c-48c6-b43e-fbda65fd64e8",
+    "4ffd2e50-bb5b-45d0-b7c4-e24d41b2ff5d",
+    "bf122660-df52-4fc4-9e70-ee185423ff93",
+    "dd6044ef-c635-4aed-97bd-d18068432b8f"
+  ],
+  "rotationSlot": 0,
+  "seasAttr": [],
+  "seasonShames": 0,
+  "seasonShamings": 0,
+  "secondaryColor": "#36ad45",
+  "shameRuns": 0,
+  "shorthand": "AL",
+  "slogan": "Teamwork makes the steam work",
+  "teamSpirit": 0,
+  "totalShames": 0,
+  "totalShamings": 0,
+  "weekAttr": []
+}

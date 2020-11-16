@@ -1,0 +1,44 @@
+{
+  "bench": [],
+  "bullpen": [
+    "e7ecf646-e5e4-49ef-a0e3-10a78e87f5f4"
+  ],
+  "card": -1,
+  "championships": 0,
+  "emoji": "0x2693",
+  "fullName": "Heavy FC",
+  "gameAttr": [],
+  "id": "e8f7ffee-ec53-4fe0-8e87-ea8ff1d0b4a9",
+  "lineup": [
+    "667cb445-c288-4e62-b603-27291c1e475d",
+    "542af915-79c5-431c-a271-f7185e37c6ae",
+    "da67c196-4cac-428b-8c18-2a411055ea35",
+    "28964497-0efe-420c-9c1d-8574f224a4e9",
+    "97f5a9cd-72f0-413e-9e68-a6ee6a663489",
+    "9c3273a0-2711-4958-b716-bfcf60857013",
+    "3e008f60-6842-42e7-b125-b88c7e5c1a95"
+  ],
+  "location": "Foam",
+  "mainColor": "#a9e8c9",
+  "nickname": "Heavy",
+  "permAttr": [],
+  "rotation": [
+    "338694b7-6256-4724-86b6-3884299a5d9e",
+    "04e14d7b-5021-4250-a3cd-932ba8e0a889",
+    "2720559e-9173-4042-aaa0-d3852b72ab2e",
+    "20c529b3-947e-4a77-b56f-69fe25fb3717",
+    "a5f8ce83-02b2-498c-9e48-533a1d81aebf"
+  ],
+  "rotationSlot": 0,
+  "seasAttr": [],
+  "seasonShames": 0,
+  "seasonShamings": 0,
+  "secondaryColor": "#a9e8c9",
+  "shameRuns": 0,
+  "shorthand": "HFC",
+  "slogan": "[FOGHORN SOUND]",
+  "teamSpirit": 0,
+  "totalShames": 0,
+  "totalShamings": 0,
+  "weekAttr": []
+}

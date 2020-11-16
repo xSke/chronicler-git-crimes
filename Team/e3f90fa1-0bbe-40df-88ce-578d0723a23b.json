@@ -1,0 +1,61 @@
+{
+  "bench": [
+    "62ae6aa9-e346-4faa-b07c-1f7623580015",
+    "9397ed91-608e-4b13-98ea-e94c795f651e",
+    "fcbe1d14-04c4-4331-97ad-46e170610633",
+    "27c68d7f-5e40-4afa-8b6f-9df47b79e7dd",
+    "c549f280-82ba-4d8e-a4ce-c49e56461fb6",
+    "3a8c52d7-4124-4a65-a20d-d51abcbe6540",
+    "9c23702b-f0c2-4668-8bcc-61bbdbbfd93e",
+    "db33a54c-3934-478f-bad4-fc313ac2580e"
+  ],
+  "bullpen": [
+    "2b157c5c-9a6a-45a6-858f-bf4cf4cbc0bd",
+    "5dbf11c0-994a-4482-bd1e-99379148ee45",
+    "c3ae0552-59e8-44bf-ba66-48a96aff35e6",
+    "7007cbd3-7c7b-44fd-9d6b-393e82b1c06e",
+    "1ffb1153-909d-44c7-9df1-6ed3a9a45bbd",
+    "f3c07eaf-3d6c-4cc3-9e54-cbecc9c08286",
+    "8adb084b-19fe-4295-bcd2-f92afdb62bd7"
+  ],
+  "card": -1,
+  "championships": 0,
+  "emoji": "0x1F3F3",
+  "fullName": "FWXBC",
+  "gameAttr": [],
+  "id": "e3f90fa1-0bbe-40df-88ce-578d0723a23b",
+  "lineup": [
+    "4b3e8e9b-6de1-4840-8751-b1fb45dc5605",
+    "89f74891-2e25-4b5a-bd99-c95ba3f36aa0",
+    "e3c514ae-f813-470e-9c91-d5baf5ffcf16",
+    "80e474a3-7d2b-431d-8192-2f1e27162607",
+    "d47dd08e-833c-4302-a965-a391d345455c",
+    "32810dca-825c-4dbc-8b65-0702794c424e",
+    "4bf352d2-6a57-420a-9d45-b23b2b947375",
+    "855775c1-266f-40f6-b07b-3a67ccdf8551",
+    "c0998a08-de15-4187-b903-2e096ffa08e5"
+  ],
+  "location": "Flat White",
+  "mainColor": "#505050",
+  "nickname": "FWXBC",
+  "permAttr": [],
+  "rotation": [
+    "defbc540-a36d-460b-afd8-07da2375ee63",
+    "6f9de777-e812-4c84-915c-ef283c9f0cde",
+    "81a0889a-4606-4f49-b419-866b57331383",
+    "20e13b56-599b-4a22-b752-8059effc81dc",
+    "21cbbfaa-100e-48c5-9cea-7118b0d08a34"
+  ],
+  "rotationSlot": 0,
+  "seasAttr": [],
+  "seasonShames": 0,
+  "seasonShamings": 0,
+  "secondaryColor": "#b8b8b8",
+  "shameRuns": 0,
+  "shorthand": "FWXBC",
+  "slogan": "We Forfeit!",
+  "teamSpirit": 0,
+  "totalShames": 0,
+  "totalShamings": 0,
+  "weekAttr": []
+}

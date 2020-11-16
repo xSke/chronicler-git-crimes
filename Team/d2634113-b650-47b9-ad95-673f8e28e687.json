@@ -1,0 +1,56 @@
+{
+  "bench": [
+    "944d939e-68b8-4259-b9cd-46b4ac9789c7",
+    "a25acf3a-6d2c-4485-975b-a04549d084f3",
+    "8cfb7ee9-cfa4-445c-830e-2723797fa7b3"
+  ],
+  "bullpen": [
+    "94e1e162-9d2e-4407-803a-19bcee369933",
+    "ac13264f-af4e-4423-9e4a-43499a0f8227",
+    "5e3b1e6b-6fef-4572-80c8-f9479335ea36",
+    "14ff5a36-c39f-4910-affb-2a9ea28e09b0",
+    "dab126a9-3310-4f6e-a3ba-3e3044a0feec"
+  ],
+  "card": -1,
+  "championships": 0,
+  "emoji": "0x1F52E",
+  "fullName": "Society Data Witches",
+  "gameAttr": [],
+  "id": "d2634113-b650-47b9-ad95-673f8e28e687",
+  "lineup": [
+    "13032f07-10bf-48eb-a23e-f4117d246868",
+    "aadbe486-6bf2-42bd-8418-dbd1aa36edd9",
+    "3adb039d-0875-44f4-914f-1ef9ee4c2120",
+    "ab04ba22-69b1-43ca-a307-345e460d795a",
+    "e181ad4a-dd09-4873-ae68-b50518d20722",
+    "b0045559-81cf-42e0-87d4-3bbbd3ce0bce",
+    "0892da6e-c9d1-494f-84bc-0c1f879018c0",
+    "5a39b2dd-23c4-4a6f-a645-99b0b1992585",
+    "bbdeb3e2-cd5a-46ff-9a69-fd06b1482710"
+  ],
+  "location": "Society",
+  "mainColor": "#691a8f",
+  "nickname": "Data Witches",
+  "permAttr": [
+    "AFFINITY_FOR_CROWS"
+  ],
+  "rotation": [
+    "e1651116-4533-4b39-8931-62d023e21579",
+    "2d5ac274-96fd-471b-8028-f4d7b42d8313",
+    "be4f288b-ef87-4e8e-b8ee-20eec18e80b8",
+    "e11ff57a-ec5d-4d59-81a3-ffe3529b0e61",
+    "92ff8e42-dcca-4a94-a83d-24d2900b811a"
+  ],
+  "rotationSlot": 0,
+  "seasAttr": [],
+  "seasonShames": 0,
+  "seasonShamings": 0,
+  "secondaryColor": "#bc60e2",
+  "shameRuns": 0,
+  "shorthand": "SIBR",
+  "slogan": "Derive the Stars",
+  "teamSpirit": 0,
+  "totalShames": 0,
+  "totalShamings": 0,
+  "weekAttr": []
+}

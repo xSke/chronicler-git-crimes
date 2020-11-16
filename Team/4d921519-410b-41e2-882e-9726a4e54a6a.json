@@ -1,0 +1,54 @@
+{
+  "bench": [
+    "46721a07-7cd2-4839-982e-7046df6e8b66",
+    "e4e4c17d-8128-4704-9e04-f244d4573c4d",
+    "5a26fc61-d75d-4c01-9ce2-1880ffb5550f",
+    "b7267aba-6114-4d53-a519-bf6c99f4e3a9",
+    "b39b5aae-8571-4c90-887a-6a00f2a2f6fd",
+    "042962c8-4d8b-44a6-b854-6ccef3d82716"
+  ],
+  "bullpen": [
+    "8cd06abf-be10-4a35-a3ab-1a408a329147",
+    "bbf9543f-f100-445a-a467-81d7aab12236"
+  ],
+  "card": -1,
+  "championships": 0,
+  "emoji": "0x2744",
+  "fullName": "Cold Brew Crew",
+  "gameAttr": [],
+  "id": "4d921519-410b-41e2-882e-9726a4e54a6a",
+  "lineup": [
+    "190a0f31-d686-4ac4-a7f3-cfc87b72c145",
+    "44c92d97-bb39-469d-a13b-f2dd9ae644d1",
+    "f70dd57b-55c4-4a62-a5ea-7cc4bf9d8ac1",
+    "1732e623-ffc2-40f0-87ba-fdcf97131f1f",
+    "1f159bab-923a-4811-b6fa-02bfde50925a",
+    "1c73f91e-0562-480d-9543-2aab1d5e5acd",
+    "c31d874c-1b4d-40f2-a1b3-42542e934047",
+    "80de2b05-e0d4-4d33-9297-9951b2b5c950",
+    "18af933a-4afa-4cba-bda5-45160f3af99b"
+  ],
+  "location": "Cold Brew",
+  "mainColor": "#2a5e6c",
+  "nickname": "Cold Brew",
+  "permAttr": [],
+  "rotation": [
+    "f2a27a7e-bf04-4d31-86f5-16bfa3addbe7",
+    "e111a46d-5ada-4311-ac4f-175cca3357da",
+    "3c331c87-1634-46c4-87ce-e4b9c59e2969",
+    "aa6c2662-75f8-4506-aa06-9a0993313216",
+    "68dd9d47-b9a8-4fd3-a89c-5c112eb1982e"
+  ],
+  "rotationSlot": 0,
+  "seasAttr": [],
+  "seasonShames": 0,
+  "seasonShamings": 0,
+  "secondaryColor": "#92c7d6",
+  "shameRuns": 0,
+  "shorthand": "CBC",
+  "slogan": "Blaseball Go Brrrrrr",
+  "teamSpirit": 0,
+  "totalShames": 0,
+  "totalShamings": 0,
+  "weekAttr": []
+}

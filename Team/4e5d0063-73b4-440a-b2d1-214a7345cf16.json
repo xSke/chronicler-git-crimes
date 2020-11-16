@@ -1,0 +1,56 @@
+{
+  "bench": [
+    "8cf78b49-d0ca-4703-88e8-4bcad26c44b1",
+    "f38c5d80-093f-46eb-99d6-942aa45cd921",
+    "c0177f76-67fc-4316-b650-894159dede45",
+    "285ce77d-e5cd-4daa-9784-801347140d48",
+    "c182f33c-aea5-48a2-97ed-dc74fa29b3c0",
+    "ce0e57a7-89f5-41ea-80f9-6e649dd54089",
+    "2e6d4fa9-f930-47bd-971a-dd54a3cf7db1",
+    "733d80f1-2485-40f7-828b-fd7cd8243a01",
+    "f4a5d734-0ade-4410-abb6-c0cd5a7a1c26"
+  ],
+  "bullpen": [
+    "413b3ddb-d933-4567-a60e-6d157480239d"
+  ],
+  "card": -1,
+  "championships": 0,
+  "emoji": "0x1F4A7",
+  "fullName": "Americano Water Works",
+  "gameAttr": [],
+  "id": "4e5d0063-73b4-440a-b2d1-214a7345cf16",
+  "lineup": [
+    "611d18e0-b972-4cdd-afc2-793c56bfe5a9",
+    "efafe75e-2f00-4418-914c-9b6675d39264",
+    "8ecea7e0-b1fb-4b74-8c8c-3271cb54f659",
+    "4ca52626-58cd-449d-88bb-f6d631588640",
+    "b1b141fc-e867-40d1-842a-cea30a97ca4f",
+    "58c9e294-bd49-457c-883f-fb3162fc668e",
+    "a1ed3396-114a-40bc-9ff0-54d7e1ad1718",
+    "63df8701-1871-4987-87d7-b55d4f1df2e9",
+    "b8ab86c6-9054-4832-9b96-508dbd4eb624"
+  ],
+  "location": "Americano",
+  "mainColor": "#005d9c",
+  "nickname": "Americano",
+  "permAttr": [],
+  "rotation": [
+    "c0732e36-3731-4f1a-abdc-daa9563b6506",
+    "b6aa8ce8-2587-4627-83c1-2a48d44afaee",
+    "82d1b7b4-ce00-4536-8631-a025f05150ce",
+    "2da49de2-34e5-49d0-b752-af2a2ee061be",
+    "089af518-e27c-4256-adc8-62e3f4b30f43"
+  ],
+  "rotationSlot": 0,
+  "seasAttr": [],
+  "seasonShames": 0,
+  "seasonShamings": 0,
+  "secondaryColor": "#8dd4f0",
+  "shameRuns": 0,
+  "shorthand": "AWW",
+  "slogan": "Water Down!",
+  "teamSpirit": 0,
+  "totalShames": 0,
+  "totalShamings": 0,
+  "weekAttr": []
+}

@@ -1,0 +1,46 @@
+{
+  "bench": [
+    "446a3366-3fe3-41bb-bfdd-d8717f2152a9",
+    "bfd9ff52-9bf6-4aaf-a859-d308d8f29616"
+  ],
+  "bullpen": [],
+  "card": -1,
+  "championships": 0,
+  "emoji": "0x1F42E",
+  "fullName": "Club de Calf",
+  "gameAttr": [],
+  "id": "a3ea6358-ce03-4f23-85f9-deb38cb81b20",
+  "lineup": [
+    "51c5473a-7545-4a9a-920d-d9b718d0e8d1",
+    "d8ee256f-e3d0-46cb-8c77-b1f88d8c9df9",
+    "9f218ed1-d793-437d-a1b9-79f88f69154d",
+    "ab36c776-b520-429b-a85f-bf633d7b081a",
+    "cf8e152e-2d27-4dcc-ba2b-68127de4e6a4",
+    "020ed630-8bae-4441-95cc-0e4ecc27253b",
+    "68f98a04-204f-4675-92a7-8823f2277075",
+    "c22e3af5-9001-465f-b450-864d7db2b4a0",
+    "26cfccf2-850e-43eb-b085-ff73ad0749b8"
+  ],
+  "location": "Decaf",
+  "mainColor": "#ffc6df",
+  "nickname": "de Calf",
+  "permAttr": [],
+  "rotation": [
+    "7aeb8e0b-f6fb-4a9e-bba2-335dada5f0a3",
+    "1e8b09bd-fbdd-444e-bd7e-10326bd57156",
+    "6a567da6-7c96-44d3-85de-e5a08a919250",
+    "f2c477fb-28ea-4fcb-943a-9fab22df3da0"
+  ],
+  "rotationSlot": 0,
+  "seasAttr": [],
+  "seasonShames": 0,
+  "seasonShamings": 0,
+  "secondaryColor": "#ffc6df",
+  "shameRuns": 0,
+  "shorthand": "CdC",
+  "slogan": "moo",
+  "teamSpirit": 0,
+  "totalShames": 0,
+  "totalShamings": 0,
+  "weekAttr": []
+}

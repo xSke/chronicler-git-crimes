@@ -1,0 +1,32 @@
+{
+  "bench": [],
+  "bullpen": [],
+  "card": -1,
+  "championships": 0,
+  "emoji": "0x1F50D",
+  "fullName": "BC Noir",
+  "gameAttr": [],
+  "id": "f29d6e60-8fce-4ac6-8bc2-b5e3cabc5696",
+  "lineup": [
+    "d1a198d6-b05a-47cf-ab8e-39a6fa1ed831"
+  ],
+  "location": "Black",
+  "mainColor": "#231709",
+  "nickname": "BC Noir",
+  "permAttr": [],
+  "rotation": [
+    "fedbceb8-e2aa-4868-ac35-74cd0445893f"
+  ],
+  "rotationSlot": 0,
+  "seasAttr": [],
+  "seasonShames": 0,
+  "seasonShamings": 0,
+  "secondaryColor": "#7f6f5c",
+  "shameRuns": 0,
+  "shorthand": "BCN",
+  "slogan": "Drink In the Darkness",
+  "teamSpirit": 0,
+  "totalShames": 0,
+  "totalShamings": 0,
+  "weekAttr": []
+}

@@ -1,0 +1,55 @@
+{
+  "bench": [
+    "5e4dfa16-f1b9-400f-b8ef-a1613c2b026a",
+    "c18961e9-ef3f-4954-bd6b-9fe01c615186",
+    "ec68845f-3b26-412f-8446-4fef34e09c77",
+    "8d337b47-2a7d-418d-a44e-ef81e401c2ef",
+    "7158d158-e7bf-4e9b-9259-62e5b25e3de8",
+    "0cc5bd39-e90d-42f9-9dd8-7e703f316436"
+  ],
+  "bullpen": [
+    "a38ada0a-aeac-4a3d-b9a5-968687ccd2f9",
+    "75f9d874-5e69-438d-900d-a3fcb1d429b3",
+    "378c07b0-5645-44b5-869f-497d144c7b35"
+  ],
+  "card": -1,
+  "championships": 0,
+  "emoji": "0x1F91D",
+  "fullName": "Cream & Sugar United",
+  "gameAttr": [],
+  "id": "b3b9636a-f88a-47dc-a91d-86ecc79f9934",
+  "lineup": [
+    "89ec77d8-c186-4027-bd45-f407b4800c2c",
+    "f0bcf4bb-74b3-412e-a54c-04c12ad28ecb",
+    "5bcfb3ff-5786-4c6c-964c-5c325fcc48d7",
+    "503a235f-9fa6-41b5-8514-9475c944273f",
+    "4ed61b18-c1f6-4d71-aea3-caac01470b5c",
+    "d2d76815-cbdc-4c4b-9c9e-32ebf2297cc7",
+    "7932c7c7-babb-4245-b9f5-cdadb97c99fb",
+    "8903a74f-f322-41d2-bd75-dbf7563c4abb",
+    "198fd9c8-cb75-482d-873e-e6b91d42a446"
+  ],
+  "location": "Cream & Sugar",
+  "mainColor": "#b89600",
+  "nickname": "Cream & Sugar",
+  "permAttr": [],
+  "rotation": [
+    "94baa9ac-ff96-4f56-a987-10358e917d91",
+    "5703141c-25d9-46d0-b680-0cf9cfbf4777",
+    "86adac6f-c694-44ac-9560-758de7eac937",
+    "126fb128-7c53-45b5-ac2b-5dbf9943d71b",
+    "a3947fbc-50ec-45a4-bca4-49ffebb77dbe"
+  ],
+  "rotationSlot": 0,
+  "seasAttr": [],
+  "seasonShames": 0,
+  "seasonShamings": 0,
+  "secondaryColor": "#ffd20f",
+  "shameRuns": 0,
+  "shorthand": "C&SU",
+  "slogan": "There's no I in Cream ... or Sugar",
+  "teamSpirit": 0,
+  "totalShames": 0,
+  "totalShamings": 0,
+  "weekAttr": []
+}

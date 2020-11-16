@@ -1,0 +1,54 @@
+{
+  "bench": [
+    "b60605e6-ff41-4388-a61a-fafd2175f7ad",
+    "7d388846-8f4c-407f-aacb-b844d2561c5e",
+    "e4f1f358-ee1f-4466-863e-f329766279d0",
+    "2b9f9c25-43ec-4f0b-9937-a5aa23be0d9e",
+    "9965eed5-086c-4977-9470-fe410f92d353",
+    "af6b3edc-ed52-4edc-b0c9-14e0a5ae0ee3"
+  ],
+  "bullpen": [
+    "b348c037-eefc-4b81-8edd-dfa96188a97e",
+    "167751d5-210c-4a6e-9568-e92d61bab185"
+  ],
+  "card": -1,
+  "championships": 0,
+  "emoji": "0x1F303",
+  "fullName": "Macchiato City",
+  "gameAttr": [],
+  "id": "9e42c12a-7561-42a2-b2d0-7cf81a817a5e",
+  "lineup": [
+    "083d09d4-7ed3-4100-b021-8fbe30dd43e8",
+    "20fd71e7-4fa0-4132-9f47-06a314ed539a",
+    "9820f2c5-f9da-4a07-b610-c2dd7bee2ef6",
+    "718dea1a-d9a8-4c2b-933a-f0667b5250e6",
+    "d89da2d2-674c-4b85-8959-a4bd406f760a",
+    "1db2f602-64b1-4a5c-8697-1932cc2c6df1",
+    "15d3a844-df6b-4193-a8f5-9ab129312d8d",
+    "3a96d76a-c508-45a0-94a0-8f64cd6beeb4",
+    "4542f0b0-3409-4a4a-a9e1-e8e8e5d73fcf"
+  ],
+  "location": "Macchiato",
+  "mainColor": "#1f1636",
+  "nickname": "Macchiato",
+  "permAttr": [],
+  "rotation": [
+    "65273615-22d5-4df1-9a73-707b23e828d5",
+    "de21c97e-f575-43b7-8be7-ecc5d8c4eaff",
+    "09f2787a-3352-41a6-8810-d80e97b253b5",
+    "90768354-957e-4b4c-bb6d-eab6bbda0ba3",
+    "0f61d948-4f0c-4550-8410-ae1c7f9f5613"
+  ],
+  "rotationSlot": 0,
+  "seasAttr": [],
+  "seasonShames": 0,
+  "seasonShamings": 0,
+  "secondaryColor": "#b5abd1",
+  "shameRuns": 0,
+  "shorthand": "MC",
+  "slogan": "We Don't Sleep. We Can't Sleep",
+  "teamSpirit": 0,
+  "totalShames": 0,
+  "totalShamings": 0,
+  "weekAttr": []
+}
