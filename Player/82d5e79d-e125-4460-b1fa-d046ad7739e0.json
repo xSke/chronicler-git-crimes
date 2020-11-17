@@ -31,7 +31,9 @@
   "overpowerment": 0.9428418482245212,
   "patheticism": 0.9080023376042874,
   "peanutAllergy": true,
-  "permAttr": [],
+  "permAttr": [
+    "COFFEE_PERIL"
+  ],
   "pitchingRating": 0,
   "pressurization": 0.8502996059331416,
   "ritual": "Being talented",
