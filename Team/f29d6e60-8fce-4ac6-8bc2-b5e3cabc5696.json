@@ -19,14 +19,14 @@
   ],
   "rotationSlot": 1,
   "seasAttr": [],
-  "seasonShames": 0,
+  "seasonShames": 1,
   "seasonShamings": 0,
   "secondaryColor": "#7f6f5c",
-  "shameRuns": 0,
+  "shameRuns": 0.5,
   "shorthand": "BCN",
   "slogan": "Drink In the Darkness",
   "teamSpirit": 0,
-  "totalShames": 0,
+  "totalShames": 1,
   "totalShamings": 0,
   "weekAttr": []
 }
