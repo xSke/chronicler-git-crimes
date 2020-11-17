@@ -1,6 +1,5 @@
 {
   "bench": [
-    "f63ee68f-8021-4dd0-b3d5-b3d587ae3213",
     "4957826f-0c44-467d-b71f-21185450f458",
     "1d7af93e-7910-45c3-9799-4166a27a6d0b",
     "05415c0d-db3b-455d-9d06-684a39506cf5",
@@ -9,7 +8,8 @@
     "50aad46d-be61-4236-bb0c-6c6198e00be1",
     "7f7042de-7fc1-45f9-b7c4-9169d1454653",
     "3c53ff1c-6437-4965-a4a2-489bcb91d3f4",
-    "01bcbeeb-0f63-43b4-8cfa-ec02b42a1a5e"
+    "01bcbeeb-0f63-43b4-8cfa-ec02b42a1a5e",
+    "478d91ef-1a6d-4bb3-9965-87cdcc4ad8db"
   ],
   "bullpen": [
     "87983006-c9c5-459f-8e7c-e7edcbd902dc",
@@ -34,7 +34,7 @@
     "b3c8c0a0-20a0-4c5d-a391-34b99038693c",
     "6c1c0539-4168-4977-bf17-257bcbfec92b",
     "a083246b-35f4-4dad-8b07-8b28047e0823",
-    "478d91ef-1a6d-4bb3-9965-87cdcc4ad8db",
+    "f63ee68f-8021-4dd0-b3d5-b3d587ae3213",
     "e2ad81ff-fff2-40bb-9043-95bdaf34ebc2"
   ],
   "location": "Pandemonium",
