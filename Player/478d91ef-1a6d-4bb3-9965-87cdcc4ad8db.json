@@ -15,9 +15,7 @@
   "defenseRating": 0.8182749028340985,
   "divinity": 1.0474460756462256,
   "fate": 75,
-  "gameAttr": [
-    "TIRED"
-  ],
+  "gameAttr": [],
   "groundFriction": 0.779550319104269,
   "hitStreak": 0,
   "hittingRating": 0.5880452822186008,
