@@ -32,7 +32,8 @@
   "patheticism": 0.7637393228867613,
   "peanutAllergy": false,
   "permAttr": [
-    "COFFEE_PERIL"
+    "COFFEE_PERIL",
+    "COFFEE_EXIT"
   ],
   "pitchingRating": 0.9881245031873358,
   "pressurization": 0.8405162045461421,
