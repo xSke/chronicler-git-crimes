@@ -15,7 +15,9 @@
   "defenseRating": 1.3204644182459775,
   "divinity": 0.518107568133711,
   "fate": 67,
-  "gameAttr": [],
+  "gameAttr": [
+    "WIRED"
+  ],
   "groundFriction": 0.6724049451982883,
   "hitStreak": 0,
   "hittingRating": 0.6067085159377694,
