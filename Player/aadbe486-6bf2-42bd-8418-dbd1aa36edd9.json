@@ -31,7 +31,9 @@
   "overpowerment": 0.5841849348219095,
   "patheticism": 0.281549561249937,
   "peanutAllergy": false,
-  "permAttr": [],
+  "permAttr": [
+    "COFFEE_RALLY"
+  ],
   "pitchingRating": 0.6078549992731667,
   "pressurization": 0.6399647639844546,
   "ritual": "Chaos magic",
