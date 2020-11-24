@@ -31,7 +31,9 @@
   "overpowerment": 0.6447460123881854,
   "patheticism": 0.01,
   "peanutAllergy": false,
-  "permAttr": [],
+  "permAttr": [
+    "COFFEE_RALLY"
+  ],
   "pitchingRating": 0.4246167520810171,
   "pressurization": 0.9398150163500756,
   "ritual": "Whispering",
