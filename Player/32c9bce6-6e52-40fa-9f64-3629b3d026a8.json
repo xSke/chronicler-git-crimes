@@ -31,7 +31,9 @@
   "overpowerment": 0.33885604312700823,
   "patheticism": 0.7293090556553591,
   "peanutAllergy": true,
-  "permAttr": [],
+  "permAttr": [
+    "COFFEE_RALLY"
+  ],
   "pitchingRating": 0.3053134866504591,
   "pressurization": 0.7284504542962638,
   "ritual": "Going bananas",

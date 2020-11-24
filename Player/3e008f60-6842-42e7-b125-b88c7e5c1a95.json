@@ -31,7 +31,9 @@
   "overpowerment": 0.09399021903757696,
   "patheticism": 0.04000000000000001,
   "peanutAllergy": false,
-  "permAttr": [],
+  "permAttr": [
+    "COFFEE_RALLY"
+  ],
   "pitchingRating": 0.32257530016253577,
   "pressurization": 0.10426122166835317,
   "ritual": "Getting organized",
