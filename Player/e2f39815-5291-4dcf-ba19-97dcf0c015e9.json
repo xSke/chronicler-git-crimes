@@ -31,7 +31,9 @@
   "overpowerment": 0.47118082825231866,
   "patheticism": 0.5126596030997379,
   "peanutAllergy": false,
-  "permAttr": [],
+  "permAttr": [
+    "COFFEE_RALLY"
+  ],
   "pitchingRating": 0.06943894933348933,
   "pressurization": 0.7422268988153553,
   "ritual": "Advanced Mathematics",
