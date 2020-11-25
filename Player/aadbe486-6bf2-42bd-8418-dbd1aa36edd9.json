@@ -15,7 +15,9 @@
   "defenseRating": 0.6782139096830055,
   "divinity": 1.0786846550350486,
   "fate": 58,
-  "gameAttr": [],
+  "gameAttr": [
+    "WIRED"
+  ],
   "groundFriction": 0.21126565508798953,
   "hitStreak": 0,
   "hittingRating": 0.7179824428999552,
@@ -31,9 +33,7 @@
   "overpowerment": 0.5841849348219095,
   "patheticism": 0.281549561249937,
   "peanutAllergy": false,
-  "permAttr": [
-    "COFFEE_RALLY"
-  ],
+  "permAttr": [],
   "pitchingRating": 0.6078549992731667,
   "pressurization": 0.6399647639844546,
   "ritual": "Chaos magic",
