@@ -31,7 +31,9 @@
   "overpowerment": 0.6642209268759287,
   "patheticism": 0.4471529712644097,
   "peanutAllergy": true,
-  "permAttr": [],
+  "permAttr": [
+    "TRIPLE_THREAT"
+  ],
   "pitchingRating": 0.8737729880106323,
   "pressurization": 0.8098525163738565,
   "ritual": "Congealing",
