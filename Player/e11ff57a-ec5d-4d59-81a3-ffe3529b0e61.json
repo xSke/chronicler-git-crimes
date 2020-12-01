@@ -31,7 +31,9 @@
   "overpowerment": 1.003384136392397,
   "patheticism": 0.6174593026181512,
   "peanutAllergy": false,
-  "permAttr": [],
+  "permAttr": [
+    "TRIPLE_THREAT"
+  ],
   "pitchingRating": 0.7139709168846774,
   "pressurization": 0.04649443014851995,
   "ritual": "Saying goodbyes just in case",

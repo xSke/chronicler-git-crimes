@@ -31,7 +31,9 @@
   "overpowerment": 1.0311286019094217,
   "patheticism": 0.12729228984484434,
   "peanutAllergy": true,
-  "permAttr": [],
+  "permAttr": [
+    "TRIPLE_THREAT"
+  ],
   "pitchingRating": 0.7464359489803546,
   "pressurization": 0.5666869411772861,
   "ritual": "Powerlifting",
