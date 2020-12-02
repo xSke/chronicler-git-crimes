@@ -31,7 +31,9 @@
   "overpowerment": 0.8048631613577711,
   "patheticism": 0.6516223727626449,
   "peanutAllergy": false,
-  "permAttr": [],
+  "permAttr": [
+    "COFFEE_RALLY"
+  ],
   "pitchingRating": 0.24781776169237993,
   "pressurization": 0.21455030822645277,
   "ritual": "Fixating on their impending death",
