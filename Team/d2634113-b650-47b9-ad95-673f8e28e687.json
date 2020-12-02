@@ -43,14 +43,14 @@
   ],
   "rotationSlot": 11,
   "seasAttr": [],
-  "seasonShames": 0,
+  "seasonShames": 1,
   "seasonShamings": 0,
   "secondaryColor": "#bc60e2",
-  "shameRuns": 0,
+  "shameRuns": 1.5,
   "shorthand": "SIBR",
   "slogan": "Derive the Stars",
   "teamSpirit": 0,
-  "totalShames": 0,
+  "totalShames": 1,
   "totalShamings": 0,
   "weekAttr": []
 }
