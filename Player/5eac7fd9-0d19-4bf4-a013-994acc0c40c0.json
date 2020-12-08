@@ -31,7 +31,9 @@
   "overpowerment": 0.669325565779844,
   "patheticism": 0.5695191124005091,
   "peanutAllergy": false,
-  "permAttr": [],
+  "permAttr": [
+    "TRIPLE_THREAT"
+  ],
   "pitchingRating": 0.7792734724937923,
   "pressurization": 0.9208823265287372,
   "ritual": "Cursing the sun",
