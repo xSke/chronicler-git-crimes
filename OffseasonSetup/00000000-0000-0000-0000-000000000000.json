@@ -30,14 +30,14 @@
       "value": 3
     },
     {
-      "description": "Your Team will play 5% better during next Season's Earlseason.",
+      "description": "Your Team will play 20% better during next Season's Earlseason.",
       "id": "mod_team_earlbirds",
       "title": "Earlbirds",
       "type": 139,
       "value": 1
     },
     {
-      "description": "Birds will unshell your players much more often.",
+      "description": "Your Team will play 20% better during next Season's Lateseason.",
       "id": "mod_team_late_to_party",
       "title": "Late to the Party",
       "type": 140,
