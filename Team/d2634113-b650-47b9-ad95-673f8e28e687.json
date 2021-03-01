@@ -13,10 +13,14 @@
   ],
   "card": -1,
   "championships": 0,
+  "eDensity": 0,
+  "eVelocity": 0,
   "emoji": "0x1F52E",
+  "evolution": 0,
   "fullName": "Society Data Witches",
   "gameAttr": [],
   "id": "d2634113-b650-47b9-ad95-673f8e28e687",
+  "imPosition": 0,
   "lineup": [
     "13032f07-10bf-48eb-a23e-f4117d246868",
     "aadbe486-6bf2-42bd-8418-dbd1aa36edd9",
@@ -49,9 +53,12 @@
   "shameRuns": 1.5,
   "shorthand": "SIBR",
   "slogan": "Derive the Stars",
+  "stadium": null,
+  "state": {},
   "teamSpirit": 0,
   "totalShames": 1,
   "totalShamings": 0,
   "tournamentWins": 0,
-  "weekAttr": []
+  "weekAttr": [],
+  "winStreak": 0
 }

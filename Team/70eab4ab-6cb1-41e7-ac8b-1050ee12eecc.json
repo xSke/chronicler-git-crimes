@@ -14,10 +14,14 @@
   "bullpen": [],
   "card": -1,
   "championships": 0,
+  "eDensity": 0,
+  "eVelocity": 0,
   "emoji": "0x1F4A1",
+  "evolution": 0,
   "fullName": "Light & Sweet Electric Co.",
   "gameAttr": [],
   "id": "70eab4ab-6cb1-41e7-ac8b-1050ee12eecc",
+  "imPosition": 0,
   "lineup": [
     "405dfadf-d435-4307-82f6-8eba2287e87a",
     "740d5fef-d59f-4dac-9a75-739ec07f91cf",
@@ -48,9 +52,12 @@
   "shameRuns": 0,
   "shorthand": "L&S",
   "slogan": "Power Up!",
+  "stadium": null,
+  "state": {},
   "teamSpirit": 0,
   "totalShames": 0,
   "totalShamings": 0,
   "tournamentWins": 0,
-  "weekAttr": []
+  "weekAttr": [],
+  "winStreak": 0
 }

@@ -19,10 +19,14 @@
   ],
   "card": 6,
   "championships": 0,
+  "eDensity": 0,
+  "eVelocity": 0,
   "emoji": "0x1F32E",
-  "fullName": "Unlimited Tacos",
+  "evolution": 0,
+  "fullName": "LA Unlimited Tacos",
   "gameAttr": [],
   "id": "878c1bf6-0d21-4659-bfee-916c8314d69c",
+  "imPosition": 0,
   "lineup": [
     "03b80a57-77ea-4913-9be4-7a85c3594745",
     "63df8701-1871-4987-87d7-b55d4f1df2e9",
@@ -32,7 +36,7 @@
     "c755efce-d04d-4e00-b5c1-d801070d3808",
     "2e13249e-38ff-46a2-a55e-d15fa692468a"
   ],
-  "location": "Unlimited",
+  "location": "LA Unlimited",
   "mainColor": "#64376e",
   "nickname": "Tacos",
   "permAttr": [],
@@ -48,9 +52,12 @@
   "shameRuns": 0,
   "shorthand": "LATA",
   "slogan": "72° and Infinite",
+  "stadium": null,
+  "state": {},
   "teamSpirit": 0,
   "totalShames": 73,
   "totalShamings": 20,
   "tournamentWins": 0,
-  "weekAttr": []
+  "weekAttr": [],
+  "winStreak": 0
 }

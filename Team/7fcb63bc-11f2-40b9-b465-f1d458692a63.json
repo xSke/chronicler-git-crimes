@@ -3,10 +3,14 @@
   "bullpen": [],
   "card": -1,
   "championships": 0,
+  "eDensity": 0,
+  "eVelocity": 0,
   "emoji": "0x1F579",
+  "evolution": 0,
   "fullName": "Real Game Band",
   "gameAttr": [],
   "id": "7fcb63bc-11f2-40b9-b465-f1d458692a63",
+  "imPosition": 0,
   "lineup": [
     "74b0974a-f827-4934-9dd0-2020728bd4cc",
     "3bf8713b-8886-4fc4-983e-e2c72bef7b95",
@@ -28,9 +32,12 @@
   "shameRuns": 0,
   "shorthand": "TGB",
   "slogan": "what",
+  "stadium": null,
+  "state": {},
   "teamSpirit": 0,
   "totalShames": 0,
   "totalShamings": 0,
   "tournamentWins": 0,
-  "weekAttr": []
+  "weekAttr": [],
+  "winStreak": 0
 }

@@ -14,10 +14,14 @@
   ],
   "card": -1,
   "championships": 0,
+  "eDensity": 0,
+  "eVelocity": 0,
   "emoji": "0x274C",
+  "evolution": 0,
   "fullName": "Inter Xpresso",
   "gameAttr": [],
   "id": "d8f82163-2e74-496b-8e4b-2ab35b2d3ff1",
+  "imPosition": 0,
   "lineup": [
     "678170e4-0688-436d-a02d-c0467f9af8c0",
     "cbd19e6f-3d08-4734-b23f-585330028665",
@@ -48,9 +52,12 @@
   "shameRuns": 0,
   "shorthand": "IE",
   "slogan": "We've got a Shot!",
+  "stadium": null,
+  "state": {},
   "teamSpirit": 0,
   "totalShames": 0,
   "totalShamings": 1,
   "tournamentWins": 1,
-  "weekAttr": []
+  "weekAttr": [],
+  "winStreak": 0
 }

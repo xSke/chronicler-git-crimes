@@ -5,10 +5,14 @@
   ],
   "card": -1,
   "championships": 0,
+  "eDensity": 0,
+  "eVelocity": 0,
   "emoji": "0x2693",
+  "evolution": 0,
   "fullName": "Heavy FC",
   "gameAttr": [],
   "id": "e8f7ffee-ec53-4fe0-8e87-ea8ff1d0b4a9",
+  "imPosition": 0,
   "lineup": [
     "667cb445-c288-4e62-b603-27291c1e475d",
     "542af915-79c5-431c-a271-f7185e37c6ae",
@@ -37,9 +41,12 @@
   "shameRuns": 0,
   "shorthand": "HFC",
   "slogan": "[FOGHORN SOUND]",
+  "stadium": null,
+  "state": {},
   "teamSpirit": 0,
   "totalShames": 0,
   "totalShamings": 1,
   "tournamentWins": 0,
-  "weekAttr": []
+  "weekAttr": [],
+  "winStreak": 0
 }

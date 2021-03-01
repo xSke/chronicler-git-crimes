@@ -18,10 +18,14 @@
   ],
   "card": 12,
   "championships": 0,
+  "eDensity": 0,
+  "eVelocity": 0,
   "emoji": "0x1F36C",
+  "evolution": 0,
   "fullName": "Kansas City Breath Mints",
   "gameAttr": [],
   "id": "adc5b394-8f76-416d-9ce9-813706877b84",
+  "imPosition": 0,
   "lineup": [
     "cc11963b-a05b-477b-b154-911dc31960df",
     "88cd6efa-dbf2-4309-aabe-ec1d6f21f98a",
@@ -53,9 +57,12 @@
   "shameRuns": 0,
   "shorthand": "KCBM",
   "slogan": "Fresh Breath, Here We Come.",
+  "stadium": null,
+  "state": {},
   "teamSpirit": 0,
   "totalShames": 52,
   "totalShamings": 36,
   "tournamentWins": 0,
-  "weekAttr": []
+  "weekAttr": [],
+  "winStreak": 0
 }

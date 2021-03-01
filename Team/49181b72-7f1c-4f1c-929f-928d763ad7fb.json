@@ -14,10 +14,14 @@
   ],
   "card": -1,
   "championships": 0,
+  "eDensity": 0,
+  "eVelocity": 0,
   "emoji": "0x1F3C6",
+  "evolution": 0,
   "fullName": "Atlético Latte",
   "gameAttr": [],
   "id": "49181b72-7f1c-4f1c-929f-928d763ad7fb",
+  "imPosition": 0,
   "lineup": [
     "c675fcdf-6117-49a6-ac32-99a89a3a88aa",
     "e16c3f28-eecd-4571-be1a-606bbac36b2b",
@@ -48,9 +52,12 @@
   "shameRuns": 0,
   "shorthand": "AL",
   "slogan": "Teamwork makes the steam work",
+  "stadium": null,
+  "state": {},
   "teamSpirit": 0,
   "totalShames": 0,
   "totalShamings": 1,
   "tournamentWins": 0,
-  "weekAttr": []
+  "weekAttr": [],
+  "winStreak": 0
 }

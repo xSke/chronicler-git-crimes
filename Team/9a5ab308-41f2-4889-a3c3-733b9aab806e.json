@@ -14,10 +14,14 @@
   ],
   "card": -1,
   "championships": 0,
+  "eDensity": 0,
+  "eVelocity": 0,
   "emoji": "0x1F451",
+  "evolution": 0,
   "fullName": "Royal PoS",
   "gameAttr": [],
   "id": "9a5ab308-41f2-4889-a3c3-733b9aab806e",
+  "imPosition": 0,
   "lineup": [
     "2b5f5dd7-e31f-4829-bec5-546652103bc0",
     "86d4e22b-f107-4bcf-9625-32d387fcb521",
@@ -48,9 +52,12 @@
   "shameRuns": 0,
   "shorthand": "RPOS",
   "slogan": "Oh, Sweet",
+  "stadium": null,
+  "state": {},
   "teamSpirit": 0,
   "totalShames": 0,
   "totalShamings": 0,
   "tournamentWins": 0,
-  "weekAttr": []
+  "weekAttr": [],
+  "winStreak": 0
 }

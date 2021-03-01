@@ -13,10 +13,14 @@
   ],
   "card": -1,
   "championships": 0,
+  "eDensity": 0,
+  "eVelocity": 0,
   "emoji": "0x2744",
+  "evolution": 0,
   "fullName": "Cold Brew Crew",
   "gameAttr": [],
   "id": "4d921519-410b-41e2-882e-9726a4e54a6a",
+  "imPosition": 0,
   "lineup": [
     "190a0f31-d686-4ac4-a7f3-cfc87b72c145",
     "44c92d97-bb39-469d-a13b-f2dd9ae644d1",
@@ -47,9 +51,12 @@
   "shameRuns": 0.5,
   "shorthand": "CBC",
   "slogan": "Blaseball Go Brrrrrr",
+  "stadium": null,
+  "state": {},
   "teamSpirit": 0,
   "totalShames": 1,
   "totalShamings": 0,
   "tournamentWins": 0,
-  "weekAttr": []
+  "weekAttr": [],
+  "winStreak": 0
 }

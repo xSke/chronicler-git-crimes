@@ -17,10 +17,14 @@
   ],
   "card": 13,
   "championships": 1,
+  "eDensity": 0,
+  "eVelocity": 0,
   "emoji": "0x1F525",
+  "evolution": 0,
   "fullName": "Chicago Firefighters",
   "gameAttr": [],
   "id": "ca3f1c8c-c025-4d8e-8eef-5be6accbeb16",
+  "imPosition": 0,
   "lineup": [
     "ab36c776-b520-429b-a85f-bf633d7b081a",
     "c182f33c-aea5-48a2-97ed-dc74fa29b3c0",
@@ -53,9 +57,12 @@
   "shameRuns": 0,
   "shorthand": "CHIF",
   "slogan": "We Are From Chicago",
+  "stadium": null,
+  "state": {},
   "teamSpirit": 0,
   "totalShames": 45,
   "totalShamings": 42,
   "tournamentWins": 0,
-  "weekAttr": []
+  "weekAttr": [],
+  "winStreak": 0
 }

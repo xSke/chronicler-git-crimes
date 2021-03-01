@@ -19,10 +19,14 @@
   ],
   "card": 7,
   "championships": 0,
+  "eDensity": 0,
+  "eVelocity": 0,
   "emoji": "0x1F3B8",
+  "evolution": 0,
   "fullName": "Seattle Garages",
   "gameAttr": [],
   "id": "105bc3ff-1320-4e37-8ef0-8d595cb95dd0",
+  "imPosition": 0,
   "lineup": [
     "542af915-79c5-431c-a271-f7185e37c6ae",
     "86adac6f-c694-44ac-9560-758de7eac937",
@@ -54,10 +58,13 @@
   "secondaryColor": "#5a83ea",
   "shameRuns": -6,
   "shorthand": "SEA",
-  "slogan": "Smells like Team Spirit.",
+  "slogan": "Park It!",
+  "stadium": null,
+  "state": {},
   "teamSpirit": 0,
   "totalShames": 50,
   "totalShamings": 44,
   "tournamentWins": 0,
-  "weekAttr": []
+  "weekAttr": [],
+  "winStreak": 0
 }

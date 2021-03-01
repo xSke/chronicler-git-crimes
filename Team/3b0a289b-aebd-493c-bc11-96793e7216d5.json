@@ -21,10 +21,14 @@
   ],
   "card": -1,
   "championships": 0,
+  "eDensity": 0,
+  "eVelocity": 0,
   "emoji": "0x1F3A8",
+  "evolution": 0,
   "fullName": "Pandemonium Artists",
   "gameAttr": [],
   "id": "3b0a289b-aebd-493c-bc11-96793e7216d5",
+  "imPosition": 0,
   "lineup": [
     "1d7af93e-7910-45c3-9799-4166a27a6d0b",
     "8a4dc2bb-ac5b-4774-86bf-c7f8d3000a4a",
@@ -59,9 +63,12 @@
   "shameRuns": 0,
   "shorthand": "PA",
   "slogan": "Paint the Town Dead!",
+  "stadium": null,
+  "state": {},
   "teamSpirit": 0,
   "totalShames": 0,
   "totalShamings": 0,
   "tournamentWins": 0,
-  "weekAttr": []
+  "weekAttr": [],
+  "winStreak": 0
 }

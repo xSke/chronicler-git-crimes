@@ -16,10 +16,14 @@
   ],
   "card": 10,
   "championships": 0,
+  "eDensity": 0,
+  "eVelocity": 0,
   "emoji": "🏋️‍♀️",
+  "evolution": 0,
   "fullName": "Tokyo Lift",
   "gameAttr": [],
   "id": "c73b705c-40ad-4633-a6ed-d357ee2e2bcf",
+  "imPosition": 0,
   "lineup": [
     "da67c196-4cac-428b-8c18-2a411055ea35",
     "b60605e6-ff41-4388-a61a-fafd2175f7ad",
@@ -50,10 +54,13 @@
   "secondaryColor": "#e830ab",
   "shameRuns": 0,
   "shorthand": "TKL",
-  "slogan": "We've got swole",
+  "slogan": "Heart and Swole",
+  "stadium": null,
+  "state": {},
   "teamSpirit": 0,
   "totalShames": 4,
   "totalShamings": 1,
   "tournamentWins": 0,
-  "weekAttr": []
+  "weekAttr": [],
+  "winStreak": 0
 }

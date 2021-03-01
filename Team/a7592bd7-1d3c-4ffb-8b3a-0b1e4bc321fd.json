@@ -11,10 +11,14 @@
   ],
   "card": -1,
   "championships": 0,
+  "eDensity": 0,
+  "eVelocity": 0,
   "emoji": "0x1F95B",
+  "evolution": 0,
   "fullName": "Milk Proxy Society",
   "gameAttr": [],
   "id": "a7592bd7-1d3c-4ffb-8b3a-0b1e4bc321fd",
+  "imPosition": 0,
   "lineup": [
     "864b3be8-e836-426e-ae56-20345b41d03d",
     "0bb35615-63f2-4492-80ec-b6b322dc5450",
@@ -45,9 +49,12 @@
   "shameRuns": 0,
   "shorthand": "MPS",
   "slogan": "Not Milk?",
+  "stadium": null,
+  "state": {},
   "teamSpirit": 0,
   "totalShames": 0,
   "totalShamings": 0,
   "tournamentWins": 0,
-  "weekAttr": []
+  "weekAttr": [],
+  "winStreak": 0
 }

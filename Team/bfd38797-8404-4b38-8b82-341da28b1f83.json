@@ -19,10 +19,14 @@
   ],
   "card": 9,
   "championships": 1,
+  "eDensity": 0,
+  "eVelocity": 0,
   "emoji": "0x1F45F",
+  "evolution": 0,
   "fullName": "Charleston Shoe Thieves",
   "gameAttr": [],
   "id": "bfd38797-8404-4b38-8b82-341da28b1f83",
+  "imPosition": 0,
   "lineup": [
     "2175cda0-a427-40fd-b497-347edcc1cd61",
     "b1b141fc-e867-40d1-842a-cea30a97ca4f",
@@ -54,10 +58,13 @@
   "secondaryColor": "#ffce0a",
   "shameRuns": 0,
   "shorthand": "CHST",
-  "slogan": "Your Kicks are My Kicks.",
+  "slogan": "Your Kicks are Our Kicks",
+  "stadium": null,
+  "state": {},
   "teamSpirit": 0,
   "totalShames": 57,
   "totalShamings": 36,
   "tournamentWins": 0,
-  "weekAttr": []
+  "weekAttr": [],
+  "winStreak": 0
 }

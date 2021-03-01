@@ -15,10 +15,14 @@
   ],
   "card": -1,
   "championships": 0,
+  "eDensity": 0,
+  "eVelocity": 0,
   "emoji": "0x1F4A7",
+  "evolution": 0,
   "fullName": "Americano Water Works",
   "gameAttr": [],
   "id": "4e5d0063-73b4-440a-b2d1-214a7345cf16",
+  "imPosition": 0,
   "lineup": [
     "611d18e0-b972-4cdd-afc2-793c56bfe5a9",
     "efafe75e-2f00-4418-914c-9b6675d39264",
@@ -49,9 +53,12 @@
   "shameRuns": 0,
   "shorthand": "AWW",
   "slogan": "Water Down!",
+  "stadium": null,
+  "state": {},
   "teamSpirit": 0,
   "totalShames": 0,
   "totalShamings": 0,
   "tournamentWins": 0,
-  "weekAttr": []
+  "weekAttr": [],
+  "winStreak": 0
 }

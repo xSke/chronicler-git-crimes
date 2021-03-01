@@ -20,10 +20,14 @@
   ],
   "card": -1,
   "championships": 0,
+  "eDensity": 0,
+  "eVelocity": 0,
   "emoji": "0x1F3F3",
+  "evolution": 0,
   "fullName": "FWXBC",
   "gameAttr": [],
   "id": "e3f90fa1-0bbe-40df-88ce-578d0723a23b",
+  "imPosition": 0,
   "lineup": [
     "4b3e8e9b-6de1-4840-8751-b1fb45dc5605",
     "89f74891-2e25-4b5a-bd99-c95ba3f36aa0",
@@ -54,9 +58,12 @@
   "shameRuns": 0,
   "shorthand": "FWXBC",
   "slogan": "We Forfeit!",
+  "stadium": null,
+  "state": {},
   "teamSpirit": 0,
   "totalShames": 1,
   "totalShamings": 1,
   "tournamentWins": 0,
-  "weekAttr": []
+  "weekAttr": [],
+  "winStreak": 0
 }

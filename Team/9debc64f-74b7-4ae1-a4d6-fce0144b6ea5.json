@@ -20,10 +20,14 @@
   ],
   "card": 17,
   "championships": 0,
+  "eDensity": 0,
+  "eVelocity": 0,
   "emoji": "0x1F575",
+  "evolution": 0,
   "fullName": "Houston Spies",
   "gameAttr": [],
   "id": "9debc64f-74b7-4ae1-a4d6-fce0144b6ea5",
+  "imPosition": 0,
   "lineup": [
     "d2d76815-cbdc-4c4b-9c9e-32ebf2297cc7",
     "d8ee256f-e3d0-46cb-8c77-b1f88d8c9df9",
@@ -54,9 +58,12 @@
   "shameRuns": 1,
   "shorthand": "HOU",
   "slogan": "Bang BANG",
+  "stadium": null,
+  "state": {},
   "teamSpirit": 0,
   "totalShames": 40,
   "totalShamings": 49,
   "tournamentWins": 0,
-  "weekAttr": []
+  "weekAttr": [],
+  "winStreak": 0
 }

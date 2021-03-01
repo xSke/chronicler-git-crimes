@@ -13,10 +13,14 @@
   ],
   "card": -1,
   "championships": 0,
+  "eDensity": 0,
+  "eVelocity": 0,
   "emoji": "0x1F303",
+  "evolution": 0,
   "fullName": "Macchiato City",
   "gameAttr": [],
   "id": "9e42c12a-7561-42a2-b2d0-7cf81a817a5e",
+  "imPosition": 0,
   "lineup": [
     "083d09d4-7ed3-4100-b021-8fbe30dd43e8",
     "20fd71e7-4fa0-4132-9f47-06a314ed539a",
@@ -47,9 +51,12 @@
   "shameRuns": 0,
   "shorthand": "MC",
   "slogan": "We Don't Sleep. We Can't Sleep",
+  "stadium": null,
+  "state": {},
   "teamSpirit": 0,
   "totalShames": 0,
   "totalShamings": 0,
   "tournamentWins": 0,
-  "weekAttr": []
+  "weekAttr": [],
+  "winStreak": 0
 }

@@ -6,10 +6,14 @@
   "bullpen": [],
   "card": -1,
   "championships": 0,
+  "eDensity": 0,
+  "eVelocity": 0,
   "emoji": "0x1F42E",
+  "evolution": 0,
   "fullName": "Club de Calf",
   "gameAttr": [],
   "id": "a3ea6358-ce03-4f23-85f9-deb38cb81b20",
+  "imPosition": 0,
   "lineup": [
     "51c5473a-7545-4a9a-920d-d9b718d0e8d1",
     "d8ee256f-e3d0-46cb-8c77-b1f88d8c9df9",
@@ -39,9 +43,12 @@
   "shameRuns": 0,
   "shorthand": "CdC",
   "slogan": "moo",
+  "stadium": null,
+  "state": {},
   "teamSpirit": 0,
   "totalShames": 0,
   "totalShamings": 0,
   "tournamentWins": 0,
-  "weekAttr": []
+  "weekAttr": [],
+  "winStreak": 0
 }

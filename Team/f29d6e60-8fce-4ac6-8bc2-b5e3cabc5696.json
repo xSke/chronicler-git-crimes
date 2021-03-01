@@ -3,10 +3,14 @@
   "bullpen": [],
   "card": -1,
   "championships": 0,
+  "eDensity": 0,
+  "eVelocity": 0,
   "emoji": "0x1F50D",
+  "evolution": 0,
   "fullName": "BC Noir",
   "gameAttr": [],
   "id": "f29d6e60-8fce-4ac6-8bc2-b5e3cabc5696",
+  "imPosition": 0,
   "lineup": [
     "d1a198d6-b05a-47cf-ab8e-39a6fa1ed831"
   ],
@@ -25,9 +29,12 @@
   "shameRuns": 0,
   "shorthand": "BCN",
   "slogan": "Drink In the Darkness",
+  "stadium": null,
+  "state": {},
   "teamSpirit": 0,
   "totalShames": 1,
   "totalShamings": 0,
   "tournamentWins": 0,
-  "weekAttr": []
+  "weekAttr": [],
+  "winStreak": 0
 }

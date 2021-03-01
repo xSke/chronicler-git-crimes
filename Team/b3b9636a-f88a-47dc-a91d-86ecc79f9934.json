@@ -14,10 +14,14 @@
   ],
   "card": -1,
   "championships": 0,
+  "eDensity": 0,
+  "eVelocity": 0,
   "emoji": "0x1F91D",
+  "evolution": 0,
   "fullName": "Cream & Sugar United",
   "gameAttr": [],
   "id": "b3b9636a-f88a-47dc-a91d-86ecc79f9934",
+  "imPosition": 0,
   "lineup": [
     "89ec77d8-c186-4027-bd45-f407b4800c2c",
     "f0bcf4bb-74b3-412e-a54c-04c12ad28ecb",
@@ -48,9 +52,12 @@
   "shameRuns": 0,
   "shorthand": "C&SU",
   "slogan": "There's no I in Cream ... or Sugar",
+  "stadium": null,
+  "state": {},
   "teamSpirit": 0,
   "totalShames": 0,
   "totalShamings": 0,
   "tournamentWins": 0,
-  "weekAttr": []
+  "weekAttr": [],
+  "winStreak": 0
 }

@@ -3,10 +3,14 @@
   "bullpen": [],
   "card": -1,
   "championships": 0,
+  "eDensity": 0,
+  "eVelocity": 0,
   "emoji": "0x1F991",
+  "evolution": 0,
   "fullName": "The Hall Stars",
   "gameAttr": [],
   "id": "c6c01051-cdd4-47d6-8a98-bb5b754f937f",
+  "imPosition": 0,
   "lineup": [
     "493a83de-6bcf-41a1-97dd-cc5e150548a3",
     "d74a2473-1f29-40fa-a41e-66fa2281dfca",
@@ -46,9 +50,12 @@
   "shameRuns": 0,
   "shorthand": "TheH",
   "slogan": "Hey now, you're a Hall Star",
+  "stadium": null,
+  "state": {},
   "teamSpirit": 0,
   "totalShames": 0,
   "totalShamings": 1,
   "tournamentWins": 0,
-  "weekAttr": []
+  "weekAttr": [],
+  "winStreak": 0
 }
