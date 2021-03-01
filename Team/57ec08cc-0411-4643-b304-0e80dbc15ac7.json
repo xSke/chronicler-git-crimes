@@ -48,18 +48,18 @@
   ],
   "rotationSlot": 5,
   "seasAttr": [],
-  "seasonShames": 0,
+  "seasonShames": 1,
   "seasonShamings": 0,
   "secondaryColor": "#ee6300",
-  "shameRuns": 0,
+  "shameRuns": 2,
   "shorthand": "MCWW",
   "slogan": "Pase lo que Pase",
   "stadium": null,
   "state": {},
   "teamSpirit": 0,
-  "totalShames": 54,
+  "totalShames": 55,
   "totalShamings": 34,
   "tournamentWins": 0,
   "weekAttr": [],
-  "winStreak": 1
+  "winStreak": -1
 }
