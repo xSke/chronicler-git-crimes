@@ -14,6 +14,8 @@
   "deceased": false,
   "defenseRating": 0.7539129636213545,
   "divinity": 0.8427043419508469,
+  "eDensity": 0,
+  "evolution": 0,
   "fate": 69,
   "gameAttr": [],
   "groundFriction": 0.9358699257997428,
@@ -31,7 +33,9 @@
   "overpowerment": 0.5225909219890124,
   "patheticism": 0.4339399968772606,
   "peanutAllergy": false,
-  "permAttr": [],
+  "permAttr": [
+    "NON_IDOLIZED"
+  ],
   "pitchingRating": 0.5694975220469195,
   "pressurization": 0.8809083729512288,
   "ritual": "Cursing the Sun",
@@ -39,6 +43,7 @@
   "seasAttr": [],
   "shakespearianism": 0.3802180953077223,
   "soul": 3,
+  "state": {},
   "suppression": 0.286469017851558,
   "tenaciousness": 0.8588779797206125,
   "thwackability": 0.7207064757132438,

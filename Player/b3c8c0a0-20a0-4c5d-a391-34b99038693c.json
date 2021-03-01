@@ -14,6 +14,8 @@
   "deceased": false,
   "defenseRating": 0.9172787507936156,
   "divinity": 0.6552870323261786,
+  "eDensity": 0,
+  "evolution": 0,
   "fate": 43,
   "gameAttr": [],
   "groundFriction": 0.6810413861318376,
@@ -31,7 +33,9 @@
   "overpowerment": 0.4531546043928325,
   "patheticism": 0.1583732849911308,
   "peanutAllergy": true,
-  "permAttr": [],
+  "permAttr": [
+    "NON_IDOLIZED"
+  ],
   "pitchingRating": 0.8623289612555167,
   "pressurization": 0.5466632865062873,
   "ritual": "Making promises to the rulers",
@@ -39,6 +43,7 @@
   "seasAttr": [],
   "shakespearianism": 0.7952843995002323,
   "soul": 8,
+  "state": {},
   "suppression": 1.2108145896016882,
   "tenaciousness": 1.203044153030251,
   "thwackability": 0.39607602130583586,

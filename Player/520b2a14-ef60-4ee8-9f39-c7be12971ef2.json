@@ -14,6 +14,8 @@
   "deceased": false,
   "defenseRating": 0.7377294833193622,
   "divinity": 0.34324280332006046,
+  "eDensity": 0,
+  "evolution": 0,
   "fate": 92,
   "gameAttr": [],
   "groundFriction": 0.29591046915424724,
@@ -31,7 +33,9 @@
   "overpowerment": 0.3879379339007685,
   "patheticism": 0.01,
   "peanutAllergy": false,
-  "permAttr": [],
+  "permAttr": [
+    "NON_IDOLIZED"
+  ],
   "pitchingRating": 0.38079630531214353,
   "pressurization": 0.3205646552824297,
   "ritual": "Knife polishing",
@@ -39,6 +43,7 @@
   "seasAttr": [],
   "shakespearianism": 0.36434895660673705,
   "soul": 6,
+  "state": {},
   "suppression": 0.9596696112642378,
   "tenaciousness": 0.5609525180853043,
   "thwackability": 0.4772457894894542,

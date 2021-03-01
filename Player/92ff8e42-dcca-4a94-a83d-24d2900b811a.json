@@ -14,6 +14,8 @@
   "deceased": false,
   "defenseRating": 0.7980853287454085,
   "divinity": 1.0776578129446297,
+  "eDensity": 0,
+  "evolution": 0,
   "fate": 33,
   "gameAttr": [],
   "groundFriction": 0.24217480530584623,
@@ -31,7 +33,9 @@
   "overpowerment": 0.5655210527058923,
   "patheticism": 0.01,
   "peanutAllergy": false,
-  "permAttr": [],
+  "permAttr": [
+    "NON_IDOLIZED"
+  ],
   "pitchingRating": 0.32580768962667006,
   "pressurization": 0.7580195419993145,
   "ritual": "Burning an effigy",
@@ -39,6 +43,7 @@
   "seasAttr": [],
   "shakespearianism": 1.0724158051656607,
   "soul": 7,
+  "state": {},
   "suppression": 0.27742087492059786,
   "tenaciousness": 1.1921208340890317,
   "thwackability": 0.8366253458543942,

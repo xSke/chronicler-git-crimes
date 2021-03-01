@@ -14,6 +14,8 @@
   "deceased": false,
   "defenseRating": 0.7336854525648245,
   "divinity": 0.5326039555599471,
+  "eDensity": 0,
+  "evolution": 0,
   "fate": 38,
   "gameAttr": [],
   "groundFriction": 1.1991290568861617,
@@ -31,7 +33,9 @@
   "overpowerment": 0.6308120644947552,
   "patheticism": 0.028479783945240977,
   "peanutAllergy": false,
-  "permAttr": [],
+  "permAttr": [
+    "NON_IDOLIZED"
+  ],
   "pitchingRating": 0.7258464644661193,
   "pressurization": 0.34246431361409835,
   "ritual": "Visualising",
@@ -39,6 +43,7 @@
   "seasAttr": [],
   "shakespearianism": 0.761254530333259,
   "soul": 3,
+  "state": {},
   "suppression": 0.7294056332982197,
   "tenaciousness": 0.9753623293394986,
   "thwackability": 0.6761134105643862,

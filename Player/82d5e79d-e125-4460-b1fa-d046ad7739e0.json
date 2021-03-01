@@ -14,6 +14,8 @@
   "deceased": false,
   "defenseRating": 0.44978362160463786,
   "divinity": 0.3993256243000083,
+  "eDensity": 0,
+  "evolution": 0,
   "fate": 68,
   "gameAttr": [],
   "groundFriction": 0.320749317001102,
@@ -33,7 +35,8 @@
   "peanutAllergy": true,
   "permAttr": [
     "COFFEE_PERIL",
-    "COFFEE_EXIT"
+    "COFFEE_EXIT",
+    "NON_IDOLIZED"
   ],
   "pitchingRating": 0.33527492717808377,
   "pressurization": 0.8502996059331416,
@@ -42,6 +45,7 @@
   "seasAttr": [],
   "shakespearianism": 0.8979846287143616,
   "soul": 3,
+  "state": {},
   "suppression": 0.9755463980177446,
   "tenaciousness": 0.5928684641912412,
   "thwackability": 0.0015013019334553237,

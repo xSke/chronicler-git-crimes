@@ -14,6 +14,8 @@
   "deceased": false,
   "defenseRating": 0.7435707859240713,
   "divinity": 0.4800832032858011,
+  "eDensity": 0,
+  "evolution": 0,
   "fate": 54,
   "gameAttr": [],
   "groundFriction": 0.8665064689699375,
@@ -31,7 +33,9 @@
   "overpowerment": 0.2627769103527057,
   "patheticism": 0.21795763634458276,
   "peanutAllergy": true,
-  "permAttr": [],
+  "permAttr": [
+    "NON_IDOLIZED"
+  ],
   "pitchingRating": 0.7095808286771484,
   "pressurization": 0.746350569937237,
   "ritual": "Doing a good deed and telling everyone about it",
@@ -39,6 +43,7 @@
   "seasAttr": [],
   "shakespearianism": 0.5345293856884019,
   "soul": 5,
+  "state": {},
   "suppression": 0.45483440299651967,
   "tenaciousness": 0.5722390680913698,
   "thwackability": 0.6288984150171584,

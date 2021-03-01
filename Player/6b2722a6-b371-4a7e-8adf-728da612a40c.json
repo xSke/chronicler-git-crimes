@@ -14,6 +14,8 @@
   "deceased": false,
   "defenseRating": 0.753449466483798,
   "divinity": 0.6457686104214744,
+  "eDensity": 0,
+  "evolution": 0,
   "fate": 90,
   "gameAttr": [],
   "groundFriction": 0.532442312270538,
@@ -31,7 +33,9 @@
   "overpowerment": 0.3404311070140324,
   "patheticism": 0.535567855743859,
   "peanutAllergy": true,
-  "permAttr": [],
+  "permAttr": [
+    "NON_IDOLIZED"
+  ],
   "pitchingRating": 0.9145428088386466,
   "pressurization": 0.6026328751435899,
   "ritual": "Magic Mic Karaoke",
@@ -39,6 +43,7 @@
   "seasAttr": [],
   "shakespearianism": 0.8586108253147462,
   "soul": 6,
+  "state": {},
   "suppression": 0.9946709980709936,
   "tenaciousness": 0.5708657504762806,
   "thwackability": 0.2861118932705674,

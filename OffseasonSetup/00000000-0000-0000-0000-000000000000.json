@@ -1,201 +1,258 @@
 {
   "blessings": [
     {
-      "description": "The Magician",
-      "id": "tarot_magician",
-      "title": "I",
-      "type": 136,
-      "value": 0
-    },
-    {
-      "description": "The High Priestess",
-      "id": "tarot_high_priestess",
-      "title": "II",
-      "type": 136,
-      "value": 1
-    },
-    {
-      "description": "The Empress",
-      "id": "tarot_empress",
-      "title": "III",
-      "type": 136,
-      "value": 2
-    },
-    {
-      "description": "The Emperor",
-      "id": "tarot_emperor",
-      "title": "IIII",
-      "type": 136,
+      "description": "Re-rolls your Team's 3 worst pitchers.",
+      "id": "reroll_worst_pitchers_3",
+      "subheader": "Brought to you by @Space Warlord Organ Trading Simulator@https://store.steampowered.com/app/1507780/Space_Warlord_Organ_Trading_Simulator/",
+      "title": "Organ Replacements",
+      "type": 11,
       "value": 3
     },
     {
-      "description": "The Pope",
-      "id": "tarot_pope",
-      "title": "V",
-      "type": 136,
-      "value": 4
+      "description": "Recruit the Hardboiled Uncle Plasma to your Team.",
+      "id": "player_add_uncle_plasma",
+      "title": "Uncle Indemnity",
+      "type": 137,
+      "value": 1
     },
     {
-      "description": "The Lover",
-      "id": "tarot_lover",
-      "title": "VI",
-      "type": 136,
-      "value": 5
+      "description": "Recruit the Hardboiled Liquid Friend to your Team.",
+      "id": "player_add_liquid_friend",
+      "title": "The Big Sip",
+      "type": 138,
+      "value": 1
     },
     {
-      "description": "The Chariot",
-      "id": "tarot_chariot",
-      "title": "VII",
-      "type": 136,
-      "value": 6
+      "description": "Re-roll your Team's 3 worst hitters.",
+      "id": "reroll_worst_hitters_3",
+      "title": "Summoning Circle",
+      "type": 12,
+      "value": 3
     },
     {
-      "description": "Justice",
-      "id": "tarot_justice",
-      "title": "VIII",
-      "type": 136,
-      "value": 7
+      "description": "Your Team will play 5% better during next Season's Earlseason.",
+      "id": "mod_team_earlbirds",
+      "title": "Earlbirds",
+      "type": 139,
+      "value": 1
     },
     {
-      "description": "The Hermit",
-      "id": "tarot_hermit",
-      "title": "VIIII",
-      "type": 136,
-      "value": 8
+      "description": "Birds will unshell your players much more often.",
+      "id": "mod_team_late_to_party",
+      "title": "Late to the Party",
+      "type": 140,
+      "value": 1
     },
     {
-      "description": "The Wheel of Fortune",
-      "id": "tarot_wheel",
-      "title": "X",
-      "type": 136,
-      "value": 9
+      "description": "Improve your team's pitching by 10%. The last place team in the opposite subleague also gets +10% team pitching.",
+      "id": "shared_team_pitching",
+      "title": "Tag Team Pitching",
+      "type": 111,
+      "value": 0.1
     },
     {
-      "description": "Strength",
-      "id": "tarot_strength",
-      "title": "XI",
-      "type": 136,
-      "value": 10
+      "description": "Improve your team's hitting by 10%. The last place team in the opposite subleague also gets +10% team hitting.",
+      "id": "shared_team_hitting",
+      "title": "Tag Team Hitting",
+      "type": 110,
+      "value": 0.1
     },
     {
-      "description": "The Hanged Man",
-      "id": "tarot_hanged_man",
-      "title": "XII",
-      "type": 136,
-      "value": 11
+      "description": "Run. +15% Team Baserunning",
+      "id": "team_improve_baserunning",
+      "title": "Wind Sprints",
+      "type": 2,
+      "value": 0.15
     },
     {
-      "description": "",
-      "id": "tarot_xiii",
-      "title": "XIII",
-      "type": 136,
-      "value": 12
+      "description": "[cartilage and bone snapping] +15% Team Defense",
+      "id": "team_improve_defense",
+      "title": "The Rack",
+      "type": 3,
+      "value": 0.15
     },
     {
-      "description": "Temperance",
-      "id": "tarot_temperance",
-      "title": "XIIII",
-      "type": 136,
-      "value": 13
+      "description": "Is good offense. Swap your best hitting pitcher into your lineup.",
+      "id": "best_hitting_pitcher_swap",
+      "title": "The Best Defense",
+      "type": 56,
+      "value": 1
     },
     {
-      "description": "The Devil",
-      "id": "tarot_devil",
-      "title": "XV",
-      "type": 136,
-      "value": 14
-    },
-    {
-      "description": "The Tower",
-      "id": "tarot_tower",
-      "title": "XVI",
-      "type": 136,
-      "value": 15
-    },
-    {
-      "description": "The Star",
-      "id": "tarot_star",
-      "title": "XVII",
-      "type": 136,
-      "value": 16
-    },
-    {
-      "description": "The Moon",
-      "id": "tarot_moon",
-      "title": "XVIII",
-      "type": 136,
-      "value": 17
-    },
-    {
-      "description": "The Sun",
-      "id": "tarot_sun",
-      "title": "XVIIII",
-      "type": 136,
-      "value": 18
-    },
-    {
-      "description": "Judgment",
-      "id": "tarot_judgment",
-      "title": "XX",
-      "type": 136,
-      "value": 19
+      "description": "Is good defense. Swap your best pitching hitter into your rotation.",
+      "id": "best_pitching_hitter_swap",
+      "title": "The Best Offense",
+      "type": 55,
+      "value": 1
     }
   ],
   "decrees": [
     {
-      "description": "...Bury! The Forbidden Book...",
-      "id": "book_bury",
-      "title": "Bury",
-      "type": 43
+      "description": "Win the Championship to claim the Belt, then Defend it in Title Matches next Season. The Holder of the Belt is protected from Steals and Swaps and guaranteed a Postseason Birth. Should the Holder win the Championship, they will claim a Title.",
+      "id": "champion_belt",
+      "title": "Title Belt",
+      "type": 52
     },
     {
-      "description": "...Burn! The Forbidden Book...",
-      "id": "book_burn",
-      "title": "Burn",
-      "type": 44
+      "description": "The Champion of each season will play the following season under Pennants, starting every game at a severe disadvantage. Win the Internet Series under Pennants in order to Repent.",
+      "id": "champion_penance",
+      "title": "Pennants",
+      "type": 53
     },
     {
-      "description": "...Close! The Forbidden Book...",
-      "id": "book_close",
-      "title": "Close",
-      "type": 45
-    },
-    {
-      "description": "...Deface! The Forbidden Book...",
-      "id": "book_deface",
-      "title": "Deface",
-      "type": 46
-    },
-    {
-      "description": "...Eat! The Forbidden Book...",
-      "id": "book_eat",
-      "title": "Eat",
-      "type": 47
-    },
-    {
-      "description": "...Freeze! The Forbidden Book...",
-      "id": "book_freeze",
-      "title": "Freeze",
-      "type": 48
-    },
-    {
-      "description": "...Shred! The Forbidden Book...",
-      "id": "book_shred",
-      "title": "Shred",
-      "type": 49
-    },
-    {
-      "description": "...Sink! The Forbidden Book...",
-      "id": "book_sink",
-      "title": "Sink",
-      "type": 50
-    },
-    {
-      "description": "...Trash! The Forbidden Book...",
-      "id": "book_trash",
-      "title": "Trash",
-      "type": 51
+      "description": "Every Third Championship a Team wins will cause the Team and its Players to Evolve. Players that round the phylogenic Bases will get to go Home.",
+      "id": "champion_evolve",
+      "title": "Based Evolution",
+      "type": 54
     }
   ],
-  "decreesToPass": 3
+  "decreesToPass": 1,
+  "wills": [
+    {
+      "description": "Steal a Player from the Idols board. Send a random Player from your Team back.",
+      "id": "idols_steal",
+      "info": [
+        {
+          "description": "Which Idol do you want to steal?",
+          "filters": {
+            "leagueLocation": "idolsBoard"
+          },
+          "type": 1
+        }
+      ],
+      "title": "Plunder"
+    },
+    {
+      "description": "Swap a Player from a Team in the opposite Subleague with a Player from your Team.",
+      "id": "opposite_subleague_swap",
+      "info": [
+        {
+          "description": "Which team do you want to swap with?",
+          "filters": {
+            "leagueLocation": "oppSubleague"
+          },
+          "type": 0
+        },
+        {
+          "description": "What player do you want to swap for?",
+          "filters": {
+            "leagueLocation": "inputTeam",
+            "position": "all"
+          },
+          "type": 1
+        },
+        {
+          "description": "What player do you want to send back?",
+          "filters": {
+            "leagueLocation": "myTeam",
+            "position": "all"
+          },
+          "type": 1
+        }
+      ],
+      "title": "Exchange"
+    },
+    {
+      "description": "Swap a Player from your Shadows to your active roster.",
+      "id": "shadows_call_up",
+      "info": [
+        {
+          "description": "What player from the Shadows do you want to call up to the active roster?",
+          "filters": {
+            "leagueLocation": "myTeam",
+            "position": "shadows"
+          },
+          "type": 1
+        },
+        {
+          "description": "What player from your active roster do you want to send to the Shadows?",
+          "filters": {
+            "leagueLocation": "myTeam",
+            "position": "all"
+          },
+          "type": 1
+        }
+      ],
+      "title": "Foreshadow"
+    },
+    {
+      "description": "Boost a Player on your Team by 15% to 30%.",
+      "id": "player_boost",
+      "info": [
+        {
+          "description": "Which player do you want to Boost?",
+          "filters": {
+            "leagueLocation": "myTeam",
+            "position": "all"
+          },
+          "type": 1
+        }
+      ],
+      "title": "Infuse"
+    },
+    {
+      "description": "Receive a mystery Benefit for one of your Teams' Players.",
+      "id": "mystery_mod",
+      "info": [
+        {
+          "description": "Which player do you want to receive the Benefit?",
+          "filters": {
+            "leagueLocation": "myTeam",
+            "position": "all"
+          },
+          "type": 1
+        }
+      ],
+      "title": "Trust"
+    },
+    {
+      "description": "Call in an Alternate for a Player on your Team.",
+      "id": "alternate_call",
+      "info": [
+        {
+          "description": "Which player do you want to call an Alternate for?",
+          "filters": {
+            "leagueLocation": "myTeam",
+            "position": "all"
+          },
+          "type": 1
+        }
+      ],
+      "title": "Alternate"
+    },
+    {
+      "description": "Revoke a Player from your roster.",
+      "id": "player_cut",
+      "info": [
+        {
+          "description": "Which player do you want to revoke?",
+          "filters": {
+            "leagueLocation": "myTeam",
+            "position": "all"
+          },
+          "type": 1
+        }
+      ],
+      "title": "Revoke"
+    },
+    {
+      "description": "Pick a modification for your Team next season.",
+      "id": "season_team_mod",
+      "info": [
+        {
+          "description": "Which mod do you want?",
+          "filters": {
+            "mods": [
+              "EXTRA_STRIKE",
+              "HOME_FIELD",
+              "SHAME_GIVER"
+            ]
+          },
+          "type": 2
+        }
+      ],
+      "title": "Enrich"
+    }
+  ],
+  "willsToPass": 2
 }
