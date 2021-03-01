@@ -35,7 +35,8 @@
   "peanutAllergy": false,
   "permAttr": [
     "FRIEND_OF_CROWS",
-    "SUPERYUMMY"
+    "SUPERYUMMY",
+    "UNDERPERFORMING"
   ],
   "pitchingRating": 0.6131421673352283,
   "pressurization": 0.7267315163595882,
@@ -44,7 +45,13 @@
   "seasAttr": [],
   "shakespearianism": 0.7316310989842041,
   "soul": 7,
-  "state": {},
+  "state": {
+    "permModSources": {
+      "UNDERPERFORMING": [
+        "SUPERYUMMY"
+      ]
+    }
+  },
   "suppression": 0.9214437529703452,
   "tenaciousness": 0.99004842808463,
   "thwackability": 0.7345401544850578,
