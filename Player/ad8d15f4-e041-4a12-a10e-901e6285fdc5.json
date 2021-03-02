@@ -33,7 +33,9 @@
   "overpowerment": 0.6613491306880853,
   "patheticism": 0.01,
   "peanutAllergy": false,
-  "permAttr": [],
+  "permAttr": [
+    "REVERBERATING"
+  ],
   "pitchingRating": 0.2891163916045586,
   "pressurization": 0.7594029292738687,
   "ritual": "Amnesia",
