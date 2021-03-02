@@ -20,7 +20,7 @@
   "gameAttr": [],
   "groundFriction": 0.001,
   "hitStreak": 0,
-  "hittingRating": 0.1707736767466879,
+  "hittingRating": 0.1916112168187819,
   "id": "46721a07-7cd2-4839-982e-7046df6e8b66",
   "indulgence": 0.0920193447029644,
   "laserlikeness": 0.54982364156664,
@@ -31,7 +31,7 @@
   "name": "Stew Briggs",
   "omniscience": 0.06944556825016529,
   "overpowerment": 0.6183885591895397,
-  "patheticism": 0.999,
+  "patheticism": 0.99,
   "peanutAllergy": true,
   "permAttr": [
     "REPEATING"
