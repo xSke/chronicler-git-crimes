@@ -18,14 +18,14 @@
   ],
   "card": 8,
   "championships": 2,
-  "eDensity": 1012.2208190702812,
-  "eVelocity": -0.009483925903000318,
+  "eDensity": 1040.220819070281,
+  "eVelocity": -0.011945982277457887,
   "emoji": "0x1F967",
   "evolution": 0,
   "fullName": "Philly Pies",
   "gameAttr": [],
   "id": "23e4cbc1-e9cd-47fa-a35b-bfa06f726cb7",
-  "imPosition": 0.10332563233905522,
+  "imPosition": 0.09137965006159732,
   "lineup": [
     "32810dca-825c-4dbc-8b65-0702794c424e",
     "26cfccf2-850e-43eb-b085-ff73ad0749b8",
@@ -63,5 +63,5 @@
   "totalShamings": 39,
   "tournamentWins": 0,
   "weekAttr": [],
-  "winStreak": 4
+  "winStreak": 5
 }
