@@ -1,12 +1,12 @@
 [
   {
     "expire": null,
-    "id": "opening_day",
-    "msg": "BLASEBALL WILL RETURN MARCH 1 AT 8AM PST"
+    "id": "blaseball_back",
+    "msg": "Blaseball is BACK"
   },
   {
     "expire": null,
-    "id": "concessions",
-    "msg": "CONCESSIONS WILL OPEN FEBRUARY 28"
+    "id": "i_am_ticker",
+    "msg": "I am the ticker. I live atop the page."
   }
 ]
