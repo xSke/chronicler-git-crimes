@@ -1,5 +1,5 @@
 {
-  "anticapitalism": 0.5429384345078926,
+  "anticapitalism": 0.4429384345078926,
   "armor": "",
   "baseThirst": 0.448397260199613,
   "baserunningRating": 0.8901193167979469,
@@ -12,7 +12,7 @@
   "coldness": 0.934941321731598,
   "continuation": 0.35091577860846523,
   "deceased": false,
-  "defenseRating": 0.17783103848510973,
+  "defenseRating": 0.1366289776268407,
   "divinity": 0.8301988014342099,
   "eDensity": 26.424883537190684,
   "evolution": 0,
@@ -43,12 +43,12 @@
   "soul": 5,
   "state": {},
   "suppression": 0.7508295360790226,
-  "tenaciousness": 0.8153892499148914,
+  "tenaciousness": 0.7153892499148914,
   "thwackability": 0.3647784420254129,
   "totalFingers": 13,
   "tournamentTeamId": "b3b9636a-f88a-47dc-a91d-86ecc79f9934",
   "tragicness": 0.1,
   "unthwackability": 0.8347065793314904,
-  "watchfulness": 0.0876183554333777,
+  "watchfulness": 0.01,
   "weekAttr": []
 }
