@@ -54,7 +54,7 @@
   "rotationSlot": 44,
   "seasAttr": [],
   "seasonShames": 2,
-  "seasonShamings": 0,
+  "seasonShamings": 1,
   "secondaryColor": "#da0000",
   "shameRuns": 0,
   "shorthand": "SFL",
@@ -63,8 +63,8 @@
   "state": {},
   "teamSpirit": 0,
   "totalShames": 57,
-  "totalShamings": 47,
+  "totalShamings": 48,
   "tournamentWins": 0,
   "weekAttr": [],
-  "winStreak": -3
+  "winStreak": 1
 }
