@@ -50,18 +50,18 @@
   ],
   "rotationSlot": 39,
   "seasAttr": [],
-  "seasonShames": 2,
+  "seasonShames": 3,
   "seasonShamings": 1,
   "secondaryColor": "#58c3b4",
-  "shameRuns": 0,
+  "shameRuns": 3,
   "shorthand": "PHIL",
   "slogan": "Pie or Die.",
   "stadium": null,
   "state": {},
   "teamSpirit": 0,
-  "totalShames": 57,
+  "totalShames": 58,
   "totalShamings": 39,
   "tournamentWins": 0,
   "weekAttr": [],
-  "winStreak": 1
+  "winStreak": -1
 }
