@@ -53,18 +53,18 @@
   ],
   "rotationSlot": 53,
   "seasAttr": [],
-  "seasonShames": 3,
+  "seasonShames": 4,
   "seasonShamings": 0,
   "secondaryColor": "#fffbab",
-  "shameRuns": 0,
+  "shameRuns": 1,
   "shorthand": "SUN",
   "slogan": "Stare into the Sun...",
   "stadium": null,
   "state": {},
   "teamSpirit": 0,
-  "totalShames": 56,
+  "totalShames": 57,
   "totalShamings": 41,
   "tournamentWins": 0,
   "weekAttr": [],
-  "winStreak": 1
+  "winStreak": -1
 }
