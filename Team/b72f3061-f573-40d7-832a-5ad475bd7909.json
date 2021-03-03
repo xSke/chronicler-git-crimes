@@ -53,18 +53,18 @@
   ],
   "rotationSlot": 53,
   "seasAttr": [],
-  "seasonShames": 2,
+  "seasonShames": 3,
   "seasonShamings": 1,
   "secondaryColor": "#da0000",
-  "shameRuns": 0,
+  "shameRuns": 1,
   "shorthand": "SFL",
   "slogan": "Let's Go All The Way!",
   "stadium": null,
   "state": {},
   "teamSpirit": 0,
-  "totalShames": 57,
+  "totalShames": 58,
   "totalShamings": 48,
   "tournamentWins": 0,
   "weekAttr": [],
-  "winStreak": -2
+  "winStreak": -3
 }
