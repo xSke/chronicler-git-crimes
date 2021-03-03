@@ -33,7 +33,9 @@
   "overpowerment": 0.9473289445344188,
   "patheticism": 0.7952643222544264,
   "peanutAllergy": false,
-  "permAttr": [],
+  "permAttr": [
+    "NON_IDOLIZED"
+  ],
   "pitchingRating": 0.3824945848052853,
   "pressurization": 0.8445239497883246,
   "ritual": "Volunteering",

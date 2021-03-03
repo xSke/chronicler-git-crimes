@@ -33,7 +33,9 @@
   "overpowerment": 0.8964629040725212,
   "patheticism": 0.9399896265673784,
   "peanutAllergy": false,
-  "permAttr": [],
+  "permAttr": [
+    "NON_IDOLIZED"
+  ],
   "pitchingRating": 0.3201548982009739,
   "pressurization": 0.7845504200622198,
   "ritual": "Sharpening Teeth",

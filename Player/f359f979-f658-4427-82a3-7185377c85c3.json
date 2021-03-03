@@ -33,7 +33,9 @@
   "overpowerment": 0.41090025515143647,
   "patheticism": 0.3388230345449246,
   "peanutAllergy": false,
-  "permAttr": [],
+  "permAttr": [
+    "NON_IDOLIZED"
+  ],
   "pitchingRating": 0.15127033959774905,
   "pressurization": 0.16149124496404066,
   "ritual": "Ransom notes",

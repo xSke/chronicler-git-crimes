@@ -33,7 +33,9 @@
   "overpowerment": 0.05248383509221122,
   "patheticism": 0.7178483968578342,
   "peanutAllergy": false,
-  "permAttr": [],
+  "permAttr": [
+    "NON_IDOLIZED"
+  ],
   "pitchingRating": 0.1973069352307331,
   "pressurization": 0.6748215782572045,
   "ritual": "Stacking objects",

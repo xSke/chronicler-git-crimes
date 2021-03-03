@@ -33,7 +33,9 @@
   "overpowerment": 0.753969409908744,
   "patheticism": 0.6397546614523184,
   "peanutAllergy": true,
-  "permAttr": [],
+  "permAttr": [
+    "NON_IDOLIZED"
+  ],
   "pitchingRating": 0.29481179148874553,
   "pressurization": 0.0365990449297704,
   "ritual": "Doing a good deed and telling everyone about it",

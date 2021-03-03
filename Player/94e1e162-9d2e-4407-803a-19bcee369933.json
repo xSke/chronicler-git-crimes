@@ -33,7 +33,9 @@
   "overpowerment": 0.4090391361735821,
   "patheticism": 0.1451278149423476,
   "peanutAllergy": false,
-  "permAttr": [],
+  "permAttr": [
+    "NON_IDOLIZED"
+  ],
   "pitchingRating": 0.32763359366860134,
   "pressurization": 0.8542992425464515,
   "ritual": "Dancing",

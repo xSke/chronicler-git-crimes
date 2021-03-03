@@ -33,7 +33,9 @@
   "overpowerment": 0.41301724131497686,
   "patheticism": 0.6917924887359526,
   "peanutAllergy": false,
-  "permAttr": [],
+  "permAttr": [
+    "NON_IDOLIZED"
+  ],
   "pitchingRating": 0.19774205095007968,
   "pressurization": 0.007456805125207744,
   "ritual": "Watching Rango",

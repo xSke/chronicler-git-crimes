@@ -33,7 +33,9 @@
   "overpowerment": 0.5634117780215662,
   "patheticism": 0.0006369704946913579,
   "peanutAllergy": true,
-  "permAttr": [],
+  "permAttr": [
+    "NON_IDOLIZED"
+  ],
   "pitchingRating": 0.30821984970089705,
   "pressurization": 0.22259764556678777,
   "ritual": "Spitting",
