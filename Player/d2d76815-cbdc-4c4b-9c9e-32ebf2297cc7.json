@@ -33,7 +33,9 @@
   "overpowerment": 0.42333318833364975,
   "patheticism": 0.2273241021060954,
   "peanutAllergy": true,
-  "permAttr": [],
+  "permAttr": [
+    "SHELLED"
+  ],
   "pitchingRating": 0.4768217330830252,
   "pressurization": 1.0401670756416868,
   "ritual": "Landscapes",
