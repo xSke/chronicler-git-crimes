@@ -17,7 +17,7 @@
   "nickname": "The Crabitat",
   "obtuseness": 0.5,
   "ominousness": 0.5,
-  "renoCost": 1000000,
+  "renoCost": -1,
   "renoDiscard": [],
   "renoHand": [],
   "renoLog": {},
