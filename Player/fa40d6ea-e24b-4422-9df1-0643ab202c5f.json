@@ -33,7 +33,9 @@
   "overpowerment": 0.09486728874086524,
   "patheticism": 0.6060888591475204,
   "peanutAllergy": false,
-  "permAttr": [],
+  "permAttr": [
+    "TRIPLE_THREAT"
+  ],
   "pitchingRating": 0.22264924162292551,
   "pressurization": 0.4216766595638224,
   "ritual": "Sleepwalking",
