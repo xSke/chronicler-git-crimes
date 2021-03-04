@@ -33,7 +33,9 @@
   "overpowerment": 0.27211304070196607,
   "patheticism": 0.001,
   "peanutAllergy": false,
-  "permAttr": [],
+  "permAttr": [
+    "SHELLED"
+  ],
   "pitchingRating": 0.836120039204757,
   "pressurization": 0.01724878531285201,
   "ritual": "Slaps",
