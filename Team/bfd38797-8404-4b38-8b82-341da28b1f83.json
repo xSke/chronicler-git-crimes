@@ -53,18 +53,18 @@
   ],
   "rotationSlot": 70,
   "seasAttr": [],
-  "seasonShames": 3,
+  "seasonShames": 4,
   "seasonShamings": 2,
   "secondaryColor": "#ffce0a",
-  "shameRuns": 0,
+  "shameRuns": 1,
   "shorthand": "CHST",
   "slogan": "Your Kicks are Our Kicks",
   "stadium": null,
   "state": {},
   "teamSpirit": 0,
-  "totalShames": 60,
+  "totalShames": 61,
   "totalShamings": 38,
   "tournamentWins": 0,
   "weekAttr": [],
-  "winStreak": 1
+  "winStreak": -1
 }
