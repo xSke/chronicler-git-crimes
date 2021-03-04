@@ -46,18 +46,18 @@
   ],
   "rotationSlot": 65,
   "seasAttr": [],
-  "seasonShames": 2,
+  "seasonShames": 3,
   "seasonShamings": 2,
   "secondaryColor": "#b063c1",
-  "shameRuns": 0,
+  "shameRuns": 1,
   "shorthand": "LATA",
   "slogan": "72° and Infinite",
   "stadium": null,
   "state": {},
   "teamSpirit": 0,
-  "totalShames": 75,
+  "totalShames": 76,
   "totalShamings": 22,
   "tournamentWins": 0,
   "weekAttr": [],
-  "winStreak": 2
+  "winStreak": -1
 }
