@@ -18,14 +18,14 @@
   ],
   "card": 2,
   "championships": 0,
-  "eDensity": 1449.7733025723924,
-  "eVelocity": -0.007576465806422278,
+  "eDensity": 1468.7733025723924,
+  "eVelocity": -0.0058033540067502455,
   "emoji": "0x1F339",
   "evolution": 0,
   "fullName": "Boston Flowers",
   "gameAttr": [],
   "id": "3f8bbb15-61c0-4e3f-8e4a-907a5fb1565e",
-  "imPosition": -0.12021156435307254,
+  "imPosition": -0.1260149183598228,
   "lineup": [
     "28964497-0efe-420c-9c1d-8574f224a4e9",
     "718dea1a-d9a8-4c2b-933a-f0667b5250e6",
@@ -67,5 +67,5 @@
   "totalShamings": 47,
   "tournamentWins": 0,
   "weekAttr": [],
-  "winStreak": -1
+  "winStreak": 1
 }
