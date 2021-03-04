@@ -1,0 +1,67 @@
+{
+  "bench": [
+    "103d788d-2c74-4edc-9299-2a1384a2776a",
+    "06fdd1ed-13a0-4eb2-a7dd-4e9551235a68",
+    "26503f2c-631a-45ba-905e-aa14471c8b8e"
+  ],
+  "bullpen": [
+    "2918be01-e1aa-4de6-8239-fe62f37769de",
+    "37061380-ac95-4018-854e-c308073945e9",
+    "48d07a64-9ea2-4b9e-8046-6901ad398490",
+    "54bc7b23-49a9-4f1d-b60f-9c3cf9754b67",
+    "b93f4c32-64e4-4461-b708-05f6f7f6bbc2",
+    "2e94fa0d-453f-4925-8ea0-c0a53e38108d",
+    "1abe7a14-2608-485c-af10-69cf0107c2a5",
+    "9fbab4df-35dd-4991-9e82-9635ab756b0f"
+  ],
+  "card": -1,
+  "championships": 4,
+  "eDensity": 0,
+  "eVelocity": 0,
+  "emoji": "0x1F40C",
+  "evolution": 1,
+  "fullName": "Ohio Worms",
+  "gameAttr": [],
+  "id": "bb4a9de5-c924-4923-a0cb-9d1445f1ee5d",
+  "imPosition": 0,
+  "lineup": [
+    "750a7ba9-e595-40be-93e5-4021f1f9460d",
+    "57a19a22-f2cd-4e59-aa84-15cb0af30ba3",
+    "0813d43c-b938-49da-acef-65b73f27b099",
+    "3822990b-5ee0-404a-9e06-846bb29f3faf",
+    "a9812a8e-67c4-434c-85cb-6ddf785cadf2",
+    "a1fba555-a48c-44f3-afb6-522ea256947c",
+    "d0ffc9c2-e677-4230-a639-b0ae11650501",
+    "8605af4b-b235-43f8-81aa-6381ecdda756",
+    "b323f897-ccf9-4200-8870-249cbe19f904"
+  ],
+  "location": "Ohio",
+  "mainColor": "#5c4822",
+  "nickname": "Worms",
+  "permAttr": [
+    "BOTTOM_DWELLER"
+  ],
+  "rotation": [
+    "ccd6068b-2735-4072-bfe5-571a5d57c285",
+    "2268f452-01b9-4e16-98bb-c07e3ce767e3",
+    "72fb797a-aea8-4723-b7e4-d110c301320e",
+    "64c92f8d-6028-495b-b81d-32c975afb2e1",
+    "924de86d-260b-495b-80e1-57af5767703c"
+  ],
+  "rotationSlot": 0,
+  "seasAttr": [],
+  "seasonShames": 0,
+  "seasonShamings": 0,
+  "secondaryColor": "#ba9c65",
+  "shameRuns": 0,
+  "shorthand": "OHWO",
+  "slogan": "Oh, Worm?",
+  "stadium": "8a84154e-80d7-47d5-8f56-295e9a9653d9",
+  "state": {},
+  "teamSpirit": 0,
+  "totalShames": 0,
+  "totalShamings": 0,
+  "tournamentWins": 0,
+  "weekAttr": [],
+  "winStreak": 0
+}

@@ -3,7 +3,6 @@
     "7afedcd8-870d-4655-9659-3bdfb2e17730",
     "4e63cb5d-4fce-441b-b9e4-dc6a467cf2fd",
     "5915b7bb-e532-4036-9009-79f1e80c0e28",
-    "61bbbf34-98c1-4bf6-bd0c-56c19199b35e",
     "ce7d33b7-1bba-48d6-a1d1-cd0e29231be8"
   ],
   "bullpen": [
@@ -21,26 +20,29 @@
   "eDensity": 0,
   "eVelocity": 0,
   "emoji": "0x1F980",
-  "evolution": 0,
+  "evolution": 1,
   "fullName": "Baltimore Crabs",
   "gameAttr": [],
   "id": "8d87c468-699a-47a8-b40d-cfb73a5660ad",
   "imPosition": 0,
   "lineup": [
     "90c2cec7-0ed5-426a-9de8-754f34d59b39",
-    "d35ccee1-9559-49a1-aaa4-7809f7b5c46e",
-    "2c4b2a6d-9961-4e40-882c-a338f4e72117",
-    "84a2b5f6-4955-4007-9299-3d35ae7135d3",
     "425f3f84-bab0-4cf2-91c1-96e78cf5cd02",
+    "c6a19154-7438-4c4f-b786-2dfaf5951f0f",
     "e4034192-4dc6-4901-bb30-07fe3cf77b5e",
     "7dcf6902-632f-48c5-936a-7cf88802b93a",
-    "c6a19154-7438-4c4f-b786-2dfaf5951f0f",
-    "1a93a2d2-b5b6-479b-a595-703e4a2f3885"
+    "1a93a2d2-b5b6-479b-a595-703e4a2f3885",
+    "2c4b2a6d-9961-4e40-882c-a338f4e72117",
+    "d35ccee1-9559-49a1-aaa4-7809f7b5c46e",
+    "84a2b5f6-4955-4007-9299-3d35ae7135d3",
+    "61bbbf34-98c1-4bf6-bd0c-56c19199b35e"
   ],
   "location": "Baltimore",
   "mainColor": "#593037",
   "nickname": "Crabs",
-  "permAttr": [],
+  "permAttr": [
+    "CARCINIZATION"
+  ],
   "rotation": [
     "97dfc1f6-ac94-4cdc-b0d5-1cb9f8984aa5",
     "e6114fd4-a11d-4f6c-b823-65691bb2d288",

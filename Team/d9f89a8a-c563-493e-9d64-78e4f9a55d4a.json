@@ -1,0 +1,67 @@
+{
+  "bench": [
+    "8e1eeeb8-1b80-4781-9d85-bda3b58a45f4",
+    "9337389f-4301-4e30-a108-4680c02ee1fe",
+    "35acb6ea-9a7c-49b6-809c-59409f557651"
+  ],
+  "bullpen": [
+    "9ae7cec4-1df0-4922-8f7a-f3b996d031e7",
+    "3d293d6c-3a20-43ab-a895-2b7f1f28779f",
+    "5116921f-7642-441a-9a85-40c93a1e61bd",
+    "e6768069-1db7-44d6-849b-0a281f62e855",
+    "1c55aedf-6e31-4f3c-9b17-8a84b7d15a0c",
+    "ec41d37e-2398-4e7d-aaf0-f7f52e5300c7",
+    "7815e82e-5ea4-4cef-b28b-6d8e05815c52",
+    "0288bbb1-a994-45c3-bb8f-331fe296090d"
+  ],
+  "card": -1,
+  "championships": 4,
+  "eDensity": 0,
+  "eVelocity": 0,
+  "emoji": "0x1F531",
+  "evolution": 1,
+  "fullName": "Atlantis Georgias",
+  "gameAttr": [],
+  "id": "d9f89a8a-c563-493e-9d64-78e4f9a55d4a",
+  "imPosition": 0,
+  "lineup": [
+    "409d1c96-760b-4a96-9a3c-481112ddf37b",
+    "91f5298e-a2ec-4f54-a541-1818702d1b6d",
+    "4b01cc3f-c59f-486d-9c00-b8a82624e620",
+    "1f930140-9fc6-4240-9ef6-e7ac065eaefb",
+    "5361e381-6658-488b-8236-dde6a264554f",
+    "6ebac746-6685-4d0f-8e84-6b21299b5169",
+    "ebe6ac02-3b83-4da8-b1e5-f89053bbd5c8",
+    "0268b35f-b19b-4b2f-90c4-89fb36403686",
+    "ad56f749-ee48-4a85-9827-8455aeafe276"
+  ],
+  "location": "Atlantis",
+  "mainColor": "#00dbc2",
+  "nickname": "Georgias",
+  "permAttr": [
+    "UNDERSEA"
+  ],
+  "rotation": [
+    "bc29afc1-c954-4def-978b-a59ae5def3c3",
+    "4a95d9d8-3dcc-488d-b1cb-19690271ae4c",
+    "0ef1bc34-64ee-4c7b-8be2-88322b407a58",
+    "948ce8a8-19cd-4f81-b84f-88cce02c47bc",
+    "56eba639-ea73-474d-bcee-ec68c0528b02"
+  ],
+  "rotationSlot": 0,
+  "seasAttr": [],
+  "seasonShames": 0,
+  "seasonShamings": 0,
+  "secondaryColor": "#5cffec",
+  "shameRuns": 0,
+  "shorthand": "ATL",
+  "slogan": "You Sink, We Swim",
+  "stadium": "37c2743f-1a15-4e3f-bdb1-a6461df93434",
+  "state": {},
+  "teamSpirit": 0,
+  "totalShames": 0,
+  "totalShamings": 0,
+  "tournamentWins": 0,
+  "weekAttr": [],
+  "winStreak": 0
+}

@@ -1,0 +1,67 @@
+{
+  "bench": [
+    "7e910e86-84b4-43c3-a68e-67b6612ddbee",
+    "84a17f48-0393-4166-864a-f7cd27557701",
+    "f7de0227-6739-48e2-bbd6-9dc7b247ab9a"
+  ],
+  "bullpen": [
+    "266abcc0-8abc-4570-b32e-e5668e5d38f3",
+    "efda41c1-eb07-45b3-8ad5-424c63115115",
+    "eac00ec9-3376-423c-8684-93dd2cbd6ed4",
+    "30fa4bf1-8f3b-45dc-9aa3-6511e998040a",
+    "51dab868-820b-4969-8bba-bde0be8090d7",
+    "a6ec8d00-a78f-4f6b-b51a-db9f5507cf0a",
+    "b0c20916-7097-47e6-8226-cbf67da176e0",
+    "9e75ff7c-fe9b-428b-a1b6-f9e6a1748c86"
+  ],
+  "card": -1,
+  "championships": 3,
+  "eDensity": 0,
+  "eVelocity": 0,
+  "emoji": "0x1F6E0",
+  "evolution": 1,
+  "fullName": "Core Mechanics",
+  "gameAttr": [],
+  "id": "46358869-dce9-4a01-bfba-ac24fc56f57e",
+  "imPosition": 0,
+  "lineup": [
+    "5991ccb3-7eed-46d9-9d7c-69dec9b56d4b",
+    "096bb9b5-5ea8-4da1-a113-57a5fc9e9b67",
+    "12c4368d-478b-42be-b6d3-fa2e9b230f82",
+    "2f85d731-81ed-4a07-9e01-e93f1786a366",
+    "c83b82e8-b8d2-4cb7-9982-97593283acc2",
+    "5bc7e5d4-39be-4d64-a242-abb39aca6f42",
+    "9c813008-b2a9-4257-80e7-a709c67189fe",
+    "535f4e67-a54b-427a-9ca1-1296d7387876",
+    "11f25eae-465f-43cc-9366-f19addc803bc"
+  ],
+  "location": "Core",
+  "mainColor": "#d13100",
+  "nickname": "Mechanics",
+  "permAttr": [
+    "MAINTENANCE_MODE"
+  ],
+  "rotation": [
+    "7541fc4b-7e6b-446a-b6a3-755de46a0018",
+    "305921e8-3f4d-4c91-a280-d7bf1a449b08",
+    "ca26d8cc-8668-48c9-a061-28f6fdf5f44d",
+    "fc1d65f5-8916-41f1-b878-4d42a965b011",
+    "888fce7a-0d21-478a-9b45-4662193fe9aa"
+  ],
+  "rotationSlot": 0,
+  "seasAttr": [],
+  "seasonShames": 0,
+  "seasonShamings": 0,
+  "secondaryColor": "#ff5b29",
+  "shameRuns": 0,
+  "shorthand": "CORE",
+  "slogan": "We Can Fix This",
+  "stadium": "031670ae-97a5-4215-b1a1-98e9f1de7c50",
+  "state": {},
+  "teamSpirit": 0,
+  "totalShames": 0,
+  "totalShamings": 0,
+  "tournamentWins": 0,
+  "weekAttr": [],
+  "winStreak": 0
+}
