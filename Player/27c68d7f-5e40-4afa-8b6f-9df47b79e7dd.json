@@ -33,7 +33,9 @@
   "overpowerment": 0.2508588799672564,
   "patheticism": 0.5615678719384499,
   "peanutAllergy": true,
-  "permAttr": [],
+  "permAttr": [
+    "COFFEE_RALLY"
+  ],
   "pitchingRating": 0.5539797771781951,
   "pressurization": 0.7155318584625154,
   "ritual": "Questioning everything",
