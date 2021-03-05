@@ -21,16 +21,6 @@
   },
   {
     "expire": null,
-    "id": "wyatt_quitter",
-    "msg": "just waking up, what happened with wyatt quitter and denzel scott"
-  },
-  {
-    "expire": null,
-    "id": "stop_with_the_feed",
-    "msg": "stop telling me to 'check the feed', i'm the event ticker so i don't need the feed"
-  },
-  {
-    "expire": null,
     "id": "new_teams",
     "msg": "New teams just dropped. No one thought to tell the ticker, huh"
   }
