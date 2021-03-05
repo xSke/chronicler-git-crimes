@@ -19,14 +19,14 @@
   ],
   "card": 6,
   "championships": 0,
-  "eDensity": 1167.1507785950355,
-  "eVelocity": -0.0046474872148731215,
+  "eDensity": 1174.1698054642702,
+  "eVelocity": -0.005575696120661552,
   "emoji": "0x1F32E",
   "evolution": 0,
   "fullName": "LA Unlimited Tacos",
   "gameAttr": [],
   "id": "878c1bf6-0d21-4659-bfee-916c8314d69c",
-  "imPosition": 0.029605239363285536,
+  "imPosition": 0.024029543242623984,
   "lineup": [
     "03b80a57-77ea-4913-9be4-7a85c3594745",
     "63df8701-1871-4987-87d7-b55d4f1df2e9",
@@ -44,7 +44,7 @@
     "0bb35615-63f2-4492-80ec-b6b322dc5450",
     "9820f2c5-f9da-4a07-b610-c2dd7bee2ef6"
   ],
-  "rotationSlot": 95,
+  "rotationSlot": 96,
   "seasAttr": [
     "PARTY_TIME"
   ],
