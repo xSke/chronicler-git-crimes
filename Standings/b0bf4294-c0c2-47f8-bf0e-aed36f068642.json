@@ -3,7 +3,7 @@
     "105bc3ff-1320-4e37-8ef0-8d595cb95dd0": 78,
     "23e4cbc1-e9cd-47fa-a35b-bfa06f726cb7": 78,
     "36569151-a2fb-43c1-9df7-2df512424c82": 78,
-    "3f8bbb15-61c0-4e3f-8e4a-907a5fb1565e": 78,
+    "3f8bbb15-61c0-4e3f-8e4a-907a5fb1565e": 79,
     "46358869-dce9-4a01-bfba-ac24fc56f57e": 0,
     "57ec08cc-0411-4643-b304-0e80dbc15ac7": 78,
     "747b8e4a-7e50-4638-a973-ea7950a3e739": 78,
@@ -22,7 +22,7 @@
     "c73b705c-40ad-4633-a6ed-d357ee2e2bcf": 78,
     "ca3f1c8c-c025-4d8e-8eef-5be6accbeb16": 78,
     "d9f89a8a-c563-493e-9d64-78e4f9a55d4a": 0,
-    "eb67ae5e-c4bf-46ca-bbbc-425cd34182ff": 78,
+    "eb67ae5e-c4bf-46ca-bbbc-425cd34182ff": 79,
     "f02aeae2-5e6a-4098-9842-02d2273f25c7": 78
   },
   "id": "b0bf4294-c0c2-47f8-bf0e-aed36f068642",
@@ -30,7 +30,7 @@
     "105bc3ff-1320-4e37-8ef0-8d595cb95dd0": 37,
     "23e4cbc1-e9cd-47fa-a35b-bfa06f726cb7": 32,
     "36569151-a2fb-43c1-9df7-2df512424c82": 34,
-    "3f8bbb15-61c0-4e3f-8e4a-907a5fb1565e": 45,
+    "3f8bbb15-61c0-4e3f-8e4a-907a5fb1565e": 46,
     "46358869-dce9-4a01-bfba-ac24fc56f57e": 0,
     "57ec08cc-0411-4643-b304-0e80dbc15ac7": 40,
     "747b8e4a-7e50-4638-a973-ea7950a3e739": 25,
@@ -56,7 +56,7 @@
     "105bc3ff-1320-4e37-8ef0-8d595cb95dd0": 268.7,
     "23e4cbc1-e9cd-47fa-a35b-bfa06f726cb7": 435.1,
     "36569151-a2fb-43c1-9df7-2df512424c82": 289.2,
-    "3f8bbb15-61c0-4e3f-8e4a-907a5fb1565e": 392.7,
+    "3f8bbb15-61c0-4e3f-8e4a-907a5fb1565e": 394.7,
     "46358869-dce9-4a01-bfba-ac24fc56f57e": 0,
     "57ec08cc-0411-4643-b304-0e80dbc15ac7": 254.4,
     "747b8e4a-7e50-4638-a973-ea7950a3e739": 406,
@@ -75,7 +75,7 @@
     "c73b705c-40ad-4633-a6ed-d357ee2e2bcf": 253.4,
     "ca3f1c8c-c025-4d8e-8eef-5be6accbeb16": 316,
     "d9f89a8a-c563-493e-9d64-78e4f9a55d4a": 0,
-    "eb67ae5e-c4bf-46ca-bbbc-425cd34182ff": 301.3,
+    "eb67ae5e-c4bf-46ca-bbbc-425cd34182ff": 307.3,
     "f02aeae2-5e6a-4098-9842-02d2273f25c7": 432
   },
   "wins": {
@@ -101,7 +101,7 @@
     "c73b705c-40ad-4633-a6ed-d357ee2e2bcf": 25,
     "ca3f1c8c-c025-4d8e-8eef-5be6accbeb16": 40,
     "d9f89a8a-c563-493e-9d64-78e4f9a55d4a": 0,
-    "eb67ae5e-c4bf-46ca-bbbc-425cd34182ff": 40,
+    "eb67ae5e-c4bf-46ca-bbbc-425cd34182ff": 41,
     "f02aeae2-5e6a-4098-9842-02d2273f25c7": 47
   }
 }
