@@ -20,14 +20,14 @@
   ],
   "card": 17,
   "championships": 0,
-  "eDensity": 1711.432595363888,
-  "eVelocity": -0.006011131886332526,
+  "eDensity": 1712.432595363888,
+  "eVelocity": -0.002878769745478478,
   "emoji": "0x1F575",
   "evolution": 0,
   "fullName": "Houston Spies",
   "gameAttr": [],
   "id": "9debc64f-74b7-4ae1-a4d6-fce0144b6ea5",
-  "imPosition": -0.2457933027583157,
+  "imPosition": -0.2486720725037942,
   "lineup": [
     "d2d76815-cbdc-4c4b-9c9e-32ebf2297cc7",
     "d8ee256f-e3d0-46cb-8c77-b1f88d8c9df9",
@@ -50,7 +50,7 @@
     "7158d158-e7bf-4e9b-9259-62e5b25e3de8",
     "30218684-7fa1-41a5-a3b3-5d9cd97dd36b"
   ],
-  "rotationSlot": 98,
+  "rotationSlot": 99,
   "seasAttr": [
     "PARTY_TIME"
   ],
