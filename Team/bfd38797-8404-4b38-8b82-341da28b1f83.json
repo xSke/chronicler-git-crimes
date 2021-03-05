@@ -19,14 +19,14 @@
   ],
   "card": 9,
   "championships": 1,
-  "eDensity": 1413.752137697806,
-  "eVelocity": -0.008869218591619758,
+  "eDensity": 1419.1569901532823,
+  "eVelocity": -0.008395633311708402,
   "emoji": "0x1F45F",
   "evolution": 0,
   "fullName": "Charleston Shoe Thieves",
   "gameAttr": [],
   "id": "bfd38797-8404-4b38-8b82-341da28b1f83",
-  "imPosition": -0.09198292582879108,
+  "imPosition": -0.10037855914049948,
   "lineup": [
     "2175cda0-a427-40fd-b497-347edcc1cd61",
     "b1b141fc-e867-40d1-842a-cea30a97ca4f",
@@ -51,7 +51,7 @@
     "03f920cc-411f-44ef-ae66-98a44e883291",
     "5e4dfa16-f1b9-400f-b8ef-a1613c2b026a"
   ],
-  "rotationSlot": 93,
+  "rotationSlot": 94,
   "seasAttr": [
     "PARTY_TIME"
   ],
