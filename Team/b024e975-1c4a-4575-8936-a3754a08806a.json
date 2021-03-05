@@ -53,7 +53,7 @@
     "PARTY_TIME"
   ],
   "seasonShames": 2,
-  "seasonShamings": 3,
+  "seasonShamings": 4,
   "secondaryColor": "#b2b3b5",
   "shameRuns": 0,
   "shorthand": "DAL",
@@ -62,8 +62,8 @@
   "state": {},
   "teamSpirit": 0,
   "totalShames": 46,
-  "totalShamings": 57,
+  "totalShamings": 58,
   "tournamentWins": 0,
   "weekAttr": [],
-  "winStreak": 1
+  "winStreak": 2
 }
