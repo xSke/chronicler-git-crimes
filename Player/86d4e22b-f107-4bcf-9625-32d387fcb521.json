@@ -35,7 +35,8 @@
   "peanutAllergy": false,
   "permAttr": [
     "DOUBLE_PAYOUTS",
-    "HONEY_ROASTED"
+    "HONEY_ROASTED",
+    "ELSEWHERE"
   ],
   "pitchingRating": 0.5604182580391098,
   "pressurization": 0.32762547788474816,
@@ -44,7 +45,12 @@
   "seasAttr": [],
   "shakespearianism": 0.4706456440205379,
   "soul": 2,
-  "state": {},
+  "state": {
+    "elsewhere": {
+      "day": 91,
+      "season": 11
+    }
+  },
   "suppression": 0.8369510830718048,
   "tenaciousness": 1.0423421538813835,
   "thwackability": 1.1298351431014615,
