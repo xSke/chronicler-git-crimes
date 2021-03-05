@@ -15,7 +15,8 @@
     "93502db3-85fa-4393-acae-2a5ff3980dde",
     "eaaef47e-82cc-4c90-b77d-75c3fb279e83",
     "2d22f026-2873-410b-a45f-3b1dac665ffd",
-    "d002946f-e7ed-4ce4-a405-63bdaf5eabb5"
+    "d002946f-e7ed-4ce4-a405-63bdaf5eabb5",
+    "fad06b19-42a0-47e5-82d7-6e66d4adc9a1"
   ],
   "card": 9,
   "championships": 1,
@@ -52,9 +53,7 @@
     "5e4dfa16-f1b9-400f-b8ef-a1613c2b026a"
   ],
   "rotationSlot": 99,
-  "seasAttr": [
-    "PARTY_TIME"
-  ],
+  "seasAttr": [],
   "seasonShames": 5,
   "seasonShamings": 3,
   "secondaryColor": "#ffce0a",
