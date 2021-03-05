@@ -23,15 +23,5 @@
     "expire": null,
     "id": "new_teams",
     "msg": "New teams just dropped. No one thought to tell the ticker, huh"
-  },
-  {
-    "expire": null,
-    "id": "twitch_link",
-    "msg": "check out https://www.twitch.tv/blaseball"
-  },
-  {
-    "expire": null,
-    "id": "cant_do_links",
-    "msg": "wait i can't do links. uhhh ok, then click the twitch icon on the top right of the screen."
   }
 ]
