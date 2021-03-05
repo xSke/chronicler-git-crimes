@@ -33,7 +33,9 @@
   "overpowerment": 0.5294379215169842,
   "patheticism": 0.45799065360001423,
   "peanutAllergy": true,
-  "permAttr": [],
+  "permAttr": [
+    "ELSEWHERE"
+  ],
   "pitchingRating": 0.6209013610369175,
   "pressurization": 0.15396479651740713,
   "ritual": "Washing the blood off",
@@ -41,7 +43,12 @@
   "seasAttr": [],
   "shakespearianism": 0.9012391319752464,
   "soul": 6,
-  "state": {},
+  "state": {
+    "elsewhere": {
+      "day": 86,
+      "season": 11
+    }
+  },
   "suppression": 0.18572499385705,
   "tenaciousness": 0.26350795429013074,
   "thwackability": 0.9142443762386054,
