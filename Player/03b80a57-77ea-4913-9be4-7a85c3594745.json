@@ -14,10 +14,12 @@
   "deceased": false,
   "defenseRating": 0.8219699639807028,
   "divinity": 0.801340700049749,
-  "eDensity": 59.88441993377081,
+  "eDensity": 54.01144962177315,
   "evolution": 0,
   "fate": 43,
-  "gameAttr": [],
+  "gameAttr": [
+    "OVERPERFORMING"
+  ],
   "groundFriction": 0.4267197947501232,
   "hitStreak": 0,
   "hittingRating": 0.6859436850017838,
@@ -44,7 +46,13 @@
   "seasAttr": [],
   "shakespearianism": 0.4213442773058404,
   "soul": 7,
-  "state": {},
+  "state": {
+    "gameModSources": {
+      "OVERPERFORMING": [
+        "PERK"
+      ]
+    }
+  },
   "suppression": 0.5864012251401607,
   "tenaciousness": 0.8767983804824133,
   "thwackability": 0.47987275979046934,
