@@ -33,7 +33,9 @@
   "overpowerment": 0.3533169153978881,
   "patheticism": 0.801880120517195,
   "peanutAllergy": true,
-  "permAttr": [],
+  "permAttr": [
+    "NON_IDOLIZED"
+  ],
   "pitchingRating": 0.13581638794956846,
   "pressurization": 0.5471909905067189,
   "ritual": "flipping through radio channels",
