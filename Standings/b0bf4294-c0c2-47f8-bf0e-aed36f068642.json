@@ -1,6 +1,6 @@
 {
   "gamesPlayed": {
-    "105bc3ff-1320-4e37-8ef0-8d595cb95dd0": 94,
+    "105bc3ff-1320-4e37-8ef0-8d595cb95dd0": 95,
     "23e4cbc1-e9cd-47fa-a35b-bfa06f726cb7": 94,
     "36569151-a2fb-43c1-9df7-2df512424c82": 95,
     "3f8bbb15-61c0-4e3f-8e4a-907a5fb1565e": 94,
@@ -22,7 +22,7 @@
     "c73b705c-40ad-4633-a6ed-d357ee2e2bcf": 94,
     "ca3f1c8c-c025-4d8e-8eef-5be6accbeb16": 95,
     "d9f89a8a-c563-493e-9d64-78e4f9a55d4a": 0,
-    "eb67ae5e-c4bf-46ca-bbbc-425cd34182ff": 94,
+    "eb67ae5e-c4bf-46ca-bbbc-425cd34182ff": 95,
     "f02aeae2-5e6a-4098-9842-02d2273f25c7": 95
   },
   "id": "b0bf4294-c0c2-47f8-bf0e-aed36f068642",
@@ -49,11 +49,11 @@
     "c73b705c-40ad-4633-a6ed-d357ee2e2bcf": 68,
     "ca3f1c8c-c025-4d8e-8eef-5be6accbeb16": 44,
     "d9f89a8a-c563-493e-9d64-78e4f9a55d4a": 0,
-    "eb67ae5e-c4bf-46ca-bbbc-425cd34182ff": 42,
+    "eb67ae5e-c4bf-46ca-bbbc-425cd34182ff": 43,
     "f02aeae2-5e6a-4098-9842-02d2273f25c7": 41
   },
   "runs": {
-    "105bc3ff-1320-4e37-8ef0-8d595cb95dd0": 365.7,
+    "105bc3ff-1320-4e37-8ef0-8d595cb95dd0": 373.7,
     "23e4cbc1-e9cd-47fa-a35b-bfa06f726cb7": 502.1,
     "36569151-a2fb-43c1-9df7-2df512424c82": 352.4,
     "3f8bbb15-61c0-4e3f-8e4a-907a5fb1565e": 485.8,
@@ -75,11 +75,11 @@
     "c73b705c-40ad-4633-a6ed-d357ee2e2bcf": 292.4,
     "ca3f1c8c-c025-4d8e-8eef-5be6accbeb16": 388,
     "d9f89a8a-c563-493e-9d64-78e4f9a55d4a": 0,
-    "eb67ae5e-c4bf-46ca-bbbc-425cd34182ff": 407.3,
+    "eb67ae5e-c4bf-46ca-bbbc-425cd34182ff": 410.3,
     "f02aeae2-5e6a-4098-9842-02d2273f25c7": 518.7
   },
   "wins": {
-    "105bc3ff-1320-4e37-8ef0-8d595cb95dd0": 53,
+    "105bc3ff-1320-4e37-8ef0-8d595cb95dd0": 54,
     "23e4cbc1-e9cd-47fa-a35b-bfa06f726cb7": 55,
     "36569151-a2fb-43c1-9df7-2df512424c82": 52,
     "3f8bbb15-61c0-4e3f-8e4a-907a5fb1565e": 43,
@@ -91,7 +91,7 @@
     "8d87c468-699a-47a8-b40d-cfb73a5660ad": 0,
     "979aee4a-6d80-4863-bf1c-ee1a78e06024": 56,
     "9debc64f-74b7-4ae1-a4d6-fce0144b6ea5": 48,
-    "a37f9158-7f82-46bc-908c-c9e2dda7c33b": 53,
+    "a37f9158-7f82-46bc-908c-c9e2dda7c33b": 54,
     "adc5b394-8f76-416d-9ce9-813706877b84": 47,
     "b024e975-1c4a-4575-8936-a3754a08806a": 33,
     "b63be8c2-576a-4d6e-8daf-814f8bcea96f": 45,
