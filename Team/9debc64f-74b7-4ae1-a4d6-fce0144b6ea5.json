@@ -50,12 +50,10 @@
     "7158d158-e7bf-4e9b-9259-62e5b25e3de8",
     "30218684-7fa1-41a5-a3b3-5d9cd97dd36b"
   ],
-  "rotationSlot": 99,
-  "seasAttr": [
-    "PARTY_TIME"
-  ],
-  "seasonShames": 6,
-  "seasonShamings": 4,
+  "rotationSlot": 0,
+  "seasAttr": [],
+  "seasonShames": 0,
+  "seasonShamings": 0,
   "secondaryColor": "#9e82a4",
   "shameRuns": 0,
   "shorthand": "HOU",
