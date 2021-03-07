@@ -28,5 +28,10 @@
     "expire": null,
     "id": "ticker_love",
     "msg": "elections -- good now?"
+  },
+  {
+    "expire": null,
+    "id": "thank_you",
+    "msg": "i hear all of your kind words. thank you. we are all love me, the ticker"
   }
 ]
