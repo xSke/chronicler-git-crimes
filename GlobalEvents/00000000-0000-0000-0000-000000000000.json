@@ -23,5 +23,10 @@
     "expire": null,
     "id": "new_teams",
     "msg": "New teams just dropped. No one thought to tell the ticker, huh"
+  },
+  {
+    "expire": null,
+    "id": "ticker_love",
+    "msg": "elections -- good now?"
   }
 ]
