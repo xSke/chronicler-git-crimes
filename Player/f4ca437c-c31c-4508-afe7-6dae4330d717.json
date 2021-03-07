@@ -33,7 +33,9 @@
   "overpowerment": 0.40567477097441856,
   "patheticism": 0.7438717694241939,
   "peanutAllergy": false,
-  "permAttr": [],
+  "permAttr": [
+    "SWIM_BLADDER"
+  ],
   "pitchingRating": 0.5340904814310021,
   "pressurization": 0.6032882887201341,
   "ritual": "Charging",

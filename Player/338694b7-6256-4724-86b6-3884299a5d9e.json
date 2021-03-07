@@ -24,7 +24,7 @@
   "id": "338694b7-6256-4724-86b6-3884299a5d9e",
   "indulgence": 0.2408734358570953,
   "laserlikeness": 0.06887957976249579,
-  "leagueTeamId": "eb67ae5e-c4bf-46ca-bbbc-425cd34182ff",
+  "leagueTeamId": "46358869-dce9-4a01-bfba-ac24fc56f57e",
   "martyrdom": 0.16145798522235902,
   "moxie": 0.2403169218885747,
   "musclitude": 0.6588126186859715,
@@ -34,7 +34,8 @@
   "patheticism": 0.3941682172427937,
   "peanutAllergy": true,
   "permAttr": [
-    "SQUIDDISH"
+    "SQUIDDISH",
+    "SWIM_BLADDER"
   ],
   "pitchingRating": 1.0223903424712124,
   "pressurization": 0.5899850260911925,

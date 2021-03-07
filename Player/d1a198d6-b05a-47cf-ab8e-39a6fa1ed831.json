@@ -24,7 +24,7 @@
   "id": "d1a198d6-b05a-47cf-ab8e-39a6fa1ed831",
   "indulgence": 0.23942743335431296,
   "laserlikeness": 0.7548660586373481,
-  "leagueTeamId": null,
+  "leagueTeamId": "b72f3061-f573-40d7-832a-5ad475bd7909",
   "martyrdom": 0.4229576804096884,
   "moxie": 0.9522357085479164,
   "musclitude": 0.6786014188406924,
@@ -34,8 +34,7 @@
   "patheticism": 0.3470975203208113,
   "peanutAllergy": false,
   "permAttr": [
-    "HARD_BOILED",
-    "NON_IDOLIZED"
+    "HARD_BOILED"
   ],
   "pitchingRating": 0.4997669355811023,
   "pressurization": 0.7077893681925664,

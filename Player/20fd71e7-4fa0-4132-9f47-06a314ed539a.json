@@ -33,7 +33,9 @@
   "overpowerment": 0.12255751033740664,
   "patheticism": 0.25286626321600697,
   "peanutAllergy": false,
-  "permAttr": [],
+  "permAttr": [
+    "SWIM_BLADDER"
+  ],
   "pitchingRating": 0.18455994030049805,
   "pressurization": 0.1326976930058399,
   "ritual": "Gossip",

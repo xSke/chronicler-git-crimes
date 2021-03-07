@@ -33,7 +33,9 @@
   "overpowerment": 0.7689976544130337,
   "patheticism": 0.07361282172547412,
   "peanutAllergy": false,
-  "permAttr": [],
+  "permAttr": [
+    "SWIM_BLADDER"
+  ],
   "pitchingRating": 0.35195004475470787,
   "pressurization": 0.2080057206631163,
   "ritual": "Listening to Them",
