@@ -43,14 +43,16 @@
   "nickname": "Moist Talkers",
   "permAttr": [],
   "rotation": [
-    "338694b7-6256-4724-86b6-3884299a5d9e",
+    "ca26d8cc-8668-48c9-a061-28f6fdf5f44d",
     "e6502bc7-5b76-4939-9fb8-132057390b30",
     "a691f2ba-9b69-41f8-892c-1acd42c336e4",
     "36786f44-9066-4028-98d9-4fa84465ab9e",
     "9ba361a1-16d5-4f30-b590-fc4fc2fb53d2"
   ],
   "rotationSlot": 0,
-  "seasAttr": [],
+  "seasAttr": [
+    "EARLBIRDS"
+  ],
   "seasonShames": 0,
   "seasonShamings": 0,
   "secondaryColor": "#f5feff",

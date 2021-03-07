@@ -3,7 +3,7 @@
     "7afedcd8-870d-4655-9659-3bdfb2e17730",
     "4e63cb5d-4fce-441b-b9e4-dc6a467cf2fd",
     "5915b7bb-e532-4036-9009-79f1e80c0e28",
-    "ce7d33b7-1bba-48d6-a1d1-cd0e29231be8"
+    "e6114fd4-a11d-4f6c-b823-65691bb2d288"
   ],
   "bullpen": [
     "dd8a43a4-a024-44e9-a522-785d998b29c3",
@@ -45,12 +45,14 @@
   ],
   "rotation": [
     "97dfc1f6-ac94-4cdc-b0d5-1cb9f8984aa5",
-    "e6114fd4-a11d-4f6c-b823-65691bb2d288",
+    "ce7d33b7-1bba-48d6-a1d1-cd0e29231be8",
     "d0d7b8fe-bad8-481f-978e-cb659304ed49",
     "f9930cb1-7ed2-4b9a-bf4f-7e35f2586d71"
   ],
   "rotationSlot": 0,
-  "seasAttr": [],
+  "seasAttr": [
+    "EXTRA_STRIKE"
+  ],
   "seasonShames": 0,
   "seasonShamings": 0,
   "secondaryColor": "#b05c6b",

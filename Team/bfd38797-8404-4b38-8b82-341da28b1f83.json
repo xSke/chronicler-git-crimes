@@ -37,7 +37,8 @@
     "15d3a844-df6b-4193-a8f5-9ab129312d8d",
     "fa477c92-39b6-4a52-b065-40af2f29840a",
     "b8ab86c6-9054-4832-9b96-508dbd4eb624",
-    "f7847de2-df43-4236-8dbe-ae403f5f3ab3"
+    "f7847de2-df43-4236-8dbe-ae403f5f3ab3",
+    "cc11963b-a05b-477b-b154-911dc31960df"
   ],
   "location": "Charleston",
   "mainColor": "#ffce0a",
@@ -53,7 +54,9 @@
     "5e4dfa16-f1b9-400f-b8ef-a1613c2b026a"
   ],
   "rotationSlot": 0,
-  "seasAttr": [],
+  "seasAttr": [
+    "EXTRA_STRIKE"
+  ],
   "seasonShames": 0,
   "seasonShamings": 0,
   "secondaryColor": "#ffce0a",

@@ -6,7 +6,7 @@
     "8997123f-b24d-4326-80c8-3c862f80f623"
   ],
   "bullpen": [
-    "7c5ae357-e079-4427-a90f-97d164c7262e",
+    "1e8b09bd-fbdd-444e-bd7e-10326bd57156",
     "b390b28c-df96-443e-b81f-f0104bd37860",
     "0f62c20c-72d0-4c12-a9d7-312ea3d3bcd1",
     "23e78d92-ee2d-498a-a99c-f40bc4c5fe99",
@@ -27,7 +27,7 @@
   "id": "b72f3061-f573-40d7-832a-5ad475bd7909",
   "imPosition": -0.11300830036092951,
   "lineup": [
-    "cbd19e6f-3d08-4734-b23f-585330028665",
+    "06ced607-7f96-41e7-a8cd-b501d11d1a7e",
     "11de4da3-8208-43ff-a1ff-0b3480a0fbf1",
     "58c9e294-bd49-457c-883f-fb3162fc668e",
     "bd24e18b-800d-4f15-878d-e334fb4803c4",
@@ -35,7 +35,8 @@
     "2b157c5c-9a6a-45a6-858f-bf4cf4cbc0bd",
     "0eea4a48-c84b-4538-97e7-3303671934d2",
     "ee55248b-318a-4bfb-8894-1cc70e4e0720",
-    "1e8b09bd-fbdd-444e-bd7e-10326bd57156"
+    "7c5ae357-e079-4427-a90f-97d164c7262e",
+    "d1a198d6-b05a-47cf-ab8e-39a6fa1ed831"
   ],
   "location": "San Francisco",
   "mainColor": "#780018",
@@ -52,7 +53,9 @@
     "9397ed91-608e-4b13-98ea-e94c795f651e"
   ],
   "rotationSlot": 0,
-  "seasAttr": [],
+  "seasAttr": [
+    "EXTRA_STRIKE"
+  ],
   "seasonShames": 0,
   "seasonShamings": 0,
   "secondaryColor": "#da0000",
