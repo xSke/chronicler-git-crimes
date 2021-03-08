@@ -1,109 +1,109 @@
 {
   "blessings": [
     {
-      "description": "Re-rolls your Team's 3 worst pitchers.",
-      "id": "reroll_worst_pitchers_3",
-      "subheader": "Brought to you by @Space Warlord Organ Trading Simulator@https://store.steampowered.com/app/1507780/Space_Warlord_Organ_Trading_Simulator/",
-      "title": "Organ Replacements",
-      "type": 11,
-      "value": 3
-    },
-    {
-      "description": "Recruit the Hardboiled Uncle Plasma to your Team.",
-      "id": "player_add_uncle_plasma",
-      "title": "Uncle Indemnity",
-      "type": 137,
+      "description": "Rise to the top. The worst pitcher on your Team pays out 5x more for Snacks.",
+      "id": "worst_pitcher_huge_payouts",
+      "subheader": "Brought to you by @Yes Plz Coffee@",
+      "title": "Rise and Grind",
+      "type": 146,
       "value": 1
     },
     {
-      "description": "Recruit the Hardboiled Liquid Friend to your Team.",
-      "id": "player_add_liquid_friend",
-      "title": "The Big Sip",
-      "type": 138,
+      "description": "Look at me. Most Idolized player on your team gives double-payouts as an Idol.",
+      "id": "mod_player_double_payouts",
+      "title": "Center of Attention",
+      "type": 93,
       "value": 1
     },
     {
-      "description": "Re-roll your Team's 3 worst hitters.",
-      "id": "reroll_worst_hitters_3",
-      "title": "Summoning Circle",
-      "type": 12,
-      "value": 3
-    },
-    {
-      "description": "Your Team will play 20% better during next Season's Earlseason.",
-      "id": "mod_team_earlbirds",
-      "title": "Earlbirds",
-      "type": 139,
+      "description": "Boosts a random player on your Team by 1% anytime you activate Sun 2.",
+      "id": "mod_team_sun_kissed",
+      "title": "Sun Dialed",
+      "type": 144,
       "value": 1
     },
     {
-      "description": "Your Team will play 20% better during next Season's Lateseason.",
-      "id": "mod_team_late_to_party",
-      "title": "Late to the Party",
-      "type": 140,
+      "description": "The Black Hole will impair a random player on the other team by 1% anytime your Team activates it.",
+      "id": "mod_team_unholey",
+      "title": "Unholey",
+      "type": 143,
       "value": 1
     },
     {
-      "description": "Improve your team's pitching by 10%. The last place team in the opposite subleague also gets +10% team pitching.",
-      "id": "shared_team_pitching",
-      "title": "Tag Team Pitching",
-      "type": 111,
-      "value": 0.1
-    },
-    {
-      "description": "Improve your team's hitting by 10%. The last place team in the opposite subleague also gets +10% team hitting.",
-      "id": "shared_team_hitting",
-      "title": "Tag Team Hitting",
-      "type": 110,
-      "value": 0.1
-    },
-    {
-      "description": "Run. +15% Team Baserunning",
-      "id": "team_improve_baserunning",
-      "title": "Wind Sprints",
-      "type": 2,
-      "value": 0.15
-    },
-    {
-      "description": "[cartilage and bone snapping] +15% Team Defense",
-      "id": "team_improve_defense",
-      "title": "The Rack",
-      "type": 3,
-      "value": 0.15
-    },
-    {
-      "description": "Is good offense. Swap your best hitting pitcher into your lineup.",
-      "id": "best_hitting_pitcher_swap",
-      "title": "The Best Defense",
-      "type": 56,
+      "description": "Your Team plays 25% better when Runners are On Base in Flooding Weather.",
+      "id": "mod_team_high_pressure",
+      "title": "High Pressure",
+      "type": 141,
       "value": 1
     },
     {
-      "description": "Is good defense. Swap your best pitching hitter into your rotation.",
-      "id": "best_pitching_hitter_swap",
-      "title": "The Best Offense",
-      "type": 55,
+      "description": "One Player on your Team becomes Chunky, one becomes Smooth.",
+      "id": "mod_players_peanut_butter",
+      "title": "Peanut Butter",
+      "type": 142,
       "value": 1
+    },
+    {
+      "description": "Two Random players in your Team's lineup get Flippers.",
+      "id": "mod_players_flippers",
+      "title": "Spare Flippers",
+      "type": 145,
+      "value": 1
+    },
+    {
+      "description": "Hatch a rookie from the Field of Eggs to join your Rotation.",
+      "id": "add_new_player_rotation",
+      "title": "Stow Away",
+      "type": 107,
+      "value": 1
+    },
+    {
+      "description": "Your entire Division's pitching is boosted by 4%.",
+      "id": "division_improve_pitching",
+      "title": "Pitching Flotation Bubble",
+      "type": 148,
+      "value": 0.04
+    },
+    {
+      "description": "Your entire Division's hitting is boosted by 4%.",
+      "id": "division_improve_batting",
+      "title": "Hitting Flotation Bubble",
+      "type": 147,
+      "value": 0.04
+    },
+    {
+      "description": "Your entire Division's defense is boosted by 4%.",
+      "id": "division_improve_defense",
+      "title": "Defense Flotation Bubble",
+      "type": 149,
+      "value": 0.04
+    },
+    {
+      "description": "Your entire Division's baserunning is boosted by 4%.",
+      "id": "division_improve_baserunning",
+      "title": "Baserunning Flotation Bubble",
+      "type": 150,
+      "value": 0.04
     }
   ],
   "decrees": [
     {
-      "description": "Win the Championship to claim the Belt, then Defend it in Title Matches next Season. The Holder of the Belt is protected from Steals and Swaps and guaranteed a Postseason Birth. Should the Holder win the Championship, they will claim a Title.",
-      "id": "champion_belt",
-      "title": "Title Belt",
-      "type": 52
+      "description": "Allows Division Winners to Hatch a Player from the Field of Eggs with a chosen name from the Filtered Pool.",
+      "id": "bird_rights",
+      "title": "Bird Rights",
+      "type": 55
     },
     {
-      "description": "The Champion of each season will play the following season under Pennants, starting every game at a severe disadvantage. Win the Internet Series under Pennants in order to Repent.",
-      "id": "champion_penance",
-      "title": "Pennants",
-      "type": 53
+      "description": "A Player on each Team is placed in the Force Field, protecting them from Steals and Swaps. Use a Will to move the Field to another Player.",
+      "id": "force_fields",
+      "title": "Force Fields",
+      "type": 56
     },
     {
-      "description": "Every Third Championship a Team wins will cause the Team and its Players to Evolve. Players that round the phylogenic Bases will get to go Home.",
-      "id": "champion_evolve",
-      "title": "Based Evolution",
-      "type": 54
+      "description": "Teams that finish in the Bottom 4 of the League will receive an extra Will in that Season's Election.",
+      "id": "free_wills",
+      "title": "Free Wills",
+      "type": 57
     }
   ],
   "decreesToPass": 1,
@@ -244,8 +244,9 @@
           "filters": {
             "mods": [
               "EXTRA_STRIKE",
-              "HOME_FIELD",
-              "SHAME_GIVER"
+              "SHAME_GIVER",
+              "EARLBIRDS",
+              "LATE_TO_PARTY"
             ]
           },
           "type": 2
