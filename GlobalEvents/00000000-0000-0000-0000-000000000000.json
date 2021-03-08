@@ -33,5 +33,10 @@
     "expire": null,
     "id": "thank_you",
     "msg": "i hear all of your kind words. thank you. we are all love me, the ticker"
+  },
+  {
+    "expire": null,
+    "id": "snack_opinions",
+    "msg": "wait i love slushies"
   }
 ]
