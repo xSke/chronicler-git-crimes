@@ -28,13 +28,13 @@
   "martyrdom": 0.5237063906006141,
   "moxie": 0.20847893618360724,
   "musclitude": 0.07766872597987896,
-  "name": "Beasley Day",
+  "name": "-easley Day",
   "omniscience": 0.11034040121857276,
   "overpowerment": 0.5291487424170928,
   "patheticism": 0.46896373033450733,
   "peanutAllergy": true,
   "permAttr": [
-    "ELSEWHERE"
+    "SCATTERED"
   ],
   "pitchingRating": 0.31064446710697474,
   "pressurization": 0.28545395980628685,
@@ -44,10 +44,7 @@
   "shakespearianism": 0.8065470207578321,
   "soul": 7,
   "state": {
-    "elsewhere": {
-      "day": 89,
-      "season": 11
-    }
+    "unscatteredName": "Beasley Day"
   },
   "suppression": 0.01,
   "tenaciousness": 0.14210984819198608,
