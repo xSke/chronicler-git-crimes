@@ -34,7 +34,8 @@
   "patheticism": 0.507291244287003,
   "peanutAllergy": true,
   "permAttr": [
-    "ALTERNATE"
+    "ALTERNATE",
+    "ELSEWHERE"
   ],
   "pitchingRating": 0.7226440045523704,
   "pressurization": 0.10993768625931329,
@@ -43,7 +44,12 @@
   "seasAttr": [],
   "shakespearianism": 0.6893129252059889,
   "soul": 5,
-  "state": {},
+  "state": {
+    "elsewhere": {
+      "day": 30,
+      "season": 12
+    }
+  },
   "suppression": 0.3621128485681564,
   "tenaciousness": 0.5845321941689525,
   "thwackability": 0.416435039289351,
