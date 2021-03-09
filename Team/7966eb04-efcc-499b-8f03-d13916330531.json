@@ -17,14 +17,14 @@
   ],
   "card": 0,
   "championships": 0,
-  "eDensity": 893.4696870867015,
-  "eVelocity": -0.005646938082083793,
+  "eDensity": 915.4696870867016,
+  "eVelocity": -0.009832897401137002,
   "emoji": "0x2728",
   "evolution": 0,
   "fullName": "Yellowstone Magic",
   "gameAttr": [],
   "id": "7966eb04-efcc-499b-8f03-d13916330531",
-  "imPosition": 0.20449621364936008,
+  "imPosition": 0.19466331624822308,
   "lineup": [
     "17392be2-7344-48a0-b4db-8a040a7fb532",
     "114100a4-1bf7-4433-b304-6aad75904055",
@@ -64,5 +64,5 @@
   "totalShamings": 43,
   "tournamentWins": 0,
   "weekAttr": [],
-  "winStreak": 1
+  "winStreak": 2
 }
