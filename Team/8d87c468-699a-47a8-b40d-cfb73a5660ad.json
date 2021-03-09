@@ -18,13 +18,13 @@
   "card": -1,
   "championships": 3,
   "eDensity": 1080.330699980554,
-  "eVelocity": -0.0054190247004439005,
+  "eVelocity": -0.003483577974628581,
   "emoji": "0x1F980",
   "evolution": 1,
   "fullName": "Baltimore Crabs",
   "gameAttr": [],
   "id": "8d87c468-699a-47a8-b40d-cfb73a5660ad",
-  "imPosition": 0.11074940344496736,
+  "imPosition": 0.10726582547033878,
   "lineup": [
     "90c2cec7-0ed5-426a-9de8-754f34d59b39",
     "425f3f84-bab0-4cf2-91c1-96e78cf5cd02",
@@ -49,14 +49,14 @@
     "d0d7b8fe-bad8-481f-978e-cb659304ed49",
     "f9930cb1-7ed2-4b9a-bf4f-7e35f2586d71"
   ],
-  "rotationSlot": 19,
+  "rotationSlot": 20,
   "seasAttr": [
     "EXTRA_STRIKE"
   ],
   "seasonShames": 3,
   "seasonShamings": 2,
   "secondaryColor": "#b05c6b",
-  "shameRuns": 1,
+  "shameRuns": 0,
   "shorthand": "BALC",
   "slogan": "Claws Up!",
   "stadium": "cfb57d7c-4118-4b0a-85cc-4e3a51a66cb6",
