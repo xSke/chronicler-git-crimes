@@ -33,7 +33,9 @@
   "overpowerment": 1.0898075682405726,
   "patheticism": 0.5293385839758261,
   "peanutAllergy": true,
-  "permAttr": [],
+  "permAttr": [
+    "TRIPLE_THREAT"
+  ],
   "pitchingRating": 0.6847829853164404,
   "pressurization": 0.7054744581196917,
   "ritual": "Whispering",
