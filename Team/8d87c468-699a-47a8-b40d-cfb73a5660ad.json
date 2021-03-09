@@ -54,7 +54,7 @@
     "EXTRA_STRIKE"
   ],
   "seasonShames": 3,
-  "seasonShamings": 2,
+  "seasonShamings": 3,
   "secondaryColor": "#b05c6b",
   "shameRuns": 0,
   "shorthand": "BALC",
@@ -63,8 +63,8 @@
   "state": {},
   "teamSpirit": 0,
   "totalShames": 52,
-  "totalShamings": 44,
+  "totalShamings": 45,
   "tournamentWins": 0,
   "weekAttr": [],
-  "winStreak": -1
+  "winStreak": 1
 }
