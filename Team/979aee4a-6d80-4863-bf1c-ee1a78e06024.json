@@ -39,7 +39,9 @@
   "location": "Hawai'i",
   "mainColor": "#3ee652",
   "nickname": "Fridays",
-  "permAttr": [],
+  "permAttr": [
+    "SINKING_SHIP"
+  ],
   "rotation": [
     "1ffb1153-909d-44c7-9df1-6ed3a9a45bbd",
     "7b55d484-6ea9-4670-8145-986cb9e32412",

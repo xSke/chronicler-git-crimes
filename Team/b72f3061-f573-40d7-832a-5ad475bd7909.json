@@ -28,15 +28,15 @@
   "imPosition": 0.19588385424259375,
   "lineup": [
     "06ced607-7f96-41e7-a8cd-b501d11d1a7e",
-    "11de4da3-8208-43ff-a1ff-0b3480a0fbf1",
-    "58c9e294-bd49-457c-883f-fb3162fc668e",
-    "bd24e18b-800d-4f15-878d-e334fb4803c4",
-    "c9e4a49e-e35a-4034-a4c7-293896b40c58",
-    "2b157c5c-9a6a-45a6-858f-bf4cf4cbc0bd",
-    "0eea4a48-c84b-4538-97e7-3303671934d2",
     "ee55248b-318a-4bfb-8894-1cc70e4e0720",
+    "c9e4a49e-e35a-4034-a4c7-293896b40c58",
+    "58c9e294-bd49-457c-883f-fb3162fc668e",
+    "2b157c5c-9a6a-45a6-858f-bf4cf4cbc0bd",
+    "bd24e18b-800d-4f15-878d-e334fb4803c4",
+    "d1a198d6-b05a-47cf-ab8e-39a6fa1ed831",
     "7c5ae357-e079-4427-a90f-97d164c7262e",
-    "d1a198d6-b05a-47cf-ab8e-39a6fa1ed831"
+    "0eea4a48-c84b-4538-97e7-3303671934d2",
+    "11de4da3-8208-43ff-a1ff-0b3480a0fbf1"
   ],
   "location": "San Francisco",
   "mainColor": "#780018",
@@ -54,7 +54,8 @@
   ],
   "rotationSlot": 27,
   "seasAttr": [
-    "EXTRA_STRIKE"
+    "EXTRA_STRIKE",
+    "BASE_DEALING"
   ],
   "seasonShames": 2,
   "seasonShamings": 2,

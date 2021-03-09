@@ -19,7 +19,17 @@
   "ominousness": 0.4703351350387238,
   "renoCost": -1,
   "renoDiscard": [],
-  "renoHand": [],
+  "renoHand": [
+    "big_bucket_mod",
+    "black_hole_plus",
+    "flooding_plus",
+    "event_horizon_mod",
+    "coffee_one_plus",
+    "peanut_mister_mod",
+    "inconvenience_minus",
+    "fortifications_plus",
+    "inconvenience_plus"
+  ],
   "renoLog": {},
   "secondaryColor": "#ab8287",
   "state": {},
