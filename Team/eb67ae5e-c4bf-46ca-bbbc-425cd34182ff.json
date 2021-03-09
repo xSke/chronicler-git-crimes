@@ -41,9 +41,7 @@
   "location": "Canada",
   "mainColor": "#f5feff",
   "nickname": "Moist Talkers",
-  "permAttr": [
-    "OVERPERFORMING"
-  ],
+  "permAttr": [],
   "rotation": [
     "ca26d8cc-8668-48c9-a061-28f6fdf5f44d",
     "e6502bc7-5b76-4939-9fb8-132057390b30",
@@ -63,16 +61,12 @@
   "slogan": "Talk Spit, Get Hits",
   "stadium": "f71fd587-d20c-461c-88a4-1634a2df3f43",
   "state": {
-    "permModSources": {
-      "OVERPERFORMING": [
-        "EARLBIRDS"
-      ]
-    }
+    "permModSources": {}
   },
   "teamSpirit": 0,
   "totalShames": 57,
   "totalShamings": 51,
   "tournamentWins": 0,
   "weekAttr": [],
-  "winStreak": -2
+  "winStreak": -3
 }
