@@ -33,7 +33,9 @@
   "overpowerment": 0.6899701513120295,
   "patheticism": 0.001,
   "peanutAllergy": true,
-  "permAttr": [],
+  "permAttr": [
+    "COFFEE_RALLY"
+  ],
   "pitchingRating": 0.8217234727961171,
   "pressurization": 0.49077389948719286,
   "ritual": "Kissing up to ownership",
