@@ -16,14 +16,14 @@
   ],
   "card": -1,
   "championships": 3,
-  "eDensity": 994.9456065141084,
-  "eVelocity": 0.003573275914099615,
+  "eDensity": 990.9456065141084,
+  "eVelocity": 0.0031035121344651995,
   "emoji": "0x1F6E0",
   "evolution": 1,
   "fullName": "Core Mechanics",
   "gameAttr": [],
   "id": "46358869-dce9-4a01-bfba-ac24fc56f57e",
-  "imPosition": 0.15245772332165414,
+  "imPosition": 0.15556123545611933,
   "lineup": [
     "5991ccb3-7eed-46d9-9d7c-69dec9b56d4b",
     "096bb9b5-5ea8-4da1-a113-57a5fc9e9b67",
@@ -48,12 +48,12 @@
     "fc1d65f5-8916-41f1-b878-4d42a965b011",
     "888fce7a-0d21-478a-9b45-4662193fe9aa"
   ],
-  "rotationSlot": 24,
+  "rotationSlot": 25,
   "seasAttr": [],
   "seasonShames": 3,
   "seasonShamings": 1,
   "secondaryColor": "#ff5b29",
-  "shameRuns": 5,
+  "shameRuns": 0,
   "shorthand": "CORE",
   "slogan": "We Can Fix This",
   "stadium": "031670ae-97a5-4215-b1a1-98e9f1de7c50",
@@ -63,5 +63,5 @@
   "totalShamings": 1,
   "tournamentWins": 0,
   "weekAttr": [],
-  "winStreak": -8
+  "winStreak": 1
 }
