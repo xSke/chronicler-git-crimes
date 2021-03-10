@@ -50,11 +50,6 @@
     "elsewhere": {
       "day": 12,
       "season": 12
-    },
-    "gameModSources": {
-      "OVERPERFORMING": [
-        "PERK"
-      ]
     }
   },
   "suppression": 0.6635043929892291,
