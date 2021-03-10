@@ -30,14 +30,14 @@
   "martyrdom": 0.7487027369207951,
   "moxie": 0.7057384540828238,
   "musclitude": 0.14116331036924007,
-  "name": "Elijah Valenzuela",
+  "name": "Elijah V-l-nzue-a",
   "omniscience": 0.4893166593612398,
   "overpowerment": 0.11386661962403392,
   "patheticism": 0.17093523952850287,
   "peanutAllergy": true,
   "permAttr": [
     "PERK",
-    "ELSEWHERE"
+    "SCATTERED"
   ],
   "pitchingRating": 0.23841581720421787,
   "pressurization": 0.01,
@@ -47,15 +47,12 @@
   "shakespearianism": 0.831700258259898,
   "soul": 9,
   "state": {
-    "elsewhere": {
-      "day": 12,
-      "season": 12
-    },
     "gameModSources": {
       "OVERPERFORMING": [
         "PERK"
       ]
-    }
+    },
+    "unscatteredName": "Elijah Valenzuela"
   },
   "suppression": 0.6635043929892291,
   "tenaciousness": 0.5550158302734394,
