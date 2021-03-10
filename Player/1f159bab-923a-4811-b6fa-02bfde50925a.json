@@ -35,7 +35,8 @@
   "peanutAllergy": true,
   "permAttr": [
     "FLICKERING",
-    "RECEIVER"
+    "RECEIVER",
+    "COFFEE_RALLY"
   ],
   "pitchingRating": 0.1638657657384659,
   "pressurization": 0.6260620508749675,
