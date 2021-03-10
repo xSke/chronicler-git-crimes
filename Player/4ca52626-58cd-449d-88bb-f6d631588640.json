@@ -35,8 +35,7 @@
   "peanutAllergy": false,
   "permAttr": [
     "FLINCH",
-    "FIRE_EATER",
-    "ELSEWHERE"
+    "FIRE_EATER"
   ],
   "pitchingRating": 0.5422812481048161,
   "pressurization": 0.9384923224961412,
@@ -45,12 +44,7 @@
   "seasAttr": [],
   "shakespearianism": 0.3312710962516339,
   "soul": 6,
-  "state": {
-    "elsewhere": {
-      "day": 43,
-      "season": 12
-    }
-  },
+  "state": {},
   "suppression": 0.7317790245946043,
   "tenaciousness": 0.26766019021356935,
   "thwackability": 0.9374683663557726,
