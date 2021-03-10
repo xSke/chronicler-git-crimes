@@ -21,7 +21,9 @@
   "emoji": "0x1F531",
   "evolution": 1,
   "fullName": "Atlantis Georgias",
-  "gameAttr": [],
+  "gameAttr": [
+    "OVERPERFORMING"
+  ],
   "id": "d9f89a8a-c563-493e-9d64-78e4f9a55d4a",
   "imPosition": -0.02243310740430145,
   "lineup": [
@@ -57,7 +59,13 @@
   "shorthand": "ATL",
   "slogan": "You Sink, We Swim",
   "stadium": "37c2743f-1a15-4e3f-bdb1-a6461df93434",
-  "state": {},
+  "state": {
+    "gameModSources": {
+      "OVERPERFORMING": [
+        "UNDERSEA"
+      ]
+    }
+  },
   "teamSpirit": 0,
   "totalShames": 2,
   "totalShamings": 4,
