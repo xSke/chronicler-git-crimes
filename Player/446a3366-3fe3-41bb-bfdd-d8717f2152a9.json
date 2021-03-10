@@ -33,7 +33,9 @@
   "overpowerment": 0.18383995206754616,
   "patheticism": 0.8055785395267497,
   "peanutAllergy": true,
-  "permAttr": [],
+  "permAttr": [
+    "TRIPLE_THREAT"
+  ],
   "pitchingRating": 0.4524303902657747,
   "pressurization": 0.5996558143768116,
   "ritual": "Glossolalia",
