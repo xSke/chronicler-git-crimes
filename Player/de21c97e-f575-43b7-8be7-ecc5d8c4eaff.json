@@ -34,7 +34,8 @@
   "patheticism": 0.6580497017513877,
   "peanutAllergy": true,
   "permAttr": [
-    "HONEY_ROASTED"
+    "HONEY_ROASTED",
+    "ELSEWHERE"
   ],
   "pitchingRating": 0.9553790023251836,
   "pressurization": 0.3439608525396183,
@@ -43,7 +44,12 @@
   "seasAttr": [],
   "shakespearianism": 0.3014383807172662,
   "soul": 6,
-  "state": {},
+  "state": {
+    "elsewhere": {
+      "day": 35,
+      "season": 12
+    }
+  },
   "suppression": 0.6676084462513592,
   "tenaciousness": 0.14470280452899306,
   "thwackability": 0.3824012476431684,
