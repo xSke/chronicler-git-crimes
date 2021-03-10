@@ -28,5 +28,10 @@
     "expire": null,
     "id": "snack_opinions",
     "msg": "wait i love slushies"
+  },
+  {
+    "expire": null,
+    "id": "self_care",
+    "msg": "took a day off, feeling refreshed and ready to display events again"
   }
 ]
