@@ -17,14 +17,14 @@
   ],
   "card": -1,
   "championships": 3,
-  "eDensity": 1210.0504588275253,
-  "eVelocity": -0.0058745027057456375,
+  "eDensity": 1228.0558730243351,
+  "eVelocity": -0.009693498851433393,
   "emoji": "0x1F980",
   "evolution": 1,
   "fullName": "Baltimore Crabs",
   "gameAttr": [],
   "id": "8d87c468-699a-47a8-b40d-cfb73a5660ad",
-  "imPosition": 0.047722104148329336,
+  "imPosition": 0.038028605296895945,
   "lineup": [
     "90c2cec7-0ed5-426a-9de8-754f34d59b39",
     "425f3f84-bab0-4cf2-91c1-96e78cf5cd02",
@@ -49,7 +49,7 @@
     "d0d7b8fe-bad8-481f-978e-cb659304ed49",
     "f9930cb1-7ed2-4b9a-bf4f-7e35f2586d71"
   ],
-  "rotationSlot": 32,
+  "rotationSlot": 33,
   "seasAttr": [
     "EXTRA_STRIKE"
   ],
