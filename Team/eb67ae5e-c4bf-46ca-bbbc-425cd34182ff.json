@@ -53,10 +53,10 @@
   "seasAttr": [
     "EARLBIRDS"
   ],
-  "seasonShames": 0,
+  "seasonShames": 1,
   "seasonShamings": 4,
   "secondaryColor": "#f5feff",
-  "shameRuns": 0,
+  "shameRuns": 1,
   "shorthand": "CAN",
   "slogan": "Talk Spit, Get Hits",
   "stadium": "f71fd587-d20c-461c-88a4-1634a2df3f43",
@@ -64,9 +64,9 @@
     "permModSources": {}
   },
   "teamSpirit": 0,
-  "totalShames": 57,
+  "totalShames": 58,
   "totalShamings": 51,
   "tournamentWins": 0,
   "weekAttr": [],
-  "winStreak": 2
+  "winStreak": -1
 }
