@@ -33,7 +33,9 @@
   "overpowerment": 0.3863408165903104,
   "patheticism": 0.806326060184812,
   "peanutAllergy": true,
-  "permAttr": [],
+  "permAttr": [
+    "TRIPLE_THREAT"
+  ],
   "pitchingRating": 0.6519367902178942,
   "pressurization": 1.0586070350960344,
   "ritual": "Eating fans",
