@@ -51,18 +51,18 @@
   ],
   "rotationSlot": 34,
   "seasAttr": [],
-  "seasonShames": 0,
+  "seasonShames": 1,
   "seasonShamings": 7,
   "secondaryColor": "#cd76fa",
-  "shameRuns": 0,
+  "shameRuns": 2,
   "shorthand": "MIA",
   "slogan": "¡Dale!",
   "stadium": "a0851e18-d5d7-4749-b3c5-c6023fe1cc61",
   "state": {},
   "teamSpirit": 0,
-  "totalShames": 61,
+  "totalShames": 62,
   "totalShamings": 40,
   "tournamentWins": 0,
   "weekAttr": [],
-  "winStreak": 4
+  "winStreak": -1
 }
