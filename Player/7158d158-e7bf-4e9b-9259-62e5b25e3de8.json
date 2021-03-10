@@ -33,7 +33,9 @@
   "overpowerment": 0.2885816444790093,
   "patheticism": 0.1573550579187444,
   "peanutAllergy": true,
-  "permAttr": [],
+  "permAttr": [
+    "TRIPLE_THREAT"
+  ],
   "pitchingRating": 0.25502909548950675,
   "pressurization": 0.2908032957986796,
   "ritual": "Oiling glove",
