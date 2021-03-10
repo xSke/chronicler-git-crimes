@@ -33,7 +33,9 @@
   "overpowerment": 0.6592533843263078,
   "patheticism": 0.9434706336757104,
   "peanutAllergy": true,
-  "permAttr": [],
+  "permAttr": [
+    "COFFEE_RALLY"
+  ],
   "pitchingRating": 0.7077126940119335,
   "pressurization": 0.7607069416503645,
   "ritual": "Wearing lucky socks",
