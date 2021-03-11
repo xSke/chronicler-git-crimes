@@ -28,13 +28,13 @@
   "martyrdom": 0.6133156004818388,
   "moxie": 0.933457232417744,
   "musclitude": 0.43764126299100115,
-  "name": "Hatfield Suzuki",
+  "name": "H-tfi-ld Su-u-i",
   "omniscience": 0.9965635312965412,
   "overpowerment": 0.5814426041965641,
   "patheticism": 0.4869440112552834,
   "peanutAllergy": true,
   "permAttr": [
-    "ELSEWHERE"
+    "SCATTERED"
   ],
   "pitchingRating": 0.5363924869852212,
   "pressurization": 0.8825811012321547,
@@ -44,10 +44,7 @@
   "shakespearianism": 0.7503580107339456,
   "soul": 9,
   "state": {
-    "elsewhere": {
-      "day": 34,
-      "season": 12
-    }
+    "unscatteredName": "Hatfield Suzuki"
   },
   "suppression": 0.5659860651147948,
   "tenaciousness": 0.9465101553071448,
