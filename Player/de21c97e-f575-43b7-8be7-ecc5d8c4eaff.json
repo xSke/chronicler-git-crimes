@@ -28,14 +28,13 @@
   "martyrdom": 0.926193198406295,
   "moxie": 0.9355321098532062,
   "musclitude": 1.0914225650490392,
-  "name": "Pitching Mach-ne",
+  "name": "Pitching Machine",
   "omniscience": 0.8837413654581895,
   "overpowerment": 1.0536891530924335,
   "patheticism": 0.581954260366401,
   "peanutAllergy": true,
   "permAttr": [
-    "HONEY_ROASTED",
-    "SCATTERED"
+    "HONEY_ROASTED"
   ],
   "pitchingRating": 1.0172547705925874,
   "pressurization": 0.3439608525396183,
@@ -44,9 +43,7 @@
   "seasAttr": [],
   "shakespearianism": 0.34958568412203395,
   "soul": 6,
-  "state": {
-    "unscatteredName": "Pitching Machine"
-  },
+  "state": {},
   "suppression": 0.7142334575564643,
   "tenaciousness": 0.18986790922146343,
   "thwackability": 0.4456302933763755,
