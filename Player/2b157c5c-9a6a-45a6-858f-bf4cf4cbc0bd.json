@@ -28,14 +28,14 @@
   "martyrdom": 0.1624312441829886,
   "moxie": 0.8517104982730446,
   "musclitude": 0.397167246751786,
-  "name": "Ortiz Lopez",
+  "name": "-rti- Lopez",
   "omniscience": 0.27860038565947765,
   "overpowerment": 0.6622058175917155,
   "patheticism": 0.36132069498329944,
   "peanutAllergy": false,
   "permAttr": [
     "FIRE_EATER",
-    "ELSEWHERE"
+    "SCATTERED"
   ],
   "pitchingRating": 0.6721336438080127,
   "pressurization": 0.8427501339313199,
@@ -45,10 +45,7 @@
   "shakespearianism": 0.8719173503325665,
   "soul": 9,
   "state": {
-    "elsewhere": {
-      "day": 47,
-      "season": 12
-    }
+    "unscatteredName": "Ortiz Lopez"
   },
   "suppression": 0.848671091551717,
   "tenaciousness": 0.927148710774076,
