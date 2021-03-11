@@ -17,14 +17,14 @@
   ],
   "card": 15,
   "championships": 0,
-  "eDensity": 1342.639029589188,
-  "eVelocity": 0.00028299989325830926,
+  "eDensity": 1345.639029589188,
+  "eVelocity": 0.0008197002998898209,
   "emoji": "0x1F450",
   "evolution": 0,
   "fullName": "Breckenridge Jazz Hands",
   "gameAttr": [],
   "id": "a37f9158-7f82-46bc-908c-c9e2dda7c33b",
-  "imPosition": -0.024026879082953645,
+  "imPosition": -0.023207178783063824,
   "lineup": [
     "2f3d7bc7-6ffb-40c3-a94f-5e626be413c9",
     "0f61d948-4f0c-4550-8410-ae1c7f9f5613",
@@ -48,7 +48,7 @@
     "bf122660-df52-4fc4-9e70-ee185423ff93",
     "817dee99-9ccf-4f41-84e3-dc9773237bc8"
   ],
-  "rotationSlot": 65,
+  "rotationSlot": 66,
   "seasAttr": [
     "EXTRA_STRIKE"
   ],
