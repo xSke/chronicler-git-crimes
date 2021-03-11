@@ -28,13 +28,13 @@
   "martyrdom": 0.8833897307815106,
   "moxie": 0.24127734253076133,
   "musclitude": 0.6278632402560799,
-  "name": "Jode Preston",
+  "name": "-od- Prest--",
   "omniscience": 0.253760637345297,
   "overpowerment": 0.26451967221501943,
   "patheticism": 0.01,
   "peanutAllergy": true,
   "permAttr": [
-    "ELSEWHERE"
+    "SCATTERED"
   ],
   "pitchingRating": 0.2761291901677042,
   "pressurization": 0.8207153633151472,
@@ -44,10 +44,7 @@
   "shakespearianism": 1.0170695941016368,
   "soul": 3,
   "state": {
-    "elsewhere": {
-      "day": 22,
-      "season": 12
-    }
+    "unscatteredName": "Jode Preston"
   },
   "suppression": 0.12956538931249784,
   "tenaciousness": 0.6113388444752897,
