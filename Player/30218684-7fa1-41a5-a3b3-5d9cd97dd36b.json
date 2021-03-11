@@ -35,7 +35,8 @@
   "peanutAllergy": true,
   "permAttr": [
     "FRIEND_OF_CROWS",
-    "SIPHON"
+    "SIPHON",
+    "TRIPLE_THREAT"
   ],
   "pitchingRating": 0.5883127187016337,
   "pressurization": 0.14854720613269462,
