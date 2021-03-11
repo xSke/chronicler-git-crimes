@@ -58,7 +58,7 @@
     "EXTRA_STRIKE"
   ],
   "seasonShames": 7,
-  "seasonShamings": 2,
+  "seasonShamings": 3,
   "secondaryColor": "#ffce0a",
   "shameRuns": 0,
   "shorthand": "CHST",
@@ -67,8 +67,8 @@
   "state": {},
   "teamSpirit": 0,
   "totalShames": 69,
-  "totalShamings": 41,
+  "totalShamings": 42,
   "tournamentWins": 0,
   "weekAttr": [],
-  "winStreak": -3
+  "winStreak": 1
 }
