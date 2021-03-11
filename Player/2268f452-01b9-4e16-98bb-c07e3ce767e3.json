@@ -33,7 +33,9 @@
   "overpowerment": 0.8967129252400765,
   "patheticism": 0.13289865158479008,
   "peanutAllergy": false,
-  "permAttr": [],
+  "permAttr": [
+    "TRIPLE_THREAT"
+  ],
   "pitchingRating": 0.4501430431185193,
   "pressurization": 0.8487639014208277,
   "ritual": "Warding off demons",
