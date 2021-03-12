@@ -16,14 +16,14 @@
   ],
   "card": -1,
   "championships": 4,
-  "eDensity": 1570.428753766677,
-  "eVelocity": -0.005621067990796386,
+  "eDensity": 1579.965611492035,
+  "eVelocity": -0.006605390108925621,
   "emoji": "0x1F531",
   "evolution": 1,
   "fullName": "Atlantis Georgias",
   "gameAttr": [],
   "id": "d9f89a8a-c563-493e-9d64-78e4f9a55d4a",
-  "imPosition": -0.1335940735387672,
+  "imPosition": -0.1401994636476928,
   "lineup": [
     "409d1c96-760b-4a96-9a3c-481112ddf37b",
     "91f5298e-a2ec-4f54-a541-1818702d1b6d",
@@ -48,7 +48,7 @@
     "948ce8a8-19cd-4f81-b84f-88cce02c47bc",
     "56eba639-ea73-474d-bcee-ec68c0528b02"
   ],
-  "rotationSlot": 85,
+  "rotationSlot": 86,
   "seasAttr": [
     "PARTY_TIME"
   ],

@@ -19,13 +19,13 @@
   "card": 12,
   "championships": 0,
   "eDensity": 1177.7195291902278,
-  "eVelocity": 0.00034630917705193555,
+  "eVelocity": 0.002063866683784798,
   "emoji": "0x1F36C",
   "evolution": 0,
   "fullName": "Kansas City Breath Mints",
   "gameAttr": [],
   "id": "adc5b394-8f76-416d-9ce9-813706877b84",
-  "imPosition": 0.05773405970232921,
+  "imPosition": 0.05979792638611401,
   "lineup": [
     "88cd6efa-dbf2-4309-aabe-ec1d6f21f98a",
     "4b6f0a4e-de18-44ad-b497-03b1f470c43c",
@@ -48,7 +48,7 @@
     "7663c3ca-40a1-4f13-a430-14637dce797a",
     "f2a27a7e-bf04-4d31-86f5-16bfa3addbe7"
   ],
-  "rotationSlot": 85,
+  "rotationSlot": 86,
   "seasAttr": [
     "PARTY_TIME"
   ],
