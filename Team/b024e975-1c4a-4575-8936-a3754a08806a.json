@@ -50,18 +50,18 @@
   ],
   "rotationSlot": 84,
   "seasAttr": [],
-  "seasonShames": 2,
+  "seasonShames": 3,
   "seasonShamings": 4,
   "secondaryColor": "#b2b3b5",
-  "shameRuns": 0,
+  "shameRuns": 1,
   "shorthand": "DAL",
   "slogan": "Well Done.",
   "stadium": "6bfd22e7-831d-4ba9-a9f9-2cf7ab00c39d",
   "state": {},
   "teamSpirit": 0,
-  "totalShames": 48,
+  "totalShames": 49,
   "totalShamings": 63,
   "tournamentWins": 0,
   "weekAttr": [],
-  "winStreak": -1
+  "winStreak": -2
 }
