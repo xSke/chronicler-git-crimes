@@ -28,14 +28,14 @@
   "martyrdom": 1.1012843597334974,
   "moxie": 1.126339819079937,
   "musclitude": 0.5504386167931167,
-  "name": "Commissioner Vapor",
+  "name": "Com-issioner V-por",
   "omniscience": 0.3953647337976311,
   "overpowerment": 1.0259753023679132,
   "patheticism": 0.001,
   "peanutAllergy": false,
   "permAttr": [
     "PERK",
-    "ELSEWHERE"
+    "SCATTERED"
   ],
   "pitchingRating": 0.48958793058627775,
   "pressurization": 0.1099628146405358,
@@ -45,10 +45,7 @@
   "shakespearianism": 1.0346692664772996,
   "soul": 3,
   "state": {
-    "elsewhere": {
-      "day": 67,
-      "season": 12
-    }
+    "unscatteredName": "Commissioner Vapor"
   },
   "suppression": 0.5499507198672546,
   "tenaciousness": 0.5285900530749541,
