@@ -66,6 +66,7 @@
   "state": {
     "permModSources": {
       "OVERPERFORMING": [
+        "LATE_TO_PARTY",
         "LATE_TO_PARTY"
       ]
     }
@@ -75,5 +76,5 @@
   "totalShamings": 52,
   "tournamentWins": 0,
   "weekAttr": [],
-  "winStreak": -1
+  "winStreak": 1
 }
