@@ -17,7 +17,9 @@
   "eDensity": 62.75484112803555,
   "evolution": 0,
   "fate": 75,
-  "gameAttr": [],
+  "gameAttr": [
+    "OVERPERFORMING"
+  ],
   "groundFriction": 0.7410620196720222,
   "hitStreak": 0,
   "hittingRating": 0.6167717550550146,
@@ -35,7 +37,8 @@
   "peanutAllergy": true,
   "permAttr": [
     "SIPHON",
-    "PERK"
+    "PERK",
+    "TRIPLE_THREAT"
   ],
   "pitchingRating": 1.068223424764532,
   "pressurization": 0.3856185779831285,
@@ -44,7 +47,13 @@
   "seasAttr": [],
   "shakespearianism": 0.555966913229714,
   "soul": 7,
-  "state": {},
+  "state": {
+    "gameModSources": {
+      "OVERPERFORMING": [
+        "PERK"
+      ]
+    }
+  },
   "suppression": 0.47617860325442446,
   "tenaciousness": 0.9045497757090204,
   "thwackability": 0.3171590215843745,
