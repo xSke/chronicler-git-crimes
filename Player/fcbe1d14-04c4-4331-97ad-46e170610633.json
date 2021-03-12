@@ -28,14 +28,12 @@
   "martyrdom": 0.7833897307815106,
   "moxie": 0.14127734253076132,
   "musclitude": 0.5278632402560799,
-  "name": "-ode Preston",
+  "name": "Jode Preston",
   "omniscience": 0.253760637345297,
   "overpowerment": 0.26451967221501943,
   "patheticism": 0.11,
   "peanutAllergy": true,
-  "permAttr": [
-    "SCATTERED"
-  ],
+  "permAttr": [],
   "pitchingRating": 0.2761291901677042,
   "pressurization": 0.8207153633151472,
   "ritual": "Tinkering",
@@ -43,9 +41,7 @@
   "seasAttr": [],
   "shakespearianism": 1.0170695941016368,
   "soul": 3,
-  "state": {
-    "unscatteredName": "Jode Preston"
-  },
+  "state": {},
   "suppression": 0.12956538931249784,
   "tenaciousness": 0.6113388444752897,
   "thwackability": 0.8597750371205988,
