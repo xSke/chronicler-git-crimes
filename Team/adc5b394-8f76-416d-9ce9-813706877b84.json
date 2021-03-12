@@ -52,18 +52,18 @@
   "seasAttr": [
     "PARTY_TIME"
   ],
-  "seasonShames": 12,
+  "seasonShames": 13,
   "seasonShamings": 1,
   "secondaryColor": "#178f55",
-  "shameRuns": 0,
+  "shameRuns": 1,
   "shorthand": "KCBM",
   "slogan": "Fresh Breath, Here We Come.",
   "stadium": "21ce1233-b2d6-4bd2-8d03-68a8915afdc5",
   "state": {},
   "teamSpirit": 0,
-  "totalShames": 65,
+  "totalShames": 66,
   "totalShamings": 45,
   "tournamentWins": 0,
   "weekAttr": [],
-  "winStreak": 1
+  "winStreak": -1
 }
