@@ -56,10 +56,10 @@
   "seasAttr": [
     "LATE_TO_PARTY"
   ],
-  "seasonShames": 2,
+  "seasonShames": 3,
   "seasonShamings": 2,
   "secondaryColor": "#d13757",
-  "shameRuns": 0,
+  "shameRuns": 2,
   "shorthand": "CHIF",
   "slogan": "We Are From Chicago",
   "stadium": "06c991f6-4ef3-4a9a-8254-8a2bc7d3a1e1",
@@ -71,14 +71,15 @@
         "LATE_TO_PARTY",
         "LATE_TO_PARTY",
         "LATE_TO_PARTY",
+        "LATE_TO_PARTY",
         "LATE_TO_PARTY"
       ]
     }
   },
   "teamSpirit": 0,
-  "totalShames": 50,
+  "totalShames": 51,
   "totalShamings": 52,
   "tournamentWins": 0,
   "weekAttr": [],
-  "winStreak": 2
+  "winStreak": -1
 }
