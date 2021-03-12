@@ -57,18 +57,18 @@
     "EXTRA_STRIKE",
     "BASE_DEALING"
   ],
-  "seasonShames": 5,
+  "seasonShames": 6,
   "seasonShamings": 4,
   "secondaryColor": "#da0000",
-  "shameRuns": 0,
+  "shameRuns": 2,
   "shorthand": "SFL",
   "slogan": "Let's Go All The Way!",
   "stadium": "1c1614b3-abdb-4008-98eb-12aeb8f7bb54",
   "state": {},
   "teamSpirit": 0,
-  "totalShames": 65,
+  "totalShames": 66,
   "totalShamings": 55,
   "tournamentWins": 0,
   "weekAttr": [],
-  "winStreak": -7
+  "winStreak": -8
 }
