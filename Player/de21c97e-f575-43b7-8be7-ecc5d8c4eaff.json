@@ -14,7 +14,7 @@
   "deceased": false,
   "defenseRating": 0.7389668565308476,
   "divinity": 1.168385920871727,
-  "eDensity": 33.92567585651096,
+  "eDensity": 34.881170977230894,
   "evolution": 0,
   "fate": 71,
   "gameAttr": [],
@@ -34,7 +34,8 @@
   "patheticism": 0.47958101873560793,
   "peanutAllergy": true,
   "permAttr": [
-    "HONEY_ROASTED"
+    "HONEY_ROASTED",
+    "EGO1"
   ],
   "pitchingRating": 1.133899788542628,
   "pressurization": 0.3439608525396183,
