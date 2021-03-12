@@ -53,7 +53,7 @@
     "PARTY_TIME"
   ],
   "seasonShames": 5,
-  "seasonShamings": 5,
+  "seasonShamings": 6,
   "secondaryColor": "#5cffec",
   "shameRuns": 0,
   "shorthand": "ATL",
@@ -62,8 +62,8 @@
   "state": {},
   "teamSpirit": 0,
   "totalShames": 5,
-  "totalShamings": 5,
+  "totalShamings": 6,
   "tournamentWins": 0,
   "weekAttr": [],
-  "winStreak": -4
+  "winStreak": 1
 }
