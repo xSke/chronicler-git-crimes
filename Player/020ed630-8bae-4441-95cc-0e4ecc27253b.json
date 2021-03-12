@@ -34,7 +34,8 @@
   "patheticism": 0.47355796618929347,
   "peanutAllergy": true,
   "permAttr": [
-    "FLINCH"
+    "FLINCH",
+    "COFFEE_RALLY"
   ],
   "pitchingRating": 0.04668455845771488,
   "pressurization": 0.5312801848809112,
