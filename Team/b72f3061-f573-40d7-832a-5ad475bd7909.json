@@ -55,7 +55,8 @@
   "rotationSlot": 88,
   "seasAttr": [
     "EXTRA_STRIKE",
-    "BASE_DEALING"
+    "BASE_DEALING",
+    "PARTY_TIME"
   ],
   "seasonShames": 6,
   "seasonShamings": 5,
