@@ -52,7 +52,8 @@
   ],
   "rotationSlot": 104,
   "seasAttr": [
-    "EARLBIRDS"
+    "EARLBIRDS",
+    "PARTY_TIME"
   ],
   "seasonShames": 5,
   "seasonShamings": 7,
@@ -69,5 +70,5 @@
   "totalShamings": 54,
   "tournamentWins": 0,
   "weekAttr": [],
-  "winStreak": -1
+  "winStreak": -2
 }
