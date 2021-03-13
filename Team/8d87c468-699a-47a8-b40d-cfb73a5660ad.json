@@ -17,7 +17,7 @@
     "dd6ba7f1-a97a-4374-a3a7-b3596e286bb3"
   ],
   "card": -1,
-  "championships": 3,
+  "championships": 4,
   "eDensity": 1895.7529541022332,
   "eVelocity": -0.0003405440309953961,
   "emoji": "0x1F980",
@@ -50,12 +50,10 @@
     "d0d7b8fe-bad8-481f-978e-cb659304ed49",
     "f9930cb1-7ed2-4b9a-bf4f-7e35f2586d71"
   ],
-  "rotationSlot": 108,
-  "seasAttr": [
-    "EXTRA_STRIKE"
-  ],
-  "seasonShames": 5,
-  "seasonShamings": 10,
+  "rotationSlot": 0,
+  "seasAttr": [],
+  "seasonShames": 0,
+  "seasonShamings": 0,
   "secondaryColor": "#b05c6b",
   "shameRuns": 0,
   "shorthand": "BALC",

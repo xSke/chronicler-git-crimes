@@ -48,13 +48,10 @@
     "bf122660-df52-4fc4-9e70-ee185423ff93",
     "817dee99-9ccf-4f41-84e3-dc9773237bc8"
   ],
-  "rotationSlot": 99,
-  "seasAttr": [
-    "EXTRA_STRIKE",
-    "PARTY_TIME"
-  ],
-  "seasonShames": 4,
-  "seasonShamings": 6,
+  "rotationSlot": 0,
+  "seasAttr": [],
+  "seasonShames": 0,
+  "seasonShamings": 0,
   "secondaryColor": "#7ba9d7",
   "shameRuns": 0,
   "shorthand": "BJAZ",

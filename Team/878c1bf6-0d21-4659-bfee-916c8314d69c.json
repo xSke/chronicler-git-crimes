@@ -45,10 +45,10 @@
     "0bb35615-63f2-4492-80ec-b6b322dc5450",
     "d81ce662-07b6-4a73-baa4-acbbb41f9dc5"
   ],
-  "rotationSlot": 110,
+  "rotationSlot": 0,
   "seasAttr": [],
-  "seasonShames": 4,
-  "seasonShamings": 9,
+  "seasonShames": 0,
+  "seasonShamings": 0,
   "secondaryColor": "#b063c1",
   "shameRuns": 0,
   "shorthand": "LATA",
@@ -60,5 +60,5 @@
   "totalShamings": 36,
   "tournamentWins": 0,
   "weekAttr": [],
-  "winStreak": -2
+  "winStreak": -3
 }
