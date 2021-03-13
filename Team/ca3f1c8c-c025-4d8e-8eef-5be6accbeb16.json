@@ -43,9 +43,7 @@
   "location": "Chicago",
   "mainColor": "#8c2a3e",
   "nickname": "Firefighters",
-  "permAttr": [
-    "OVERPERFORMING"
-  ],
+  "permAttr": [],
   "rotation": [
     "f4a5d734-0ade-4410-abb6-c0cd5a7a1c26",
     "316abea7-9890-4fb8-aaea-86b35e24d9be",
@@ -64,15 +62,7 @@
   "shorthand": "CHIF",
   "slogan": "We Are From Chicago",
   "stadium": "06c991f6-4ef3-4a9a-8254-8a2bc7d3a1e1",
-  "state": {
-    "permModSources": {
-      "OVERPERFORMING": [
-        "LATE_TO_PARTY",
-        "LATE_TO_PARTY",
-        "LATE_TO_PARTY"
-      ]
-    }
-  },
+  "state": {},
   "teamSpirit": 0,
   "totalShames": 52,
   "totalShamings": 52,
