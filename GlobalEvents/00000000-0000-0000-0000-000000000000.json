@@ -53,5 +53,10 @@
     "expire": null,
     "id": "who_won",
     "msg": "Who Won? Wait let me guess--"
+  },
+  {
+    "expire": null,
+    "id": "crabs",
+    "msg": "congratulations to the baltimore crabs! my claws go up to you"
   }
 ]
