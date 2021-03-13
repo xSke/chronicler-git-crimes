@@ -31,16 +31,6 @@
   },
   {
     "expire": null,
-    "id": "self_care",
-    "msg": "took a day off, feeling refreshed and ready to display events again"
-  },
-  {
-    "expire": null,
-    "id": "raul_leal",
-    "msg": "riv raúl"
-  },
-  {
-    "expire": null,
     "id": "parker",
     "msg": "can someone introduce me to the commissioner"
   },
@@ -48,11 +38,6 @@
     "expire": null,
     "id": "ballparks",
     "msg": "so many ballparks now. where's mine?"
-  },
-  {
-    "expire": null,
-    "id": "who_won",
-    "msg": "Who Won? Wait let me guess--"
   },
   {
     "expire": null,
