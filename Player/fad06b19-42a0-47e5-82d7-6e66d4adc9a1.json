@@ -33,7 +33,9 @@
   "overpowerment": 0.09447496626471884,
   "patheticism": 0.14470899870209752,
   "peanutAllergy": true,
-  "permAttr": [],
+  "permAttr": [
+    "REDACTED"
+  ],
   "pitchingRating": 0.48072285605052745,
   "pressurization": 0.19639524044084067,
   "ritual": "Gaming",
