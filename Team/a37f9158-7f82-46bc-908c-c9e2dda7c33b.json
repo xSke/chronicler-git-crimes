@@ -46,10 +46,12 @@
     "9c3273a0-2711-4958-b716-bfcf60857013",
     "d23a1f7e-0071-444e-8361-6ae01f13036f",
     "bf122660-df52-4fc4-9e70-ee185423ff93",
-    "817dee99-9ccf-4f41-84e3-dc9773237bc8"
+    "ae81e172-801a-4236-929a-b990fc7190ce"
   ],
   "rotationSlot": 0,
-  "seasAttr": [],
+  "seasAttr": [
+    "EARLBIRDS"
+  ],
   "seasonShames": 0,
   "seasonShamings": 0,
   "secondaryColor": "#7ba9d7",
