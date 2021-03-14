@@ -33,7 +33,9 @@
   "overpowerment": 0.5305296146540193,
   "patheticism": 0.4634596611900412,
   "peanutAllergy": false,
-  "permAttr": [],
+  "permAttr": [
+    "SWIM_BLADDER"
+  ],
   "pitchingRating": 0.17002575345399085,
   "pressurization": 0.7422268988153553,
   "ritual": "Advanced Mathematics",

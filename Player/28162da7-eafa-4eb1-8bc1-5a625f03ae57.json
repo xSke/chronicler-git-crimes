@@ -24,7 +24,7 @@
   "id": "28162da7-eafa-4eb1-8bc1-5a625f03ae57",
   "indulgence": 0.2854871995082571,
   "laserlikeness": 0.9008109441133504,
-  "leagueTeamId": "ca3f1c8c-c025-4d8e-8eef-5be6accbeb16",
+  "leagueTeamId": "36569151-a2fb-43c1-9df7-2df512424c82",
   "martyrdom": 0.4696854732959055,
   "moxie": 0.16570792335729756,
   "musclitude": 0.4891056257260959,
@@ -33,7 +33,9 @@
   "overpowerment": 0.1804307545644959,
   "patheticism": 0.2762584917784463,
   "peanutAllergy": true,
-  "permAttr": [],
+  "permAttr": [
+    "WANDERER"
+  ],
   "pitchingRating": 0.5732070456969577,
   "pressurization": 0.5546398704474358,
   "ritual": "Swearing an oath",

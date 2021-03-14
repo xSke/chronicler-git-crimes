@@ -1,18 +1,18 @@
 {
-  "anticapitalism": 0.9809201309568386,
+  "anticapitalism": 1.0209201309568383,
   "armor": "",
   "baseThirst": 0.5648752386657543,
   "baserunningRating": 0.5821617369308884,
   "bat": "",
   "blood": 4,
   "buoyancy": 0.8918381054944499,
-  "chasiness": 0.4422480274403287,
+  "chasiness": 0.4822480274403287,
   "cinnamon": 0.6235262918653164,
   "coffee": 3,
-  "coldness": 0.5284374439415164,
+  "coldness": 0.5684374439415164,
   "continuation": 0.07931334716334781,
   "deceased": false,
-  "defenseRating": 0.7794872601935736,
+  "defenseRating": 0.8117830441154189,
   "divinity": 0.4032605013918318,
   "eDensity": 31.794597356146244,
   "evolution": 0,
@@ -29,8 +29,8 @@
   "moxie": 0.5602549661961768,
   "musclitude": 0.32263677970288285,
   "name": "Sandoval Crossing",
-  "omniscience": 0.5820388150389789,
-  "overpowerment": 0.5111337885409796,
+  "omniscience": 0.622038815038979,
+  "overpowerment": 0.5511337885409796,
   "patheticism": 0.14875322786144438,
   "peanutAllergy": false,
   "permAttr": [
@@ -38,12 +38,12 @@
     "SUPERYUMMY",
     "UNDERPERFORMING"
   ],
-  "pitchingRating": 0.6131421673352283,
+  "pitchingRating": 0.660674273010324,
   "pressurization": 0.7267315163595882,
   "ritual": "Journaling",
-  "ruthlessness": 1.157617603737102,
+  "ruthlessness": 1.197617603737102,
   "seasAttr": [],
-  "shakespearianism": 0.7316310989842041,
+  "shakespearianism": 0.7716310989842041,
   "soul": 7,
   "state": {
     "permModSources": {
@@ -52,13 +52,13 @@
       ]
     }
   },
-  "suppression": 0.9214437529703452,
-  "tenaciousness": 0.99004842808463,
+  "suppression": 0.9614437529703452,
+  "tenaciousness": 1.03004842808463,
   "thwackability": 0.7345401544850578,
-  "totalFingers": 13,
+  "totalFingers": 14,
   "tournamentTeamId": "b3b9636a-f88a-47dc-a91d-86ecc79f9934",
   "tragicness": 0.1,
-  "unthwackability": 0.44947111106372106,
-  "watchfulness": 0.5748756195762755,
+  "unthwackability": 0.48947111106372104,
+  "watchfulness": 0.6148756195762756,
   "weekAttr": []
 }

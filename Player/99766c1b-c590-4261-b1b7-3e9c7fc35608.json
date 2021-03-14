@@ -24,7 +24,7 @@
   "id": "99766c1b-c590-4261-b1b7-3e9c7fc35608",
   "indulgence": 0.5595586326560087,
   "laserlikeness": 0.27545591875622866,
-  "leagueTeamId": "46358869-dce9-4a01-bfba-ac24fc56f57e",
+  "leagueTeamId": "57ec08cc-0411-4643-b304-0e80dbc15ac7",
   "martyrdom": 0.8960642569467412,
   "moxie": 0.24186516021952328,
   "musclitude": 0.5540047763276067,
@@ -33,7 +33,9 @@
   "overpowerment": 0.23700831068424336,
   "patheticism": 0.43850742340773186,
   "peanutAllergy": false,
-  "permAttr": [],
+  "permAttr": [
+    "WANDERER"
+  ],
   "pitchingRating": 0.6225952105802517,
   "pressurization": 0.7558655055015846,
   "ritual": "Spitting",

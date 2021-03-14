@@ -11,7 +11,7 @@
   "coffee": 4,
   "coldness": 0.6885706314828881,
   "continuation": 1.5581151800615125,
-  "deceased": false,
+  "deceased": true,
   "defenseRating": 1.1514685047542943,
   "divinity": 0.8156383490547339,
   "eDensity": 34.31803849775403,
@@ -33,9 +33,7 @@
   "overpowerment": 0.7378048090971344,
   "patheticism": 0.001,
   "peanutAllergy": true,
-  "permAttr": [
-    "RETURNED"
-  ],
+  "permAttr": [],
   "pitchingRating": 0.6760508916237239,
   "pressurization": 0.042087823682364744,
   "ritual": "Inventing secret handshakes",
