@@ -4,13 +4,12 @@
   "card": -1,
   "championships": 0,
   "eDensity": 0,
-  "eVelocity": 0,
   "emoji": "0x1F50D",
   "evolution": 0,
   "fullName": "BC Noir",
   "gameAttr": [],
   "id": "f29d6e60-8fce-4ac6-8bc2-b5e3cabc5696",
-  "imPosition": 0,
+  "level": null,
   "lineup": [
     "d1a198d6-b05a-47cf-ab8e-39a6fa1ed831"
   ],
