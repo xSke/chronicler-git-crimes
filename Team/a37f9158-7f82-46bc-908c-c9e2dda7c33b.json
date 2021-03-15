@@ -38,7 +38,9 @@
   "location": "Breckenridge",
   "mainColor": "#6388ad",
   "nickname": "Jazz Hands",
-  "permAttr": [],
+  "permAttr": [
+    "OVERPERFORMING"
+  ],
   "rotation": [
     "5dbf11c0-994a-4482-bd1e-99379148ee45",
     "ea44bd36-65b4-4f3b-ac71-78d87a540b48",
@@ -58,11 +60,17 @@
   "shorthand": "BJAZ",
   "slogan": "We’ve Got Winning to Do. Just for You.",
   "stadium": "60e78a6c-fe49-4283-8293-735e9fa7e3e9",
-  "state": {},
+  "state": {
+    "permModSources": {
+      "OVERPERFORMING": [
+        "EARLBIRDS"
+      ]
+    }
+  },
   "teamSpirit": 0,
   "totalShames": 64,
   "totalShamings": 51,
   "tournamentWins": 0,
   "weekAttr": [],
-  "winStreak": -3
+  "winStreak": 1
 }
