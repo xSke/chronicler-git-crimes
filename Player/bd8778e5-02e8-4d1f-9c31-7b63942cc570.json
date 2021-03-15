@@ -33,7 +33,9 @@
   "overpowerment": 0.7189127778252684,
   "patheticism": 0.35237363975764235,
   "peanutAllergy": false,
-  "permAttr": [],
+  "permAttr": [
+    "TRIPLE_THREAT"
+  ],
   "pitchingRating": 0.8194199259564421,
   "pressurization": 0.7472607371098754,
   "ritual": "Barrel of fish",
