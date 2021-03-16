@@ -18,7 +18,7 @@
   ],
   "card": -1,
   "championships": 4,
-  "eDensity": 1136.6289944799637,
+  "eDensity": 1141.123184784361,
   "emoji": "0x1F980",
   "evolution": 1,
   "fullName": "Baltimore Crabs",
@@ -64,5 +64,5 @@
   "totalShamings": 56,
   "tournamentWins": 0,
   "weekAttr": [],
-  "winStreak": 1
+  "winStreak": -1
 }
