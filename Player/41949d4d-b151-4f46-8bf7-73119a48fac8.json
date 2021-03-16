@@ -35,7 +35,8 @@
   "peanutAllergy": true,
   "permAttr": [
     "ALTERNATE",
-    "STABLE"
+    "STABLE",
+    "INHABITING"
   ],
   "pitchingRating": 0.5000324159280543,
   "pressurization": 0.1716141370390813,
