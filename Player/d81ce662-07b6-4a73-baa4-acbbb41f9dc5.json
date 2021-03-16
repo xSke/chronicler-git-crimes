@@ -33,7 +33,9 @@
   "overpowerment": 0.928589602174816,
   "patheticism": 0.9392050948338676,
   "peanutAllergy": false,
-  "permAttr": [],
+  "permAttr": [
+    "TRIPLE_THREAT"
+  ],
   "pitchingRating": 0.6290818961673313,
   "pressurization": 0.3557395475255112,
   "ritual": "Comics",
