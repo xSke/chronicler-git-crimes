@@ -23,9 +23,7 @@
   "emoji": "0x1F5E3",
   "evolution": 0,
   "fullName": "Canada Moist Talkers",
-  "gameAttr": [
-    "OVERPERFORMING"
-  ],
+  "gameAttr": [],
   "id": "eb67ae5e-c4bf-46ca-bbbc-425cd34182ff",
   "level": 3,
   "lineup": [
@@ -56,24 +54,19 @@
   "rotationSlot": 11,
   "seasAttr": [],
   "seasonShames": 0,
-  "seasonShamings": 2,
+  "seasonShamings": 3,
   "secondaryColor": "#f5feff",
   "shameRuns": 0,
   "shorthand": "CAN",
   "slogan": "Talk Spit, Get Hits",
   "stadium": "f71fd587-d20c-461c-88a4-1634a2df3f43",
   "state": {
-    "gameModSources": {
-      "OVERPERFORMING": [
-        "HIGH_PRESSURE"
-      ]
-    },
     "permModSources": {}
   },
   "teamSpirit": 0,
   "totalShames": 62,
-  "totalShamings": 56,
+  "totalShamings": 57,
   "tournamentWins": 0,
   "weekAttr": [],
-  "winStreak": 4
+  "winStreak": 5
 }
