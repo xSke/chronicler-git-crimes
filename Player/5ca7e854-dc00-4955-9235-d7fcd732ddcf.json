@@ -35,7 +35,8 @@
   "peanutAllergy": true,
   "permAttr": [
     "HONEY_ROASTED",
-    "SWIM_BLADDER"
+    "SWIM_BLADDER",
+    "RECEIVER"
   ],
   "pitchingRating": 0.15007939656965505,
   "pressurization": 0.46357032322903113,
