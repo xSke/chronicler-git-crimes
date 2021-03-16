@@ -33,7 +33,9 @@
   "overpowerment": 0.3258625754862925,
   "patheticism": 0.03584090799372916,
   "peanutAllergy": false,
-  "permAttr": [],
+  "permAttr": [
+    "INHABITING"
+  ],
   "pitchingRating": 0.2010119538500288,
   "pressurization": 0.08906305153183114,
   "ritual": "Gazing into the abyss",
