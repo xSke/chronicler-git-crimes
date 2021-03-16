@@ -31,7 +31,17 @@
     "fortifications_plus",
     "inconvenience_plus"
   ],
-  "renoHand": [],
+  "renoHand": [
+    "psychoacoustics_mod",
+    "big_bucket_mod",
+    "event_horizon_mod",
+    "solar_panels_mod",
+    "coffee_two_plus",
+    "fortifications_minus",
+    "mysticism_plus",
+    "viscosity_plus",
+    "sun_two_plus"
+  ],
   "renoLog": {
     "peanut_mister_mod": 1
   },

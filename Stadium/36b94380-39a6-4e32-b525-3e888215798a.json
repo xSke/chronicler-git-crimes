@@ -19,7 +19,17 @@
   "ominousness": 0.4253079342393487,
   "renoCost": -1,
   "renoDiscard": [],
-  "renoHand": [],
+  "renoHand": [
+    "psychoacoustics_mod",
+    "elongation_minus",
+    "peanut_mister_mod",
+    "event_horizon_mod",
+    "solar_panels_mod",
+    "big_bucket_mod",
+    "obtuseness_minus",
+    "obtuseness_plus",
+    "coffee_one_plus"
+  ],
   "renoLog": {},
   "secondaryColor": "#bb8fc4",
   "state": {},
