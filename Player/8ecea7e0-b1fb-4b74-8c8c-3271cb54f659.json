@@ -28,13 +28,13 @@
   "martyrdom": 0.9710623854103536,
   "moxie": 0.9938762994312608,
   "musclitude": 0.8551895116429447,
-  "name": "Fitzgerald Blackburn",
+  "name": "-itz-er-l- Bl--kburn",
   "omniscience": 0.5815023463013088,
   "overpowerment": 0.982413397375642,
   "patheticism": 0.42120722643484054,
   "peanutAllergy": false,
   "permAttr": [
-    "ELSEWHERE"
+    "SCATTERED"
   ],
   "pitchingRating": 0.8651000947748129,
   "pressurization": 0.16242999732426483,
@@ -44,10 +44,7 @@
   "shakespearianism": 0.7383504455427701,
   "soul": 4,
   "state": {
-    "elsewhere": {
-      "day": 93,
-      "season": 12
-    }
+    "unscatteredName": "Fitzgerald Blackburn"
   },
   "suppression": 0.7750654677302978,
   "tenaciousness": 1.201841983738389,
