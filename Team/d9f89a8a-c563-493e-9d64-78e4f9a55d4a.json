@@ -50,7 +50,7 @@
   "rotationSlot": 40,
   "seasAttr": [],
   "seasonShames": 1,
-  "seasonShamings": 0,
+  "seasonShamings": 1,
   "secondaryColor": "#5cffec",
   "shameRuns": 0,
   "shorthand": "ATL",
@@ -59,8 +59,8 @@
   "state": {},
   "teamSpirit": 0,
   "totalShames": 7,
-  "totalShamings": 8,
+  "totalShamings": 9,
   "tournamentWins": 0,
   "weekAttr": [],
-  "winStreak": -4
+  "winStreak": 1
 }
