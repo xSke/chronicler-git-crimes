@@ -34,7 +34,8 @@
   "patheticism": 0.22364031791738304,
   "peanutAllergy": false,
   "permAttr": [
-    "SIPHON"
+    "SIPHON",
+    "ELSEWHERE"
   ],
   "pitchingRating": 0.6182068889538207,
   "pressurization": 0.5250074255062014,
@@ -43,7 +44,12 @@
   "seasAttr": [],
   "shakespearianism": 0.7472134530425446,
   "soul": 7,
-  "state": {},
+  "state": {
+    "elsewhere": {
+      "day": 32,
+      "season": 13
+    }
+  },
   "suppression": 0.5739589654404399,
   "tenaciousness": 0.987546649080697,
   "thwackability": 1.5657800898126728,
