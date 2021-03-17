@@ -28,14 +28,13 @@
   "martyrdom": 0.7198765814479803,
   "moxie": 0.7639733302969234,
   "musclitude": 0.29718581250918985,
-  "name": "Ronan Comb-",
+  "name": "Ronan Combs",
   "omniscience": 0.6641067322325276,
   "overpowerment": 0.7543561164040179,
   "patheticism": 0.27871534429397293,
   "peanutAllergy": true,
   "permAttr": [
-    "ALTERNATE",
-    "SCATTERED"
+    "ALTERNATE"
   ],
   "pitchingRating": 0.3810401822838975,
   "pressurization": 0.5285080130429924,
@@ -44,9 +43,7 @@
   "seasAttr": [],
   "shakespearianism": 0.3268639476635846,
   "soul": 8,
-  "state": {
-    "unscatteredName": "Ronan Combs"
-  },
+  "state": {},
   "suppression": 0.2441873429142144,
   "tenaciousness": 0.5093219649367813,
   "thwackability": 0.3314798801633789,
