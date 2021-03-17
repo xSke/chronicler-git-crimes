@@ -33,9 +33,7 @@
   "overpowerment": 0.01,
   "patheticism": 0.9432119766355108,
   "peanutAllergy": true,
-  "permAttr": [
-    "ELSEWHERE"
-  ],
+  "permAttr": [],
   "pitchingRating": 0.031703754986519506,
   "pressurization": 0.5997836670369681,
   "ritual": "Nursing a grudge",
@@ -43,12 +41,7 @@
   "seasAttr": [],
   "shakespearianism": 0.2736740566960553,
   "soul": 8,
-  "state": {
-    "elsewhere": {
-      "day": 43,
-      "season": 13
-    }
-  },
+  "state": {},
   "suppression": 0.10941638646307966,
   "tenaciousness": 0.6485342961947018,
   "thwackability": 0.328468031527299,
