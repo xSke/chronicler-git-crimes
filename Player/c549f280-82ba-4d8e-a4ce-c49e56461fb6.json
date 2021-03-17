@@ -33,7 +33,9 @@
   "overpowerment": 0.6303058132938532,
   "patheticism": 0.12137429092565086,
   "peanutAllergy": false,
-  "permAttr": [],
+  "permAttr": [
+    "TRIPLE_THREAT"
+  ],
   "pitchingRating": 0.48863926369086286,
   "pressurization": 0.9890302659779148,
   "ritual": "Cup of tea",
