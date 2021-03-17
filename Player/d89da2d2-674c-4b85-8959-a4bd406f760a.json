@@ -34,7 +34,8 @@
   "patheticism": 0.001,
   "peanutAllergy": false,
   "permAttr": [
-    "FIRE_EATER"
+    "FIRE_EATER",
+    "ELSEWHERE"
   ],
   "pitchingRating": 0.1733876940477766,
   "pressurization": 0.7609978072552137,
@@ -43,7 +44,12 @@
   "seasAttr": [],
   "shakespearianism": 0.41746897682572054,
   "soul": 6,
-  "state": {},
+  "state": {
+    "elsewhere": {
+      "day": 55,
+      "season": 13
+    }
+  },
   "suppression": 0.2328817581200168,
   "tenaciousness": 0.4214508013539455,
   "thwackability": 1.0068143499619426,
