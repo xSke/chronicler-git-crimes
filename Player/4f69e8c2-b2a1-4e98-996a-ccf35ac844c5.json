@@ -35,7 +35,8 @@
   "peanutAllergy": false,
   "permAttr": [
     "ALTERNATE",
-    "CHUNKY"
+    "CHUNKY",
+    "ELSEWHERE"
   ],
   "pitchingRating": 0.19910568779752255,
   "pressurization": 0.6097617160304536,
@@ -44,7 +45,12 @@
   "seasAttr": [],
   "shakespearianism": 0.01,
   "soul": 9,
-  "state": {},
+  "state": {
+    "elsewhere": {
+      "day": 47,
+      "season": 13
+    }
+  },
   "suppression": 0.5645366065607887,
   "tenaciousness": 0.15,
   "thwackability": 1.0239850983983048,
