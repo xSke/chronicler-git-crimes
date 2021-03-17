@@ -33,9 +33,7 @@
   "overpowerment": 0.02322295060327839,
   "patheticism": 0.1436682400613889,
   "peanutAllergy": true,
-  "permAttr": [
-    "ELSEWHERE"
-  ],
+  "permAttr": [],
   "pitchingRating": 0.26943554068988496,
   "pressurization": 0.7303585957668055,
   "ritual": "Acoustic guitar",
@@ -43,12 +41,7 @@
   "seasAttr": [],
   "shakespearianism": 0.9506834467550084,
   "soul": 8,
-  "state": {
-    "elsewhere": {
-      "day": 32,
-      "season": 13
-    }
-  },
+  "state": {},
   "suppression": 0.6241163904476255,
   "tenaciousness": 0.847545216701767,
   "thwackability": 0.590868477516892,
