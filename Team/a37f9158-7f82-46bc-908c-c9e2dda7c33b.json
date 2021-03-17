@@ -51,10 +51,10 @@
   "seasAttr": [
     "EARLBIRDS"
   ],
-  "seasonShames": 3,
+  "seasonShames": 4,
   "seasonShamings": 0,
   "secondaryColor": "#7ba9d7",
-  "shameRuns": 0,
+  "shameRuns": 2,
   "shorthand": "BJAZ",
   "slogan": "We’ve Got Winning to Do. Just for You.",
   "stadium": "60e78a6c-fe49-4283-8293-735e9fa7e3e9",
@@ -62,9 +62,9 @@
     "permModSources": {}
   },
   "teamSpirit": 0,
-  "totalShames": 67,
+  "totalShames": 68,
   "totalShamings": 51,
   "tournamentWins": 0,
   "weekAttr": [],
-  "winStreak": 1
+  "winStreak": -1
 }
