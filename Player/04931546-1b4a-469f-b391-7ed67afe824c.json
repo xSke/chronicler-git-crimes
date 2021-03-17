@@ -35,8 +35,7 @@
   "peanutAllergy": false,
   "permAttr": [
     "SIPHON",
-    "PERK",
-    "ELSEWHERE"
+    "PERK"
   ],
   "pitchingRating": 0.5438059171145768,
   "pressurization": 0.38846026364367336,
@@ -45,12 +44,7 @@
   "seasAttr": [],
   "shakespearianism": 0.56783917663723,
   "soul": 7,
-  "state": {
-    "elsewhere": {
-      "day": 49,
-      "season": 13
-    }
-  },
+  "state": {},
   "suppression": 0.8910244659315535,
   "tenaciousness": 1.6487084289211424,
   "thwackability": 0.5404622739379233,
