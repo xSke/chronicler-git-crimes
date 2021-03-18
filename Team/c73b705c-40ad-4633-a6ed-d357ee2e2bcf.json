@@ -51,7 +51,7 @@
   "rotationSlot": 65,
   "seasAttr": [],
   "seasonShames": 3,
-  "seasonShamings": 2,
+  "seasonShamings": 3,
   "secondaryColor": "#e830ab",
   "shameRuns": 0,
   "shorthand": "TKL",
@@ -60,8 +60,8 @@
   "state": {},
   "teamSpirit": 0,
   "totalShames": 21,
-  "totalShamings": 9,
+  "totalShamings": 10,
   "tournamentWins": 0,
   "weekAttr": [],
-  "winStreak": -4
+  "winStreak": 1
 }
