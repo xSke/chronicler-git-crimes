@@ -28,14 +28,14 @@
   "martyrdom": 0.5741651702927348,
   "moxie": 0.8492250070737182,
   "musclitude": 0.2111148517575725,
-  "name": "Luis Acevedo",
+  "name": "-uis Ace--d-",
   "omniscience": 1.1441867408220674,
   "overpowerment": 0.2464138545162533,
   "patheticism": 0.6745795951727351,
   "peanutAllergy": false,
   "permAttr": [
     "FLINCH",
-    "ELSEWHERE"
+    "SCATTERED"
   ],
   "pitchingRating": 0.2696683661661037,
   "pressurization": 0.6939529114666245,
@@ -45,10 +45,7 @@
   "shakespearianism": 0.7061657668830492,
   "soul": 2,
   "state": {
-    "elsewhere": {
-      "day": 15,
-      "season": 13
-    }
+    "unscatteredName": "Luis Acevedo"
   },
   "suppression": 0.6082682787233777,
   "tenaciousness": 1.0878883950205758,
