@@ -17,7 +17,9 @@
   "eDensity": 57.020196263427486,
   "evolution": 0,
   "fate": 43,
-  "gameAttr": [],
+  "gameAttr": [
+    "OVERPERFORMING"
+  ],
   "groundFriction": 0.6167197947501232,
   "hitStreak": 0,
   "hittingRating": 0.7255266559848376,
@@ -49,6 +51,11 @@
     "elsewhere": {
       "day": 74,
       "season": 13
+    },
+    "gameModSources": {
+      "OVERPERFORMING": [
+        "PERK"
+      ]
     }
   },
   "suppression": 0.6864012251401607,
