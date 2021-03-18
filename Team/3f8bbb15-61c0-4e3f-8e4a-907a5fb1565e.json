@@ -55,18 +55,18 @@
   ],
   "rotationSlot": 75,
   "seasAttr": [],
-  "seasonShames": 4,
+  "seasonShames": 5,
   "seasonShamings": 1,
   "secondaryColor": "#f7d1ff",
-  "shameRuns": 0,
+  "shameRuns": 1,
   "shorthand": "BOF",
   "slogan": "Let's Grow!",
   "stadium": "d37abba6-9fba-463a-8f4f-7cf49de3c7b6",
   "state": {},
   "teamSpirit": 0,
-  "totalShames": 52,
+  "totalShames": 53,
   "totalShamings": 56,
   "tournamentWins": 0,
   "weekAttr": [],
-  "winStreak": 4
+  "winStreak": -1
 }
