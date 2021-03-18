@@ -16,7 +16,7 @@
   ],
   "card": -1,
   "championships": 4,
-  "eDensity": 1361.4634745098344,
+  "eDensity": 1362.4634745098344,
   "emoji": "0x1F531",
   "evolution": 1,
   "fullName": "Atlantis Georgias",
@@ -62,5 +62,5 @@
   "totalShamings": 10,
   "tournamentWins": 0,
   "weekAttr": [],
-  "winStreak": -7
+  "winStreak": -8
 }
