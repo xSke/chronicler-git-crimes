@@ -37,8 +37,7 @@
   "peanutAllergy": true,
   "permAttr": [
     "SIPHON",
-    "PERK",
-    "COFFEE_RALLY"
+    "PERK"
   ],
   "pitchingRating": 0.40181901293321626,
   "pressurization": 0.9530000539694096,
