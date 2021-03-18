@@ -35,7 +35,8 @@
   "peanutAllergy": true,
   "permAttr": [
     "ALTERNATE",
-    "WANDERER"
+    "WANDERER",
+    "ELSEWHERE"
   ],
   "pitchingRating": 0.33171513265743174,
   "pressurization": 0.8115882671698996,
@@ -44,7 +45,12 @@
   "seasAttr": [],
   "shakespearianism": 0.2354723952491208,
   "soul": 4,
-  "state": {},
+  "state": {
+    "elsewhere": {
+      "day": 72,
+      "season": 13
+    }
+  },
   "suppression": 0.5361695063017288,
   "tenaciousness": 0.7649195459789101,
   "thwackability": 0.19356011990281108,
