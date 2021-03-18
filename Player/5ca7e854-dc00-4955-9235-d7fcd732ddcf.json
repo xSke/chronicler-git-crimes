@@ -43,13 +43,21 @@
   "ritual": "Gambling",
   "ruthlessness": 0.35929473835021714,
   "seasAttr": [
-    "ALTERNATE"
+    "FRIEND_OF_CROWS",
+    "SUPERYUMMY",
+    "OVERPERFORMING"
   ],
   "shakespearianism": 0.4677414557469457,
   "soul": 5,
   "state": {
     "seasModSources": {
-      "ALTERNATE": [
+      "FRIEND_OF_CROWS": [
+        "RECEIVER"
+      ],
+      "OVERPERFORMING": [
+        "RECEIVER"
+      ],
+      "SUPERYUMMY": [
         "RECEIVER"
       ]
     }
