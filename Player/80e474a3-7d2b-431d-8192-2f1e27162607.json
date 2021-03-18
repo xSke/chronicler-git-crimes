@@ -33,7 +33,9 @@
   "overpowerment": 0.29905125700173124,
   "patheticism": 0.0528468579463405,
   "peanutAllergy": true,
-  "permAttr": [],
+  "permAttr": [
+    "ELSEWHERE"
+  ],
   "pitchingRating": 0.48985458151278033,
   "pressurization": 0.2625056906223122,
   "ritual": "Shivering",
@@ -41,7 +43,12 @@
   "seasAttr": [],
   "shakespearianism": 0.259034566378205,
   "soul": 7,
-  "state": {},
+  "state": {
+    "elsewhere": {
+      "day": 56,
+      "season": 13
+    }
+  },
   "suppression": 1.1256678560084916,
   "tenaciousness": 0.4134482478841689,
   "thwackability": 0.8369367831030536,
