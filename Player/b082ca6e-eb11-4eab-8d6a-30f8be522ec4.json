@@ -33,7 +33,9 @@
   "overpowerment": 0.5536092854218606,
   "patheticism": 0.02706015016364076,
   "peanutAllergy": true,
-  "permAttr": [],
+  "permAttr": [
+    "COFFEE_RALLY"
+  ],
   "pitchingRating": 0.5664845425924533,
   "pressurization": 0.9056106219154152,
   "ritual": "Astronomy",
