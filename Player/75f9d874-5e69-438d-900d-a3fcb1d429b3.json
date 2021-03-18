@@ -41,21 +41,17 @@
   "ritual": "Playing pranks",
   "ruthlessness": 0.7851094485207777,
   "seasAttr": [
-    "FRIEND_OF_CROWS",
-    "SUPERYUMMY",
-    "OVERPERFORMING"
+    "SWIM_BLADDER",
+    "TRIPLE_THREAT"
   ],
   "shakespearianism": 0.2950006951239794,
   "soul": 5,
   "state": {
     "seasModSources": {
-      "FRIEND_OF_CROWS": [
+      "SWIM_BLADDER": [
         "RECEIVER"
       ],
-      "OVERPERFORMING": [
-        "RECEIVER"
-      ],
-      "SUPERYUMMY": [
+      "TRIPLE_THREAT": [
         "RECEIVER"
       ]
     }

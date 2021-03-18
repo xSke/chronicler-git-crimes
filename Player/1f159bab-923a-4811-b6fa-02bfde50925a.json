@@ -42,21 +42,17 @@
   "ritual": "Have Hope",
   "ruthlessness": 0.4216339537797807,
   "seasAttr": [
-    "FRIEND_OF_CROWS",
-    "SUPERYUMMY",
-    "OVERPERFORMING"
+    "SWIM_BLADDER",
+    "TRIPLE_THREAT"
   ],
   "shakespearianism": 0.1546596969180715,
   "soul": 5,
   "state": {
     "seasModSources": {
-      "FRIEND_OF_CROWS": [
+      "SWIM_BLADDER": [
         "RECEIVER"
       ],
-      "OVERPERFORMING": [
-        "RECEIVER"
-      ],
-      "SUPERYUMMY": [
+      "TRIPLE_THREAT": [
         "RECEIVER"
       ]
     }
