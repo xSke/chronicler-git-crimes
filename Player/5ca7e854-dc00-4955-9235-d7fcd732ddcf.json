@@ -42,10 +42,18 @@
   "pressurization": 0.46357032322903113,
   "ritual": "Gambling",
   "ruthlessness": 0.35929473835021714,
-  "seasAttr": [],
+  "seasAttr": [
+    "ALTERNATE"
+  ],
   "shakespearianism": 0.4677414557469457,
   "soul": 5,
-  "state": {},
+  "state": {
+    "seasModSources": {
+      "ALTERNATE": [
+        "RECEIVER"
+      ]
+    }
+  },
   "suppression": 0.1601930672050816,
   "tenaciousness": 0.7798634870175304,
   "thwackability": 0.26633000516175215,
