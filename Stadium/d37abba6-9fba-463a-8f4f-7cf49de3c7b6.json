@@ -11,15 +11,17 @@
   "luxuriousness": 0,
   "mainColor": "#f7d1ff",
   "model": 8,
-  "mods": [],
+  "mods": [
+    "PSYCHOACOUSTICS",
+    "SOLAR_PANELS"
+  ],
   "mysticism": 0.5754439841690367,
   "name": "Boston Garden",
   "nickname": "The Garden",
   "obtuseness": 0.6435725875990583,
   "ominousness": 0.4916090708870058,
   "renoCost": -1,
-  "renoDiscard": [],
-  "renoHand": [
+  "renoDiscard": [
     "psychoacoustics_mod",
     "coffee_two_plus",
     "feedback_plus",
@@ -30,7 +32,11 @@
     "solar_panels_mod",
     "event_horizon_mod"
   ],
-  "renoLog": {},
+  "renoHand": [],
+  "renoLog": {
+    "psychoacoustics_mod": 1,
+    "solar_panels_mod": 1
+  },
   "secondaryColor": "#9f51ad",
   "state": {},
   "teamId": "3f8bbb15-61c0-4e3f-8e4a-907a5fb1565e",

@@ -11,15 +11,17 @@
   "luxuriousness": 0,
   "mainColor": "#d15700",
   "model": 2,
-  "mods": [],
+  "mods": [
+    "PEANUT_MISTER",
+    "BIG_BUCKET"
+  ],
   "mysticism": 0.3796073191220504,
   "name": "Basin of Mexico Park",
   "nickname": "The Bucket",
   "obtuseness": 0.5523776668069384,
   "ominousness": 0.49219519014856017,
   "renoCost": -1,
-  "renoDiscard": [],
-  "renoHand": [
+  "renoDiscard": [
     "psychoacoustics_mod",
     "feedback_plus",
     "big_bucket_mod",
@@ -30,7 +32,11 @@
     "obtuseness_minus",
     "peanut_mister_mod"
   ],
-  "renoLog": {},
+  "renoHand": [],
+  "renoLog": {
+    "big_bucket_mod": 1,
+    "peanut_mister_mod": 1
+  },
   "secondaryColor": "#ffa96b",
   "state": {},
   "teamId": "57ec08cc-0411-4643-b304-0e80dbc15ac7",

@@ -11,15 +11,17 @@
   "luxuriousness": 0,
   "mainColor": "#fffbab",
   "model": 8,
-  "mods": [],
+  "mods": [
+    "SOLAR_PANELS",
+    "PSYCHOACOUSTICS"
+  ],
   "mysticism": 0.506593554498159,
   "name": "Lower Moab Scenic Overlook Field",
   "nickname": "The Solarium",
   "obtuseness": 0.6478334151320941,
   "ominousness": 0.5133374386797629,
   "renoCost": -1,
-  "renoDiscard": [],
-  "renoHand": [
+  "renoDiscard": [
     "psychoacoustics_mod",
     "solar_panels_mod",
     "fortifications_minus",
@@ -30,7 +32,11 @@
     "grandiosity_minus",
     "peanut_mister_mod"
   ],
-  "renoLog": {},
+  "renoHand": [],
+  "renoLog": {
+    "psychoacoustics_mod": 1,
+    "solar_panels_mod": 1
+  },
   "secondaryColor": "#b5af26",
   "state": {},
   "teamId": "f02aeae2-5e6a-4098-9842-02d2273f25c7",

@@ -4,7 +4,7 @@
   "filthiness": 0.10609253308528596,
   "fortification": 0.5989219193636586,
   "forwardness": 0.5661988019739751,
-  "grandiosity": 0.3056376719981358,
+  "grandiosity": 0.24668392594793237,
   "hype": 0,
   "id": "6bfd22e7-831d-4ba9-a9f9-2cf7ab00c39d",
   "inconvenience": 0.45921040660384943,
@@ -18,8 +18,7 @@
   "obtuseness": 0.4176170640409262,
   "ominousness": 0.39203888189856856,
   "renoCost": -1,
-  "renoDiscard": [],
-  "renoHand": [
+  "renoDiscard": [
     "psychoacoustics_mod",
     "coffee_threes_plus",
     "event_horizon_mod",
@@ -30,11 +29,14 @@
     "mysticism_plus",
     "peanut_mister_mod"
   ],
+  "renoHand": [],
   "renoLog": {},
   "secondaryColor": "#434345",
   "state": {},
   "teamId": "b024e975-1c4a-4575-8936-a3754a08806a",
   "tertiaryColor": "#111112",
   "viscosity": 0.4221513168049069,
-  "weather": {}
+  "weather": {
+    "10": 1
+  }
 }

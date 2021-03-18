@@ -11,15 +11,17 @@
   "luxuriousness": 0,
   "mainColor": "#6388ad",
   "model": 6,
-  "mods": [],
+  "mods": [
+    "PEANUT_MISTER",
+    "PSYCHOACOUSTICS"
+  ],
   "mysticism": 0.6398231967453444,
   "name": "Breckenridge Community Field",
   "nickname": "The Pocket",
   "obtuseness": 0.43793583794946794,
   "ominousness": 0.4707901467061844,
   "renoCost": -1,
-  "renoDiscard": [],
-  "renoHand": [
+  "renoDiscard": [
     "psychoacoustics_mod",
     "viscosity_minus",
     "inconvenience_minus",
@@ -30,7 +32,11 @@
     "peanut_mister_mod",
     "event_horizon_mod"
   ],
-  "renoLog": {},
+  "renoHand": [],
+  "renoLog": {
+    "peanut_mister_mod": 1,
+    "psychoacoustics_mod": 1
+  },
   "secondaryColor": "#1c436b",
   "state": {},
   "teamId": "a37f9158-7f82-46bc-908c-c9e2dda7c33b",

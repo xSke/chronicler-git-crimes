@@ -12,14 +12,13 @@
   "mainColor": "#780018",
   "model": 2,
   "mods": [],
-  "mysticism": 0.2965598316883308,
+  "mysticism": 0.3770574015656983,
   "name": "San Franstadium",
   "nickname": "The Polyhedron",
   "obtuseness": 0.440766599802753,
   "ominousness": 0.49529640777130407,
   "renoCost": -1,
-  "renoDiscard": [],
-  "renoHand": [
+  "renoDiscard": [
     "psychoacoustics_mod",
     "grandiosity_minus",
     "solar_panels_mod",
@@ -30,11 +29,14 @@
     "inconvenience_plus",
     "coffee_two_plus"
   ],
+  "renoHand": [],
   "renoLog": {},
   "secondaryColor": "#c7425c",
   "state": {},
   "teamId": "b72f3061-f573-40d7-832a-5ad475bd7909",
   "tertiaryColor": "#ffb8C6",
   "viscosity": 0.598692635551642,
-  "weather": {}
+  "weather": {
+    "16": 1
+  }
 }

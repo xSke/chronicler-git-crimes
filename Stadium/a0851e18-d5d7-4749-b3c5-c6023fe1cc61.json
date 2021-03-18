@@ -11,15 +11,17 @@
   "luxuriousness": 0,
   "mainColor": "#9141ba",
   "model": 6,
-  "mods": [],
+  "mods": [
+    "BIG_BUCKET",
+    "PSYCHOACOUSTICS"
+  ],
   "mysticism": 0.7546555506397025,
   "name": "Miami International Arena",
   "nickname": "Worldwide Field",
   "obtuseness": 0.4362123214338329,
   "ominousness": 0.41757810135105855,
   "renoCost": -1,
-  "renoDiscard": [],
-  "renoHand": [
+  "renoDiscard": [
     "psychoacoustics_mod",
     "big_bucket_mod",
     "ominousness_plus",
@@ -30,7 +32,11 @@
     "event_horizon_mod",
     "forwardness_minus"
   ],
-  "renoLog": {},
+  "renoHand": [],
+  "renoLog": {
+    "big_bucket_mod": 1,
+    "psychoacoustics_mod": 1
+  },
   "secondaryColor": "#634675",
   "state": {},
   "teamId": "b63be8c2-576a-4d6e-8daf-814f8bcea96f",

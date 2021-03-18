@@ -11,15 +11,16 @@
   "luxuriousness": 0,
   "mainColor": "#d15700",
   "model": 3,
-  "mods": [],
+  "mods": [
+    "PSYCHOACOUSTICS"
+  ],
   "mysticism": 0.4820887614858592,
   "name": "Core Pillar Center",
   "nickname": "The Pillars",
   "obtuseness": 0.4521598407783409,
   "ominousness": 0.4391837802585088,
   "renoCost": -1,
-  "renoDiscard": [],
-  "renoHand": [
+  "renoDiscard": [
     "psychoacoustics_mod",
     "solar_panels_mod",
     "viscosity_minus",
@@ -30,11 +31,16 @@
     "grandiosity_plus",
     "coffee_threes_plus"
   ],
-  "renoLog": {},
+  "renoHand": [],
+  "renoLog": {
+    "psychoacoustics_mod": 1
+  },
   "secondaryColor": "#ffaf96",
   "state": {},
   "teamId": "46358869-dce9-4a01-bfba-ac24fc56f57e",
   "tertiaryColor": "#ffddc4",
   "viscosity": 0.2769749520408473,
-  "weather": {}
+  "weather": {
+    "17": 1
+  }
 }

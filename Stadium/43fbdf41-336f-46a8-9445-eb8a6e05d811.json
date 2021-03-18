@@ -11,15 +11,17 @@
   "luxuriousness": 0,
   "mainColor": "#67556b",
   "model": 8,
-  "mods": [],
+  "mods": [
+    "BIG_BUCKET",
+    "PEANUT_MISTER"
+  ],
   "mysticism": 0.4087364786522717,
   "name": "An Undisclosed Location",
   "nickname": "REDACTED",
   "obtuseness": 0.7456745657603384,
   "ominousness": 0.4716485618092032,
   "renoCost": -1,
-  "renoDiscard": [],
-  "renoHand": [
+  "renoDiscard": [
     "psychoacoustics_mod",
     "big_bucket_mod",
     "grandiosity_minus",
@@ -30,7 +32,11 @@
     "inconvenience_plus",
     "fortifications_plus"
   ],
-  "renoLog": {},
+  "renoHand": [],
+  "renoLog": {
+    "big_bucket_mod": 1,
+    "peanut_mister_mod": 1
+  },
   "secondaryColor": "#a589ab",
   "state": {},
   "teamId": "9debc64f-74b7-4ae1-a4d6-fce0144b6ea5",

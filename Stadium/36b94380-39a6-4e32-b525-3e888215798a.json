@@ -11,15 +11,17 @@
   "luxuriousness": 0,
   "mainColor": "#64376e",
   "model": 8,
-  "mods": [],
+  "mods": [
+    "BIG_BUCKET",
+    "PSYCHOACOUSTICS"
+  ],
   "mysticism": 0.4382990376095283,
   "name": "Al Pastor Memorial Park",
   "nickname": "LA Taquería",
-  "obtuseness": 0.6140862738162287,
+  "obtuseness": 0.7566629545867662,
   "ominousness": 0.4253079342393487,
   "renoCost": -1,
-  "renoDiscard": [],
-  "renoHand": [
+  "renoDiscard": [
     "psychoacoustics_mod",
     "elongation_minus",
     "peanut_mister_mod",
@@ -30,7 +32,11 @@
     "obtuseness_plus",
     "coffee_one_plus"
   ],
-  "renoLog": {},
+  "renoHand": [],
+  "renoLog": {
+    "big_bucket_mod": 1,
+    "psychoacoustics_mod": 1
+  },
   "secondaryColor": "#bb8fc4",
   "state": {},
   "teamId": "878c1bf6-0d21-4659-bfee-916c8314d69c",

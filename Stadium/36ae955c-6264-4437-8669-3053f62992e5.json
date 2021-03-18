@@ -7,19 +7,20 @@
   "grandiosity": 0.734028825675743,
   "hype": 0,
   "id": "36ae955c-6264-4437-8669-3053f62992e5",
-  "inconvenience": 0.5127096626265168,
+  "inconvenience": 0.4587333642509046,
   "luxuriousness": 0,
   "mainColor": "#ffce0a",
   "model": 8,
-  "mods": [],
+  "mods": [
+    "PSYCHOACOUSTICS"
+  ],
   "mysticism": 0.48330562996753273,
   "name": "Choux Stadium",
   "nickname": "The Choux",
   "obtuseness": 0.7678385756888914,
   "ominousness": 0.46350321501464753,
   "renoCost": -1,
-  "renoDiscard": [],
-  "renoHand": [
+  "renoDiscard": [
     "psychoacoustics_mod",
     "solar_panels_mod",
     "big_bucket_mod",
@@ -30,7 +31,10 @@
     "event_horizon_mod",
     "reverb_plus"
   ],
-  "renoLog": {},
+  "renoHand": [],
+  "renoLog": {
+    "psychoacoustics_mod": 1
+  },
   "secondaryColor": "#8a6e00",
   "state": {},
   "teamId": "bfd38797-8404-4b38-8b82-341da28b1f83",

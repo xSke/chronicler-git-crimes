@@ -11,15 +11,16 @@
   "luxuriousness": 0,
   "mainColor": "#00dbc2",
   "model": 3,
-  "mods": [],
+  "mods": [
+    "PSYCHOACOUSTICS"
+  ],
   "mysticism": 0.5907127643182942,
   "name": "The Atlantean Dome",
   "nickname": "The Bubble",
   "obtuseness": 0.5330753156607573,
   "ominousness": 0.447159090235261,
   "renoCost": -1,
-  "renoDiscard": [],
-  "renoHand": [
+  "renoDiscard": [
     "psychoacoustics_mod",
     "grandiosity_minus",
     "inconvenience_plus",
@@ -30,7 +31,10 @@
     "coffee_two_plus",
     "forwardness_minus"
   ],
-  "renoLog": {},
+  "renoHand": [],
+  "renoLog": {
+    "psychoacoustics_mod": 1
+  },
   "secondaryColor": "#ffaf96",
   "state": {},
   "teamId": "d9f89a8a-c563-493e-9d64-78e4f9a55d4a",

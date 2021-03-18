@@ -11,15 +11,16 @@
   "luxuriousness": 0,
   "mainColor": "#f5feff",
   "model": 8,
-  "mods": [],
+  "mods": [
+    "BIG_BUCKET"
+  ],
   "mysticism": 0.5802136293864534,
   "name": "Gleek Arena",
   "nickname": "The Gleek",
   "obtuseness": 0.7311452467775168,
   "ominousness": 0.4391791221898321,
   "renoCost": -1,
-  "renoDiscard": [],
-  "renoHand": [
+  "renoDiscard": [
     "psychoacoustics_mod",
     "viscosity_plus",
     "forwardness_minus",
@@ -30,11 +31,14 @@
     "event_horizon_mod",
     "feedback_plus"
   ],
-  "renoLog": {},
+  "renoHand": [],
+  "renoLog": {
+    "big_bucket_mod": 1
+  },
   "secondaryColor": "#5fa7b0",
   "state": {},
   "teamId": "eb67ae5e-c4bf-46ca-bbbc-425cd34182ff",
   "tertiaryColor": "#275b62",
-  "viscosity": 0.48619971701403675,
+  "viscosity": 0.5487322736948579,
   "weather": {}
 }

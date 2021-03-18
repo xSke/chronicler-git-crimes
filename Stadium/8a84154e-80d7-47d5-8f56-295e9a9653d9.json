@@ -11,15 +11,16 @@
   "luxuriousness": 0,
   "mainColor": "#5c4822",
   "model": 3,
-  "mods": [],
+  "mods": [
+    "PSYCHOACOUSTICS"
+  ],
   "mysticism": 0.4617130261512937,
   "name": "Wapakoneta Air, Space, and Worm Museum and Ballpark",
   "nickname": "The Wormhole",
   "obtuseness": 0.5981744694032705,
   "ominousness": 0.5474000831124898,
   "renoCost": -1,
-  "renoDiscard": [],
-  "renoHand": [
+  "renoDiscard": [
     "psychoacoustics_mod",
     "coffee_one_plus",
     "black_hole_plus",
@@ -30,11 +31,16 @@
     "forwardness_plus",
     "grandiosity_plus"
   ],
-  "renoLog": {},
+  "renoHand": [],
+  "renoLog": {
+    "psychoacoustics_mod": 1
+  },
   "secondaryColor": "#ba9c65",
   "state": {},
   "teamId": "bb4a9de5-c924-4923-a0cb-9d1445f1ee5d",
   "tertiaryColor": "#ffe0a8",
   "viscosity": 0.263229502203971,
-  "weather": {}
+  "weather": {
+    "14": 1
+  }
 }

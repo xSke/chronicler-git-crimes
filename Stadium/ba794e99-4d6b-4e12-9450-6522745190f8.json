@@ -7,19 +7,21 @@
   "grandiosity": 0.5641918901049738,
   "hype": 0,
   "id": "ba794e99-4d6b-4e12-9450-6522745190f8",
-  "inconvenience": 0.5430376118578363,
+  "inconvenience": 0.4815896978575373,
   "luxuriousness": 0,
   "mainColor": "#ffd4d8",
   "model": 1,
-  "mods": [],
+  "mods": [
+    "PEANUT_MISTER",
+    "PSYCHOACOUSTICS"
+  ],
   "mysticism": 0.5394549078823694,
   "name": "New York, New York Arena, Arena",
   "nickname": "Battin' Island",
   "obtuseness": 0.7636733843662515,
   "ominousness": 0.5864923438668687,
   "renoCost": -1,
-  "renoDiscard": [],
-  "renoHand": [
+  "renoDiscard": [
     "psychoacoustics_mod",
     "peanuts_plus",
     "inconvenience_minus",
@@ -30,7 +32,11 @@
     "event_horizon_mod",
     "ominousness_plus"
   ],
-  "renoLog": {},
+  "renoHand": [],
+  "renoLog": {
+    "peanut_mister_mod": 1,
+    "psychoacoustics_mod": 1
+  },
   "secondaryColor": "#9e3d47",
   "state": {},
   "teamId": "36569151-a2fb-43c1-9df7-2df512424c82",

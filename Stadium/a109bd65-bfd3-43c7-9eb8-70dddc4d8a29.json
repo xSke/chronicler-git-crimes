@@ -1,6 +1,6 @@
 {
   "birds": 0,
-  "elongation": 0.4149870306719358,
+  "elongation": 0.49642868384341704,
   "filthiness": 0.06066768372259924,
   "fortification": 0.3772856149547761,
   "forwardness": 0.5637166235087328,
@@ -11,15 +11,16 @@
   "luxuriousness": 0,
   "mainColor": "#399d8f",
   "model": 6,
-  "mods": [],
+  "mods": [
+    "BIG_BUCKET"
+  ],
   "mysticism": 0.6563113327867125,
   "name": "Tastycake Stadium",
   "nickname": "The Oven",
   "obtuseness": 0.4730724599575604,
   "ominousness": 0.5128089734710848,
   "renoCost": -1,
-  "renoDiscard": [],
-  "renoHand": [
+  "renoDiscard": [
     "psychoacoustics_mod",
     "coffee_one_plus",
     "coffee_threes_plus",
@@ -30,7 +31,10 @@
     "big_bucket_mod",
     "feedback_plus"
   ],
-  "renoLog": {},
+  "renoHand": [],
+  "renoLog": {
+    "big_bucket_mod": 1
+  },
   "secondaryColor": "#0a5c50",
   "state": {},
   "teamId": "23e4cbc1-e9cd-47fa-a35b-bfa06f726cb7",

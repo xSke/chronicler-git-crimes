@@ -7,19 +7,20 @@
   "grandiosity": 0.4107468323095642,
   "hype": 0,
   "id": "e7431679-a45e-408f-92a8-a4db422c4925",
-  "inconvenience": 0.5239131142287455,
+  "inconvenience": 0.4491789510427481,
   "luxuriousness": 0,
   "mainColor": "#3ee652",
   "model": 6,
-  "mods": [],
+  "mods": [
+    "PEANUT_MISTER"
+  ],
   "mysticism": 0.7370254366197266,
   "name": "Hawai'i Viberight Field",
   "nickname": "The Cookout",
   "obtuseness": 0.41336959149340474,
   "ominousness": 0.5149002539789903,
   "renoCost": -1,
-  "renoDiscard": [],
-  "renoHand": [
+  "renoDiscard": [
     "psychoacoustics_mod",
     "big_bucket_mod",
     "peanut_mister_mod",
@@ -30,7 +31,10 @@
     "coffee_threes_plus",
     "solar_panels_mod"
   ],
-  "renoLog": {},
+  "renoHand": [],
+  "renoLog": {
+    "peanut_mister_mod": 1
+  },
   "secondaryColor": "#0b7517",
   "state": {},
   "teamId": "979aee4a-6d80-4863-bf1c-ee1a78e06024",
