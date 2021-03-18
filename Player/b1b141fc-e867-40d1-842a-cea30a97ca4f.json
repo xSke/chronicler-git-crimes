@@ -35,7 +35,8 @@
   "peanutAllergy": true,
   "permAttr": [
     "FLINCH",
-    "SIPHON"
+    "SIPHON",
+    "ELSEWHERE"
   ],
   "pitchingRating": 0.32787080213130804,
   "pressurization": 0.8231759598388049,
@@ -44,7 +45,12 @@
   "seasAttr": [],
   "shakespearianism": 0.5836635963135568,
   "soul": 8,
-  "state": {},
+  "state": {
+    "elsewhere": {
+      "day": 78,
+      "season": 13
+    }
+  },
   "suppression": 0.6691382170446998,
   "tenaciousness": 2.4413373958952187,
   "thwackability": 0.8401982518236265,
