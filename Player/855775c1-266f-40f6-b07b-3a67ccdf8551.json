@@ -28,14 +28,12 @@
   "martyrdom": 0.6567150069489128,
   "moxie": 0.8070025328530743,
   "musclitude": 0.4156153800690274,
-  "name": "Ni- Winkler",
+  "name": "Nic Winkler",
   "omniscience": 0.3312983046274075,
   "overpowerment": 0.612528428374113,
   "patheticism": 0.001,
   "peanutAllergy": true,
-  "permAttr": [
-    "SCATTERED"
-  ],
+  "permAttr": [],
   "pitchingRating": 0.33943807417585187,
   "pressurization": 0.36269468580325337,
   "ritual": "Doing a good deed and telling everyone about it",
@@ -43,9 +41,7 @@
   "seasAttr": [],
   "shakespearianism": 0.8969785591867517,
   "soul": 2,
-  "state": {
-    "unscatteredName": "Nic Winkler"
-  },
+  "state": {},
   "suppression": 0.7713934436768186,
   "tenaciousness": 0.12124610084337768,
   "thwackability": 0.5714346896085285,
