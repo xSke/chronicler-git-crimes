@@ -35,8 +35,9 @@
   "peanutAllergy": false,
   "permAttr": [
     "ECHO",
-    "SWIM_BLADDER",
-    "TRIPLE_THREAT"
+    "FRIEND_OF_CROWS",
+    "SUPERYUMMY",
+    "OVERPERFORMING"
   ],
   "pitchingRating": 0.35016066367755205,
   "pressurization": 0.1021459602378807,
@@ -47,10 +48,13 @@
   "soul": 3,
   "state": {
     "permModSources": {
-      "SWIM_BLADDER": [
+      "FRIEND_OF_CROWS": [
         "ECHO"
       ],
-      "TRIPLE_THREAT": [
+      "OVERPERFORMING": [
+        "ECHO"
+      ],
+      "SUPERYUMMY": [
         "ECHO"
       ]
     }
