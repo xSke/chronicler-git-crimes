@@ -35,7 +35,8 @@
   "peanutAllergy": false,
   "permAttr": [
     "FLICKERING",
-    "RECEIVER"
+    "RECEIVER",
+    "UNDERPERFORMING"
   ],
   "pitchingRating": 0.48892476684479896,
   "pressurization": 0.5991665436375463,
@@ -49,6 +50,11 @@
   "shakespearianism": 0.15826474558530457,
   "soul": 4,
   "state": {
+    "permModSources": {
+      "UNDERPERFORMING": [
+        "SUPERYUMMY"
+      ]
+    },
     "seasModSources": {
       "FRIEND_OF_CROWS": [
         "RECEIVER"

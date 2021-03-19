@@ -34,7 +34,8 @@
   "patheticism": 0.8514886194322493,
   "peanutAllergy": true,
   "permAttr": [
-    "RECEIVER"
+    "RECEIVER",
+    "UNDERPERFORMING"
   ],
   "pitchingRating": 0.2550101661318291,
   "pressurization": 0.7290459950758161,
@@ -48,6 +49,11 @@
   "shakespearianism": 0.2950006951239794,
   "soul": 5,
   "state": {
+    "permModSources": {
+      "UNDERPERFORMING": [
+        "SUPERYUMMY"
+      ]
+    },
     "seasModSources": {
       "FRIEND_OF_CROWS": [
         "RECEIVER"
