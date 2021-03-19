@@ -35,9 +35,7 @@
   "peanutAllergy": false,
   "permAttr": [
     "ECHO",
-    "SPICY",
-    "PERK",
-    "SCATTERED"
+    "ELSEWHERE"
   ],
   "pitchingRating": 0.255185855553076,
   "pressurization": 0.5145639262885293,
@@ -48,13 +46,7 @@
   "soul": 2,
   "state": {
     "permModSources": {
-      "PERK": [
-        "ECHO"
-      ],
-      "SCATTERED": [
-        "ECHO"
-      ],
-      "SPICY": [
+      "ELSEWHERE": [
         "ECHO"
       ]
     }

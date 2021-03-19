@@ -33,7 +33,9 @@
   "overpowerment": 0.9753214566550956,
   "patheticism": 0.4005423954790299,
   "peanutAllergy": true,
-  "permAttr": [],
+  "permAttr": [
+    "COFFEE_RALLY"
+  ],
   "pitchingRating": 0.659034452529045,
   "pressurization": 0.125513252688219,
   "ritual": "Swearing an oath",
