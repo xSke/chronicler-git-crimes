@@ -28,14 +28,14 @@
   "martyrdom": 0.30839612809006595,
   "moxie": 0.8170505554461103,
   "musclitude": 0.6885109389434603,
-  "name": "Grey Alvarado",
+  "name": "--e- --varado",
   "omniscience": 0.3450829074463951,
   "overpowerment": 0.0977460505496428,
   "patheticism": 0.8549784979822126,
   "peanutAllergy": false,
   "permAttr": [
     "REPEATING",
-    "ELSEWHERE"
+    "SCATTERED"
   ],
   "pitchingRating": 0.2311282804392612,
   "pressurization": 0.8064601195290763,
@@ -45,10 +45,7 @@
   "shakespearianism": 0.6394284768941356,
   "soul": 3,
   "state": {
-    "elsewhere": {
-      "day": 63,
-      "season": 13
-    }
+    "unscatteredName": "Grey Alvarado"
   },
   "suppression": 0.5924375211051953,
   "tenaciousness": 0.3806756297509449,
