@@ -34,10 +34,7 @@
   "patheticism": 0.6214689383254626,
   "peanutAllergy": false,
   "permAttr": [
-    "ECHO",
-    "FRIEND_OF_CROWS",
-    "SUPERYUMMY",
-    "OVERPERFORMING"
+    "STATIC"
   ],
   "pitchingRating": 0.35016066367755205,
   "pressurization": 0.1021459602378807,
@@ -47,18 +44,7 @@
   "shakespearianism": 0.8764178987035416,
   "soul": 3,
   "state": {
-    "permModSources": {
-      "FRIEND_OF_CROWS": [
-        "ECHO"
-      ],
-      "OVERPERFORMING": [
-        "ECHO",
-        "SUPERYUMMY"
-      ],
-      "SUPERYUMMY": [
-        "ECHO"
-      ]
-    }
+    "permModSources": {}
   },
   "suppression": 0.8238985679525006,
   "tenaciousness": 0.5574385725935715,
