@@ -33,7 +33,9 @@
   "overpowerment": 0.8658666897484979,
   "patheticism": 0.17661866527811942,
   "peanutAllergy": true,
-  "permAttr": [],
+  "permAttr": [
+    "COFFEE_RALLY"
+  ],
   "pitchingRating": 0.7130959835516578,
   "pressurization": 0.6444271875016552,
   "ritual": "Bucket of fish",
