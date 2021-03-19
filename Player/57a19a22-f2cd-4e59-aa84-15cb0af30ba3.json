@@ -28,13 +28,13 @@
   "martyrdom": 1.2494088345390049,
   "moxie": 1.2956473977629537,
   "musclitude": 0.5617521650532572,
-  "name": "Vessalius Sundae",
+  "name": "Ve--ali-s Su-d-e",
   "omniscience": 0.4689681262876888,
   "overpowerment": 0.24828564288163904,
   "patheticism": 0.001,
   "peanutAllergy": false,
   "permAttr": [
-    "ELSEWHERE"
+    "SCATTERED"
   ],
   "pitchingRating": 0.5545540320496264,
   "pressurization": 0.42354982034142297,
@@ -44,10 +44,7 @@
   "shakespearianism": 0.9910078002897388,
   "soul": 5,
   "state": {
-    "elsewhere": {
-      "day": 49,
-      "season": 13
-    }
+    "unscatteredName": "Vessalius Sundae"
   },
   "suppression": 0.3501206014763064,
   "tenaciousness": 0.7207007599619293,
