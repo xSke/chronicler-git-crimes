@@ -28,14 +28,12 @@
   "martyrdom": 0.05742587341881811,
   "moxie": 0.4293769363650526,
   "musclitude": 0.4154333589618628,
-  "name": "Mint Shup-",
+  "name": "Mint Shupe",
   "omniscience": 0.08453814479308962,
   "overpowerment": 0.37778805774687624,
   "patheticism": 0.4890586448828757,
   "peanutAllergy": true,
-  "permAttr": [
-    "SCATTERED"
-  ],
+  "permAttr": [],
   "pitchingRating": 0.26139803246711046,
   "pressurization": 0.05991269912827568,
   "ritual": "Maniacal laughter",
@@ -43,9 +41,7 @@
   "seasAttr": [],
   "shakespearianism": 0.28442498717485204,
   "soul": 3,
-  "state": {
-    "unscatteredName": "Mint Shupe"
-  },
+  "state": {},
   "suppression": 0.5754430853932179,
   "tenaciousness": 0.3593335826421617,
   "thwackability": 0.7382840803531944,
