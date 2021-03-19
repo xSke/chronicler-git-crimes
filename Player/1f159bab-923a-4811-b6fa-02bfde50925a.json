@@ -42,14 +42,14 @@
   "ritual": "Have Hope",
   "ruthlessness": 0.4216339537797807,
   "seasAttr": [
-    "FIRE_EATER"
+    "FRIEND_OF_CROWS"
   ],
   "shakespearianism": 0.1546596969180715,
   "soul": 5,
   "state": {
     "permModSources": {},
     "seasModSources": {
-      "FIRE_EATER": [
+      "FRIEND_OF_CROWS": [
         "RECEIVER"
       ]
     }
