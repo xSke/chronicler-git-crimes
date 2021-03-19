@@ -42,22 +42,14 @@
   "ritual": "Have Hope",
   "ruthlessness": 0.4216339537797807,
   "seasAttr": [
-    "ALTERNATE",
-    "CHUNKY",
-    "SCATTERED"
+    "SMOOTH"
   ],
   "shakespearianism": 0.1546596969180715,
   "soul": 5,
   "state": {
     "permModSources": {},
     "seasModSources": {
-      "ALTERNATE": [
-        "RECEIVER"
-      ],
-      "CHUNKY": [
-        "RECEIVER"
-      ],
-      "SCATTERED": [
+      "SMOOTH": [
         "RECEIVER"
       ]
     }

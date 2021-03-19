@@ -37,9 +37,7 @@
     "HONEY_ROASTED",
     "SWIM_BLADDER",
     "ECHO",
-    "ALTERNATE",
-    "CHUNKY",
-    "SCATTERED"
+    "SMOOTH"
   ],
   "pitchingRating": 0.15007939656965505,
   "pressurization": 0.46357032322903113,
@@ -50,13 +48,7 @@
   "soul": 5,
   "state": {
     "permModSources": {
-      "ALTERNATE": [
-        "ECHO"
-      ],
-      "CHUNKY": [
-        "ECHO"
-      ],
-      "SCATTERED": [
+      "SMOOTH": [
         "ECHO"
       ]
     },

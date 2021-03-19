@@ -41,22 +41,14 @@
   "ritual": "Playing pranks",
   "ruthlessness": 0.7851094485207777,
   "seasAttr": [
-    "ALTERNATE",
-    "CHUNKY",
-    "SCATTERED"
+    "SMOOTH"
   ],
   "shakespearianism": 0.2950006951239794,
   "soul": 5,
   "state": {
     "permModSources": {},
     "seasModSources": {
-      "ALTERNATE": [
-        "RECEIVER"
-      ],
-      "CHUNKY": [
-        "RECEIVER"
-      ],
-      "SCATTERED": [
+      "SMOOTH": [
         "RECEIVER"
       ]
     }
