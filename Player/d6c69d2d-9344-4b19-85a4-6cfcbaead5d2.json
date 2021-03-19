@@ -28,14 +28,13 @@
   "martyrdom": 0.7004373483686764,
   "moxie": 1.2428935351298271,
   "musclitude": 1.1369660928890997,
-  "name": "J-shua Watson",
+  "name": "Joshua Watson",
   "omniscience": 1.0732034034801898,
   "overpowerment": 0.716614404095107,
   "patheticism": 0.001,
   "peanutAllergy": false,
   "permAttr": [
-    "ALTERNATE",
-    "SCATTERED"
+    "ALTERNATE"
   ],
   "pitchingRating": 0.7087430088644932,
   "pressurization": 0.0744220782424665,
@@ -44,9 +43,7 @@
   "seasAttr": [],
   "shakespearianism": 0.6676997725110608,
   "soul": 6,
-  "state": {
-    "unscatteredName": "Joshua Watson"
-  },
+  "state": {},
   "suppression": 1.090032075343108,
   "tenaciousness": 1.20989851542772,
   "thwackability": 0.7033221833270427,
