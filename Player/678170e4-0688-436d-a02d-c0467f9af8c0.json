@@ -34,7 +34,8 @@
   "patheticism": 0.3565067506394574,
   "peanutAllergy": false,
   "permAttr": [
-    "PERK"
+    "PERK",
+    "ELSEWHERE"
   ],
   "pitchingRating": 0.265159962933885,
   "pressurization": 0.12607732386364984,
@@ -43,7 +44,12 @@
   "seasAttr": [],
   "shakespearianism": 0.35878530074515325,
   "soul": 4,
-  "state": {},
+  "state": {
+    "elsewhere": {
+      "day": 97,
+      "season": 13
+    }
+  },
   "suppression": 0.01,
   "tenaciousness": 0.7766262704675357,
   "thwackability": 1.177383651805595,
