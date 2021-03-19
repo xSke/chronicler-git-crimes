@@ -33,7 +33,9 @@
   "overpowerment": 0.7420959942136113,
   "patheticism": 0.04305819634087528,
   "peanutAllergy": true,
-  "permAttr": [],
+  "permAttr": [
+    "ELSEWHERE"
+  ],
   "pitchingRating": 0.637516127987024,
   "pressurization": 0.7991980264111707,
   "ritual": "Wim hof",
@@ -41,7 +43,12 @@
   "seasAttr": [],
   "shakespearianism": 0.8418833198123129,
   "soul": 4,
-  "state": {},
+  "state": {
+    "elsewhere": {
+      "day": 81,
+      "season": 13
+    }
+  },
   "suppression": 0.3714659029958308,
   "tenaciousness": 1.015859750772008,
   "thwackability": 0.9937471442045388,
