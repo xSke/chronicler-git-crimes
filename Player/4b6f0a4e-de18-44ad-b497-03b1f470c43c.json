@@ -36,8 +36,7 @@
   "permAttr": [
     "ALTERNATE",
     "FIRE_EATER",
-    "REPEATING",
-    "ELSEWHERE"
+    "REPEATING"
   ],
   "pitchingRating": 0.2950309922803417,
   "pressurization": 0.09845690110078112,
@@ -46,12 +45,7 @@
   "seasAttr": [],
   "shakespearianism": 0.6287120949010883,
   "soul": 9,
-  "state": {
-    "elsewhere": {
-      "day": 91,
-      "season": 13
-    }
-  },
+  "state": {},
   "suppression": 0.7878061077786531,
   "tenaciousness": 0.6315456931312184,
   "thwackability": 0.9727105319271804,

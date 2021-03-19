@@ -35,8 +35,7 @@
   "peanutAllergy": true,
   "permAttr": [
     "REPEATING",
-    "WANDERER",
-    "COFFEE_RALLY"
+    "WANDERER"
   ],
   "pitchingRating": 0.038945293611459306,
   "pressurization": 0.13619251185564565,
