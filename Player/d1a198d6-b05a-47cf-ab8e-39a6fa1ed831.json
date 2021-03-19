@@ -34,7 +34,8 @@
   "patheticism": 0.3470975203208113,
   "peanutAllergy": false,
   "permAttr": [
-    "HARD_BOILED"
+    "HARD_BOILED",
+    "EGO1"
   ],
   "pitchingRating": 0.4997669355811023,
   "pressurization": 0.7077893681925664,
@@ -42,7 +43,7 @@
   "ruthlessness": 0.36025290713016456,
   "seasAttr": [],
   "shakespearianism": 0.21435997735808196,
-  "soul": 3,
+  "soul": 4,
   "state": {},
   "suppression": 0.7866949760496116,
   "tenaciousness": 0.6275252466989487,

@@ -33,7 +33,9 @@
   "overpowerment": 1.1755463621015931,
   "patheticism": 0.001,
   "peanutAllergy": false,
-  "permAttr": [],
+  "permAttr": [
+    "EGO1"
+  ],
   "pitchingRating": 0.8923898617090458,
   "pressurization": 0.3384408801738285,
   "ritual": "Blacking out",
