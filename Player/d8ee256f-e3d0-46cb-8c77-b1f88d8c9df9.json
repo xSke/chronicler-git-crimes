@@ -28,14 +28,12 @@
   "martyrdom": 1.105478717690213,
   "moxie": 0.7672854560122435,
   "musclitude": 0.37535703775570806,
-  "name": "Comfort Sept-mberish",
+  "name": "Comfort Septemberish",
   "omniscience": 0.5810189341798917,
   "overpowerment": 0.8048631613577711,
   "patheticism": 0.6116223727626449,
   "peanutAllergy": false,
-  "permAttr": [
-    "SCATTERED"
-  ],
+  "permAttr": [],
   "pitchingRating": 0.24781776169237993,
   "pressurization": 0.21455030822645277,
   "ritual": "Fixating on their impending death",
@@ -43,9 +41,7 @@
   "seasAttr": [],
   "shakespearianism": 0.13,
   "soul": 8,
-  "state": {
-    "unscatteredName": "Comfort Septemberish"
-  },
+  "state": {},
   "suppression": 0.934954318659754,
   "tenaciousness": 0.20720359367397928,
   "thwackability": 1.1779957056109354,
