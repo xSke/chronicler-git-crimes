@@ -33,7 +33,9 @@
   "overpowerment": 0.16725824540562884,
   "patheticism": 0.2052460978700537,
   "peanutAllergy": false,
-  "permAttr": [],
+  "permAttr": [
+    "ELSEWHERE"
+  ],
   "pitchingRating": 0.14546874223727382,
   "pressurization": 0.9542058101905552,
   "ritual": "Running the bases backwards",
@@ -41,7 +43,12 @@
   "seasAttr": [],
   "shakespearianism": 0.9558573052267376,
   "soul": 6,
-  "state": {},
+  "state": {
+    "elsewhere": {
+      "day": 86,
+      "season": 13
+    }
+  },
   "suppression": 1.0113485906024364,
   "tenaciousness": 0.9405241054695046,
   "thwackability": 0.8127218134985983,
