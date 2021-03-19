@@ -33,7 +33,9 @@
   "overpowerment": 1.180111054711619,
   "patheticism": 0.3299192012869875,
   "peanutAllergy": true,
-  "permAttr": [],
+  "permAttr": [
+    "TRIPLE_THREAT"
+  ],
   "pitchingRating": 0.69263620984836,
   "pressurization": 0.8115882671698996,
   "ritual": "Crystals",

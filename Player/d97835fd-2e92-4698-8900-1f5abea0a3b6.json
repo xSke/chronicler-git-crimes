@@ -33,7 +33,9 @@
   "overpowerment": 0.4777364502319945,
   "patheticism": 0.3453786901552993,
   "peanutAllergy": true,
-  "permAttr": [],
+  "permAttr": [
+    "TRIPLE_THREAT"
+  ],
   "pitchingRating": 0.5371775309452849,
   "pressurization": 0.9509063179128374,
   "ritual": "Eating",
