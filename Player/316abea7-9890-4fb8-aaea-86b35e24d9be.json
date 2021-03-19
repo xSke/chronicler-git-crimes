@@ -35,7 +35,8 @@
   "peanutAllergy": true,
   "permAttr": [
     "UNDEROVER",
-    "OVERPERFORMING"
+    "OVERPERFORMING",
+    "TRIPLE_THREAT"
   ],
   "pitchingRating": 0.5287342133030167,
   "pressurization": 0.266324437480846,
