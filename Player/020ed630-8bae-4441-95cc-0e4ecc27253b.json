@@ -34,7 +34,8 @@
   "patheticism": 0.35608145062090324,
   "peanutAllergy": true,
   "permAttr": [
-    "FLINCH"
+    "FLINCH",
+    "ELSEWHERE"
   ],
   "pitchingRating": 0.18028570979825537,
   "pressurization": 0.5312801848809112,
@@ -43,7 +44,12 @@
   "seasAttr": [],
   "shakespearianism": 0.1791170705767996,
   "soul": 6,
-  "state": {},
+  "state": {
+    "elsewhere": {
+      "day": 84,
+      "season": 13
+    }
+  },
   "suppression": 0.6271590566529494,
   "tenaciousness": 0.40049296639888776,
   "thwackability": 0.6441972330887824,
