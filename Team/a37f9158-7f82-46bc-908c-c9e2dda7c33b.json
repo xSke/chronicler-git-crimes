@@ -52,7 +52,7 @@
     "EARLBIRDS"
   ],
   "seasonShames": 4,
-  "seasonShamings": 1,
+  "seasonShamings": 2,
   "secondaryColor": "#7ba9d7",
   "shameRuns": 0,
   "shorthand": "BJAZ",
@@ -63,8 +63,8 @@
   },
   "teamSpirit": 0,
   "totalShames": 68,
-  "totalShamings": 52,
+  "totalShamings": 53,
   "tournamentWins": 0,
   "weekAttr": [],
-  "winStreak": -4
+  "winStreak": 1
 }
