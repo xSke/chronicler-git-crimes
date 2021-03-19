@@ -20,9 +20,7 @@
   "emoji": "0x1F6A4",
   "evolution": 0,
   "fullName": "Miami Dale",
-  "gameAttr": [
-    "BOTTOM_DWELLER"
-  ],
+  "gameAttr": [],
   "id": "b63be8c2-576a-4d6e-8daf-814f8bcea96f",
   "level": 4,
   "lineup": [
@@ -59,17 +57,11 @@
   "shorthand": "MIA",
   "slogan": "¡Dale!",
   "stadium": "a0851e18-d5d7-4749-b3c5-c6023fe1cc61",
-  "state": {
-    "gameModSources": {
-      "BOTTOM_DWELLER": [
-        "PSYCHOACOUSTICS"
-      ]
-    }
-  },
+  "state": {},
   "teamSpirit": 0,
   "totalShames": 68,
   "totalShamings": 43,
   "tournamentWins": 0,
   "weekAttr": [],
-  "winStreak": 1
+  "winStreak": 2
 }
