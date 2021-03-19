@@ -41,7 +41,8 @@
   "nickname": "Crabs",
   "permAttr": [
     "CARCINIZATION",
-    "UNHOLEY"
+    "UNHOLEY",
+    "FREE_WILL"
   ],
   "rotation": [
     "97dfc1f6-ac94-4cdc-b0d5-1cb9f8984aa5",
@@ -66,5 +67,5 @@
   "totalShamings": 61,
   "tournamentWins": 0,
   "weekAttr": [],
-  "winStreak": 6
+  "winStreak": -1
 }

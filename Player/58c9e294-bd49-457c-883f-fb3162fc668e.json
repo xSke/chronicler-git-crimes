@@ -28,14 +28,13 @@
   "martyrdom": 0.8163181055198181,
   "moxie": 0.6600066569066216,
   "musclitude": 0.8856948764529745,
-  "name": "Ki-hiro Guerra",
+  "name": "Kichiro Guerra",
   "omniscience": 0.5478971393666532,
   "overpowerment": 0.34422017282054723,
   "patheticism": 0.6378993222622642,
   "peanutAllergy": true,
   "permAttr": [
-    "ALTERNATE",
-    "SCATTERED"
+    "ALTERNATE"
   ],
   "pitchingRating": 0.3332501654870265,
   "pressurization": 0.9951836440509134,
@@ -44,9 +43,7 @@
   "seasAttr": [],
   "shakespearianism": 0.6957713588684994,
   "soul": 3,
-  "state": {
-    "unscatteredName": "Kichiro Guerra"
-  },
+  "state": {},
   "suppression": 0.9465997547905464,
   "tenaciousness": 0.7323255498624183,
   "thwackability": 0.2386064998549647,

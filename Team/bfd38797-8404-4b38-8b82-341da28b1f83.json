@@ -41,7 +41,8 @@
   "mainColor": "#ffce0a",
   "nickname": "Shoe Thieves",
   "permAttr": [
-    "TRAVELING"
+    "TRAVELING",
+    "FREE_WILL"
   ],
   "rotation": [
     "f0594932-8ef7-4d70-9894-df4be64875d8",
