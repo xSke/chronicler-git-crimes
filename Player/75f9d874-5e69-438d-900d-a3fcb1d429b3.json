@@ -41,14 +41,14 @@
   "ritual": "Playing pranks",
   "ruthlessness": 0.7851094485207777,
   "seasAttr": [
-    "SMOOTH"
+    "FIRE_EATER"
   ],
   "shakespearianism": 0.2950006951239794,
   "soul": 5,
   "state": {
     "permModSources": {},
     "seasModSources": {
-      "SMOOTH": [
+      "FIRE_EATER": [
         "RECEIVER"
       ]
     }

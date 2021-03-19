@@ -37,7 +37,7 @@
     "HONEY_ROASTED",
     "SWIM_BLADDER",
     "ECHO",
-    "SMOOTH"
+    "FIRE_EATER"
   ],
   "pitchingRating": 0.15007939656965505,
   "pressurization": 0.46357032322903113,
@@ -48,7 +48,7 @@
   "soul": 5,
   "state": {
     "permModSources": {
-      "SMOOTH": [
+      "FIRE_EATER": [
         "ECHO"
       ]
     },
