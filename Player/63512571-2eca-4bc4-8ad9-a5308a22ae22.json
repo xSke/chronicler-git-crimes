@@ -34,7 +34,8 @@
   "patheticism": 0.4005423954790299,
   "peanutAllergy": true,
   "permAttr": [
-    "COFFEE_RALLY"
+    "COFFEE_RALLY",
+    "ELSEWHERE"
   ],
   "pitchingRating": 0.659034452529045,
   "pressurization": 0.125513252688219,
@@ -43,7 +44,12 @@
   "seasAttr": [],
   "shakespearianism": 0.760965883533014,
   "soul": 5,
-  "state": {},
+  "state": {
+    "elsewhere": {
+      "day": 97,
+      "season": 13
+    }
+  },
   "suppression": 0.9146800098299056,
   "tenaciousness": 0.1384783790913898,
   "thwackability": 0.945498415744408,
