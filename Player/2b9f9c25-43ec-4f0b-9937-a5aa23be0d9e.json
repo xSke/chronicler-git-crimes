@@ -33,7 +33,9 @@
   "overpowerment": 0.3878584702850364,
   "patheticism": 0.15126429645383782,
   "peanutAllergy": false,
-  "permAttr": [],
+  "permAttr": [
+    "INHABITING"
+  ],
   "pitchingRating": 0.11637981823278228,
   "pressurization": 0.6041916858111454,
   "ritual": "Spaghetti",
