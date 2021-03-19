@@ -17,7 +17,7 @@
   ],
   "card": 15,
   "championships": 0,
-  "eDensity": 1630.5459916054645,
+  "eDensity": 1631.2143627135426,
   "emoji": "0x1F450",
   "evolution": 0,
   "fullName": "Breckenridge Jazz Hands",
@@ -47,7 +47,7 @@
     "bf122660-df52-4fc4-9e70-ee185423ff93",
     "ae81e172-801a-4236-929a-b990fc7190ce"
   ],
-  "rotationSlot": 96,
+  "rotationSlot": 97,
   "seasAttr": [
     "EARLBIRDS",
     "PARTY_TIME"
@@ -55,7 +55,7 @@
   "seasonShames": 5,
   "seasonShamings": 5,
   "secondaryColor": "#7ba9d7",
-  "shameRuns": 1,
+  "shameRuns": 0,
   "shorthand": "BJAZ",
   "slogan": "We’ve Got Winning to Do. Just for You.",
   "stadium": "60e78a6c-fe49-4283-8293-735e9fa7e3e9",
