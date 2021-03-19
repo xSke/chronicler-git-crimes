@@ -28,14 +28,13 @@
   "martyrdom": 0.9313221484990352,
   "moxie": 1.004410223155787,
   "musclitude": 0.945664110112194,
-  "name": "Dud-ey Mueller",
+  "name": "Dudley Mueller",
   "omniscience": 0.599911898573924,
   "overpowerment": 0.4012469898866996,
   "patheticism": 0.22364031791738304,
   "peanutAllergy": false,
   "permAttr": [
-    "SIPHON",
-    "SCATTERED"
+    "SIPHON"
   ],
   "pitchingRating": 0.6182068889538207,
   "pressurization": 0.5250074255062014,
@@ -44,9 +43,7 @@
   "seasAttr": [],
   "shakespearianism": 0.7472134530425446,
   "soul": 7,
-  "state": {
-    "unscatteredName": "Dudley Mueller"
-  },
+  "state": {},
   "suppression": 0.5739589654404399,
   "tenaciousness": 0.987546649080697,
   "thwackability": 1.5657800898126728,
