@@ -36,8 +36,7 @@
   "permAttr": [
     "HONEY_ROASTED",
     "SWIM_BLADDER",
-    "ECHO",
-    "FIRE_EATER"
+    "STATIC"
   ],
   "pitchingRating": 0.15007939656965505,
   "pressurization": 0.46357032322903113,
@@ -47,11 +46,7 @@
   "shakespearianism": 0.4677414557469457,
   "soul": 5,
   "state": {
-    "permModSources": {
-      "FIRE_EATER": [
-        "ECHO"
-      ]
-    },
+    "permModSources": {},
     "seasModSources": {}
   },
   "suppression": 0.1601930672050816,
