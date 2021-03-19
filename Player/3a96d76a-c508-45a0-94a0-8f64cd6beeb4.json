@@ -35,34 +35,29 @@
   "peanutAllergy": false,
   "permAttr": [
     "FLICKERING",
-    "RECEIVER",
-    "UNDERPERFORMING"
+    "RECEIVER"
   ],
   "pitchingRating": 0.48892476684479896,
   "pressurization": 0.5991665436375463,
   "ritual": "Have Hope",
   "ruthlessness": 0.5156501842184871,
   "seasAttr": [
-    "FRIEND_OF_CROWS",
-    "SUPERYUMMY",
-    "OVERPERFORMING"
+    "ALTERNATE",
+    "CHUNKY",
+    "SCATTERED"
   ],
   "shakespearianism": 0.15826474558530457,
   "soul": 4,
   "state": {
-    "permModSources": {
-      "UNDERPERFORMING": [
-        "SUPERYUMMY"
-      ]
-    },
+    "permModSources": {},
     "seasModSources": {
-      "FRIEND_OF_CROWS": [
+      "ALTERNATE": [
         "RECEIVER"
       ],
-      "OVERPERFORMING": [
+      "CHUNKY": [
         "RECEIVER"
       ],
-      "SUPERYUMMY": [
+      "SCATTERED": [
         "RECEIVER"
       ]
     }

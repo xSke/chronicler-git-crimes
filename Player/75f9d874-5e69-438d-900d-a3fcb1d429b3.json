@@ -34,34 +34,29 @@
   "patheticism": 0.8514886194322493,
   "peanutAllergy": true,
   "permAttr": [
-    "RECEIVER",
-    "UNDERPERFORMING"
+    "RECEIVER"
   ],
   "pitchingRating": 0.2550101661318291,
   "pressurization": 0.7290459950758161,
   "ritual": "Playing pranks",
   "ruthlessness": 0.7851094485207777,
   "seasAttr": [
-    "FRIEND_OF_CROWS",
-    "SUPERYUMMY",
-    "OVERPERFORMING"
+    "ALTERNATE",
+    "CHUNKY",
+    "SCATTERED"
   ],
   "shakespearianism": 0.2950006951239794,
   "soul": 5,
   "state": {
-    "permModSources": {
-      "UNDERPERFORMING": [
-        "SUPERYUMMY"
-      ]
-    },
+    "permModSources": {},
     "seasModSources": {
-      "FRIEND_OF_CROWS": [
+      "ALTERNATE": [
         "RECEIVER"
       ],
-      "OVERPERFORMING": [
+      "CHUNKY": [
         "RECEIVER"
       ],
-      "SUPERYUMMY": [
+      "SCATTERED": [
         "RECEIVER"
       ]
     }
