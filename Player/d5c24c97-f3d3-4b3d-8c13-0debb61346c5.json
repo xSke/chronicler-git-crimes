@@ -35,8 +35,9 @@
   "peanutAllergy": false,
   "permAttr": [
     "ECHO",
-    "ALTERNATE",
-    "WANDERER"
+    "SPICY",
+    "PERK",
+    "SCATTERED"
   ],
   "pitchingRating": 0.255185855553076,
   "pressurization": 0.5145639262885293,
@@ -47,10 +48,13 @@
   "soul": 2,
   "state": {
     "permModSources": {
-      "ALTERNATE": [
+      "PERK": [
         "ECHO"
       ],
-      "WANDERER": [
+      "SCATTERED": [
+        "ECHO"
+      ],
+      "SPICY": [
         "ECHO"
       ]
     }

@@ -42,18 +42,22 @@
   "ritual": "Have Hope",
   "ruthlessness": 0.4216339537797807,
   "seasAttr": [
-    "ALTERNATE",
-    "WANDERER"
+    "SPICY",
+    "PERK",
+    "SCATTERED"
   ],
   "shakespearianism": 0.1546596969180715,
   "soul": 5,
   "state": {
     "permModSources": {},
     "seasModSources": {
-      "ALTERNATE": [
+      "PERK": [
         "RECEIVER"
       ],
-      "WANDERER": [
+      "SCATTERED": [
+        "RECEIVER"
+      ],
+      "SPICY": [
         "RECEIVER"
       ]
     }
