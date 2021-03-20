@@ -40,22 +40,11 @@
   "pressurization": 0.7290459950758161,
   "ritual": "Playing pranks",
   "ruthlessness": 0.7851094485207777,
-  "seasAttr": [
-    "SWIM_BLADDER",
-    "TRIPLE_THREAT"
-  ],
+  "seasAttr": [],
   "shakespearianism": 0.2950006951239794,
   "soul": 5,
   "state": {
-    "permModSources": {},
-    "seasModSources": {
-      "SWIM_BLADDER": [
-        "RECEIVER"
-      ],
-      "TRIPLE_THREAT": [
-        "RECEIVER"
-      ]
-    }
+    "permModSources": {}
   },
   "suppression": 0.3878409948139672,
   "tenaciousness": 0.19552060592903872,

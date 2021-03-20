@@ -41,22 +41,11 @@
   "pressurization": 0.6260620508749675,
   "ritual": "Have Hope",
   "ruthlessness": 0.4216339537797807,
-  "seasAttr": [
-    "SWIM_BLADDER",
-    "TRIPLE_THREAT"
-  ],
+  "seasAttr": [],
   "shakespearianism": 0.1546596969180715,
   "soul": 5,
   "state": {
-    "permModSources": {},
-    "seasModSources": {
-      "SWIM_BLADDER": [
-        "RECEIVER"
-      ],
-      "TRIPLE_THREAT": [
-        "RECEIVER"
-      ]
-    }
+    "permModSources": {}
   },
   "suppression": 0.17613837234928814,
   "tenaciousness": 0.041,
