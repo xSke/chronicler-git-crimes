@@ -48,12 +48,10 @@
     "cfb42325-592a-4119-9b40-4cdc19959b09",
     "f741dc01-2bae-4459-bfc0-f97536193eea"
   ],
-  "rotationSlot": 107,
-  "seasAttr": [
-    "PARTY_TIME"
-  ],
-  "seasonShames": 7,
-  "seasonShamings": 3,
+  "rotationSlot": 0,
+  "seasAttr": [],
+  "seasonShames": 0,
+  "seasonShamings": 0,
   "secondaryColor": "#e830ab",
   "shameRuns": 0,
   "shorthand": "TKL",
