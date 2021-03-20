@@ -28,15 +28,14 @@
   "martyrdom": 0.9433240560557148,
   "moxie": 0.6451166662457799,
   "musclitude": 0.18748099489922723,
-  "name": "Igneus Delacru-",
+  "name": "Igneus Delacruz",
   "omniscience": 0.15,
   "overpowerment": 0.01,
   "patheticism": 0.050000000000000024,
   "peanutAllergy": false,
   "permAttr": [
     "ALTERNATE",
-    "CHUNKY",
-    "SCATTERED"
+    "CHUNKY"
   ],
   "pitchingRating": 0.19910568779752255,
   "pressurization": 0.6097617160304536,
@@ -45,9 +44,7 @@
   "seasAttr": [],
   "shakespearianism": 0.01,
   "soul": 9,
-  "state": {
-    "unscatteredName": "Igneus Delacruz"
-  },
+  "state": {},
   "suppression": 0.5645366065607887,
   "tenaciousness": 0.15,
   "thwackability": 1.0239850983983048,

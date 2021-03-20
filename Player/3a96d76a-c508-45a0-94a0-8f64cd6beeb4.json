@@ -42,18 +42,14 @@
   "ritual": "Have Hope",
   "ruthlessness": 0.5156501842184871,
   "seasAttr": [
-    "SWIM_BLADDER",
-    "TRIPLE_THREAT"
+    "SMOOTH"
   ],
   "shakespearianism": 0.15826474558530457,
   "soul": 4,
   "state": {
     "permModSources": {},
     "seasModSources": {
-      "SWIM_BLADDER": [
-        "RECEIVER"
-      ],
-      "TRIPLE_THREAT": [
+      "SMOOTH": [
         "RECEIVER"
       ]
     }
