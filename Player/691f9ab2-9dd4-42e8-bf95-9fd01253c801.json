@@ -35,7 +35,9 @@
   "peanutAllergy": true,
   "permAttr": [
     "ECHO",
-    "SIPHON"
+    "FRIEND_OF_CROWS",
+    "SUPERYUMMY",
+    "UNDERPERFORMING"
   ],
   "pitchingRating": 0.6329884597957858,
   "pressurization": 0.9154458307182802,
@@ -46,7 +48,13 @@
   "soul": 7,
   "state": {
     "permModSources": {
-      "SIPHON": [
+      "FRIEND_OF_CROWS": [
+        "ECHO"
+      ],
+      "SUPERYUMMY": [
+        "ECHO"
+      ],
+      "UNDERPERFORMING": [
         "ECHO"
       ]
     }

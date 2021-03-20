@@ -41,14 +41,22 @@
   "ritual": "Playing pranks",
   "ruthlessness": 0.7851094485207777,
   "seasAttr": [
-    "SIPHON"
+    "FRIEND_OF_CROWS",
+    "SUPERYUMMY",
+    "UNDERPERFORMING"
   ],
   "shakespearianism": 0.2950006951239794,
   "soul": 5,
   "state": {
     "permModSources": {},
     "seasModSources": {
-      "SIPHON": [
+      "FRIEND_OF_CROWS": [
+        "RECEIVER"
+      ],
+      "SUPERYUMMY": [
+        "RECEIVER"
+      ],
+      "UNDERPERFORMING": [
         "RECEIVER"
       ]
     }
