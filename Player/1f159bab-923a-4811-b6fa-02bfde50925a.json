@@ -42,14 +42,14 @@
   "ritual": "Have Hope",
   "ruthlessness": 0.4216339537797807,
   "seasAttr": [
-    "ELSEWHERE"
+    "SIPHON"
   ],
   "shakespearianism": 0.1546596969180715,
   "soul": 5,
   "state": {
     "permModSources": {},
     "seasModSources": {
-      "ELSEWHERE": [
+      "SIPHON": [
         "RECEIVER"
       ]
     }

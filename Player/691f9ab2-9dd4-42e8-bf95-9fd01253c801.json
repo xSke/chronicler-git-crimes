@@ -34,7 +34,8 @@
   "patheticism": 0.8538014030217469,
   "peanutAllergy": true,
   "permAttr": [
-    "ECHO"
+    "ECHO",
+    "SIPHON"
   ],
   "pitchingRating": 0.6329884597957858,
   "pressurization": 0.9154458307182802,
@@ -43,7 +44,13 @@
   "seasAttr": [],
   "shakespearianism": 0.8178770207862778,
   "soul": 7,
-  "state": {},
+  "state": {
+    "permModSources": {
+      "SIPHON": [
+        "ECHO"
+      ]
+    }
+  },
   "suppression": 0.6140151661351758,
   "tenaciousness": 0.9403664799456326,
   "thwackability": 0.41815592275383007,

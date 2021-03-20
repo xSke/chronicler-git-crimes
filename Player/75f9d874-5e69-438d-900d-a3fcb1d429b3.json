@@ -41,14 +41,14 @@
   "ritual": "Playing pranks",
   "ruthlessness": 0.7851094485207777,
   "seasAttr": [
-    "ELSEWHERE"
+    "SIPHON"
   ],
   "shakespearianism": 0.2950006951239794,
   "soul": 5,
   "state": {
     "permModSources": {},
     "seasModSources": {
-      "ELSEWHERE": [
+      "SIPHON": [
         "RECEIVER"
       ]
     }
