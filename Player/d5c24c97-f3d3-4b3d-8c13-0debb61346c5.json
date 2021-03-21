@@ -35,7 +35,8 @@
   "peanutAllergy": false,
   "permAttr": [
     "ECHO",
-    "ELSEWHERE"
+    "ELSEWHERE",
+    "MAXIMALIST"
   ],
   "pitchingRating": 0.255185855553076,
   "pressurization": 0.5145639262885293,

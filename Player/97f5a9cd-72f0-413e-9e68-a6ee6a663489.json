@@ -33,7 +33,9 @@
   "overpowerment": 0.5103533276591712,
   "patheticism": 0.5258312071783487,
   "peanutAllergy": false,
-  "permAttr": [],
+  "permAttr": [
+    "MAXIMALIST"
+  ],
   "pitchingRating": 0.4517111619670659,
   "pressurization": 0.2816704271793047,
   "ritual": "Staring into the souls of their opponents",

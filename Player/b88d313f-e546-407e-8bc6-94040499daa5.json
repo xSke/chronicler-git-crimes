@@ -33,7 +33,9 @@
   "overpowerment": 0.9779393012278996,
   "patheticism": 0.00963622997905289,
   "peanutAllergy": true,
-  "permAttr": [],
+  "permAttr": [
+    "MINIMALIST"
+  ],
   "pitchingRating": 0.4734185435808042,
   "pressurization": 0.4926218193228959,
   "ritual": "Acupuncture",

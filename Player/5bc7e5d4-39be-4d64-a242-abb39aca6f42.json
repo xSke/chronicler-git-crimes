@@ -33,7 +33,9 @@
   "overpowerment": 0.9469830253688948,
   "patheticism": 0.34776093909527733,
   "peanutAllergy": false,
-  "permAttr": [],
+  "permAttr": [
+    "MAXIMALIST"
+  ],
   "pitchingRating": 0.7257775667452279,
   "pressurization": 0.11477799362334996,
   "ritual": "Kneeling",

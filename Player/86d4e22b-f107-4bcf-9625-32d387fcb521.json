@@ -11,7 +11,7 @@
   "coffee": 12,
   "coldness": 0.3043536965750927,
   "continuation": 0.9521487364939016,
-  "deceased": true,
+  "deceased": false,
   "defenseRating": 0.6978768467655102,
   "divinity": 1.1383965378033092,
   "eDensity": 51.04070737361519,
@@ -24,7 +24,7 @@
   "id": "86d4e22b-f107-4bcf-9625-32d387fcb521",
   "indulgence": 0.8519680649130618,
   "laserlikeness": 0.6337955406003984,
-  "leagueTeamId": "eb67ae5e-c4bf-46ca-bbbc-425cd34182ff",
+  "leagueTeamId": "8d87c468-699a-47a8-b40d-cfb73a5660ad",
   "martyrdom": 0.5376279455892786,
   "moxie": 0.9902878925285324,
   "musclitude": 1.1764011605143947,
@@ -36,7 +36,9 @@
   "permAttr": [
     "DOUBLE_PAYOUTS",
     "HONEY_ROASTED",
-    "EGO2"
+    "EGO2",
+    "RETURNED",
+    "DEBT_THREE"
   ],
   "pitchingRating": 0.5604182580391098,
   "pressurization": 0.32762547788474816,

@@ -33,7 +33,9 @@
   "overpowerment": 0.8582879937790837,
   "patheticism": 0.6157202579071932,
   "peanutAllergy": false,
-  "permAttr": [],
+  "permAttr": [
+    "MINIMALIST"
+  ],
   "pitchingRating": 1.1783931086629331,
   "pressurization": 0.23109357401656405,
   "ritual": "Spinning",
