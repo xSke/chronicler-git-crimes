@@ -32,8 +32,10 @@
   "omniscience": 1.0967065070653637,
   "overpowerment": 0.9667930946461868,
   "patheticism": 0.001,
-  "peanutAllergy": true,
-  "permAttr": [],
+  "peanutAllergy": false,
+  "permAttr": [
+    "SUPERYUMMY"
+  ],
   "pitchingRating": 0.8447268959631368,
   "pressurization": 0.5408376821510407,
   "ritual": "Pre-visualizing",
