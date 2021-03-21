@@ -13,7 +13,8 @@
   "model": 6,
   "mods": [
     "BIG_BUCKET",
-    "PSYCHOACOUSTICS"
+    "PSYCHOACOUSTICS",
+    "CRIME_SCENE"
   ],
   "mysticism": 0.7347539006037183,
   "name": "Kansas City FreshDome",

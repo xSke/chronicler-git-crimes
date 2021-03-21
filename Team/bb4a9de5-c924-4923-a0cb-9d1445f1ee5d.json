@@ -1,7 +1,7 @@
 {
   "bench": [
     "103d788d-2c74-4edc-9299-2a1384a2776a",
-    "06fdd1ed-13a0-4eb2-a7dd-4e9551235a68",
+    "72fb797a-aea8-4723-b7e4-d110c301320e",
     "26503f2c-631a-45ba-905e-aa14471c8b8e"
   ],
   "bullpen": [
@@ -38,13 +38,14 @@
   "mainColor": "#5c4822",
   "nickname": "Worms",
   "permAttr": [
-    "BOTTOM_DWELLER"
+    "BOTTOM_DWELLER",
+    "BLACKHOLE_PAYOUTS"
   ],
   "rotation": [
     "ccd6068b-2735-4072-bfe5-571a5d57c285",
     "4bf352d2-6a57-420a-9d45-b23b2b947375",
-    "72fb797a-aea8-4723-b7e4-d110c301320e",
-    "64c92f8d-6028-495b-b81d-32c975afb2e1",
+    "06fdd1ed-13a0-4eb2-a7dd-4e9551235a68",
+    "425f3f84-bab0-4cf2-91c1-96e78cf5cd02",
     "924de86d-260b-495b-80e1-57af5767703c"
   ],
   "rotationSlot": 0,

@@ -7,7 +7,7 @@
   "bullpen": [
     "9ae7cec4-1df0-4922-8f7a-f3b996d031e7",
     "1f930140-9fc6-4240-9ef6-e7ac065eaefb",
-    "5116921f-7642-441a-9a85-40c93a1e61bd",
+    "cbd19e6f-3d08-4734-b23f-585330028665",
     "e6768069-1db7-44d6-849b-0a281f62e855",
     "1c55aedf-6e31-4f3c-9b17-8a84b7d15a0c",
     "ec41d37e-2398-4e7d-aaf0-f7f52e5300c7",
@@ -31,15 +31,14 @@
     "5361e381-6658-488b-8236-dde6a264554f",
     "6ebac746-6685-4d0f-8e84-6b21299b5169",
     "ebe6ac02-3b83-4da8-b1e5-f89053bbd5c8",
-    "0268b35f-b19b-4b2f-90c4-89fb36403686",
+    "5116921f-7642-441a-9a85-40c93a1e61bd",
     "ad56f749-ee48-4a85-9827-8455aeafe276"
   ],
   "location": "Atlantis",
   "mainColor": "#00dbc2",
   "nickname": "Georgias",
   "permAttr": [
-    "UNDERSEA",
-    "FREE_WILL"
+    "UNDERSEA"
   ],
   "rotation": [
     "bc29afc1-c954-4def-978b-a59ae5def3c3",

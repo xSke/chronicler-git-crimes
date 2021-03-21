@@ -1,7 +1,7 @@
 {
   "bench": [
     "89c8f6bf-94a2-4e56-8412-bdb0182509a9",
-    "6a567da6-7c96-44d3-85de-e5a08a919250",
+    "c549f280-82ba-4d8e-a4ce-c49e56461fb6",
     "6f39a2f9-76d7-44fd-8a6d-00f87d7bb004",
     "54c724af-b163-4319-93c7-fdcafbbcc990",
     "800ac627-0334-41d5-98df-c51a47e46aef"
@@ -39,10 +39,12 @@
   "location": "Tokyo",
   "mainColor": "#e830ab",
   "nickname": "Lift",
-  "permAttr": [],
+  "permAttr": [
+    "POPCORN_PAYOUTS"
+  ],
   "rotation": [
     "62ae6aa9-e346-4faa-b07c-1f7623580015",
-    "c549f280-82ba-4d8e-a4ce-c49e56461fb6",
+    "6a567da6-7c96-44d3-85de-e5a08a919250",
     "fa40d6ea-e24b-4422-9df1-0643ab202c5f",
     "9c23702b-f0c2-4668-8bcc-61bbdbbfd93e",
     "cfb42325-592a-4119-9b40-4cdc19959b09",

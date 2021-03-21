@@ -12,7 +12,7 @@
     "50154d56-c58a-461f-976d-b06a4ae467f9",
     "5b3f0a43-45e7-44e7-9496-512c24c040f0",
     "93502db3-85fa-4393-acae-2a5ff3980dde",
-    "f7847de2-df43-4236-8dbe-ae403f5f3ab3",
+    "5b5bcc6c-d011-490f-b084-6fdc2c52f958",
     "2d22f026-2873-410b-a45f-3b1dac665ffd",
     "d002946f-e7ed-4ce4-a405-63bdaf5eabb5"
   ],
@@ -31,7 +31,7 @@
     "4ca52626-58cd-449d-88bb-f6d631588640",
     "020ed630-8bae-4441-95cc-0e4ecc27253b",
     "d47dd08e-833c-4302-a965-a391d345455c",
-    "fcb08e4f-df3a-446c-ab50-58a496ac5f3f",
+    "30218684-7fa1-41a5-a3b3-5d9cd97dd36b",
     "fa477c92-39b6-4a52-b065-40af2f29840a",
     "b8ab86c6-9054-4832-9b96-508dbd4eb624",
     "eaaef47e-82cc-4c90-b77d-75c3fb279e83",
@@ -41,15 +41,15 @@
   "mainColor": "#ffce0a",
   "nickname": "Shoe Thieves",
   "permAttr": [
-    "TRAVELING",
-    "FREE_WILL"
+    "TRAVELING"
   ],
   "rotation": [
     "f0594932-8ef7-4d70-9894-df4be64875d8",
     "34267632-8c32-4a8b-b5e6-ce1568bb0639",
-    "5b5bcc6c-d011-490f-b084-6fdc2c52f958",
+    "f7847de2-df43-4236-8dbe-ae403f5f3ab3",
     "03f920cc-411f-44ef-ae66-98a44e883291",
-    "5e4dfa16-f1b9-400f-b8ef-a1613c2b026a"
+    "5e4dfa16-f1b9-400f-b8ef-a1613c2b026a",
+    "60026a9d-fc9a-4f5a-94fd-2225398fa3da"
   ],
   "rotationSlot": 0,
   "seasAttr": [],

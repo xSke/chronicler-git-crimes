@@ -38,7 +38,8 @@
   "mainColor": "#d13100",
   "nickname": "Mechanics",
   "permAttr": [
-    "MAINTENANCE_MODE"
+    "MAINTENANCE_MODE",
+    "STALEPOPCORN_PAYOUTS"
   ],
   "rotation": [
     "266abcc0-8abc-4570-b32e-e5668e5d38f3",

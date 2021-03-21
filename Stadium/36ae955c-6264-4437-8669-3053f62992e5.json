@@ -12,7 +12,8 @@
   "mainColor": "#ffce0a",
   "model": 8,
   "mods": [
-    "PSYCHOACOUSTICS"
+    "PSYCHOACOUSTICS",
+    "CRIME_SCENE"
   ],
   "mysticism": 0.48330562996753273,
   "name": "Choux Stadium",
