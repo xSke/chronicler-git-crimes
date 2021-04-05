@@ -27,15 +27,15 @@
   "martyrdom": 0.3966974104116525,
   "moxie": 0.412389646623353,
   "musclitude": 0.8555047087255088,
-  "name": "Nandy Fantastic",
+  "name": "Nand- Fanta-t-c",
   "omniscience": 0.6866906411828765,
   "overpowerment": 0.5206432589552515,
   "patheticism": 0.01899001754160244,
   "peanutAllergy": false,
   "permAttr": [
     "FIRST_BORN",
-    "ELSEWHERE",
-    "MINIMALIST"
+    "MINIMALIST",
+    "SCATTERED"
   ],
   "pitchingRating": 0.3148510670286235,
   "pressurization": 0.12353581218771303,
@@ -45,10 +45,7 @@
   "shakespearianism": 0.05970740570560651,
   "soul": 3,
   "state": {
-    "elsewhere": {
-      "day": 97,
-      "season": 13
-    }
+    "unscatteredName": "Nandy Fantastic"
   },
   "suppression": 0.6195089232771588,
   "tenaciousness": 0.07830445734981017,
