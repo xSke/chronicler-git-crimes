@@ -1,6 +1,11 @@
 [
   {
     "expire": null,
+    "id": "uhhh",
+    "msg": "oh are we back"
+  },
+  {
+    "expire": null,
     "id": "blaseball_back",
     "msg": "Blaseball is BACK"
   },
