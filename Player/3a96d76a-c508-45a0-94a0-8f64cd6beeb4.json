@@ -1,9 +1,7 @@
 {
   "anticapitalism": 0.9319521726975571,
-  "armor": "",
   "baseThirst": 0.9439164183055552,
   "baserunningRating": 0.1476952985146232,
-  "bat": "ENGLAND_MEMORABILIA",
   "blood": 1,
   "buoyancy": 0.06175643715889385,
   "chasiness": 0.24707781127270825,
@@ -23,6 +21,7 @@
   "hittingRating": 0.5345637884160873,
   "id": "3a96d76a-c508-45a0-94a0-8f64cd6beeb4",
   "indulgence": 0.13103207532010705,
+  "items": [],
   "laserlikeness": 0.05965273454152789,
   "leagueTeamId": "b024e975-1c4a-4575-8936-a3754a08806a",
   "martyrdom": 0.18253680320255863,

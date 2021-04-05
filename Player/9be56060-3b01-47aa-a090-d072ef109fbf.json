@@ -1,9 +1,7 @@
 {
   "anticapitalism": 0.6910462384906211,
-  "armor": "SCORPLERS_JACKET",
   "baseThirst": 0.8915040549971025,
   "baserunningRating": 0.5118365714528604,
-  "bat": "",
   "blood": 8,
   "buoyancy": 1.2613275670429305,
   "chasiness": 0.41209169318836514,
@@ -23,6 +21,7 @@
   "hittingRating": 0.6369494158599752,
   "id": "9be56060-3b01-47aa-a090-d072ef109fbf",
   "indulgence": 0.2899604338017408,
+  "items": [],
   "laserlikeness": 0.3670467797899836,
   "leagueTeamId": "eb67ae5e-c4bf-46ca-bbbc-425cd34182ff",
   "martyrdom": 0.8737541699385161,

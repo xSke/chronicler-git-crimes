@@ -1,9 +1,7 @@
 {
   "anticapitalism": 1.0299765253750683,
-  "armor": "",
   "baseThirst": 0.2623251402073494,
   "baserunningRating": 0.31963104979107765,
-  "bat": "",
   "blood": 2,
   "buoyancy": 0.6300252053672732,
   "chasiness": 0.2682654116500259,
@@ -23,6 +21,7 @@
   "hittingRating": 0.491545895283042,
   "id": "5ca7e854-dc00-4955-9235-d7fcd732ddcf",
   "indulgence": 0.26186731153050835,
+  "items": [],
   "laserlikeness": 0.24043188811021843,
   "leagueTeamId": "c73b705c-40ad-4633-a6ed-d357ee2e2bcf",
   "martyrdom": 0.2319078138869298,

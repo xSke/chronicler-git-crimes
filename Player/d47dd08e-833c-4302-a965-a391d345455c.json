@@ -1,9 +1,7 @@
 {
   "anticapitalism": 0.9772577417540512,
-  "armor": "HEADPHONES",
   "baseThirst": 0.8116913399704492,
   "baserunningRating": 0.5409532642196628,
-  "bat": "",
   "blood": 11,
   "buoyancy": 1.237557472295148,
   "chasiness": 1.0800250655267676,
@@ -23,6 +21,7 @@
   "hittingRating": 0.7792367599753325,
   "id": "d47dd08e-833c-4302-a965-a391d345455c",
   "indulgence": 1.002190002245626,
+  "items": [],
   "laserlikeness": 0.37083766935052226,
   "leagueTeamId": "bfd38797-8404-4b38-8b82-341da28b1f83",
   "martyrdom": 0.9440140212428618,
