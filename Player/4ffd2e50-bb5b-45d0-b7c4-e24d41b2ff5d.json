@@ -27,13 +27,13 @@
   "martyrdom": 0.9094794235145296,
   "moxie": 0.3030119529458229,
   "musclitude": 0.8211454239260919,
-  "name": "Schneider Bendie",
+  "name": "-----ide- B-n--e",
   "omniscience": 0.15803509969296675,
   "overpowerment": 0.9791222010382824,
   "patheticism": 0.6605270682182964,
   "peanutAllergy": false,
   "permAttr": [
-    "ELSEWHERE"
+    "SCATTERED"
   ],
   "pitchingRating": 0.944822582173022,
   "pressurization": 0.06942770423370281,
@@ -43,10 +43,7 @@
   "shakespearianism": 0.5756521891336078,
   "soul": 4,
   "state": {
-    "elsewhere": {
-      "day": 79,
-      "season": 13
-    }
+    "unscatteredName": "Schneider Bendie"
   },
   "suppression": 0.6434852223842624,
   "tenaciousness": 0.5240996938198681,
