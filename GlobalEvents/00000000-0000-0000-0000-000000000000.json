@@ -6,6 +6,11 @@
   },
   {
     "expire": null,
+    "id": "consumers",
+    "msg": "wait alston cerveza got attacked"
+  },
+  {
+    "expire": null,
     "id": "blaseball_back",
     "msg": "Blaseball is BACK"
   },
