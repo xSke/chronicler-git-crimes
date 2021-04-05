@@ -32,7 +32,9 @@
   "overpowerment": 0.14527884845325456,
   "patheticism": 0.796527954386927,
   "peanutAllergy": true,
-  "permAttr": [],
+  "permAttr": [
+    "REVERBERATING"
+  ],
   "pitchingRating": 0.4517164436089725,
   "pressurization": 0.09021976733339288,
   "ritual": "Two sets of gloves",
