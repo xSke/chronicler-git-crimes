@@ -27,14 +27,14 @@
   "martyrdom": 0.8737541699385161,
   "moxie": 0.6216750814405206,
   "musclitude": 0.7409683089787114,
-  "name": "Jesús Koch",
+  "name": "J---s -oc-",
   "omniscience": 0.5876325644276553,
   "overpowerment": 0.7427616386690545,
   "patheticism": 0.570119660887764,
   "peanutAllergy": false,
   "permAttr": [
     "ALTERNATE",
-    "ELSEWHERE"
+    "SCATTERED"
   ],
   "pitchingRating": 0.29476512786046744,
   "pressurization": 0.4557744108889843,
@@ -44,10 +44,7 @@
   "shakespearianism": 0.6896500869285658,
   "soul": 2,
   "state": {
-    "elsewhere": {
-      "day": 102,
-      "season": 13
-    }
+    "unscatteredName": "Jesús Koch"
   },
   "suppression": 0.5258654062024429,
   "tenaciousness": 0.3707174567318616,
