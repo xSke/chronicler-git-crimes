@@ -40,11 +40,22 @@
   "pressurization": 0.6260620508749675,
   "ritual": "Have Hope",
   "ruthlessness": 0.4216339537797807,
-  "seasAttr": [],
+  "seasAttr": [
+    "ALTERNATE",
+    "FRIEND_OF_CROWS"
+  ],
   "shakespearianism": 0.1546596969180715,
   "soul": 5,
   "state": {
-    "permModSources": {}
+    "permModSources": {},
+    "seasModSources": {
+      "ALTERNATE": [
+        "RECEIVER"
+      ],
+      "FRIEND_OF_CROWS": [
+        "RECEIVER"
+      ]
+    }
   },
   "suppression": 0.17613837234928814,
   "tenaciousness": 0.041,

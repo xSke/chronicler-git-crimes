@@ -39,11 +39,22 @@
   "pressurization": 0.7290459950758161,
   "ritual": "Playing pranks",
   "ruthlessness": 0.7851094485207777,
-  "seasAttr": [],
+  "seasAttr": [
+    "ALTERNATE",
+    "FRIEND_OF_CROWS"
+  ],
   "shakespearianism": 0.2950006951239794,
   "soul": 5,
   "state": {
-    "permModSources": {}
+    "permModSources": {},
+    "seasModSources": {
+      "ALTERNATE": [
+        "RECEIVER"
+      ],
+      "FRIEND_OF_CROWS": [
+        "RECEIVER"
+      ]
+    }
   },
   "suppression": 0.3878409948139672,
   "tenaciousness": 0.19552060592903872,
