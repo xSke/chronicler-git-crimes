@@ -27,14 +27,14 @@
   "martyrdom": 1.9326401489045313,
   "moxie": 1.852606101849595,
   "musclitude": 1.6760919236795764,
-  "name": "Jaxon Buckley",
+  "name": "J-xo- B-c--ey",
   "omniscience": 0.5840733155250587,
   "overpowerment": 0.5812915666101756,
   "patheticism": 0.001,
   "peanutAllergy": true,
   "permAttr": [
     "FIRE_EATER",
-    "ELSEWHERE"
+    "SCATTERED"
   ],
   "pitchingRating": 0.6745209442135607,
   "pressurization": 0.5237241381954538,
@@ -44,10 +44,7 @@
   "shakespearianism": 0.5075029930900375,
   "soul": 7,
   "state": {
-    "elsewhere": {
-      "day": 86,
-      "season": 13
-    }
+    "unscatteredName": "Jaxon Buckley"
   },
   "suppression": 1.1847845502553165,
   "tenaciousness": 0.39552053869301296,
