@@ -34,8 +34,7 @@
   "peanutAllergy": true,
   "permAttr": [
     "ECHO",
-    "SWIM_BLADDER",
-    "TRIPLE_THREAT"
+    "SWIM_BLADDER"
   ],
   "pitchingRating": 0.6329884597957858,
   "pressurization": 0.9154458307182802,
