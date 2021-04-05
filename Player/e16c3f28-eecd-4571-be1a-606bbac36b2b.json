@@ -35,7 +35,8 @@
   "permAttr": [
     "FIRE_EATER",
     "CREDIT_TO_THE_TEAM",
-    "EGO1"
+    "EGO1",
+    "REDACTED"
   ],
   "pitchingRating": 0.13591087212771535,
   "pressurization": 0.5072750604949114,
@@ -53,10 +54,5 @@
   "tragicness": 0.782975667483996,
   "unthwackability": 0.18218629683847343,
   "watchfulness": 0.6996854396795117,
-  "weekAttr": [
-    "FIRE_EATER",
-    "CREDIT_TO_THE_TEAM",
-    "EGO1",
-    "REDACTED"
-  ]
+  "weekAttr": []
 }
