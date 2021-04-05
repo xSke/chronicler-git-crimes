@@ -33,7 +33,8 @@
   "patheticism": 0.32162441779435424,
   "peanutAllergy": true,
   "permAttr": [
-    "HOMEBODY"
+    "HOMEBODY",
+    "UNDERPERFORMING"
   ],
   "pitchingRating": 0.506404962970793,
   "pressurization": 0.38717811631454,
@@ -42,7 +43,13 @@
   "seasAttr": [],
   "shakespearianism": 1.0483633273677193,
   "soul": 3,
-  "state": {},
+  "state": {
+    "permModSources": {
+      "UNDERPERFORMING": [
+        "HOMEBODY"
+      ]
+    }
+  },
   "suppression": 0.4852727752368712,
   "tenaciousness": 1.250262814127942,
   "thwackability": 0.5988138933666001,

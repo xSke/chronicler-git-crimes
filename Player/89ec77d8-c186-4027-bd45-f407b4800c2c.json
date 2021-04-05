@@ -33,7 +33,8 @@
   "patheticism": 0.001,
   "peanutAllergy": false,
   "permAttr": [
-    "SUPERYUMMY"
+    "SUPERYUMMY",
+    "OVERPERFORMING"
   ],
   "pitchingRating": 0.8447268959631368,
   "pressurization": 0.5408376821510407,
@@ -42,7 +43,13 @@
   "seasAttr": [],
   "shakespearianism": 1.2242466377856291,
   "soul": 3,
-  "state": {},
+  "state": {
+    "permModSources": {
+      "OVERPERFORMING": [
+        "SUPERYUMMY"
+      ]
+    }
+  },
   "suppression": 1.4034149548715666,
   "tenaciousness": 0.836203302205804,
   "thwackability": 1.4068953085080174,
