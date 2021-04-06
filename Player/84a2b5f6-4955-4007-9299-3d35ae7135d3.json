@@ -34,7 +34,8 @@
   "peanutAllergy": false,
   "permAttr": [
     "FLINCH",
-    "REVERBERATING"
+    "REVERBERATING",
+    "COFFEE_RALLY"
   ],
   "pitchingRating": 0.8146550596655349,
   "pressurization": 0.45612744390847126,
