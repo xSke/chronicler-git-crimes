@@ -14,11 +14,12 @@
     "93502db3-85fa-4393-acae-2a5ff3980dde",
     "5b5bcc6c-d011-490f-b084-6fdc2c52f958",
     "2d22f026-2873-410b-a45f-3b1dac665ffd",
-    "d002946f-e7ed-4ce4-a405-63bdaf5eabb5"
+    "d002946f-e7ed-4ce4-a405-63bdaf5eabb5",
+    "fedbceb8-e2aa-4868-ac35-74cd0445893f"
   ],
   "card": 9,
   "championships": 1,
-  "eDensity": 1276.9275649202832,
+  "eDensity": 1278.513595124908,
   "emoji": "0x1F45F",
   "evolution": 0,
   "fullName": "Charleston Shoe Thieves",
@@ -51,7 +52,7 @@
     "5e4dfa16-f1b9-400f-b8ef-a1613c2b026a",
     "60026a9d-fc9a-4f5a-94fd-2225398fa3da"
   ],
-  "rotationSlot": 31,
+  "rotationSlot": 32,
   "seasAttr": [],
   "seasonShames": 2,
   "seasonShamings": 1,
