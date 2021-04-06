@@ -27,13 +27,12 @@
   "martyrdom": 0.16858471667332756,
   "moxie": 0.4711454210714642,
   "musclitude": 0.6398015534975723,
-  "name": "Thomas Drac-ena",
+  "name": "Thomas Dracaena",
   "omniscience": 0.6755894552199392,
   "overpowerment": 0.8606109346596857,
   "patheticism": 0.01,
   "peanutAllergy": true,
   "permAttr": [
-    "SCATTERED",
     "MAXIMALIST",
     "COFFEE_RALLY"
   ],
@@ -44,9 +43,7 @@
   "seasAttr": [],
   "shakespearianism": 0.06895154667779457,
   "soul": 9,
-  "state": {
-    "unscatteredName": "Thomas Dracaena"
-  },
+  "state": {},
   "suppression": 0.8286498149503889,
   "tenaciousness": 0.8935618390727548,
   "thwackability": 1.069803353480533,
