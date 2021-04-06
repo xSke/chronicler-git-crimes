@@ -34,7 +34,9 @@
   "peanutAllergy": false,
   "permAttr": [
     "ECHO",
-    "MAXIMALIST"
+    "MAXIMALIST",
+    "ALTERNATE",
+    "FRIEND_OF_CROWS"
   ],
   "pitchingRating": 0.255185855553076,
   "pressurization": 0.5145639262885293,
@@ -45,7 +47,13 @@
   "soul": 2,
   "state": {
     "permModSources": {
+      "ALTERNATE": [
+        "ECHO"
+      ],
       "ELSEWHERE": [
+        "ECHO"
+      ],
+      "FRIEND_OF_CROWS": [
         "ECHO"
       ]
     }
