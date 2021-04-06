@@ -22,7 +22,7 @@
   ],
   "card": 11,
   "championships": 1,
-  "eDensity": 1190.921966714144,
+  "eDensity": 1206.921966714144,
   "emoji": "0x1F31E",
   "evolution": 0,
   "fullName": "Hellmouth Sunbeams",
@@ -67,5 +67,5 @@
   "totalShamings": 52,
   "tournamentWins": 0,
   "weekAttr": [],
-  "winStreak": 2
+  "winStreak": 3
 }
