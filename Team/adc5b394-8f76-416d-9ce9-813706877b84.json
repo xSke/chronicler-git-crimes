@@ -48,7 +48,7 @@
   "rotationSlot": 19,
   "seasAttr": [],
   "seasonShames": 1,
-  "seasonShamings": 0,
+  "seasonShamings": 1,
   "secondaryColor": "#178f55",
   "shameRuns": 0,
   "shorthand": "KCBM",
@@ -57,8 +57,8 @@
   "state": {},
   "teamSpirit": 0,
   "totalShames": 71,
-  "totalShamings": 47,
+  "totalShamings": 48,
   "tournamentWins": 0,
   "weekAttr": [],
-  "winStreak": -2
+  "winStreak": 1
 }
