@@ -27,14 +27,12 @@
   "martyrdom": 0.5067612936679957,
   "moxie": 0.845534657931766,
   "musclitude": 0.11815073275885098,
-  "name": "Greer Gwi-fin",
+  "name": "Greer Gwiffin",
   "omniscience": 0.8820724404271928,
   "overpowerment": 0.3553524163541832,
   "patheticism": 0.3802932852980513,
   "peanutAllergy": false,
-  "permAttr": [
-    "SCATTERED"
-  ],
+  "permAttr": [],
   "pitchingRating": 0.6077692082790983,
   "pressurization": 0.1691216457264812,
   "ritual": "Brushing teeth",
@@ -42,9 +40,7 @@
   "seasAttr": [],
   "shakespearianism": 0.2259902323893346,
   "soul": 7,
-  "state": {
-    "unscatteredName": "Greer Gwiffin"
-  },
+  "state": {},
   "suppression": 0.832487262201215,
   "tenaciousness": 0.7445557704690121,
   "thwackability": 0.7330852606905077,
