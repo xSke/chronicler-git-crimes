@@ -27,13 +27,13 @@
   "martyrdom": 0.337244721396917,
   "moxie": 0.40999086247412103,
   "musclitude": 0.5543097472240509,
-  "name": "Helga Washington",
+  "name": "---ga -a-hin--o-",
   "omniscience": 0.471417022459671,
   "overpowerment": 0.7212604925538506,
   "patheticism": 0.12962866999718228,
   "peanutAllergy": false,
   "permAttr": [
-    "ELSEWHERE"
+    "SCATTERED"
   ],
   "pitchingRating": 0.4493239142104716,
   "pressurization": 0.8179812250316263,
@@ -43,10 +43,7 @@
   "shakespearianism": 0.974698401585802,
   "soul": 2,
   "state": {
-    "elsewhere": {
-      "day": 86,
-      "season": 13
-    }
+    "unscatteredName": "Helga Washington"
   },
   "suppression": 0.17358056656687804,
   "tenaciousness": 0.6285330796986985,
