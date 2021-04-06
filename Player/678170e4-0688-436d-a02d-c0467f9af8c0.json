@@ -27,14 +27,13 @@
   "martyrdom": 1.1565702239722784,
   "moxie": 0.584157915509236,
   "musclitude": 1.2684641560619216,
-  "name": "B-by Doyle",
+  "name": "Baby Doyle",
   "omniscience": 0.914516010338683,
   "overpowerment": 0.7561405512223635,
   "patheticism": 0.3115930177815921,
   "peanutAllergy": false,
   "permAttr": [
-    "PERK",
-    "SCATTERED"
+    "PERK"
   ],
   "pitchingRating": 0.3271903172790049,
   "pressurization": 0.12607732386364984,
@@ -43,9 +42,7 @@
   "seasAttr": [],
   "shakespearianism": 0.42454295899167943,
   "soul": 4,
-  "state": {
-    "unscatteredName": "Baby Doyle"
-  },
+  "state": {},
   "suppression": 0.07965195748933633,
   "tenaciousness": 0.8467491116869367,
   "thwackability": 1.2230638545631345,
