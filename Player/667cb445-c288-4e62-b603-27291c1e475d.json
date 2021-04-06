@@ -27,14 +27,13 @@
   "martyrdom": 0.5581811917368732,
   "moxie": 0.7513820420383127,
   "musclitude": 0.7083730768741284,
-  "name": "Peanut H-lloway",
+  "name": "Peanut Holloway",
   "omniscience": 0.4186854809237345,
   "overpowerment": 0.919687009353494,
   "patheticism": 0.14334215054813348,
   "peanutAllergy": false,
   "permAttr": [
-    "HONEY_ROASTED",
-    "SCATTERED"
+    "HONEY_ROASTED"
   ],
   "pitchingRating": 0.6265063322621787,
   "pressurization": 0.07596981925653257,
@@ -43,9 +42,7 @@
   "seasAttr": [],
   "shakespearianism": 0.43634812865068306,
   "soul": 4,
-  "state": {
-    "unscatteredName": "Peanut Holloway"
-  },
+  "state": {},
   "suppression": 0.8889459529740686,
   "tenaciousness": 0.4952871168604622,
   "thwackability": 0.8518978273531088,
