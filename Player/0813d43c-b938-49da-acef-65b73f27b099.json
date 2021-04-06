@@ -27,13 +27,13 @@
   "martyrdom": 1.1176817171053195,
   "moxie": 1.1561222143913097,
   "musclitude": 1.0309889554573788,
-  "name": "Scratch Deleuze",
+  "name": "---at-- --l----",
   "omniscience": 1.056798881617908,
   "overpowerment": 1.1400389402069129,
   "patheticism": 0.001,
   "peanutAllergy": false,
   "permAttr": [
-    "ELSEWHERE"
+    "SCATTERED"
   ],
   "pitchingRating": 0.4979463031013715,
   "pressurization": 0.6880147356596396,
@@ -43,10 +43,7 @@
   "shakespearianism": 0.3319540277190051,
   "soul": 2,
   "state": {
-    "elsewhere": {
-      "day": 49,
-      "season": 13
-    }
+    "unscatteredName": "Scratch Deleuze"
   },
   "suppression": 0.6917589459023116,
   "tenaciousness": 0.32280489519771477,
