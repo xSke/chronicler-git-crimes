@@ -32,7 +32,9 @@
   "overpowerment": 0.7820886839282885,
   "patheticism": 0.8750350525967538,
   "peanutAllergy": true,
-  "permAttr": [],
+  "permAttr": [
+    "REDACTED"
+  ],
   "pitchingRating": 0.4750119829415488,
   "pressurization": 0.7684774684235895,
   "ritual": "Gonging",
@@ -49,7 +51,5 @@
   "tragicness": 0.1,
   "unthwackability": 0.35707604582451846,
   "watchfulness": 0.20731694828655783,
-  "weekAttr": [
-    "COFFEE_PERIL"
-  ]
+  "weekAttr": []
 }
