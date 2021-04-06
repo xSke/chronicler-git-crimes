@@ -15,9 +15,7 @@
   "eDensity": 63.51574307297895,
   "evolution": 0,
   "fate": 64,
-  "gameAttr": [
-    "OVERPERFORMING"
-  ],
+  "gameAttr": [],
   "groundFriction": 0.4552126234370428,
   "hitStreak": 0,
   "hittingRating": 0.8792879387794915,
@@ -47,11 +45,6 @@
   "shakespearianism": 1.2948011743087555,
   "soul": 7,
   "state": {
-    "gameModSources": {
-      "OVERPERFORMING": [
-        "PERK"
-      ]
-    },
     "unscatteredName": "Sandie Turner"
   },
   "suppression": 0.3107407623512066,
