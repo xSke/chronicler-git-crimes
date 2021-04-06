@@ -32,7 +32,9 @@
   "overpowerment": 0.6571320374102685,
   "patheticism": 0.7997598014761583,
   "peanutAllergy": false,
-  "permAttr": [],
+  "permAttr": [
+    "COFFEE_RALLY"
+  ],
   "pitchingRating": 0.067016735137066,
   "pressurization": 0.7902724055138329,
   "ritual": "Removing restraints",
