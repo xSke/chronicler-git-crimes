@@ -27,15 +27,14 @@
   "martyrdom": 0.9873703565390292,
   "moxie": 0.4081808355013459,
   "musclitude": 0.8710098487993057,
-  "name": "Sand-e Turner",
+  "name": "Sandie Turner",
   "omniscience": 0.46177395674893784,
   "overpowerment": 0.46947430901281434,
   "patheticism": 0.5618251712353066,
   "peanutAllergy": true,
   "permAttr": [
     "SPICY",
-    "PERK",
-    "SCATTERED"
+    "PERK"
   ],
   "pitchingRating": 0.8611141139789357,
   "pressurization": 0.5287515061488359,
@@ -44,9 +43,7 @@
   "seasAttr": [],
   "shakespearianism": 1.2948011743087555,
   "soul": 7,
-  "state": {
-    "unscatteredName": "Sandie Turner"
-  },
+  "state": {},
   "suppression": 0.3107407623512066,
   "tenaciousness": 0.6944981253192113,
   "thwackability": 1.1086503513780874,
