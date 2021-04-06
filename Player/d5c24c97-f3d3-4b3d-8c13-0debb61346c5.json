@@ -35,8 +35,8 @@
   "permAttr": [
     "ECHO",
     "MAXIMALIST",
-    "ALTERNATE",
-    "FRIEND_OF_CROWS"
+    "RETURNED",
+    "DEBT_THREE"
   ],
   "pitchingRating": 0.255185855553076,
   "pressurization": 0.5145639262885293,
@@ -47,13 +47,13 @@
   "soul": 2,
   "state": {
     "permModSources": {
-      "ALTERNATE": [
+      "DEBT_THREE": [
         "ECHO"
       ],
       "ELSEWHERE": [
         "ECHO"
       ],
-      "FRIEND_OF_CROWS": [
+      "RETURNED": [
         "ECHO"
       ]
     }
