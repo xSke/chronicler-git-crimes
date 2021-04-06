@@ -20,11 +20,13 @@
   ],
   "card": 2,
   "championships": 0,
-  "eDensity": 1155.475458975906,
+  "eDensity": 1170.2801191088151,
   "emoji": "0x1F339",
   "evolution": 0,
   "fullName": "Boston Flowers",
-  "gameAttr": [],
+  "gameAttr": [
+    "TRAVELING"
+  ],
   "id": "3f8bbb15-61c0-4e3f-8e4a-907a5fb1565e",
   "level": 3,
   "lineup": [
@@ -53,7 +55,7 @@
     "2da49de2-34e5-49d0-b752-af2a2ee061be",
     "a647388d-fc59-4c1b-90d3-8c1826e07775"
   ],
-  "rotationSlot": 15,
+  "rotationSlot": 16,
   "seasAttr": [],
   "seasonShames": 1,
   "seasonShamings": 1,
@@ -62,7 +64,13 @@
   "shorthand": "BOF",
   "slogan": "Let's Grow!",
   "stadium": "d37abba6-9fba-463a-8f4f-7cf49de3c7b6",
-  "state": {},
+  "state": {
+    "gameModSources": {
+      "TRAVELING": [
+        "PSYCHOACOUSTICS"
+      ]
+    }
+  },
   "teamSpirit": 0,
   "totalShames": 55,
   "totalShamings": 57,
