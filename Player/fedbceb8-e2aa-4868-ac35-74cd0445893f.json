@@ -23,7 +23,7 @@
   "indulgence": 0.4373151894579864,
   "items": [],
   "laserlikeness": 1.040569991915609,
-  "leagueTeamId": "bfd38797-8404-4b38-8b82-341da28b1f83",
+  "leagueTeamId": "36569151-a2fb-43c1-9df7-2df512424c82",
   "martyrdom": 0.6305302754871059,
   "moxie": 0.6616301943221581,
   "musclitude": 0.9939041125905778,
@@ -49,6 +49,7 @@
       7,
       1
     ],
+    "investigations": 1,
     "preInvestigationIndex": 5,
     "preInvestigationLocation": 1,
     "preInvestigationTeam": "36569151-a2fb-43c1-9df7-2df512424c82"
