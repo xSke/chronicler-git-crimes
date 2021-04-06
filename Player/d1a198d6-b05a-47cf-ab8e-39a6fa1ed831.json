@@ -35,7 +35,8 @@
   "permAttr": [
     "HARD_BOILED",
     "EGO1",
-    "COFFEE_RALLY"
+    "COFFEE_RALLY",
+    "REDACTED"
   ],
   "pitchingRating": 0.4997669355811023,
   "pressurization": 0.7077893681925664,
@@ -59,7 +60,5 @@
   "tragicness": 0.19185965455637577,
   "unthwackability": 0.8084133661542368,
   "watchfulness": 0.9081981005542292,
-  "weekAttr": [
-    "COFFEE_PERIL"
-  ]
+  "weekAttr": []
 }

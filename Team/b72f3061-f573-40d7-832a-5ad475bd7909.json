@@ -33,7 +33,6 @@
     "58c9e294-bd49-457c-883f-fb3162fc668e",
     "2b157c5c-9a6a-45a6-858f-bf4cf4cbc0bd",
     "db33a54c-3934-478f-bad4-fc313ac2580e",
-    "d1a198d6-b05a-47cf-ab8e-39a6fa1ed831",
     "7c5ae357-e079-4427-a90f-97d164c7262e",
     "0eea4a48-c84b-4538-97e7-3303671934d2",
     "11de4da3-8208-43ff-a1ff-0b3480a0fbf1"
@@ -67,5 +66,5 @@
   "totalShamings": 63,
   "tournamentWins": 0,
   "weekAttr": [],
-  "winStreak": -3
+  "winStreak": -4
 }
