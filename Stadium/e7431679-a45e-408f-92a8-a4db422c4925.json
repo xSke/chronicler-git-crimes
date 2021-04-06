@@ -31,7 +31,17 @@
     "coffee_threes_plus",
     "solar_panels_mod"
   ],
-  "renoHand": [],
+  "renoHand": [
+    "secret_base_mod",
+    "reverb_plus",
+    "echo_chamber_mod",
+    "flood_pumps_mod",
+    "grind_rail_mod",
+    "sun_two_plus",
+    "elongation_plus",
+    "soundsystem_mod",
+    "forwardness_minus"
+  ],
   "renoLog": {
     "peanut_mister_mod": 1
   },

@@ -33,7 +33,17 @@
     "birdhouses_mod",
     "viscosity_plus"
   ],
-  "renoHand": [],
+  "renoHand": [
+    "secret_base_mod",
+    "grind_rail_mod",
+    "sun_two_plus",
+    "echo_chamber_mod",
+    "peanuts_plus",
+    "reverb_plus",
+    "flood_pumps_mod",
+    "viscosity_minus",
+    "soundsystem_mod"
+  ],
   "renoLog": {
     "big_bucket_mod": 1,
     "psychoacoustics_mod": 1

@@ -32,7 +32,17 @@
     "peanut_mister_mod",
     "event_horizon_mod"
   ],
-  "renoHand": [],
+  "renoHand": [
+    "secret_base_mod",
+    "flood_pumps_mod",
+    "ominousness_minus",
+    "event_horizon_mod",
+    "soundsystem_mod",
+    "black_hole_plus",
+    "big_bucket_mod",
+    "grind_rail_mod",
+    "solar_panels_mod"
+  ],
   "renoLog": {
     "peanut_mister_mod": 1,
     "psychoacoustics_mod": 1

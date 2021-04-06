@@ -32,7 +32,17 @@
     "obtuseness_plus",
     "coffee_one_plus"
   ],
-  "renoHand": [],
+  "renoHand": [
+    "secret_base_mod",
+    "obtuseness_minus",
+    "grandiosity_minus",
+    "elongation_minus",
+    "elongation_plus",
+    "grind_rail_mod",
+    "echo_chamber_mod",
+    "flood_pumps_mod",
+    "peanut_mister_mod"
+  ],
   "renoLog": {
     "big_bucket_mod": 1,
     "psychoacoustics_mod": 1

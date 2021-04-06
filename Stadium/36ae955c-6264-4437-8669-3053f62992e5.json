@@ -32,7 +32,17 @@
     "event_horizon_mod",
     "reverb_plus"
   ],
-  "renoHand": [],
+  "renoHand": [
+    "secret_base_mod",
+    "black_hole_plus",
+    "soundsystem_mod",
+    "echo_chamber_mod",
+    "mysticism_plus",
+    "viscosity_minus",
+    "flood_pumps_mod",
+    "grind_rail_mod",
+    "event_horizon_mod"
+  ],
   "renoLog": {
     "psychoacoustics_mod": 1
   },

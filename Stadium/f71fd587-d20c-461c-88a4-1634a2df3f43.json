@@ -31,7 +31,17 @@
     "event_horizon_mod",
     "feedback_plus"
   ],
-  "renoHand": [],
+  "renoHand": [
+    "secret_base_mod",
+    "flooding_plus",
+    "grind_rail_mod",
+    "echo_chamber_mod",
+    "soundsystem_mod",
+    "flood_pumps_mod",
+    "mysticism_minus",
+    "grandiosity_plus",
+    "obtuseness_minus"
+  ],
   "renoLog": {
     "big_bucket_mod": 1
   },

@@ -32,7 +32,17 @@
     "inconvenience_plus",
     "fortifications_plus"
   ],
-  "renoHand": [],
+  "renoHand": [
+    "secret_base_mod",
+    "fire_insurance_mod",
+    "echo_chamber_mod",
+    "grind_rail_mod",
+    "sun_two_plus",
+    "flood_pumps_mod",
+    "coffee_one_plus",
+    "viscosity_minus",
+    "ominousness_plus"
+  ],
   "renoLog": {
     "big_bucket_mod": 1,
     "peanut_mister_mod": 1

@@ -31,7 +31,17 @@
     "forwardness_plus",
     "grandiosity_plus"
   ],
-  "renoHand": [],
+  "renoHand": [
+    "secret_base_mod",
+    "sun_two_plus",
+    "flood_pumps_mod",
+    "elongation_plus",
+    "flooding_plus",
+    "soundsystem_mod",
+    "elongation_minus",
+    "echo_chamber_mod",
+    "blooddrain_plus"
+  ],
   "renoLog": {
     "psychoacoustics_mod": 1
   },

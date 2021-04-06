@@ -31,7 +31,17 @@
     "grandiosity_plus",
     "coffee_threes_plus"
   ],
-  "renoHand": [],
+  "renoHand": [
+    "secret_base_mod",
+    "grind_rail_mod",
+    "ominousness_minus",
+    "echo_chamber_mod",
+    "big_bucket_mod",
+    "soundsystem_mod",
+    "event_horizon_mod",
+    "grandiosity_plus",
+    "flood_pumps_mod"
+  ],
   "renoLog": {
     "psychoacoustics_mod": 1
   },

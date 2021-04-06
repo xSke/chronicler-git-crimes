@@ -32,7 +32,17 @@
     "obtuseness_minus",
     "peanut_mister_mod"
   ],
-  "renoHand": [],
+  "renoHand": [
+    "secret_base_mod",
+    "grind_rail_mod",
+    "sun_two_plus",
+    "viscosity_plus",
+    "soundsystem_mod",
+    "peanuts_plus",
+    "flood_pumps_mod",
+    "reverb_plus",
+    "ominousness_plus"
+  ],
   "renoLog": {
     "big_bucket_mod": 1,
     "peanut_mister_mod": 1

@@ -32,7 +32,17 @@
     "coffee_threes_plus",
     "forwardness_minus"
   ],
-  "renoHand": [],
+  "renoHand": [
+    "secret_base_mod",
+    "soundsystem_mod",
+    "forwardness_minus",
+    "grind_rail_mod",
+    "birds_plus",
+    "big_bucket_mod",
+    "mysticism_minus",
+    "blooddrain_plus",
+    "elongation_minus"
+  ],
   "renoLog": {
     "fire_insurance_mod": 1,
     "solar_panels_mod": 1

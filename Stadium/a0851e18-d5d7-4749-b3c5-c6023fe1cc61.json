@@ -32,7 +32,17 @@
     "event_horizon_mod",
     "forwardness_minus"
   ],
-  "renoHand": [],
+  "renoHand": [
+    "secret_base_mod",
+    "forwardness_minus",
+    "echo_chamber_mod",
+    "fire_insurance_mod",
+    "flooding_plus",
+    "soundsystem_mod",
+    "viscosity_minus",
+    "coffee_two_plus",
+    "flood_pumps_mod"
+  ],
   "renoLog": {
     "big_bucket_mod": 1,
     "psychoacoustics_mod": 1

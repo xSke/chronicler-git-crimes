@@ -32,7 +32,17 @@
     "ominousness_minus",
     "event_horizon_mod"
   ],
-  "renoHand": [],
+  "renoHand": [
+    "secret_base_mod",
+    "sun_two_plus",
+    "flooding_plus",
+    "forwardness_minus",
+    "feedback_plus",
+    "grandiosity_plus",
+    "solar_panels_mod",
+    "coffee_two_plus",
+    "grind_rail_mod"
+  ],
   "renoLog": {
     "big_bucket_mod": 1,
     "peanut_mister_mod": 1

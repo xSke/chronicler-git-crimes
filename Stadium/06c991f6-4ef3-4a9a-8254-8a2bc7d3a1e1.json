@@ -31,7 +31,17 @@
     "solar_panels_mod",
     "coffee_one_plus"
   ],
-  "renoHand": [],
+  "renoHand": [
+    "secret_base_mod",
+    "soundsystem_mod",
+    "echo_chamber_mod",
+    "obtuseness_plus",
+    "mysticism_plus",
+    "obtuseness_minus",
+    "flooding_plus",
+    "forwardness_minus",
+    "ominousness_minus"
+  ],
   "renoLog": {
     "big_bucket_mod": 1
   },

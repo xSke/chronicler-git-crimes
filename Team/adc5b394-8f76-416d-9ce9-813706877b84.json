@@ -46,7 +46,9 @@
     "f2a27a7e-bf04-4d31-86f5-16bfa3addbe7"
   ],
   "rotationSlot": 27,
-  "seasAttr": [],
+  "seasAttr": [
+    "MIDDLING"
+  ],
   "seasonShames": 1,
   "seasonShamings": 1,
   "secondaryColor": "#178f55",

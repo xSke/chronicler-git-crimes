@@ -32,7 +32,17 @@
     "grandiosity_minus",
     "peanut_mister_mod"
   ],
-  "renoHand": [],
+  "renoHand": [
+    "secret_base_mod",
+    "birds_plus",
+    "echo_chamber_mod",
+    "elongation_plus",
+    "grind_rail_mod",
+    "obtuseness_minus",
+    "soundsystem_mod",
+    "fire_insurance_mod",
+    "coffee_threes_plus"
+  ],
   "renoLog": {
     "psychoacoustics_mod": 1,
     "solar_panels_mod": 1

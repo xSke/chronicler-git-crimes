@@ -31,7 +31,17 @@
     "elongation_plus",
     "obtuseness_plus"
   ],
-  "renoHand": [],
+  "renoHand": [
+    "secret_base_mod",
+    "ominousness_plus",
+    "flooding_plus",
+    "forwardness_minus",
+    "echo_chamber_mod",
+    "black_hole_plus",
+    "event_horizon_mod",
+    "grind_rail_mod",
+    "solar_panels_mod"
+  ],
   "renoLog": {
     "psychoacoustics_mod": 1
   },

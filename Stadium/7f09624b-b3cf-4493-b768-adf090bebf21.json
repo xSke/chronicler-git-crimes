@@ -32,7 +32,17 @@
     "feedback_plus",
     "obtuseness_plus"
   ],
-  "renoHand": [],
+  "renoHand": [
+    "secret_base_mod",
+    "grind_rail_mod",
+    "birds_plus",
+    "obtuseness_plus",
+    "forwardness_plus",
+    "echo_chamber_mod",
+    "flood_pumps_mod",
+    "soundsystem_mod",
+    "solar_eclipse_plus"
+  ],
   "renoLog": {
     "peanut_mister_mod": 1,
     "psychoacoustics_mod": 1

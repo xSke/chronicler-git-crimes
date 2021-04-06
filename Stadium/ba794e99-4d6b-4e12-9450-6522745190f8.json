@@ -31,7 +31,17 @@
     "event_horizon_mod",
     "ominousness_plus"
   ],
-  "renoHand": [],
+  "renoHand": [
+    "secret_base_mod",
+    "flood_pumps_mod",
+    "grind_rail_mod",
+    "echo_chamber_mod",
+    "event_horizon_mod",
+    "ominousness_plus",
+    "soundsystem_mod",
+    "flooding_plus",
+    "inconvenience_minus"
+  ],
   "renoLog": {
     "peanut_mister_mod": 1,
     "psychoacoustics_mod": 1

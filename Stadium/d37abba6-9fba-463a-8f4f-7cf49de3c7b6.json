@@ -32,7 +32,17 @@
     "solar_panels_mod",
     "event_horizon_mod"
   ],
-  "renoHand": [],
+  "renoHand": [
+    "secret_base_mod",
+    "grandiosity_plus",
+    "grind_rail_mod",
+    "flood_pumps_mod",
+    "big_bucket_mod",
+    "soundsystem_mod",
+    "grandiosity_minus",
+    "event_horizon_mod",
+    "coffee_two_plus"
+  ],
   "renoLog": {
     "psychoacoustics_mod": 1,
     "solar_panels_mod": 1

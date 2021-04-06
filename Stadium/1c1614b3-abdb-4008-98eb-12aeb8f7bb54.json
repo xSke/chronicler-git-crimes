@@ -29,7 +29,17 @@
     "inconvenience_plus",
     "coffee_two_plus"
   ],
-  "renoHand": [],
+  "renoHand": [
+    "secret_base_mod",
+    "flood_pumps_mod",
+    "grind_rail_mod",
+    "blooddrain_plus",
+    "big_bucket_mod",
+    "forwardness_plus",
+    "peanuts_plus",
+    "flooding_plus",
+    "soundsystem_mod"
+  ],
   "renoLog": {},
   "secondaryColor": "#c7425c",
   "state": {},

@@ -41,7 +41,17 @@
     "viscosity_plus",
     "sun_two_plus"
   ],
-  "renoHand": [],
+  "renoHand": [
+    "secret_base_mod",
+    "echo_chamber_mod",
+    "soundsystem_mod",
+    "flood_pumps_mod",
+    "grind_rail_mod",
+    "fortifications_plus",
+    "mysticism_minus",
+    "peanuts_plus",
+    "inconvenience_plus"
+  ],
   "renoLog": {
     "big_bucket_mod": 1,
     "peanut_mister_mod": 1
