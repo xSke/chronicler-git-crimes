@@ -33,7 +33,8 @@
   "patheticism": 0.001,
   "peanutAllergy": true,
   "permAttr": [
-    "SCATTERED"
+    "SCATTERED",
+    "ELSEWHERE"
   ],
   "pitchingRating": 0.8217234727961171,
   "pressurization": 0.49077389948719286,
@@ -43,6 +44,10 @@
   "shakespearianism": 0.7810719645979081,
   "soul": 7,
   "state": {
+    "elsewhere": {
+      "day": 26,
+      "season": 14
+    },
     "unscatteredName": "Eugenia Garbage"
   },
   "suppression": 0.5959362816499624,

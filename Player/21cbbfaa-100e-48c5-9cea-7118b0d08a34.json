@@ -53,5 +53,7 @@
   "tragicness": 0.1,
   "unthwackability": 0.9473136519495337,
   "watchfulness": 0.2883541520378571,
-  "weekAttr": []
+  "weekAttr": [
+    "COFFEE_PERIL"
+  ]
 }
