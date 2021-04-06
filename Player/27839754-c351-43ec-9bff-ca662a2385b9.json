@@ -32,7 +32,9 @@
   "overpowerment": 1.254388805150905,
   "patheticism": 0.001,
   "peanutAllergy": true,
-  "permAttr": [],
+  "permAttr": [
+    "COFFEE_RALLY"
+  ],
   "pitchingRating": 0.714377487106122,
   "pressurization": 0.7008876300965381,
   "ritual": "Fishing for compliments",
