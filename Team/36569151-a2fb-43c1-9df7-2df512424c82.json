@@ -31,11 +31,9 @@
     "766dfd1e-11c3-42b6-a167-9b2d568b5dc0",
     "9e724d9a-92a0-436e-bde1-da0b2af85d8f",
     "413b3ddb-d933-4567-a60e-6d157480239d",
-    "198fd9c8-cb75-482d-873e-e6b91d42a446",
     "f38c5d80-093f-46eb-99d6-942aa45cd921",
     "ec68845f-3b26-412f-8446-4fef34e09c77",
     "04931546-1b4a-469f-b391-7ed67afe824c",
-    "667cb445-c288-4e62-b603-27291c1e475d",
     "16aff709-e855-47c8-8818-b9ba66e90fe8"
   ],
   "location": "New York",
@@ -67,5 +65,5 @@
   "totalShamings": 54,
   "tournamentWins": 0,
   "weekAttr": [],
-  "winStreak": -1
+  "winStreak": 1
 }
