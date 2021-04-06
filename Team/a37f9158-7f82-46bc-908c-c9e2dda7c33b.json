@@ -50,7 +50,7 @@
   "rotationSlot": 30,
   "seasAttr": [],
   "seasonShames": 1,
-  "seasonShamings": 2,
+  "seasonShamings": 3,
   "secondaryColor": "#7ba9d7",
   "shameRuns": 0,
   "shorthand": "BJAZ",
@@ -61,8 +61,8 @@
   },
   "teamSpirit": 0,
   "totalShames": 70,
-  "totalShamings": 58,
+  "totalShamings": 59,
   "tournamentWins": 0,
   "weekAttr": [],
-  "winStreak": -4
+  "winStreak": 1
 }
