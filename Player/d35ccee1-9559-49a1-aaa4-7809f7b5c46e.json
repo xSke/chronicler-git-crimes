@@ -33,7 +33,8 @@
   "patheticism": 0.4182969625406921,
   "peanutAllergy": false,
   "permAttr": [
-    "FLINCH"
+    "FLINCH",
+    "REDACTED"
   ],
   "pitchingRating": 1.1973690127904824,
   "pressurization": 0.006728126764180775,
@@ -51,7 +52,5 @@
   "tragicness": 0.04641561621654764,
   "unthwackability": 1.251285762063307,
   "watchfulness": 1.014307062597128,
-  "weekAttr": [
-    "COFFEE_PERIL"
-  ]
+  "weekAttr": []
 }
