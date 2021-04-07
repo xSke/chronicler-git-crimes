@@ -35,7 +35,8 @@
   "permAttr": [
     "FLICKERING",
     "ECHO",
-    "FRIEND_OF_CROWS"
+    "SIPHON",
+    "PERK"
   ],
   "pitchingRating": 0.2032611632739655,
   "pressurization": 0.6260620508749675,
@@ -46,7 +47,10 @@
   "soul": 5,
   "state": {
     "permModSources": {
-      "FRIEND_OF_CROWS": [
+      "PERK": [
+        "ECHO"
+      ],
+      "SIPHON": [
         "ECHO"
       ]
     },
