@@ -34,7 +34,9 @@
   "peanutAllergy": true,
   "permAttr": [
     "FLICKERING",
-    "ECHO"
+    "ECHO",
+    "RETURNED",
+    "DEBT_THREE"
   ],
   "pitchingRating": 0.2032611632739655,
   "pressurization": 0.6260620508749675,
@@ -44,7 +46,14 @@
   "shakespearianism": 0.1546596969180715,
   "soul": 5,
   "state": {
-    "permModSources": {},
+    "permModSources": {
+      "DEBT_THREE": [
+        "ECHO"
+      ],
+      "RETURNED": [
+        "ECHO"
+      ]
+    },
     "seasModSources": {}
   },
   "suppression": 0.17613837234928814,
