@@ -27,14 +27,14 @@
   "martyrdom": 0.4249837686866689,
   "moxie": 1.1207754225425914,
   "musclitude": 1.1075657920720885,
-  "name": "Tot Fox",
+  "name": "--- -o-",
   "omniscience": 0.6842156070388938,
   "overpowerment": 0.3898549168928418,
   "patheticism": 0.07297530128818258,
   "peanutAllergy": false,
   "permAttr": [
     "FLINCH",
-    "ELSEWHERE"
+    "SCATTERED"
   ],
   "pitchingRating": 0.8192796643653674,
   "pressurization": 0.1967169760847065,
@@ -44,10 +44,7 @@
   "shakespearianism": 1.1262703878953348,
   "soul": 2,
   "state": {
-    "elsewhere": {
-      "day": 85,
-      "season": 13
-    }
+    "unscatteredName": "Tot Fox"
   },
   "suppression": 0.4796881707942455,
   "tenaciousness": 1.2399315538408378,
