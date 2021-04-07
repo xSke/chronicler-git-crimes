@@ -63,17 +63,11 @@
   "shorthand": "SUN",
   "slogan": "Stare into the Sun...",
   "stadium": "8e900d85-7d4c-47d0-a67f-6432144f0210",
-  "state": {
-    "gameModSources": {
-      "SEALANT": [
-        "PSYCHOACOUSTICS"
-      ]
-    }
-  },
+  "state": {},
   "teamSpirit": 0,
   "totalShames": 74,
   "totalShamings": 52,
   "tournamentWins": 0,
   "weekAttr": [],
-  "winStreak": -2
+  "winStreak": -3
 }
