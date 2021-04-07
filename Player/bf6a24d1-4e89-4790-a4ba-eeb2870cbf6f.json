@@ -27,14 +27,12 @@
   "martyrdom": 0.8990901488245838,
   "moxie": 0.7321741850684608,
   "musclitude": 0.7838587867874945,
-  "name": "Rat M-son",
+  "name": "Rat Mason",
   "omniscience": 0.5034377581619562,
   "overpowerment": 0.4783326346674326,
   "patheticism": 0.20744408603327225,
   "peanutAllergy": true,
-  "permAttr": [
-    "SCATTERED"
-  ],
+  "permAttr": [],
   "pitchingRating": 0.25694001236586966,
   "pressurization": 0.8277156979127047,
   "ritual": "Spinning",
@@ -42,9 +40,7 @@
   "seasAttr": [],
   "shakespearianism": 0.276516978276644,
   "soul": 7,
-  "state": {
-    "unscatteredName": "Rat Mason"
-  },
+  "state": {},
   "suppression": 0.6128515571356221,
   "tenaciousness": 0.4478551097220996,
   "thwackability": 1.089115657170416,
