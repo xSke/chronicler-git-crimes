@@ -19,11 +19,13 @@
   ],
   "card": 5,
   "championships": 0,
-  "eDensity": 1644.8177741772886,
+  "eDensity": 1662.8177741772886,
   "emoji": "0x1F4F1",
   "evolution": 0,
   "fullName": "New York Millennials",
-  "gameAttr": [],
+  "gameAttr": [
+    "LOVE"
+  ],
   "id": "36569151-a2fb-43c1-9df7-2df512424c82",
   "level": 4,
   "lineup": [
@@ -50,7 +52,7 @@
     "18af933a-4afa-4cba-bda5-45160f3af99b",
     "fedbceb8-e2aa-4868-ac35-74cd0445893f"
   ],
-  "rotationSlot": 48,
+  "rotationSlot": 49,
   "seasAttr": [],
   "seasonShames": 3,
   "seasonShamings": 0,
@@ -59,7 +61,13 @@
   "shorthand": "NYMI",
   "slogan": "Youth Will Save Us",
   "stadium": "ba794e99-4d6b-4e12-9450-6522745190f8",
-  "state": {},
+  "state": {
+    "gameModSources": {
+      "LOVE": [
+        "PSYCHOACOUSTICS"
+      ]
+    }
+  },
   "teamSpirit": 0,
   "totalShames": 65,
   "totalShamings": 54,
