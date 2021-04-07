@@ -15,7 +15,9 @@
   "eDensity": 33.28582050642359,
   "evolution": 0,
   "fate": 98,
-  "gameAttr": [],
+  "gameAttr": [
+    "WIRED"
+  ],
   "groundFriction": 0.28431120582990665,
   "hitStreak": 0,
   "hittingRating": 0.4680149676468168,
@@ -27,7 +29,7 @@
   "martyrdom": 0.27553689477537713,
   "moxie": 0.3728111139485993,
   "musclitude": 0.9758726030485338,
-  "name": "J---- Col-i--",
+  "name": "J---- Colli--",
   "omniscience": 0.34792781225355296,
   "overpowerment": 0.6642209268759287,
   "patheticism": 0.4471529712644097,
