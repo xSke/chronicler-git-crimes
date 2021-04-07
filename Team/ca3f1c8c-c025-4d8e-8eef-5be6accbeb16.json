@@ -51,18 +51,18 @@
   ],
   "rotationSlot": 48,
   "seasAttr": [],
-  "seasonShames": 4,
+  "seasonShames": 5,
   "seasonShamings": 2,
   "secondaryColor": "#d13757",
-  "shameRuns": 0,
+  "shameRuns": 1,
   "shorthand": "CHIF",
   "slogan": "We Are From Chicago",
   "stadium": "06c991f6-4ef3-4a9a-8254-8a2bc7d3a1e1",
   "state": {},
   "teamSpirit": 0,
-  "totalShames": 59,
+  "totalShames": 60,
   "totalShamings": 62,
   "tournamentWins": 0,
   "weekAttr": [],
-  "winStreak": 1
+  "winStreak": -1
 }
