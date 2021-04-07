@@ -41,18 +41,22 @@
   "ritual": "Have Hope",
   "ruthlessness": 0.5156501842184871,
   "seasAttr": [
-    "RETURNED",
-    "DEBT_THREE"
+    "ALTERNATE",
+    "FRIEND_OF_CROWS",
+    "TRIPLE_THREAT"
   ],
   "shakespearianism": 0.15826474558530457,
   "soul": 4,
   "state": {
     "permModSources": {},
     "seasModSources": {
-      "DEBT_THREE": [
+      "ALTERNATE": [
         "RECEIVER"
       ],
-      "RETURNED": [
+      "FRIEND_OF_CROWS": [
+        "RECEIVER"
+      ],
+      "TRIPLE_THREAT": [
         "RECEIVER"
       ]
     }
