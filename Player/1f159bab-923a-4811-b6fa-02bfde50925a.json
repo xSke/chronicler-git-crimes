@@ -35,8 +35,7 @@
   "permAttr": [
     "FLICKERING",
     "ECHO",
-    "RETURNED",
-    "DEBT_THREE"
+    "FRIEND_OF_CROWS"
   ],
   "pitchingRating": 0.2032611632739655,
   "pressurization": 0.6260620508749675,
@@ -47,10 +46,7 @@
   "soul": 5,
   "state": {
     "permModSources": {
-      "DEBT_THREE": [
-        "ECHO"
-      ],
-      "RETURNED": [
+      "FRIEND_OF_CROWS": [
         "ECHO"
       ]
     },
