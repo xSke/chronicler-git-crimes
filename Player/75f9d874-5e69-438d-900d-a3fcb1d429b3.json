@@ -40,18 +40,14 @@
   "ritual": "Playing pranks",
   "ruthlessness": 0.7851094485207777,
   "seasAttr": [
-    "SIPHON",
-    "PERK"
+    "FRIEND_OF_CROWS"
   ],
   "shakespearianism": 0.2950006951239794,
   "soul": 5,
   "state": {
     "permModSources": {},
     "seasModSources": {
-      "PERK": [
-        "RECEIVER"
-      ],
-      "SIPHON": [
+      "FRIEND_OF_CROWS": [
         "RECEIVER"
       ]
     }

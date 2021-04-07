@@ -41,18 +41,14 @@
   "ritual": "Have Hope",
   "ruthlessness": 0.5156501842184871,
   "seasAttr": [
-    "SIPHON",
-    "PERK"
+    "FRIEND_OF_CROWS"
   ],
   "shakespearianism": 0.15826474558530457,
   "soul": 4,
   "state": {
     "permModSources": {},
     "seasModSources": {
-      "PERK": [
-        "RECEIVER"
-      ],
-      "SIPHON": [
+      "FRIEND_OF_CROWS": [
         "RECEIVER"
       ]
     }
