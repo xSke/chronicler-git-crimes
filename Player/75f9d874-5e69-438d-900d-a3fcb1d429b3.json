@@ -40,14 +40,14 @@
   "ritual": "Playing pranks",
   "ruthlessness": 0.7851094485207777,
   "seasAttr": [
-    "FRIEND_OF_CROWS"
+    "ALTERNATE"
   ],
   "shakespearianism": 0.2950006951239794,
   "soul": 5,
   "state": {
     "permModSources": {},
     "seasModSources": {
-      "FRIEND_OF_CROWS": [
+      "ALTERNATE": [
         "RECEIVER"
       ]
     }
