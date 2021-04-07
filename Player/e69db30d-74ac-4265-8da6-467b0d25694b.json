@@ -27,13 +27,13 @@
   "martyrdom": 0.765667499076665,
   "moxie": 0.6368399438773018,
   "musclitude": 0.07074239324602627,
-  "name": "Dervin Gorczyca",
+  "name": "----in ---c---a",
   "omniscience": 0.7490034157771497,
   "overpowerment": 0.3288872265908669,
   "patheticism": 0.1418324355032763,
   "peanutAllergy": true,
   "permAttr": [
-    "ELSEWHERE"
+    "SCATTERED"
   ],
   "pitchingRating": 0.2586870529496452,
   "pressurization": 0.4989796787388594,
@@ -43,10 +43,7 @@
   "shakespearianism": 0.05038051730192894,
   "soul": 3,
   "state": {
-    "elsewhere": {
-      "day": 87,
-      "season": 13
-    }
+    "unscatteredName": "Dervin Gorczyca"
   },
   "suppression": 0.6781108381972769,
   "tenaciousness": 0.27348376513689066,
