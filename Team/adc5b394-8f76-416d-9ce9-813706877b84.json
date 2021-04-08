@@ -17,11 +17,13 @@
   ],
   "card": 12,
   "championships": 0,
-  "eDensity": 1611.345010119995,
+  "eDensity": 1632.3907022020803,
   "emoji": "0x1F36C",
   "evolution": 0,
   "fullName": "Kansas City Breath Mints",
-  "gameAttr": [],
+  "gameAttr": [
+    "MAINTENANCE_MODE"
+  ],
   "id": "adc5b394-8f76-416d-9ce9-813706877b84",
   "level": 4,
   "lineup": [
@@ -45,7 +47,7 @@
     "7663c3ca-40a1-4f13-a430-14637dce797a",
     "f2a27a7e-bf04-4d31-86f5-16bfa3addbe7"
   ],
-  "rotationSlot": 74,
+  "rotationSlot": 75,
   "seasAttr": [
     "MIDDLING"
   ],
@@ -57,6 +59,11 @@
   "slogan": "Fresh Breath, Here We Come.",
   "stadium": "21ce1233-b2d6-4bd2-8d03-68a8915afdc5",
   "state": {
+    "gameModSources": {
+      "MAINTENANCE_MODE": [
+        "PSYCHOACOUSTICS"
+      ]
+    },
     "permModSources": {}
   },
   "teamSpirit": 0,
