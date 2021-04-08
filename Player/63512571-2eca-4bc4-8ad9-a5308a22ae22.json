@@ -27,14 +27,12 @@
   "martyrdom": 0.918207888768605,
   "moxie": 0.2822740977213618,
   "musclitude": 0.4128461878167552,
-  "name": "Oscar D-llie",
+  "name": "Oscar Dollie",
   "omniscience": 0.05595904944035766,
   "overpowerment": 0.9753214566550956,
   "patheticism": 0.4005423954790299,
   "peanutAllergy": false,
-  "permAttr": [
-    "SCATTERED"
-  ],
+  "permAttr": [],
   "pitchingRating": 0.659034452529045,
   "pressurization": 0.125513252688219,
   "ritual": "Swearing an oath",
@@ -42,9 +40,7 @@
   "seasAttr": [],
   "shakespearianism": 0.760965883533014,
   "soul": 5,
-  "state": {
-    "unscatteredName": "Oscar Dollie"
-  },
+  "state": {},
   "suppression": 0.9146800098299056,
   "tenaciousness": 0.1384783790913898,
   "thwackability": 0.945498415744408,
