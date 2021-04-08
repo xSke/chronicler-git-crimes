@@ -41,14 +41,18 @@
   "ritual": "Have Hope",
   "ruthlessness": 0.5156501842184871,
   "seasAttr": [
-    "ALTERNATE"
+    "MINIMALIST",
+    "SHELLED"
   ],
   "shakespearianism": 0.15826474558530457,
   "soul": 4,
   "state": {
     "permModSources": {},
     "seasModSources": {
-      "ALTERNATE": [
+      "MINIMALIST": [
+        "RECEIVER"
+      ],
+      "SHELLED": [
         "RECEIVER"
       ]
     }
