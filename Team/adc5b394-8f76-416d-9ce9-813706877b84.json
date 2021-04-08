@@ -50,7 +50,7 @@
     "MIDDLING"
   ],
   "seasonShames": 2,
-  "seasonShamings": 4,
+  "seasonShamings": 5,
   "secondaryColor": "#178f55",
   "shameRuns": 0,
   "shorthand": "KCBM",
@@ -61,8 +61,8 @@
   },
   "teamSpirit": 0,
   "totalShames": 72,
-  "totalShamings": 51,
+  "totalShamings": 52,
   "tournamentWins": 0,
   "weekAttr": [],
-  "winStreak": -1
+  "winStreak": 1
 }
