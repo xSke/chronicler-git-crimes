@@ -32,7 +32,9 @@
   "overpowerment": 0.8658666897484979,
   "patheticism": 0.001,
   "peanutAllergy": false,
-  "permAttr": [],
+  "permAttr": [
+    "REDACTED"
+  ],
   "pitchingRating": 0.7130959835516578,
   "pressurization": 0.6444271875016552,
   "ritual": "Bucket of fish",
@@ -49,7 +51,5 @@
   "tragicness": 0.4967627537872478,
   "unthwackability": 0.6257692100605599,
   "watchfulness": 0.4257323152244352,
-  "weekAttr": [
-    "COFFEE_PERIL"
-  ]
+  "weekAttr": []
 }
