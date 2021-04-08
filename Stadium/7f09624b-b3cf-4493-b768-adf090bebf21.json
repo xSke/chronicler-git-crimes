@@ -3,7 +3,7 @@
   "elongation": 0.4782296658569385,
   "filthiness": 0.1513136703627317,
   "fortification": 0.5856417592675257,
-  "forwardness": 0.5091834245281331,
+  "forwardness": 0.6530515014978483,
   "grandiosity": 0.7946209333683352,
   "hype": 0,
   "id": "7f09624b-b3cf-4493-b768-adf090bebf21",
@@ -13,7 +13,8 @@
   "model": 8,
   "mods": [
     "PSYCHOACOUSTICS",
-    "PEANUT_MISTER"
+    "PEANUT_MISTER",
+    "GRIND_RAIL"
   ],
   "mysticism": 0.5031709071895855,
   "name": "Tokyo Fitness Center",
@@ -30,9 +31,7 @@
     "coffee_two_plus",
     "viscosity_plus",
     "feedback_plus",
-    "obtuseness_plus"
-  ],
-  "renoHand": [
+    "obtuseness_plus",
     "secret_base_mod",
     "grind_rail_mod",
     "birds_plus",
@@ -43,7 +42,9 @@
     "soundsystem_mod",
     "solar_eclipse_plus"
   ],
+  "renoHand": [],
   "renoLog": {
+    "grind_rail_mod": 1,
     "peanut_mister_mod": 1,
     "psychoacoustics_mod": 1
   },

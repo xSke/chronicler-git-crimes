@@ -13,7 +13,9 @@
   "model": 8,
   "mods": [
     "FIRE_INSURANCE",
-    "SOLAR_PANELS"
+    "SOLAR_PANELS",
+    "SECRET_BASE",
+    "GRIND_RAIL"
   ],
   "mysticism": 0.4493541480949242,
   "name": "Yellowstone National (Ball)Park",
@@ -30,9 +32,7 @@
     "viscosity_minus",
     "solar_eclipse_plus",
     "coffee_threes_plus",
-    "forwardness_minus"
-  ],
-  "renoHand": [
+    "forwardness_minus",
     "secret_base_mod",
     "soundsystem_mod",
     "forwardness_minus",
@@ -43,8 +43,11 @@
     "blooddrain_plus",
     "elongation_minus"
   ],
+  "renoHand": [],
   "renoLog": {
     "fire_insurance_mod": 1,
+    "grind_rail_mod": 1,
+    "secret_base_mod": 1,
     "solar_panels_mod": 1
   },
   "secondaryColor": "#f57aa5",
@@ -54,5 +57,7 @@
   "teamId": "7966eb04-efcc-499b-8f03-d13916330531",
   "tertiaryColor": "#ffdbe7",
   "viscosity": 0.4830007638090093,
-  "weather": {}
+  "weather": {
+    "11": 1
+  }
 }

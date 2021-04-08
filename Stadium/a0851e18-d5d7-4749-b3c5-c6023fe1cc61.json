@@ -13,7 +13,9 @@
   "model": 6,
   "mods": [
     "BIG_BUCKET",
-    "PSYCHOACOUSTICS"
+    "PSYCHOACOUSTICS",
+    "SOUNDSYSTEM",
+    "SECRET_BASE"
   ],
   "mysticism": 0.7546555506397025,
   "name": "Miami International Arena",
@@ -30,9 +32,7 @@
     "peanut_mister_mod",
     "birdhouses_mod",
     "event_horizon_mod",
-    "forwardness_minus"
-  ],
-  "renoHand": [
+    "forwardness_minus",
     "secret_base_mod",
     "forwardness_minus",
     "echo_chamber_mod",
@@ -43,9 +43,12 @@
     "coffee_two_plus",
     "flood_pumps_mod"
   ],
+  "renoHand": [],
   "renoLog": {
     "big_bucket_mod": 1,
-    "psychoacoustics_mod": 1
+    "psychoacoustics_mod": 1,
+    "secret_base_mod": 1,
+    "soundsystem_mod": 1
   },
   "secondaryColor": "#634675",
   "state": {},

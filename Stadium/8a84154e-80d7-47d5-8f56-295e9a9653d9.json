@@ -12,7 +12,9 @@
   "mainColor": "#5c4822",
   "model": 3,
   "mods": [
-    "PSYCHOACOUSTICS"
+    "PSYCHOACOUSTICS",
+    "SECRET_BASE",
+    "FLOOD_PUMPS"
   ],
   "mysticism": 0.4617130261512937,
   "name": "Wapakoneta Air, Space, and Worm Museum and Ballpark",
@@ -29,9 +31,7 @@
     "solar_panels_mod",
     "feedback_plus",
     "forwardness_plus",
-    "grandiosity_plus"
-  ],
-  "renoHand": [
+    "grandiosity_plus",
     "secret_base_mod",
     "sun_two_plus",
     "flood_pumps_mod",
@@ -42,8 +42,11 @@
     "echo_chamber_mod",
     "blooddrain_plus"
   ],
+  "renoHand": [],
   "renoLog": {
-    "psychoacoustics_mod": 1
+    "flood_pumps_mod": 1,
+    "psychoacoustics_mod": 1,
+    "secret_base_mod": 1
   },
   "secondaryColor": "#ba9c65",
   "state": {},

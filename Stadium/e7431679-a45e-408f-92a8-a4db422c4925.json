@@ -12,7 +12,9 @@
   "mainColor": "#3ee652",
   "model": 6,
   "mods": [
-    "PEANUT_MISTER"
+    "PEANUT_MISTER",
+    "GRIND_RAIL",
+    "FLOOD_PUMPS"
   ],
   "mysticism": 0.7370254366197266,
   "name": "Hawai'i Viberight Field",
@@ -29,9 +31,7 @@
     "flooding_plus",
     "sun_two_plus",
     "coffee_threes_plus",
-    "solar_panels_mod"
-  ],
-  "renoHand": [
+    "solar_panels_mod",
     "secret_base_mod",
     "reverb_plus",
     "echo_chamber_mod",
@@ -42,7 +42,10 @@
     "soundsystem_mod",
     "forwardness_minus"
   ],
+  "renoHand": [],
   "renoLog": {
+    "flood_pumps_mod": 1,
+    "grind_rail_mod": 1,
     "peanut_mister_mod": 1
   },
   "secondaryColor": "#0b7517",

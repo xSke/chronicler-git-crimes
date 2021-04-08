@@ -4,7 +4,7 @@
   "filthiness": 0.20751750240676825,
   "fortification": 0.4519595330300567,
   "forwardness": 0.5101363245618917,
-  "grandiosity": 0.6050124001035256,
+  "grandiosity": 0.5103603930943879,
   "hype": 0,
   "id": "36b94380-39a6-4e32-b525-3e888215798a",
   "inconvenience": 0.4712119725231586,
@@ -13,7 +13,8 @@
   "model": 8,
   "mods": [
     "BIG_BUCKET",
-    "PSYCHOACOUSTICS"
+    "PSYCHOACOUSTICS",
+    "SECRET_BASE"
   ],
   "mysticism": 0.4382990376095283,
   "name": "Al Pastor Memorial Park",
@@ -30,9 +31,7 @@
     "big_bucket_mod",
     "obtuseness_minus",
     "obtuseness_plus",
-    "coffee_one_plus"
-  ],
-  "renoHand": [
+    "coffee_one_plus",
     "secret_base_mod",
     "obtuseness_minus",
     "grandiosity_minus",
@@ -43,9 +42,11 @@
     "flood_pumps_mod",
     "peanut_mister_mod"
   ],
+  "renoHand": [],
   "renoLog": {
     "big_bucket_mod": 1,
-    "psychoacoustics_mod": 1
+    "psychoacoustics_mod": 1,
+    "secret_base_mod": 1
   },
   "secondaryColor": "#bb8fc4",
   "state": {},

@@ -11,7 +11,10 @@
   "luxuriousness": 0,
   "mainColor": "#780018",
   "model": 2,
-  "mods": [],
+  "mods": [
+    "GRIND_RAIL",
+    "SECRET_BASE"
+  ],
   "mysticism": 0.3770574015656983,
   "name": "San Franstadium",
   "nickname": "The Polyhedron",
@@ -27,9 +30,7 @@
     "grandiosity_plus",
     "big_bucket_mod",
     "inconvenience_plus",
-    "coffee_two_plus"
-  ],
-  "renoHand": [
+    "coffee_two_plus",
     "secret_base_mod",
     "flood_pumps_mod",
     "grind_rail_mod",
@@ -40,7 +41,11 @@
     "flooding_plus",
     "soundsystem_mod"
   ],
-  "renoLog": {},
+  "renoHand": [],
+  "renoLog": {
+    "grind_rail_mod": 1,
+    "secret_base_mod": 1
+  },
   "secondaryColor": "#c7425c",
   "state": {},
   "teamId": "b72f3061-f573-40d7-832a-5ad475bd7909",

@@ -12,7 +12,9 @@
   "mainColor": "#399d8f",
   "model": 6,
   "mods": [
-    "BIG_BUCKET"
+    "BIG_BUCKET",
+    "SECRET_BASE",
+    "GRIND_RAIL"
   ],
   "mysticism": 0.6563113327867125,
   "name": "Tastycake Stadium",
@@ -29,9 +31,7 @@
     "elongation_plus",
     "event_horizon_mod",
     "big_bucket_mod",
-    "feedback_plus"
-  ],
-  "renoHand": [
+    "feedback_plus",
     "secret_base_mod",
     "soundsystem_mod",
     "flood_pumps_mod",
@@ -42,8 +42,11 @@
     "feedback_plus",
     "echo_chamber_mod"
   ],
+  "renoHand": [],
   "renoLog": {
-    "big_bucket_mod": 1
+    "big_bucket_mod": 1,
+    "grind_rail_mod": 1,
+    "secret_base_mod": 1
   },
   "secondaryColor": "#0a5c50",
   "state": {},

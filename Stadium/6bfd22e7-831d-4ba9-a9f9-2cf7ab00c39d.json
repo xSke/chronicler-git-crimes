@@ -11,12 +11,14 @@
   "luxuriousness": 0,
   "mainColor": "#8c8d8f",
   "model": 5,
-  "mods": [],
+  "mods": [
+    "BIG_BUCKET"
+  ],
   "mysticism": 0.4819230853857312,
   "name": "George Fourman Stadium",
   "nickname": "The Steakhouse",
   "obtuseness": 0.4176170640409262,
-  "ominousness": 0.39203888189856856,
+  "ominousness": 0.33229965145836093,
   "renoCost": -1,
   "renoDiscard": [
     "psychoacoustics_mod",
@@ -27,9 +29,7 @@
     "ominousness_plus",
     "peanuts_plus",
     "mysticism_plus",
-    "peanut_mister_mod"
-  ],
-  "renoHand": [
+    "peanut_mister_mod",
     "secret_base_mod",
     "echo_chamber_mod",
     "event_horizon_mod",
@@ -40,7 +40,10 @@
     "grind_rail_mod",
     "mysticism_plus"
   ],
-  "renoLog": {},
+  "renoHand": [],
+  "renoLog": {
+    "big_bucket_mod": 1
+  },
   "secondaryColor": "#434345",
   "state": {},
   "teamId": "b024e975-1c4a-4575-8936-a3754a08806a",

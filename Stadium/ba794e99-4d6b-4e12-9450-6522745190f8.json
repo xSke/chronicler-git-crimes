@@ -7,12 +7,13 @@
   "grandiosity": 0.5641918901049738,
   "hype": 0,
   "id": "ba794e99-4d6b-4e12-9450-6522745190f8",
-  "inconvenience": 0.4815896978575373,
+  "inconvenience": 0.42019865756958297,
   "luxuriousness": 0,
   "mainColor": "#ffd4d8",
   "model": 1,
   "mods": [
-    "PSYCHOACOUSTICS"
+    "PSYCHOACOUSTICS",
+    "GRIND_RAIL"
   ],
   "mysticism": 0.5394549078823694,
   "name": "New York, New York Arena, Arena",
@@ -29,9 +30,7 @@
     "peanut_mister_mod",
     "big_bucket_mod",
     "event_horizon_mod",
-    "ominousness_plus"
-  ],
-  "renoHand": [
+    "ominousness_plus",
     "secret_base_mod",
     "flood_pumps_mod",
     "grind_rail_mod",
@@ -42,7 +41,9 @@
     "flooding_plus",
     "inconvenience_minus"
   ],
+  "renoHand": [],
   "renoLog": {
+    "grind_rail_mod": 1,
     "peanut_mister_mod": 1,
     "psychoacoustics_mod": 1
   },

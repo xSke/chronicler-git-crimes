@@ -13,7 +13,10 @@
   "model": 8,
   "mods": [
     "SOLAR_PANELS",
-    "PSYCHOACOUSTICS"
+    "PSYCHOACOUSTICS",
+    "GRIND_RAIL",
+    "SECRET_BASE",
+    "ECHO_CHAMBER"
   ],
   "mysticism": 0.506593554498159,
   "name": "Lower Moab Scenic Overlook Field",
@@ -30,9 +33,7 @@
     "elongation_plus",
     "forwardness_plus",
     "grandiosity_minus",
-    "peanut_mister_mod"
-  ],
-  "renoHand": [
+    "peanut_mister_mod",
     "secret_base_mod",
     "birds_plus",
     "echo_chamber_mod",
@@ -43,8 +44,12 @@
     "fire_insurance_mod",
     "coffee_threes_plus"
   ],
+  "renoHand": [],
   "renoLog": {
+    "echo_chamber_mod": 1,
+    "grind_rail_mod": 1,
     "psychoacoustics_mod": 1,
+    "secret_base_mod": 1,
     "solar_panels_mod": 1
   },
   "secondaryColor": "#b5af26",

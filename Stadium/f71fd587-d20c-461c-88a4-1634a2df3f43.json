@@ -4,7 +4,7 @@
   "filthiness": 0.17210854994817237,
   "fortification": 0.42410791017212784,
   "forwardness": 0.5984538834873534,
-  "grandiosity": 0.6169163612062815,
+  "grandiosity": 0.730681997444272,
   "hype": 0,
   "id": "f71fd587-d20c-461c-88a4-1634a2df3f43",
   "inconvenience": 0.5997941819201162,
@@ -29,9 +29,7 @@
     "birds_plus",
     "ominousness_plus",
     "event_horizon_mod",
-    "feedback_plus"
-  ],
-  "renoHand": [
+    "feedback_plus",
     "secret_base_mod",
     "flooding_plus",
     "grind_rail_mod",
@@ -42,6 +40,7 @@
     "grandiosity_plus",
     "obtuseness_minus"
   ],
+  "renoHand": [],
   "renoLog": {
     "big_bucket_mod": 1
   },
@@ -50,5 +49,7 @@
   "teamId": "eb67ae5e-c4bf-46ca-bbbc-425cd34182ff",
   "tertiaryColor": "#275b62",
   "viscosity": 0.5487322736948579,
-  "weather": {}
+  "weather": {
+    "18": 1
+  }
 }

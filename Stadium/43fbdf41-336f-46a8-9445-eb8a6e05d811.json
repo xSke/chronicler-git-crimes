@@ -13,7 +13,9 @@
   "model": 8,
   "mods": [
     "BIG_BUCKET",
-    "PEANUT_MISTER"
+    "PEANUT_MISTER",
+    "SECRET_BASE",
+    "FLOOD_PUMPS"
   ],
   "mysticism": 0.4087364786522717,
   "name": "An Undisclosed Location",
@@ -30,9 +32,7 @@
     "event_horizon_mod",
     "solar_panels_mod",
     "inconvenience_plus",
-    "fortifications_plus"
-  ],
-  "renoHand": [
+    "fortifications_plus",
     "secret_base_mod",
     "fire_insurance_mod",
     "echo_chamber_mod",
@@ -43,9 +43,12 @@
     "viscosity_minus",
     "ominousness_plus"
   ],
+  "renoHand": [],
   "renoLog": {
     "big_bucket_mod": 1,
-    "peanut_mister_mod": 1
+    "flood_pumps_mod": 1,
+    "peanut_mister_mod": 1,
+    "secret_base_mod": 1
   },
   "secondaryColor": "#a589ab",
   "state": {},

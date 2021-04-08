@@ -4,7 +4,7 @@
   "filthiness": 0.14066850957459212,
   "fortification": 0.5342454937183025,
   "forwardness": 0.4856451813964252,
-  "grandiosity": 0.6246505735512364,
+  "grandiosity": 0.4899290560974432,
   "hype": 0,
   "id": "d37abba6-9fba-463a-8f4f-7cf49de3c7b6",
   "inconvenience": 0.5829381489066005,
@@ -13,7 +13,8 @@
   "model": 8,
   "mods": [
     "PSYCHOACOUSTICS",
-    "SOLAR_PANELS"
+    "SOLAR_PANELS",
+    "BIG_BUCKET"
   ],
   "mysticism": 0.5754439841690367,
   "name": "Boston Garden",
@@ -30,9 +31,7 @@
     "coffee_threes_plus",
     "peanuts_plus",
     "solar_panels_mod",
-    "event_horizon_mod"
-  ],
-  "renoHand": [
+    "event_horizon_mod",
     "secret_base_mod",
     "grandiosity_plus",
     "grind_rail_mod",
@@ -43,7 +42,9 @@
     "event_horizon_mod",
     "coffee_two_plus"
   ],
+  "renoHand": [],
   "renoLog": {
+    "big_bucket_mod": 1,
     "psychoacoustics_mod": 1,
     "solar_panels_mod": 1
   },

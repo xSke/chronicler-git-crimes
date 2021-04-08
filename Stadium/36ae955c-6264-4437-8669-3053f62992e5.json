@@ -12,7 +12,9 @@
   "mainColor": "#ffce0a",
   "model": 8,
   "mods": [
-    "PSYCHOACOUSTICS"
+    "PSYCHOACOUSTICS",
+    "SECRET_BASE",
+    "GRIND_RAIL"
   ],
   "mysticism": 0.48330562996753273,
   "name": "Choux Stadium",
@@ -29,9 +31,7 @@
     "inconvenience_minus",
     "mysticism_plus",
     "event_horizon_mod",
-    "reverb_plus"
-  ],
-  "renoHand": [
+    "reverb_plus",
     "secret_base_mod",
     "black_hole_plus",
     "soundsystem_mod",
@@ -42,8 +42,11 @@
     "grind_rail_mod",
     "event_horizon_mod"
   ],
+  "renoHand": [],
   "renoLog": {
-    "psychoacoustics_mod": 1
+    "grind_rail_mod": 1,
+    "psychoacoustics_mod": 1,
+    "secret_base_mod": 1
   },
   "secondaryColor": "#8a6e00",
   "state": {},
