@@ -34,7 +34,8 @@
   "peanutAllergy": false,
   "permAttr": [
     "ALTERNATE",
-    "WILD"
+    "WILD",
+    "TRIPLE_THREAT"
   ],
   "pitchingRating": 0.4904022369749852,
   "pressurization": 0.084464990259979,

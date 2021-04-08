@@ -32,7 +32,9 @@
   "overpowerment": 0.7808618699348424,
   "patheticism": 0.8794653603131797,
   "peanutAllergy": false,
-  "permAttr": [],
+  "permAttr": [
+    "TRIPLE_THREAT"
+  ],
   "pitchingRating": 0.585476668661247,
   "pressurization": 0.7965948938008762,
   "ritual": "Bottling up emotions",
