@@ -37,9 +37,7 @@
   "location": "Kansas City",
   "mainColor": "#178f55",
   "nickname": "Breath Mints",
-  "permAttr": [
-    "OVERPERFORMING"
-  ],
+  "permAttr": [],
   "rotation": [
     "a199a681-decf-4433-b6ab-5454450bbe5e",
     "138fccc3-e66f-4b07-8327-d4b6f372f654",
@@ -59,16 +57,12 @@
   "slogan": "Fresh Breath, Here We Come.",
   "stadium": "21ce1233-b2d6-4bd2-8d03-68a8915afdc5",
   "state": {
-    "permModSources": {
-      "OVERPERFORMING": [
-        "MIDDLING"
-      ]
-    }
+    "permModSources": {}
   },
   "teamSpirit": 0,
   "totalShames": 72,
   "totalShamings": 51,
   "tournamentWins": 0,
   "weekAttr": [],
-  "winStreak": 1
+  "winStreak": -1
 }
