@@ -26,7 +26,6 @@
   "id": "bfd38797-8404-4b38-8b82-341da28b1f83",
   "level": 4,
   "lineup": [
-    "070758a0-092a-4a2c-8a16-253c835887cb",
     "b1b141fc-e867-40d1-842a-cea30a97ca4f",
     "4ca52626-58cd-449d-88bb-f6d631588640",
     "020ed630-8bae-4441-95cc-0e4ecc27253b",
@@ -66,5 +65,5 @@
   "totalShamings": 53,
   "tournamentWins": 0,
   "weekAttr": [],
-  "winStreak": 1
+  "winStreak": 2
 }

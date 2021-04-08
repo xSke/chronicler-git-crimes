@@ -32,7 +32,9 @@
   "overpowerment": 1.0622233497817593,
   "patheticism": 0.6487332936142564,
   "peanutAllergy": true,
-  "permAttr": [],
+  "permAttr": [
+    "REDACTED"
+  ],
   "pitchingRating": 0.151327150843587,
   "pressurization": 0.7309764322716965,
   "ritual": "Watching documentaries",
@@ -49,7 +51,5 @@
   "tragicness": 0.8968878326848335,
   "unthwackability": 0.15255475409044178,
   "watchfulness": 0.07763561286089041,
-  "weekAttr": [
-    "COFFEE_PERIL"
-  ]
+  "weekAttr": []
 }
