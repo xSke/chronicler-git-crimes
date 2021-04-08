@@ -32,7 +32,9 @@
   "overpowerment": 0.02322295060327839,
   "patheticism": 0.1436682400613889,
   "peanutAllergy": false,
-  "permAttr": [],
+  "permAttr": [
+    "COFFEE_RALLY"
+  ],
   "pitchingRating": 0.26943554068988496,
   "pressurization": 0.7303585957668055,
   "ritual": "Acoustic guitar",
