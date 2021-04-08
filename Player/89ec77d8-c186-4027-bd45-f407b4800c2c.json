@@ -34,7 +34,7 @@
   "peanutAllergy": false,
   "permAttr": [
     "SUPERYUMMY",
-    "OVERPERFORMING"
+    "UNDERPERFORMING"
   ],
   "pitchingRating": 0.8447268959631368,
   "pressurization": 0.5408376821510407,
@@ -45,7 +45,7 @@
   "soul": 3,
   "state": {
     "permModSources": {
-      "OVERPERFORMING": [
+      "UNDERPERFORMING": [
         "SUPERYUMMY"
       ]
     }

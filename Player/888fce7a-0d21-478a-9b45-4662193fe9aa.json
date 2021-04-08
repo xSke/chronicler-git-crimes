@@ -32,7 +32,9 @@
   "overpowerment": 0.8835933096807773,
   "patheticism": 0.7055186906685846,
   "peanutAllergy": false,
-  "permAttr": [],
+  "permAttr": [
+    "TRIPLE_THREAT"
+  ],
   "pitchingRating": 0.7200123116584218,
   "pressurization": 0.4457096455860312,
   "ritual": "Air drumming",
