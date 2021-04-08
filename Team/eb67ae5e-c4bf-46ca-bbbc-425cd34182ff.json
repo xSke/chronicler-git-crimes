@@ -20,7 +20,7 @@
   ],
   "card": 4,
   "championships": 1,
-  "eDensity": 1734.1657412330628,
+  "eDensity": 1758.1657412330628,
   "emoji": "0x1F5E3",
   "evolution": 0,
   "fullName": "Canada Moist Talkers",
@@ -68,5 +68,5 @@
   "totalShamings": 67,
   "tournamentWins": 0,
   "weekAttr": [],
-  "winStreak": -2
+  "winStreak": 1
 }

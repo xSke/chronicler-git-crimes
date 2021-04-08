@@ -18,7 +18,7 @@
   ],
   "card": 0,
   "championships": 0,
-  "eDensity": 1778.9842277719144,
+  "eDensity": 1785.5043683996005,
   "emoji": "0x2728",
   "evolution": 0,
   "fullName": "Yellowstone Magic",
@@ -62,5 +62,5 @@
   "totalShamings": 64,
   "tournamentWins": 0,
   "weekAttr": [],
-  "winStreak": 3
+  "winStreak": -1
 }

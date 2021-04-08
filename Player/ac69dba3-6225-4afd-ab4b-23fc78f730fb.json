@@ -15,9 +15,7 @@
   "eDensity": 28.74567658203996,
   "evolution": 0,
   "fate": 5,
-  "gameAttr": [
-    "WIRED"
-  ],
+  "gameAttr": [],
   "groundFriction": 1.033469163966167,
   "hitStreak": 0,
   "hittingRating": 0.6180780301695343,
@@ -51,7 +49,5 @@
   "tragicness": 0.08117264132422015,
   "unthwackability": 0.3716046779160426,
   "watchfulness": 0.7589460828351879,
-  "weekAttr": [
-    "COFFEE_PERIL"
-  ]
+  "weekAttr": []
 }
