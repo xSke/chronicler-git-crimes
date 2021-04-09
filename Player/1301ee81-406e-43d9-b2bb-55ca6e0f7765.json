@@ -27,7 +27,7 @@
   "martyrdom": 0.9367486077154736,
   "moxie": 1.378552248221493,
   "musclitude": 0.8886222818149914,
-  "name": "Malik Destiny",
+  "name": "--lik De-tin-",
   "omniscience": 1.1209105388119522,
   "overpowerment": 0.4287874868319665,
   "patheticism": 0.001,
@@ -35,7 +35,7 @@
   "permAttr": [
     "ALTERNATE",
     "FIRE_EATER",
-    "ELSEWHERE"
+    "SCATTERED"
   ],
   "pitchingRating": 1.046907230981349,
   "pressurization": 0.5871506451142308,
@@ -45,10 +45,7 @@
   "shakespearianism": 0.8689470967734032,
   "soul": 4,
   "state": {
-    "elsewhere": {
-      "day": 61,
-      "season": 14
-    }
+    "unscatteredName": "Malik Destiny"
   },
   "suppression": 1.1248991433287268,
   "tenaciousness": 0.5603143814886192,
