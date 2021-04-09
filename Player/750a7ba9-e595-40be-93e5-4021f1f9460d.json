@@ -15,7 +15,9 @@
   "eDensity": 24.38224461957526,
   "evolution": 1,
   "fate": 17,
-  "gameAttr": [],
+  "gameAttr": [
+    "TIRED"
+  ],
   "groundFriction": 1.1173726864906588,
   "hitStreak": 0,
   "hittingRating": 0.653946299605653,
