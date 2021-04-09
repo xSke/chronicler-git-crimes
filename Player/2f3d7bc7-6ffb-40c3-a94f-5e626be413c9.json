@@ -15,7 +15,9 @@
   "eDensity": 53.96757596009614,
   "evolution": 0,
   "fate": 39,
-  "gameAttr": [],
+  "gameAttr": [
+    "OVERPERFORMING"
+  ],
   "groundFriction": 0.6223145905165816,
   "hitStreak": 0,
   "hittingRating": 0.17614246640200326,
@@ -42,7 +44,13 @@
   "seasAttr": [],
   "shakespearianism": 0.831700258259898,
   "soul": 9,
-  "state": {},
+  "state": {
+    "gameModSources": {
+      "OVERPERFORMING": [
+        "PERK"
+      ]
+    }
+  },
   "suppression": 0.6635043929892291,
   "tenaciousness": 0.5550158302734394,
   "thwackability": 0.6345547950694989,
