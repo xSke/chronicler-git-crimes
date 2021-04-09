@@ -27,14 +27,13 @@
   "martyrdom": 1.1979650129374189,
   "moxie": 0.9113747665324252,
   "musclitude": 0.8595835955386756,
-  "name": "Simon Ha-ey",
+  "name": "Simon Haley",
   "omniscience": 0.3285948509421962,
   "overpowerment": 0.517296516356381,
   "patheticism": 0.20265460999463525,
   "peanutAllergy": true,
   "permAttr": [
-    "FLINCH",
-    "SCATTERED"
+    "FLINCH"
   ],
   "pitchingRating": 0.3555324923774752,
   "pressurization": 0.5312801848809112,
@@ -43,9 +42,7 @@
   "seasAttr": [],
   "shakespearianism": 0.3671588568413363,
   "soul": 6,
-  "state": {
-    "unscatteredName": "Simon Haley"
-  },
+  "state": {},
   "suppression": 0.806567635682457,
   "tenaciousness": 0.5866753168559449,
   "thwackability": 0.8003142317880688,
