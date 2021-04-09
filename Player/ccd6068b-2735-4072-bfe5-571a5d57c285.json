@@ -32,7 +32,9 @@
   "overpowerment": 0.4568579103612323,
   "patheticism": 0.16777027144399825,
   "peanutAllergy": true,
-  "permAttr": [],
+  "permAttr": [
+    "TRIPLE_THREAT"
+  ],
   "pitchingRating": 0.6948186599837505,
   "pressurization": 0.04955333860947353,
   "ritual": "Running the bases",

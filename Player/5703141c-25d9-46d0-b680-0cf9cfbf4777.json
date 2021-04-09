@@ -35,7 +35,7 @@
   "permAttr": [
     "FRIEND_OF_CROWS",
     "SUPERYUMMY",
-    "UNDERPERFORMING"
+    "OVERPERFORMING"
   ],
   "pitchingRating": 0.660674273010324,
   "pressurization": 0.7267315163595882,
@@ -46,7 +46,7 @@
   "soul": 7,
   "state": {
     "permModSources": {
-      "UNDERPERFORMING": [
+      "OVERPERFORMING": [
         "SUPERYUMMY"
       ]
     }
