@@ -27,14 +27,12 @@
   "martyrdom": 0.3640390119671637,
   "moxie": 0.9245328282822068,
   "musclitude": 0.34452149626386736,
-  "name": "Gloria Bug-nax",
+  "name": "Gloria Bugsnax",
   "omniscience": 0.2598068960020247,
   "overpowerment": 0.5989986001426899,
   "patheticism": 0.07853663752745041,
   "peanutAllergy": true,
-  "permAttr": [
-    "SCATTERED"
-  ],
+  "permAttr": [],
   "pitchingRating": 0.6692237373086619,
   "pressurization": 0.004850129929768743,
   "ritual": "Sleep-pitching",
@@ -42,9 +40,7 @@
   "seasAttr": [],
   "shakespearianism": 1.0206601542733855,
   "soul": 6,
-  "state": {
-    "unscatteredName": "Gloria Bugsnax"
-  },
+  "state": {},
   "suppression": 0.8638300103297617,
   "tenaciousness": 1.0473613975033138,
   "thwackability": 0.35732438755477686,
