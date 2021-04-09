@@ -27,13 +27,13 @@
   "martyrdom": 0.24271209831004295,
   "moxie": 0.7581188405892232,
   "musclitude": 0.7426742580245859,
-  "name": "Francisco Preston",
+  "name": "--a----c- P--sto-",
   "omniscience": 0.25862118228361386,
   "overpowerment": 0.362555329740319,
   "patheticism": 0.5527224896076569,
   "peanutAllergy": false,
   "permAttr": [
-    "ELSEWHERE"
+    "SCATTERED"
   ],
   "pitchingRating": 0.5559353737701316,
   "pressurization": 0.01022930954285428,
@@ -43,10 +43,7 @@
   "shakespearianism": 0.5701209646913536,
   "soul": 2,
   "state": {
-    "elsewhere": {
-      "day": 28,
-      "season": 14
-    }
+    "unscatteredName": "Francisco Preston"
   },
   "suppression": 0.2625650446791729,
   "tenaciousness": 0.680119199414505,
