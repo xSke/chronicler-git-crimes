@@ -16,6 +16,11 @@
   },
   {
     "expire": null,
+    "id": "wait_dale",
+    "msg": "wait did i do that wrong"
+  },
+  {
+    "expire": null,
     "id": "blaseball_back",
     "msg": "Blaseball is BACK"
   },
