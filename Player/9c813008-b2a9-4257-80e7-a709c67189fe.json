@@ -32,7 +32,9 @@
   "overpowerment": 0.09803232545631564,
   "patheticism": 0.001,
   "peanutAllergy": false,
-  "permAttr": [],
+  "permAttr": [
+    "COFFEE_RALLY"
+  ],
   "pitchingRating": 0.28495178272097227,
   "pressurization": 0.2656047477554473,
   "ritual": "Watching documentaries",
