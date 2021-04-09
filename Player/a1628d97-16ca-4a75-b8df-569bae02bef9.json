@@ -12,7 +12,7 @@
   "deceased": false,
   "defenseRating": 0.007943282347242812,
   "divinity": 0.001,
-  "eDensity": 3288.08301225115,
+  "eDensity": 3280.08301225115,
   "evolution": 0,
   "fate": 79,
   "gameAttr": [],
@@ -34,7 +34,8 @@
   "peanutAllergy": false,
   "permAttr": [
     "RETURNED",
-    "DEBT_THREE"
+    "DEBT_THREE",
+    "EGO1"
   ],
   "pitchingRating": 0.00029853826189179584,
   "pressurization": 0.7113755233221608,

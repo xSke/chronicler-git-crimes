@@ -35,9 +35,9 @@
   "permAttr": [
     "DOUBLE_PAYOUTS",
     "HONEY_ROASTED",
-    "EGO2",
     "RETURNED",
-    "DEBT_THREE"
+    "DEBT_THREE",
+    "EGO3"
   ],
   "pitchingRating": 0.21982244389957217,
   "pressurization": 0.32762547788474816,
