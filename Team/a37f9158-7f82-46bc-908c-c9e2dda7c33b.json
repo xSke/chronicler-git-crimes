@@ -52,7 +52,7 @@
     "PARTY_TIME"
   ],
   "seasonShames": 4,
-  "seasonShamings": 3,
+  "seasonShamings": 4,
   "secondaryColor": "#7ba9d7",
   "shameRuns": 0,
   "shorthand": "BJAZ",
@@ -63,8 +63,8 @@
   },
   "teamSpirit": 0,
   "totalShames": 73,
-  "totalShamings": 59,
+  "totalShamings": 60,
   "tournamentWins": 0,
   "weekAttr": [],
-  "winStreak": -1
+  "winStreak": 1
 }
