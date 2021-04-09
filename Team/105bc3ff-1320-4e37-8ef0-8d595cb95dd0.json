@@ -43,7 +43,9 @@
   "location": "Seattle",
   "mainColor": "#2b4075",
   "nickname": "Garages",
-  "permAttr": [],
+  "permAttr": [
+    "FREE_WILL"
+  ],
   "rotation": [
     "1732e623-ffc2-40f0-87ba-fdcf97131f1f",
     "e3c514ae-f813-470e-9c91-d5baf5ffcf16",

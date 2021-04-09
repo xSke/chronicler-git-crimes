@@ -39,7 +39,8 @@
   "nickname": "Worms",
   "permAttr": [
     "BOTTOM_DWELLER",
-    "BLACKHOLE_PAYOUTS"
+    "BLACKHOLE_PAYOUTS",
+    "FREE_WILL"
   ],
   "rotation": [
     "ccd6068b-2735-4072-bfe5-571a5d57c285",

@@ -38,7 +38,8 @@
   "mainColor": "#00dbc2",
   "nickname": "Georgias",
   "permAttr": [
-    "UNDERSEA"
+    "UNDERSEA",
+    "FREE_WILL"
   ],
   "rotation": [
     "948ce8a8-19cd-4f81-b84f-88cce02c47bc",
@@ -64,5 +65,5 @@
   "totalShamings": 12,
   "tournamentWins": 0,
   "weekAttr": [],
-  "winStreak": -4
+  "winStreak": -5
 }
