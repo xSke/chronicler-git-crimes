@@ -27,14 +27,12 @@
   "martyrdom": 0.485551589383433,
   "moxie": 0.030245436053731145,
   "musclitude": 0.8885655919256457,
-  "name": "Summ-rs Preston",
+  "name": "Summers Preston",
   "omniscience": 0.5282484555174085,
   "overpowerment": 0.09905125700173124,
   "patheticism": 0.25284685794634054,
   "peanutAllergy": true,
-  "permAttr": [
-    "SCATTERED"
-  ],
+  "permAttr": [],
   "pitchingRating": 0.25038170532427756,
   "pressurization": 0.2625056906223122,
   "ritual": "Shivering",
@@ -42,9 +40,7 @@
   "seasAttr": [],
   "shakespearianism": 0.05903456637820498,
   "soul": 7,
-  "state": {
-    "unscatteredName": "Summers Preston"
-  },
+  "state": {},
   "suppression": 0.9256678560084916,
   "tenaciousness": 0.21344824788416888,
   "thwackability": 0.6369367831030537,
