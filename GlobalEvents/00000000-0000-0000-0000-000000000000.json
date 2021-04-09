@@ -11,6 +11,11 @@
   },
   {
     "expire": null,
+    "id": "dale",
+    "msg": "the miami dale made the playoffs? that's against all odds"
+  },
+  {
+    "expire": null,
     "id": "blaseball_back",
     "msg": "Blaseball is BACK"
   },
