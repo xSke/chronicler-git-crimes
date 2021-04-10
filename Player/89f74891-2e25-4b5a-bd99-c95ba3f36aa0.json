@@ -35,7 +35,7 @@
   "permAttr": [
     "FIRE_EATER",
     "HOMEBODY",
-    "OVERPERFORMING"
+    "UNDERPERFORMING"
   ],
   "pitchingRating": 0.48583451928030336,
   "pressurization": 0.649560568963705,
@@ -46,7 +46,7 @@
   "soul": 2,
   "state": {
     "permModSources": {
-      "OVERPERFORMING": [
+      "UNDERPERFORMING": [
         "HOMEBODY"
       ]
     }
