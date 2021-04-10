@@ -23,7 +23,7 @@
   "fullName": "Miami Dale",
   "gameAttr": [],
   "id": "b63be8c2-576a-4d6e-8daf-814f8bcea96f",
-  "level": 5,
+  "level": 4,
   "lineup": [
     "0cc5bd39-e90d-42f9-9dd8-7e703f316436",
     "9d6f3d23-bc26-40e6-93aa-0b1c693e0ba8",
@@ -48,7 +48,7 @@
     "20be1c34-071d-40c6-8824-dde2af184b4d",
     "889c9ef9-d521-4436-b41c-9021b81b4dfb"
   ],
-  "rotationSlot": 99,
+  "rotationSlot": 100,
   "seasAttr": [],
   "seasonShames": 7,
   "seasonShamings": 6,
