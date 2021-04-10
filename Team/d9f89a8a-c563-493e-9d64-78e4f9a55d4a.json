@@ -48,12 +48,10 @@
     "4a95d9d8-3dcc-488d-b1cb-19690271ae4c",
     "56eba639-ea73-474d-bcee-ec68c0528b02"
   ],
-  "rotationSlot": 99,
-  "seasAttr": [
-    "PARTY_TIME"
-  ],
-  "seasonShames": 4,
-  "seasonShamings": 2,
+  "rotationSlot": 0,
+  "seasAttr": [],
+  "seasonShames": 0,
+  "seasonShamings": 0,
   "secondaryColor": "#5cffec",
   "shameRuns": 0,
   "shorthand": "ATL",

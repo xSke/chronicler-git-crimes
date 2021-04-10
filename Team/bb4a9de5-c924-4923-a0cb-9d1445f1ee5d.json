@@ -49,12 +49,10 @@
     "425f3f84-bab0-4cf2-91c1-96e78cf5cd02",
     "924de86d-260b-495b-80e1-57af5767703c"
   ],
-  "rotationSlot": 99,
-  "seasAttr": [
-    "PARTY_TIME"
-  ],
-  "seasonShames": 3,
-  "seasonShamings": 9,
+  "rotationSlot": 0,
+  "seasAttr": [],
+  "seasonShames": 0,
+  "seasonShamings": 0,
   "secondaryColor": "#ba9c65",
   "shameRuns": 0,
   "shorthand": "OHWO",
