@@ -42,14 +42,15 @@
   "ruthlessness": 1.161456583755211,
   "seasAttr": [],
   "shakespearianism": 0.7367219288790461,
-  "soul": 40,
+  "soul": 41,
   "state": {
     "hunches": [
       0,
       7,
       1,
       3,
-      9
+      9,
+      2
     ],
     "investigations": 4
   },
