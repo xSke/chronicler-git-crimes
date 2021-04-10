@@ -39,22 +39,11 @@
   "pressurization": 0.7290459950758161,
   "ritual": "Playing pranks",
   "ruthlessness": 0.7851094485207777,
-  "seasAttr": [
-    "MINIMALIST",
-    "SHELLED"
-  ],
+  "seasAttr": [],
   "shakespearianism": 0.2950006951239794,
   "soul": 5,
   "state": {
-    "permModSources": {},
-    "seasModSources": {
-      "MINIMALIST": [
-        "RECEIVER"
-      ],
-      "SHELLED": [
-        "RECEIVER"
-      ]
-    }
+    "permModSources": {}
   },
   "suppression": 0.3878409948139672,
   "tenaciousness": 0.19552060592903872,

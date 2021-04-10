@@ -40,22 +40,11 @@
   "pressurization": 0.5991665436375463,
   "ritual": "Have Hope",
   "ruthlessness": 0.5156501842184871,
-  "seasAttr": [
-    "MINIMALIST",
-    "SHELLED"
-  ],
+  "seasAttr": [],
   "shakespearianism": 0.15826474558530457,
   "soul": 4,
   "state": {
-    "permModSources": {},
-    "seasModSources": {
-      "MINIMALIST": [
-        "RECEIVER"
-      ],
-      "SHELLED": [
-        "RECEIVER"
-      ]
-    }
+    "permModSources": {}
   },
   "suppression": 0.12621328501673035,
   "tenaciousness": 0.47597921140319577,
