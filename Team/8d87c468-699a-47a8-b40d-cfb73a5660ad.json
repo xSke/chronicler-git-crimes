@@ -25,9 +25,7 @@
   "emoji": "0x1F980",
   "evolution": 1,
   "fullName": "Baltimore Crabs",
-  "gameAttr": [
-    "MIDDLING"
-  ],
+  "gameAttr": [],
   "id": "8d87c468-699a-47a8-b40d-cfb73a5660ad",
   "level": 6,
   "lineup": [
@@ -56,23 +54,17 @@
   "rotationSlot": 100,
   "seasAttr": [],
   "seasonShames": 1,
-  "seasonShamings": 4,
+  "seasonShamings": 5,
   "secondaryColor": "#b05c6b",
   "shameRuns": 0,
   "shorthand": "BALC",
   "slogan": "Claws Up!",
   "stadium": "cfb57d7c-4118-4b0a-85cc-4e3a51a66cb6",
-  "state": {
-    "gameModSources": {
-      "MIDDLING": [
-        "PSYCHOACOUSTICS"
-      ]
-    }
-  },
+  "state": {},
   "teamSpirit": 0,
   "totalShames": 62,
-  "totalShamings": 65,
+  "totalShamings": 66,
   "tournamentWins": 0,
   "weekAttr": [],
-  "winStreak": -2
+  "winStreak": 1
 }

@@ -50,10 +50,10 @@
   "seasAttr": [
     "MIDDLING"
   ],
-  "seasonShames": 2,
+  "seasonShames": 3,
   "seasonShamings": 6,
   "secondaryColor": "#178f55",
-  "shameRuns": 0,
+  "shameRuns": 3,
   "shorthand": "KCBM",
   "slogan": "Fresh Breath, Here We Come.",
   "stadium": "21ce1233-b2d6-4bd2-8d03-68a8915afdc5",
@@ -61,9 +61,9 @@
     "permModSources": {}
   },
   "teamSpirit": 0,
-  "totalShames": 72,
+  "totalShames": 73,
   "totalShamings": 53,
   "tournamentWins": 0,
   "weekAttr": [],
-  "winStreak": 1
+  "winStreak": -1
 }
