@@ -22,7 +22,34 @@
   "id": "ae81e172-801a-4236-929a-b990fc7190ce",
   "indulgence": 0.7048187998154362,
   "itemAttr": [],
-  "items": [],
+  "items": [
+    {
+      "baserunningRating": 0,
+      "defenseRating": 0,
+      "durability": 1,
+      "forger": null,
+      "forgerName": null,
+      "health": 1,
+      "hittingRating": 0.03592040365919735,
+      "id": "0d1c9e4b-2b1d-40c0-8e98-6a2d3487a3a7",
+      "name": "Bat",
+      "pitchingRating": 0,
+      "postPrefix": null,
+      "prePrefix": null,
+      "prefixes": null,
+      "root": {
+        "adjustments": [
+          {
+            "stat": 2,
+            "type": 1,
+            "value": 0.1216671280688077
+          }
+        ],
+        "name": "Bat"
+      },
+      "suffix": null
+    }
+  ],
   "laserlikeness": 0.21713518306710497,
   "leagueTeamId": "a37f9158-7f82-46bc-908c-c9e2dda7c33b",
   "martyrdom": 0.38686429871058503,

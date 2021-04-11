@@ -1,14 +1,14 @@
 {
   "anticapitalism": 0.37192068322124583,
-  "baseThirst": 0.6953125077029618,
-  "baserunningRating": 0.4853819759716517,
+  "baseThirst": 0.6449339691460094,
+  "baserunningRating": 0.4173647617791875,
   "blood": 9,
   "buoyancy": 0.5091212450187732,
   "chasiness": 0.5525526610973133,
   "cinnamon": 0.6167006468433232,
   "coffee": 3,
-  "coldness": 0.027885701393862483,
-  "continuation": 0.6302025635805959,
+  "coldness": 0.19437291693477723,
+  "continuation": 0.5594488066097872,
   "deceased": false,
   "defenseRating": 0.766353548049734,
   "divinity": 0.0600752597424816,
@@ -16,21 +16,48 @@
   "evolution": 1,
   "fate": 81,
   "gameAttr": [],
-  "groundFriction": 0.5388971974087196,
+  "groundFriction": 0.4742616409916045,
   "hitStreak": 0,
   "hittingRating": 0.21009408756816425,
   "id": "691f9ab2-9dd4-42e8-bf95-9fd01253c801",
-  "indulgence": 0.22386802077858525,
+  "indulgence": 0.16662531795229946,
   "itemAttr": [],
-  "items": [],
-  "laserlikeness": 0.4241658032661933,
+  "items": [
+    {
+      "baserunningRating": 0,
+      "defenseRating": 0,
+      "durability": 1,
+      "forger": null,
+      "forgerName": null,
+      "health": 1,
+      "hittingRating": 0.01560257152944225,
+      "id": "100efad2-cd67-446f-830b-2a6c0aef3451",
+      "name": "Bat",
+      "pitchingRating": 0,
+      "postPrefix": null,
+      "prePrefix": null,
+      "prefixes": null,
+      "root": {
+        "adjustments": [
+          {
+            "stat": 2,
+            "type": 1,
+            "value": 0.10405947134744942
+          }
+        ],
+        "name": "Bat"
+      },
+      "suffix": null
+    }
+  ],
+  "laserlikeness": 0.3548335190872882,
   "leagueTeamId": "878c1bf6-0d21-4659-bfee-916c8314d69c",
   "martyrdom": 0.7192102111420118,
   "moxie": 0.1109440649731927,
   "musclitude": 0.6340206717267778,
   "name": "Wyatt Mason IV",
   "omniscience": 0.8834008726216129,
-  "overpowerment": 0.5893720668115965,
+  "overpowerment": 0.8852812838826372,
   "patheticism": 0.8138014030217469,
   "peanutAllergy": true,
   "permAttr": [
@@ -38,12 +65,12 @@
     "ALTERNATE",
     "FRIEND_OF_CROWS"
   ],
-  "pitchingRating": 0.6329884597957858,
+  "pitchingRating": 0.909012796782468,
   "pressurization": 0.9154458307182802,
   "ritual": "OFFLINE",
-  "ruthlessness": 0.8293885316526566,
+  "ruthlessness": 1.1106964140895852,
   "seasAttr": [],
-  "shakespearianism": 0.8178770207862778,
+  "shakespearianism": 0.9776185693429872,
   "soul": 7,
   "state": {
     "permModSources": {
@@ -58,13 +85,13 @@
       ]
     }
   },
-  "suppression": 0.6140151661351758,
+  "suppression": 0.8791722718649687,
   "tenaciousness": 0.9403664799456326,
   "thwackability": 0.4581559227538301,
   "totalFingers": 10,
   "tournamentTeamId": null,
   "tragicness": 0.7284064284436584,
-  "unthwackability": 0.6789872504346566,
+  "unthwackability": 0.859159185462566,
   "watchfulness": 0.4926718978729481,
   "weekAttr": []
 }

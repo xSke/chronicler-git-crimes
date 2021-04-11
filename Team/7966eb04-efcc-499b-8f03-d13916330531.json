@@ -60,6 +60,8 @@
   "totalShames": 68,
   "totalShamings": 67,
   "tournamentWins": 0,
-  "weekAttr": [],
+  "weekAttr": [
+    "AFTER_PARTY"
+  ],
   "winStreak": 1
 }

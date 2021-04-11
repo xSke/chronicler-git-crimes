@@ -2,7 +2,7 @@
   "bench": [
     "81a0889a-4606-4f49-b419-866b57331383",
     "25581c43-f8da-4657-9e96-e704df0a8878",
-    "04e14d7b-5021-4250-a3cd-932ba8e0a889",
+    "94844fad-9519-4c14-8ab3-d38606a7bb44",
     "061b209a-9cda-44e8-88ce-6a4a37251970",
     "2d95d41c-ff54-4fa1-89a0-76b84dd8fe2b",
     "04651d05-44ef-40c1-abd3-4d0c14b6845d"
@@ -43,21 +43,22 @@
   "location": "Seattle",
   "mainColor": "#2b4075",
   "nickname": "Garages",
-  "permAttr": [
-    "FREE_WILL"
-  ],
+  "permAttr": [],
   "rotation": [
     "1732e623-ffc2-40f0-87ba-fdcf97131f1f",
     "e3c514ae-f813-470e-9c91-d5baf5ffcf16",
-    "a1628d97-16ca-4a75-b8df-569bae02bef9",
+    "0c83e3b6-360e-4b7d-85e3-d906633c9ca0",
     "68dd9d47-b9a8-4fd3-a89c-5c112eb1982e",
     "f2468055-e880-40bf-8ac6-a0763d846eb2",
+    "04e14d7b-5021-4250-a3cd-932ba8e0a889",
     "4ed61b18-c1f6-4d71-aea3-caac01470b5c",
     "7e9a514a-7850-4ed0-93ab-f3a6e2f41c03",
     "f1cc4d7d-bef0-43dd-ba0a-17c7628aa775"
   ],
   "rotationSlot": 0,
-  "seasAttr": [],
+  "seasAttr": [
+    "LIFE_OF_PARTY"
+  ],
   "seasonShames": 0,
   "seasonShamings": 0,
   "secondaryColor": "#5a83ea",

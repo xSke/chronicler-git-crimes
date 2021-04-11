@@ -3,6 +3,7 @@
     "26f01324-9d1c-470b-8eaa-1b9bfbcd8b65",
     "9f6d06d6-c616-4599-996b-ec4eefcff8b8",
     "0e27df51-ad0c-4546-acf5-96b3cb4d7501",
+    "0268b35f-b19b-4b2f-90c4-89fb36403686",
     "8997123f-b24d-4326-80c8-3c862f80f623",
     "331d9910-0991-40c8-9345-a7cddb7465c6"
   ],
@@ -15,7 +16,7 @@
     "9313e41c-3bf7-436d-8bdc-013d3a1ecdeb",
     "3be2c730-b351-43f7-a832-a5294fe8468f",
     "e749dc27-ca3b-456e-889c-d2ec02ac7f5f",
-    "bd24e18b-800d-4f15-878d-e334fb4803c4"
+    "1f159bab-923a-4811-b6fa-02bfde50925a"
   ],
   "card": 19,
   "championships": 0,
@@ -27,11 +28,10 @@
   "id": "b72f3061-f573-40d7-832a-5ad475bd7909",
   "level": 4,
   "lineup": [
-    "0268b35f-b19b-4b2f-90c4-89fb36403686",
     "ee55248b-318a-4bfb-8894-1cc70e4e0720",
     "c9e4a49e-e35a-4034-a4c7-293896b40c58",
     "58c9e294-bd49-457c-883f-fb3162fc668e",
-    "2b157c5c-9a6a-45a6-858f-bf4cf4cbc0bd",
+    "91f5298e-a2ec-4f54-a541-1818702d1b6d",
     "db33a54c-3934-478f-bad4-fc313ac2580e",
     "7c5ae357-e079-4427-a90f-97d164c7262e",
     "0eea4a48-c84b-4538-97e7-3303671934d2",
@@ -41,14 +41,13 @@
   "mainColor": "#780018",
   "nickname": "Lovers",
   "permAttr": [
-    "LOVE",
-    "FREE_WILL"
+    "LOVE"
   ],
   "rotation": [
-    "1f159bab-923a-4811-b6fa-02bfde50925a",
+    "bd24e18b-800d-4f15-878d-e334fb4803c4",
     "f2c477fb-28ea-4fcb-943a-9fab22df3da0",
     "c3ae0552-59e8-44bf-ba66-48a96aff35e6",
-    "73265ee3-bb35-40d1-b696-1f241a6f5966",
+    "c0998a08-de15-4187-b903-2e096ffa08e5",
     "d97835fd-2e92-4698-8900-1f5abea0a3b6",
     "7158d158-e7bf-4e9b-9259-62e5b25e3de8"
   ],

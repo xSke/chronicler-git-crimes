@@ -22,7 +22,65 @@
   "id": "defbc540-a36d-460b-afd8-07da2375ee63",
   "indulgence": 1.2845024010900354,
   "itemAttr": [],
-  "items": [],
+  "items": [
+    {
+      "baserunningRating": 0.00906367572263711,
+      "defenseRating": 0,
+      "durability": 2,
+      "forger": null,
+      "forgerName": null,
+      "health": 2,
+      "hittingRating": 0.024016169649131003,
+      "id": "4fda33cd-0c49-4973-a25d-400106b53687",
+      "name": "Weird Bat",
+      "pitchingRating": 0.01256020146330683,
+      "postPrefix": null,
+      "prePrefix": null,
+      "prefixes": [
+        {
+          "adjustments": [
+            {
+              "stat": 0,
+              "type": 1,
+              "value": 0.049604305057912725
+            },
+            {
+              "stat": 14,
+              "type": 1,
+              "value": 0.14824755898379263
+            },
+            {
+              "stat": 13,
+              "type": 1,
+              "value": 0.12057311644732138
+            },
+            {
+              "stat": 6,
+              "type": 1,
+              "value": 0.09287991145841155
+            },
+            {
+              "stat": 8,
+              "type": 1,
+              "value": 0.09824364165003018
+            }
+          ],
+          "name": "Weird"
+        }
+      ],
+      "root": {
+        "adjustments": [
+          {
+            "stat": 2,
+            "type": 1,
+            "value": 0.1300245320960952
+          }
+        ],
+        "name": "Bat"
+      },
+      "suffix": null
+    }
+  ],
   "laserlikeness": 0.7877520198069425,
   "leagueTeamId": "3f8bbb15-61c0-4e3f-8e4a-907a5fb1565e",
   "martyrdom": 0.778438721209188,

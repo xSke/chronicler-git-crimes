@@ -1,16 +1,16 @@
 {
-  "anticapitalism": 0.2588954997085925,
+  "anticapitalism": 0.2981198096742552,
   "baseThirst": 0.7339809589886563,
   "baserunningRating": 0.41531700593046583,
   "blood": 3,
   "buoyancy": 0.6404620753604466,
-  "chasiness": 0.05,
+  "chasiness": 0.06924603661191854,
   "cinnamon": 0.9972630339925648,
   "coffee": 4,
   "coldness": 0.01,
   "continuation": 0.538368995431408,
   "deceased": false,
-  "defenseRating": 0.18587016710124415,
+  "defenseRating": 0.21831466954835,
   "divinity": 0.3656748977628006,
   "eDensity": 22.734893160124997,
   "evolution": 0,
@@ -22,14 +22,41 @@
   "id": "46721a07-7cd2-4839-982e-7046df6e8b66",
   "indulgence": 0.13201934470296442,
   "itemAttr": [],
-  "items": [],
+  "items": [
+    {
+      "baserunningRating": 0,
+      "defenseRating": 0,
+      "durability": 1,
+      "forger": null,
+      "forgerName": null,
+      "health": 1,
+      "hittingRating": 0.020454519306440377,
+      "id": "ad4b368e-2db1-4c5f-bfb2-b12434150cb0",
+      "name": "Bat",
+      "pitchingRating": 0,
+      "postPrefix": null,
+      "prePrefix": null,
+      "prefixes": null,
+      "root": {
+        "adjustments": [
+          {
+            "stat": 2,
+            "type": 1,
+            "value": 0.1104415784782734
+          }
+        ],
+        "name": "Bat"
+      },
+      "suffix": null
+    }
+  ],
   "laserlikeness": 0.58982364156664,
-  "leagueTeamId": "9debc64f-74b7-4ae1-a4d6-fce0144b6ea5",
+  "leagueTeamId": "bfd38797-8404-4b38-8b82-341da28b1f83",
   "martyrdom": 0.041,
   "moxie": 0.041,
   "musclitude": 0.17530422349446953,
   "name": "Stew Briggs",
-  "omniscience": 0.1094455682501653,
+  "omniscience": 0.1342928303834559,
   "overpowerment": 0.6183885591895397,
   "patheticism": 0.95,
   "peanutAllergy": false,
@@ -46,12 +73,12 @@
   "soul": 8,
   "state": {},
   "suppression": 0.2548809654046355,
-  "tenaciousness": 0.05,
+  "tenaciousness": 0.06556459315784857,
   "thwackability": 0.5740269006803904,
   "totalFingers": 10,
   "tournamentTeamId": null,
   "tragicness": 0.26000000000000006,
   "unthwackability": 0.01,
-  "watchfulness": 0.1269597382850262,
+  "watchfulness": 0.15367351918529315,
   "weekAttr": []
 }

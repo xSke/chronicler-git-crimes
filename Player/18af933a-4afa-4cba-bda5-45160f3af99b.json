@@ -22,7 +22,42 @@
   "id": "18af933a-4afa-4cba-bda5-45160f3af99b",
   "indulgence": 0.32457872584252845,
   "itemAttr": [],
-  "items": [],
+  "items": [
+    {
+      "baserunningRating": 0,
+      "defenseRating": 0,
+      "durability": 3,
+      "forger": null,
+      "forgerName": null,
+      "health": 3,
+      "hittingRating": 0.05325114028619848,
+      "id": "1848c0ef-487f-46b7-b1da-791f118be380",
+      "name": "Rock Bat",
+      "pitchingRating": 0,
+      "postPrefix": {
+        "adjustments": [
+          {
+            "type": 3,
+            "value": 1
+          }
+        ],
+        "name": "Rock"
+      },
+      "prePrefix": null,
+      "prefixes": null,
+      "root": {
+        "adjustments": [
+          {
+            "stat": 2,
+            "type": 1,
+            "value": 0.1435254537597965
+          }
+        ],
+        "name": "Bat"
+      },
+      "suffix": null
+    }
+  ],
   "laserlikeness": 0.2799705143433467,
   "leagueTeamId": "36569151-a2fb-43c1-9df7-2df512424c82",
   "martyrdom": 1.0367720335809938,

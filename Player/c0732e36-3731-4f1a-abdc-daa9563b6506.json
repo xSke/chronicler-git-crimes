@@ -39,7 +39,8 @@
     "FLINCH",
     "DOUBLE_PAYOUTS",
     "EGO3",
-    "REDACTED"
+    "REDACTED",
+    "MARKED"
   ],
   "pitchingRating": 0.7550355197610532,
   "pressurization": 0.572681607691041,

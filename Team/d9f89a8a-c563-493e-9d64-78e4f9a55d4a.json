@@ -7,7 +7,7 @@
   "bullpen": [
     "9ae7cec4-1df0-4922-8f7a-f3b996d031e7",
     "1f930140-9fc6-4240-9ef6-e7ac065eaefb",
-    "cbd19e6f-3d08-4734-b23f-585330028665",
+    "56eba639-ea73-474d-bcee-ec68c0528b02",
     "e6768069-1db7-44d6-849b-0a281f62e855",
     "1c55aedf-6e31-4f3c-9b17-8a84b7d15a0c",
     "ec41d37e-2398-4e7d-aaf0-f7f52e5300c7",
@@ -25,28 +25,27 @@
   "level": 4,
   "lineup": [
     "409d1c96-760b-4a96-9a3c-481112ddf37b",
-    "91f5298e-a2ec-4f54-a541-1818702d1b6d",
+    "2b157c5c-9a6a-45a6-858f-bf4cf4cbc0bd",
     "4b01cc3f-c59f-486d-9c00-b8a82624e620",
+    "948ce8a8-19cd-4f81-b84f-88cce02c47bc",
     "3d293d6c-3a20-43ab-a895-2b7f1f28779f",
     "5361e381-6658-488b-8236-dde6a264554f",
     "6ebac746-6685-4d0f-8e84-6b21299b5169",
     "ebe6ac02-3b83-4da8-b1e5-f89053bbd5c8",
-    "5116921f-7642-441a-9a85-40c93a1e61bd",
-    "ad56f749-ee48-4a85-9827-8455aeafe276"
+    "ad56f749-ee48-4a85-9827-8455aeafe276",
+    "5116921f-7642-441a-9a85-40c93a1e61bd"
   ],
   "location": "Atlantis",
   "mainColor": "#00dbc2",
   "nickname": "Georgias",
   "permAttr": [
-    "UNDERSEA",
-    "FREE_WILL"
+    "UNDERSEA"
   ],
   "rotation": [
-    "948ce8a8-19cd-4f81-b84f-88cce02c47bc",
     "0ef1bc34-64ee-4c7b-8be2-88322b407a58",
     "bc29afc1-c954-4def-978b-a59ae5def3c3",
     "4a95d9d8-3dcc-488d-b1cb-19690271ae4c",
-    "56eba639-ea73-474d-bcee-ec68c0528b02"
+    "cbd19e6f-3d08-4734-b23f-585330028665"
   ],
   "rotationSlot": 0,
   "seasAttr": [],

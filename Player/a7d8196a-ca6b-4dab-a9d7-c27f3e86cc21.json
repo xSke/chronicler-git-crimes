@@ -21,8 +21,47 @@
   "hittingRating": 0.9429965619368776,
   "id": "a7d8196a-ca6b-4dab-a9d7-c27f3e86cc21",
   "indulgence": 0.5865034973221178,
-  "itemAttr": [],
-  "items": [],
+  "itemAttr": [
+    "CHUNKY"
+  ],
+  "items": [
+    {
+      "baserunningRating": 0,
+      "defenseRating": 0,
+      "durability": 2,
+      "forger": null,
+      "forgerName": null,
+      "health": 2,
+      "hittingRating": 0.03232249530465037,
+      "id": "7e6ddf9a-6ee0-4277-afb3-b438bbdce7db",
+      "name": "Chunky Bat",
+      "pitchingRating": 0,
+      "postPrefix": null,
+      "prePrefix": null,
+      "prefixes": [
+        {
+          "adjustments": [
+            {
+              "mod": "CHUNKY",
+              "type": 0
+            }
+          ],
+          "name": "Chunky"
+        }
+      ],
+      "root": {
+        "adjustments": [
+          {
+            "stat": 2,
+            "type": 1,
+            "value": 0.10592359107288524
+          }
+        ],
+        "name": "Bat"
+      },
+      "suffix": null
+    }
+  ],
   "laserlikeness": 0.9069461860648764,
   "leagueTeamId": "eb67ae5e-c4bf-46ca-bbbc-425cd34182ff",
   "martyrdom": 1.1012843597334974,
@@ -43,7 +82,13 @@
   "seasAttr": [],
   "shakespearianism": 1.0346692664772996,
   "soul": 3,
-  "state": {},
+  "state": {
+    "itemModSources": {
+      "CHUNKY": [
+        "7e6ddf9a-6ee0-4277-afb3-b438bbdce7db"
+      ]
+    }
+  },
   "suppression": 0.5499507198672546,
   "tenaciousness": 0.5285900530749541,
   "thwackability": 1.0479187768288007,

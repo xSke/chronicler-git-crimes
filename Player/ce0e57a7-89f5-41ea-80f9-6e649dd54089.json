@@ -1,54 +1,102 @@
 {
-  "anticapitalism": 0.7948923098661408,
-  "baseThirst": 0.6747542585577646,
-  "baserunningRating": 0.5087333969593295,
+  "anticapitalism": 0.3388793874225602,
+  "baseThirst": 0.13956554771447105,
+  "baserunningRating": 0.5611069666902672,
   "blood": 5,
-  "buoyancy": 0.6423008095413416,
-  "chasiness": 0.18943522881378255,
-  "cinnamon": 0.806206699725476,
+  "buoyancy": 0.8339428763953349,
+  "chasiness": 0.5826113553191503,
+  "cinnamon": 0.3101788522566664,
   "coffee": 6,
-  "coldness": 0.36670302538215327,
-  "continuation": 0.7915702172717136,
+  "coldness": 0.2324532084251516,
+  "continuation": 0.1747426045902647,
   "deceased": false,
-  "defenseRating": 0.6713203697999081,
-  "divinity": 0.43761555614610903,
+  "defenseRating": 0.4353831252982045,
+  "divinity": 0.26815213133097604,
   "eDensity": 15.123312421363323,
   "evolution": 0,
   "fate": 64,
   "gameAttr": [],
-  "groundFriction": 0.933879390220917,
+  "groundFriction": 0.6874562776471793,
   "hitStreak": 0,
-  "hittingRating": 0.31228301079899723,
+  "hittingRating": 0.4882575352289174,
   "id": "ce0e57a7-89f5-41ea-80f9-6e649dd54089",
-  "indulgence": 0.2084134775166957,
-  "itemAttr": [],
-  "items": [],
-  "laserlikeness": 0.4070147643605994,
+  "indulgence": 0.9968093020878064,
+  "itemAttr": [
+    "CHUNKY"
+  ],
+  "items": [
+    {
+      "baserunningRating": 0,
+      "defenseRating": 0,
+      "durability": 2,
+      "forger": null,
+      "forgerName": null,
+      "health": 2,
+      "hittingRating": 0.07320960577705077,
+      "id": "cee23a8a-b09d-4fdf-82b4-d3d85df75917",
+      "name": "Chunky Bat",
+      "pitchingRating": 0,
+      "postPrefix": null,
+      "prePrefix": null,
+      "prefixes": [
+        {
+          "adjustments": [
+            {
+              "mod": "CHUNKY",
+              "type": 0
+            }
+          ],
+          "name": "Chunky"
+        }
+      ],
+      "root": {
+        "adjustments": [
+          {
+            "stat": 2,
+            "type": 1,
+            "value": 0.11513571623307473
+          }
+        ],
+        "name": "Bat"
+      },
+      "suffix": null
+    }
+  ],
+  "laserlikeness": 0.7136487068892412,
   "leagueTeamId": "57ec08cc-0411-4643-b304-0e80dbc15ac7",
-  "martyrdom": 0.9395797202936542,
-  "moxie": 0.22332037693369844,
-  "musclitude": 0.3981406748587162,
+  "martyrdom": 0.2863636737934194,
+  "moxie": 0.9217336272802524,
+  "musclitude": 0.4154721224023499,
   "name": "Yong Wright",
-  "omniscience": 0.7712747905927398,
-  "overpowerment": 0.14429476176856793,
-  "patheticism": 0.027940654642712993,
+  "omniscience": 0.10384632435344444,
+  "overpowerment": 0.04293514441291313,
+  "patheticism": 0.3644702973324754,
   "peanutAllergy": false,
-  "permAttr": [],
-  "pitchingRating": 0.0967078540650972,
-  "pressurization": 0.27696823136728854,
+  "permAttr": [
+    "ALTERNATE",
+    "PARASITE"
+  ],
+  "pitchingRating": 0.0685062014739511,
+  "pressurization": 0.09150038125921144,
   "ritual": "Reading",
-  "ruthlessness": 0.6208618665503527,
+  "ruthlessness": 0.04340103007334961,
   "seasAttr": [],
-  "shakespearianism": 0.4645973995307313,
+  "shakespearianism": 0.8792432598564248,
   "soul": 2,
-  "state": {},
-  "suppression": 0.37098801323148933,
-  "tenaciousness": 0.5727348536285474,
-  "thwackability": 0.13950625712636056,
+  "state": {
+    "itemModSources": {
+      "CHUNKY": [
+        "cee23a8a-b09d-4fdf-82b4-d3d85df75917"
+      ]
+    }
+  },
+  "suppression": 0.7908334173781819,
+  "tenaciousness": 0.4698732391705982,
+  "thwackability": 0.6968788667186137,
   "totalFingers": 12,
   "tournamentTeamId": null,
-  "tragicness": 0.1,
-  "unthwackability": 0.03,
-  "watchfulness": 0.6327085603916799,
+  "tragicness": 0.6386515000471373,
+  "unthwackability": 0.16386163354191652,
+  "watchfulness": 0.5206527252272295,
   "weekAttr": []
 }

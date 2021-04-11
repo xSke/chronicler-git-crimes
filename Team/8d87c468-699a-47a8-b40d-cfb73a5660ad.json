@@ -10,6 +10,7 @@
   ],
   "bullpen": [
     "dd8a43a4-a024-44e9-a522-785d998b29c3",
+    "61bbbf34-98c1-4bf6-bd0c-56c19199b35e",
     "d2f827a5-0133-4d96-b403-85a5e50d49e0",
     "34e1b683-ecd5-477f-b9e3-dd4bca76db45",
     "e1e33aab-df8c-4f53-b30a-ca1cea9f046e",
@@ -30,22 +31,23 @@
   "level": 5,
   "lineup": [
     "90c2cec7-0ed5-426a-9de8-754f34d59b39",
-    "86d4e22b-f107-4bcf-9625-32d387fcb521",
+    "d89da2d2-674c-4b85-8959-a4bd406f760a",
     "c6a19154-7438-4c4f-b786-2dfaf5951f0f",
     "1a93a2d2-b5b6-479b-a595-703e4a2f3885",
     "84a2b5f6-4955-4007-9299-3d35ae7135d3",
-    "61bbbf34-98c1-4bf6-bd0c-56c19199b35e"
+    "73265ee3-bb35-40d1-b696-1f241a6f5966"
   ],
   "location": "Baltimore",
   "mainColor": "#593037",
   "nickname": "Crabs",
   "permAttr": [
     "CARCINIZATION",
-    "UNHOLEY"
+    "UNHOLEY",
+    "0"
   ],
   "rotation": [
-    "97dfc1f6-ac94-4cdc-b0d5-1cb9f8984aa5",
-    "ce7d33b7-1bba-48d6-a1d1-cd0e29231be8",
+    "7dcf6902-632f-48c5-936a-7cf88802b93a",
+    "425f3f84-bab0-4cf2-91c1-96e78cf5cd02",
     "d0d7b8fe-bad8-481f-978e-cb659304ed49",
     "f9930cb1-7ed2-4b9a-bf4f-7e35f2586d71"
   ],

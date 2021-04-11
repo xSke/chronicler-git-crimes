@@ -22,7 +22,55 @@
   "id": "03b80a57-77ea-4913-9be4-7a85c3594745",
   "indulgence": 0.4981829377708143,
   "itemAttr": [],
-  "items": [],
+  "items": [
+    {
+      "baserunningRating": 0,
+      "defenseRating": 0,
+      "durability": 2,
+      "forger": null,
+      "forgerName": null,
+      "health": 2,
+      "hittingRating": 0.1436757460521565,
+      "id": "a7168497-8bea-43fd-be29-dd8c11658fac",
+      "name": "Hot Bat",
+      "pitchingRating": -0.009260601040545683,
+      "postPrefix": null,
+      "prePrefix": null,
+      "prefixes": [
+        {
+          "adjustments": [
+            {
+              "stat": 2,
+              "type": 1,
+              "value": 0.2288817824871971
+            },
+            {
+              "stat": 17,
+              "type": 1,
+              "value": -0.07721310805510684
+            },
+            {
+              "stat": 3,
+              "type": 1,
+              "value": -0.01432496087811574
+            }
+          ],
+          "name": "Hot"
+        }
+      ],
+      "root": {
+        "adjustments": [
+          {
+            "stat": 2,
+            "type": 1,
+            "value": 0.10384128594902296
+          }
+        ],
+        "name": "Bat"
+      },
+      "suffix": null
+    }
+  ],
   "laserlikeness": 0.1398149056751775,
   "leagueTeamId": "878c1bf6-0d21-4659-bfee-916c8314d69c",
   "martyrdom": 0.8065515642003706,

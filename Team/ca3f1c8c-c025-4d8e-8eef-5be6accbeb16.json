@@ -27,10 +27,10 @@
   "id": "ca3f1c8c-c025-4d8e-8eef-5be6accbeb16",
   "level": 4,
   "lineup": [
+    "e4e4c17d-8128-4704-9e04-f244d4573c4d",
     "ab36c776-b520-429b-a85f-bf633d7b081a",
     "c182f33c-aea5-48a2-97ed-dc74fa29b3c0",
     "ad8d15f4-e041-4a12-a10e-901e6285fdc5",
-    "20e13b56-599b-4a22-b752-8059effc81dc",
     "20c529b3-947e-4a77-b56f-69fe25fb3717",
     "43d5da5f-c6a1-42f1-ab7f-50ea956b6cd5",
     "68f98a04-204f-4675-92a7-8823f2277075",
@@ -43,8 +43,8 @@
   "nickname": "Firefighters",
   "permAttr": [],
   "rotation": [
+    "20e13b56-599b-4a22-b752-8059effc81dc",
     "316abea7-9890-4fb8-aaea-86b35e24d9be",
-    "e4e4c17d-8128-4704-9e04-f244d4573c4d",
     "1513aab6-142c-48c6-b43e-fbda65fd64e8",
     "94baa9ac-ff96-4f56-a987-10358e917d91",
     "f4a5d734-0ade-4410-abb6-c0cd5a7a1c26"

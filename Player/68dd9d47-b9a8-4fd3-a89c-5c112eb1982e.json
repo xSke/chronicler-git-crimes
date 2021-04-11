@@ -22,7 +22,42 @@
   "id": "68dd9d47-b9a8-4fd3-a89c-5c112eb1982e",
   "indulgence": 0.11457451388739706,
   "itemAttr": [],
-  "items": [],
+  "items": [
+    {
+      "baserunningRating": 0,
+      "defenseRating": 0,
+      "durability": 4,
+      "forger": null,
+      "forgerName": null,
+      "health": 4,
+      "hittingRating": 0.11139757415520618,
+      "id": "aab9ce81-6fd4-439b-867c-a9da07b3e011",
+      "name": "Concrete Bat",
+      "pitchingRating": 0,
+      "postPrefix": {
+        "adjustments": [
+          {
+            "type": 3,
+            "value": 2
+          }
+        ],
+        "name": "Concrete"
+      },
+      "prePrefix": null,
+      "prefixes": null,
+      "root": {
+        "adjustments": [
+          {
+            "stat": 2,
+            "type": 1,
+            "value": 0.11636700336056469
+          }
+        ],
+        "name": "Bat"
+      },
+      "suffix": null
+    }
+  ],
   "laserlikeness": 0.6505860628206628,
   "leagueTeamId": "105bc3ff-1320-4e37-8ef0-8d595cb95dd0",
   "martyrdom": 0.351159238529826,
