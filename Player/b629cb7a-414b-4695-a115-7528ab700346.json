@@ -12,7 +12,7 @@
   "deceased": false,
   "defenseRating": 0.7707899701706755,
   "divinity": 0.9538272164053596,
-  "eDensity": 34.18859964767138,
+  "eDensity": 34.343997131759345,
   "evolution": 0,
   "fate": 93,
   "gameAttr": [],
@@ -61,7 +61,8 @@
   "patheticism": 0.6925460719141948,
   "peanutAllergy": false,
   "permAttr": [
-    "MAXIMALIST"
+    "MAXIMALIST",
+    "TRIPLE_THREAT"
   ],
   "pitchingRating": 0.86851418229685,
   "pressurization": 0.3699492209767477,
