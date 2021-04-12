@@ -1,7 +1,7 @@
 {
   "birds": 0,
   "elongation": 0.4696297982921877,
-  "filthiness": 0.15681988503944042,
+  "filthiness": 0.1569868484633797,
   "fortification": 0.5342454937183025,
   "forwardness": 0.4856451813964252,
   "grandiosity": 0.4899290560974432,
@@ -49,9 +49,7 @@
     "solar_panels_mod": 1
   },
   "secondaryColor": "#9f51ad",
-  "state": {
-    "solarPanels": true
-  },
+  "state": {},
   "teamId": "3f8bbb15-61c0-4e3f-8e4a-907a5fb1565e",
   "tertiaryColor": "#692277",
   "viscosity": 0.40082749594224687,
