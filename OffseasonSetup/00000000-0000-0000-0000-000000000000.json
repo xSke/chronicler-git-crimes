@@ -1,68 +1,10 @@
 {
   "blessings": [
     {
-      "description": "Your entire Team's Rotation will become Maximalists Permanently.",
-      "id": "rotation_maximalist",
+      "description": "A random Player on your Team will be a permanent Earlbird.",
+      "id": "random_player_earlbirds",
       "metadata": {
-        "mod": "MAXIMALIST",
-        "modType": 0,
-        "sourceLocation": [
-          1
-        ]
-      },
-      "subheader": "Brought to you by @Skymap Games@https://skymapgames.com/blaseball/",
-      "title": "Sky's The Limit",
-      "type": 165,
-      "value": 1
-    },
-    {
-      "description": "Whenever your Team is losing during the First Week of Next Season, they will have a chance of gaining Party Time Boosts.",
-      "id": "mod_team_afterparty_week",
-      "title": "Afterparty",
-      "type": 168,
-      "value": 1
-    },
-    {
-      "description": "Your Team will Overperform during Next Season's Midseason.",
-      "id": "mod_team_middling_season",
-      "title": "Middling",
-      "type": 169,
-      "value": 1
-    },
-    {
-      "description": "Your Cleanup Hitter (the 4th spot in your Lineup) will gain the High Pressure Mod for the following Season.",
-      "id": "cleanup_hitter_high_pressure",
-      "metadata": {
-        "index": 3,
-        "mod": "HIGH_PRESSURE",
-        "modType": 1,
-        "sourceLocation": [
-          0
-        ]
-      },
-      "title": "Clutch Up",
-      "type": 166,
-      "value": 1
-    },
-    {
-      "description": "Oh. Give your Team O Blood.",
-      "id": "team_0_blood_type",
-      "title": "Absolute Zero",
-      "type": 170,
-      "value": 1
-    },
-    {
-      "description": "Stay Hydrated. Give your Team H2O Blood.",
-      "id": "team_h20_blood_type",
-      "title": "Water Logged",
-      "type": 171,
-      "value": 1
-    },
-    {
-      "description": "A Random Player on your Team will gain Affinity For Crows Permanently.",
-      "id": "random_player_affinity_for_crows",
-      "metadata": {
-        "mod": "AFFINITY_FOR_CROWS",
+        "mod": "EARLBIRDS",
         "modType": 0,
         "playerSelection": 0,
         "sourceLocation": [
@@ -70,116 +12,288 @@
           1
         ]
       },
-      "title": "Bird Brain",
+      "subheader": "Brought to you by@Yes Plz Coffee@https://yesplz.coffee/?promo=blaseballbaby&utm_source=blaseball&utm_medium=display&utm_campaign=april",
+      "title": "Early Riser",
       "type": 167,
       "value": 1
     },
     {
-      "description": "Your Team's worst hitter will gain the Fourth Strike Permanently.",
-      "id": "worst_hitter_fourth_strike",
+      "description": "A random Player on your Team will be permanently Middling.",
+      "id": "random_player_middling",
       "metadata": {
-        "mod": "EXTRA_STRIKE",
+        "mod": "MIDDLING",
         "modType": 0,
-        "playerSelection": 2,
+        "playerSelection": 0,
         "sourceLocation": [
           0,
           1
         ]
       },
-      "title": "Mulligan",
+      "title": "Middle of the Pack",
       "type": 167,
       "value": 1
     },
     {
-      "description": "Your Team's Lineup and Rotation will have their Defense Boosted from 1% to 4%.",
-      "id": "team_active_ranged_defense",
+      "description": "A random Player on your Team will be permanently Late to the Party.",
+      "id": "random_player_late_to_party",
       "metadata": {
-        "max": ".04",
-        "min": ".01",
-        "rating": 2,
+        "mod": "LATE_TO_PARTY",
+        "modType": 0,
+        "playerSelection": 0,
         "sourceLocation": [
           0,
           1
         ]
       },
-      "title": "Defense Practice",
-      "type": 160,
+      "title": "Fashionably Late",
+      "type": 167,
       "value": 1
     },
     {
-      "description": "Your Team's Lineup will have their Baserunning Boosted from 1% to 4%.",
-      "id": "team_lineup_ranged_baserunning",
+      "description": "A random Player on your Team will be permanently Ambitious.",
+      "id": "random_player_ambitious",
       "metadata": {
-        "max": ".04",
-        "min": ".01",
-        "rating": 3,
+        "mod": "AMBITIOUS",
+        "modType": 0,
+        "playerSelection": 0,
+        "sourceLocation": [
+          0,
+          1
+        ]
+      },
+      "title": "Posterizer",
+      "type": 167,
+      "value": 1
+    },
+    {
+      "description": "All Players on your Team with an available Item slot (empty or broken) will open a Generic Bat Crate.",
+      "id": "team_items_generic_bats",
+      "metadata": {
+        "sourceLocation": [
+          0,
+          1
+        ],
+        "table": "generic_bats"
+      },
+      "title": "Bats Supply Run",
+      "type": 176,
+      "value": 1
+    },
+    {
+      "description": "All Players on your Team with an available Item slot (empty or broken) will open a Generic Cap Crate.",
+      "id": "team_items_generic_caps",
+      "metadata": {
+        "sourceLocation": [
+          0,
+          1
+        ],
+        "table": "generic_caps"
+      },
+      "title": "Caps Supply Run",
+      "type": 176,
+      "value": 1
+    },
+    {
+      "description": "All Players on your Team with an available Item slot (empty or broken) will open a Generic Shoes Crate.",
+      "id": "team_items_generic_shoes",
+      "metadata": {
+        "sourceLocation": [
+          0,
+          1
+        ],
+        "table": "generic_shoes"
+      },
+      "title": "Shoes Supply Run",
+      "type": 176,
+      "value": 1
+    },
+    {
+      "description": "All Players on your Team with an available Item slot (empty or broken) will open a Generic Glove Crate.",
+      "id": "team_items_generic_gloves",
+      "metadata": {
+        "sourceLocation": [
+          0,
+          1
+        ],
+        "table": "generic_gloves"
+      },
+      "title": "Glove Supply Run",
+      "type": 176,
+      "value": 1
+    },
+    {
+      "description": "A Random Hitter on your Team with an available Item slot (empty or broken) will open a Handcrafted Bat Crate.",
+      "id": "random_player_handcrafted_bat",
+      "metadata": {
+        "playerSelection": 0,
+        "sourceLocation": [
+          0
+        ],
+        "table": "handcrafted_bats"
+      },
+      "title": "Handcrafted Bat Drop",
+      "type": 177,
+      "value": 1
+    },
+    {
+      "description": "A Random Pitcher on your Team with an available Item slot (empty or broken) will open a Handcrafted Cap Crate.",
+      "id": "random_player_handcrafted_cap",
+      "metadata": {
+        "playerSelection": 0,
+        "sourceLocation": [
+          1
+        ],
+        "table": "handcrafted_caps"
+      },
+      "title": "Handcrafted Cap Drop",
+      "type": 177,
+      "value": 1
+    },
+    {
+      "description": "A Random Hitter on your Team with an available Item slot (empty or broken) will open a Handcrafted Shoes Crate.",
+      "id": "random_player_handcrafted_shoes",
+      "metadata": {
+        "playerSelection": 0,
+        "sourceLocation": [
+          0
+        ],
+        "table": "handcrafted_shoes"
+      },
+      "title": "Handcrafted Cap Drop",
+      "type": 177,
+      "value": 1
+    },
+    {
+      "description": "A Random Hitter on your Team with an available Item slot (empty or broken) will open a Handcrafted Gloves Crate.",
+      "id": "random_player_handcrafted_glove",
+      "metadata": {
+        "playerSelection": 0,
+        "sourceLocation": [
+          0,
+          1
+        ],
+        "table": "handcrafted_gloves"
+      },
+      "title": "Handcrafted Glove Drop",
+      "type": 177,
+      "value": 1
+    },
+    {
+      "description": "A Random Hitter on your Team gets a Skateboard.",
+      "id": "random_player_item_skateboard",
+      "title": "Skateboard",
+      "type": 175,
+      "value": 1
+    },
+    {
+      "description": "Get Fired Up. Give your Team Fire Blood.",
+      "id": "team_fire_blood_type",
+      "title": "Fired Up",
+      "type": 172,
+      "value": 1
+    },
+    {
+      "description": "Give your Team Psychic Blood.",
+      "id": "team_psychic_blood_type",
+      "title": "Mind Trick",
+      "type": 173,
+      "value": 1
+    },
+    {
+      "description": "Chaaarge! Give your Team AAA Blood.",
+      "id": "team_aaa_blood_type",
+      "title": "Power Chaaarge",
+      "type": 174,
+      "value": 1
+    },
+    {
+      "description": "Move the Player with the highest Divinity on your Team to the Cleanup spot (the 4th spot in your Lineup).",
+      "id": "move_highest_divinity_to_cleanup",
+      "metadata": {
+        "destinationLocation": [
+          0
+        ],
+        "destinationSelection": 0,
+        "fromFirst": true,
+        "index": 3,
+        "playerSelection": 13,
+        "sourceLocation": [
+          0,
+          1
+        ]
+      },
+      "title": "Clean Up",
+      "type": 164,
+      "value": 1
+    },
+    {
+      "description": "Move the Worst Defender in your Lineup to the Shadows.",
+      "id": "move_worst_defender_to_shadows",
+      "metadata": {
+        "destinationLocation": [
+          2
+        ],
+        "destinationSelection": 0,
+        "fromFirst": false,
+        "index": 0,
+        "playerSelection": 8,
         "sourceLocation": [
           0
         ]
       },
-      "title": "Running Practice",
-      "type": 160,
+      "title": "Weakest Link",
+      "type": 164,
       "value": 1
     },
     {
-      "description": "Your Team's Rotation will have their Pitching Boosted from 1% to 4%.",
-      "id": "team_rotation_ranged_pitching",
+      "description": "Promote the Best Hitter in your Team's Shadows to a random position in the Lineup.",
+      "id": "move_best_shadows_hitter_to_lineup",
       "metadata": {
-        "max": ".04",
-        "min": ".01",
-        "rating": 1,
+        "destinationLocation": [
+          0
+        ],
+        "destinationSelection": 1,
+        "playerSelection": 1,
         "sourceLocation": [
-          1
+          2,
+          3
         ]
       },
-      "title": "Pitching Practice",
-      "type": 160,
+      "title": "Time to Shine",
+      "type": 164,
       "value": 1
     },
     {
-      "description": "Your Team's Lineup will have their Hitting Boosted from 1% to 4%.",
-      "id": "team_lineup_ranged_hitting",
+      "description": "Promote the Best Pitcher in your Team's Shadows to a random position in the Rotation.",
+      "id": "move_best_shadows_pitcher_to_rotation",
       "metadata": {
-        "max": ".04",
+        "destinationLocation": [
+          1
+        ],
+        "destinationSelection": 1,
+        "playerSelection": 3,
+        "sourceLocation": [
+          2,
+          3
+        ]
+      },
+      "title": "Sweet Relief",
+      "type": 164,
+      "value": 1
+    },
+    {
+      "description": "Your Team's Shadows will have their Hitting Boosted from 1% to 12%.",
+      "id": "team_shadows_ranged_hitting",
+      "metadata": {
+        "max": ".12",
         "min": ".01",
         "rating": 0,
         "sourceLocation": [
-          0
-        ]
-      },
-      "title": "Batting Practice",
-      "type": 160,
-      "value": 1
-    },
-    {
-      "description": "Your Team's Shadows will have their Defense Boosted from 1% to 12%.",
-      "id": "team_shadows_ranged_defense",
-      "metadata": {
-        "max": ".12",
-        "min": ".01",
-        "rating": 2,
-        "sourceLocation": [
           2,
           3
         ]
       },
-      "title": "Shadow Defense Practice",
-      "type": 160,
-      "value": 1
-    },
-    {
-      "description": "Your Team's Shadows will have their Baserunning Boosted from 1% to 12%.",
-      "id": "team_shadows_ranged_baserunning",
-      "metadata": {
-        "max": ".12",
-        "min": ".01",
-        "rating": 3,
-        "sourceLocation": [
-          2,
-          3
-        ]
-      },
-      "title": "Shadow Running Practice",
+      "title": "Shadow Batting Practice",
       "type": 160,
       "value": 1
     },
@@ -200,174 +314,56 @@
       "value": 1
     },
     {
-      "description": "Your Team's Shadows will have their Hitting Boosted from 1% to 12%.",
-      "id": "team_shadows_ranged_hitting",
+      "description": "Your Team's Shadows will have their Baserunning Boosted from 1% to 12%.",
+      "id": "team_shadows_ranged_baserunning",
       "metadata": {
         "max": ".12",
         "min": ".01",
-        "rating": 0,
+        "rating": 3,
         "sourceLocation": [
           2,
           3
         ]
       },
-      "title": "Shadow Batting Practice",
+      "title": "Shadow Running Practice",
       "type": 160,
       "value": 1
     },
     {
-      "description": "Move the worst Hitter on your Team to the last spot in your Lineup.",
-      "id": "move_worst_hitter_last",
+      "description": "Your Team's Shadows will have their Defense Boosted from 1% to 12%.",
+      "id": "team_shadows_ranged_defense",
       "metadata": {
-        "destinationLocation": [
-          0
-        ],
-        "fromFirst": false,
-        "index": 0,
-        "playerSelection": 2,
+        "max": ".12",
+        "min": ".01",
+        "rating": 2,
         "sourceLocation": [
-          0,
-          1
+          2,
+          3
         ]
       },
-      "title": "Easy Out",
-      "type": 164,
-      "value": 1
-    },
-    {
-      "description": "Move the best Baserunner on your Team to the first position in your Lineup.",
-      "id": "move_best_baserunner_first",
-      "metadata": {
-        "destinationLocation": [
-          0
-        ],
-        "fromFirst": true,
-        "index": 0,
-        "playerSelection": 5,
-        "sourceLocation": [
-          0,
-          1
-        ]
-      },
-      "title": "Lead Off",
-      "type": 164,
-      "value": 1
-    },
-    {
-      "description": "Recruit a Random Player with the Siphon Modification to your Team.",
-      "id": "recruit_syphon_player",
-      "metadata": {
-        "mod": "SIPHON",
-        "sourceLocation": [
-          0,
-          1
-        ]
-      },
-      "title": "Blood Pact",
-      "type": 163,
-      "value": 1
-    },
-    {
-      "description": "Recruit a Random Player with the Perk Modification to your Team.",
-      "id": "recruit_perk_player",
-      "metadata": {
-        "mod": "PERK",
-        "sourceLocation": [
-          0,
-          1
-        ]
-      },
-      "title": "Fringe Benefit",
-      "type": 163,
-      "value": 1
-    },
-    {
-      "description": "A Random Player from your Team's Lineup will have their Divinity Boosted from -20% to 60%.",
-      "id": "random_player_lineup_divinity_ranged",
-      "metadata": {
-        "max": ".6",
-        "min": "-.2",
-        "playerSelection": 0,
-        "sourceLocation": [
-          0
-        ],
-        "stat": 4
-      },
-      "title": "Epiphany",
-      "type": 162,
-      "value": 1
-    },
-    {
-      "description": "A Random Player from your Team's Lineup will have their Musclitude Boosted from -20% to 60%.",
-      "id": "random_player_lineup_musclitude_ranged",
-      "metadata": {
-        "max": ".6",
-        "min": "-.2",
-        "playerSelection": 0,
-        "sourceLocation": [
-          0
-        ],
-        "stat": 5
-      },
-      "title": "Dirty Bulk",
-      "type": 162,
-      "value": 1
-    },
-    {
-      "description": "A Random Player from your Team's Rotation will have their Overpowerment Boosted by 40%.",
-      "id": "random_player_rotation_overpowerment",
-      "metadata": {
-        "amount": ".4",
-        "playerSelection": 0,
-        "sourceLocation": [
-          1
-        ],
-        "stat": 18
-      },
-      "title": "Living Single",
-      "type": 161,
-      "value": 1
-    },
-    {
-      "description": "A Random Player from your Team's Lineup will have their Ground Friction Boosted by 40%.",
-      "id": "random_player_lineup_groundfriction",
-      "metadata": {
-        "amount": ".4",
-        "playerSelection": 0,
-        "sourceLocation": [
-          0
-        ],
-        "stat": 13
-      },
-      "title": "Triple Crown",
-      "type": 161,
+      "title": "Shadow Defense Practice",
+      "type": 160,
       "value": 1
     }
   ],
   "decrees": [
     {
-      "description": "Swing Away. Go on the offensive while providing a Global Hitting Boost.",
-      "id": "distribute_bats",
-      "title": "Bats",
-      "type": 61
+      "description": "Anytime a Player accumulates 400 Runs (scoring as a baserunner or allowing as a pitcher), they'll earn an Item Crate for a random active Player on their Team.",
+      "id": "goodie_bags",
+      "title": "Goodie Bags",
+      "type": 65
     },
     {
-      "description": "Don't Lose Your Heads. Keep your wits about you while providing a global Pitching Boost.",
-      "id": "distribute_caps",
-      "title": "Caps",
-      "type": 62
+      "description": "Anytime a Division accumulates 99 Wins, each Team in that Division will receive an Item Crate for a random active Player on their Team.",
+      "id": "gift_baskets",
+      "title": "Gift Baskets",
+      "type": 66
     },
     {
-      "description": "Flight or Flight. Run away while providing global Baserunning Boost.",
-      "id": "distribute_shoes",
-      "title": "Shoes",
-      "type": 63
-    },
-    {
-      "description": "Catch and Release. Keep threats in front of you while providing a global Defense Boost.",
-      "id": "distribute_gloves",
-      "title": "Gloves",
-      "type": 64
+      "description": "Anytime 3000 Runs are accumulated league-wide, every Team will receive an Item Crate for a random active Player on their Team.",
+      "id": "community_chest",
+      "title": "Community Chest",
+      "type": 67
     }
   ],
   "decreesToPass": 1,
