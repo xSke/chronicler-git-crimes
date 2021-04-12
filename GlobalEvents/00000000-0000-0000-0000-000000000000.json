@@ -21,6 +21,11 @@
   },
   {
     "expire": null,
+    "id": "ticker_bat",
+    "msg": "Give me a Bat"
+  },
+  {
+    "expire": null,
     "id": "blaseball_back",
     "msg": "Blaseball is BACK"
   },
