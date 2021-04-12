@@ -61,8 +61,7 @@
   "patheticism": 0.42767052687882817,
   "peanutAllergy": false,
   "permAttr": [
-    "OVERUNDER",
-    "UNDERPERFORMING"
+    "OVERUNDER"
   ],
   "pitchingRating": 1.2044163158272423,
   "pressurization": 0.938320263049088,
@@ -72,11 +71,7 @@
   "shakespearianism": 0.9922261489535772,
   "soul": 8,
   "state": {
-    "permModSources": {
-      "UNDERPERFORMING": [
-        "OVERUNDER"
-      ]
-    }
+    "permModSources": {}
   },
   "suppression": 0.9140916956318438,
   "tenaciousness": 1.3579671197692833,
