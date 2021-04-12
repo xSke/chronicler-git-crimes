@@ -1,7 +1,7 @@
 {
   "anticapitalism": 1.017890443635893,
   "baseThirst": 0.9462750867026906,
-  "baserunningRating": 0.6054850173639038,
+  "baserunningRating": 0.8879908832689876,
   "blood": 2,
   "buoyancy": 1.0467642873252592,
   "chasiness": 1.0127107243351077,
@@ -10,7 +10,7 @@
   "coldness": 0.3540596927938301,
   "continuation": 0.3993825997005056,
   "deceased": false,
-  "defenseRating": 0.8282311738136094,
+  "defenseRating": 1.204442578916956,
   "divinity": 0.485021679654212,
   "eDensity": 24.632425481603164,
   "evolution": 0,
@@ -18,7 +18,7 @@
   "gameAttr": [],
   "groundFriction": 0.4147434330271944,
   "hitStreak": 0,
-  "hittingRating": 0.6593042480453873,
+  "hittingRating": 1.154295486941312,
   "id": "80de2b05-e0d4-4d33-9297-9951b2b5c950",
   "indulgence": 0.6669199976524974,
   "itemAttr": [],
@@ -35,9 +35,9 @@
   "peanutAllergy": false,
   "permAttr": [
     "ALTERNATE",
-    "REDACTED"
+    "ATTRACTOR"
   ],
-  "pitchingRating": 0.5911713154044848,
+  "pitchingRating": 1.3425180493950106,
   "pressurization": 0.5024576781229815,
   "ritual": "Landscapes",
   "ruthlessness": 0.31047906156020527,
