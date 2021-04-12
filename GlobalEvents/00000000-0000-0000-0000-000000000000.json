@@ -6,21 +6,6 @@
   },
   {
     "expire": null,
-    "id": "consumers",
-    "msg": "wait alston cerveza got what"
-  },
-  {
-    "expire": null,
-    "id": "dale",
-    "msg": "the miami dale made the playoffs? that's against all odds"
-  },
-  {
-    "expire": null,
-    "id": "wait_dale",
-    "msg": "wait did i do that wrong"
-  },
-  {
-    "expire": null,
     "id": "ticker_bat",
     "msg": "Give me a Bat"
   },
