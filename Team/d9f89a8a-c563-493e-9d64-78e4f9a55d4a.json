@@ -56,7 +56,9 @@
   "shorthand": "ATL",
   "slogan": "You Sink, We Swim",
   "stadium": "37c2743f-1a15-4e3f-bdb1-a6461df93434",
-  "state": {},
+  "state": {
+    "overflowRuns": 1
+  },
   "teamSpirit": 0,
   "totalShames": 14,
   "totalShamings": 12,
