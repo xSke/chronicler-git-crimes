@@ -16,6 +16,11 @@
   },
   {
     "expire": null,
+    "id": "lootcrates",
+    "msg": "that stack of boxes has a way with word huh"
+  },
+  {
+    "expire": null,
     "id": "blaseball_back",
     "msg": "Blaseball is BACK"
   },
