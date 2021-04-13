@@ -55,14 +55,12 @@
   "martyrdom": 1.2643591545851631,
   "moxie": 1.3341413305105172,
   "musclitude": 0.5898259103227522,
-  "name": "Ve-salius Sundae",
+  "name": "Vessalius Sundae",
   "omniscience": 0.396678834392224,
   "overpowerment": 0.2689482361074316,
   "patheticism": 0.001,
   "peanutAllergy": false,
-  "permAttr": [
-    "SCATTERED"
-  ],
+  "permAttr": [],
   "pitchingRating": 0.5869640928244412,
   "pressurization": 0.42354982034142297,
   "ritual": "Extra-gravity workout",
@@ -70,9 +68,7 @@
   "seasAttr": [],
   "shakespearianism": 1.010133146391848,
   "soul": 5,
-  "state": {
-    "unscatteredName": "Vessalius Sundae"
-  },
+  "state": {},
   "suppression": 0.36728619691864073,
   "tenaciousness": 0.6601973499224713,
   "thwackability": 0.9014582054471628,
