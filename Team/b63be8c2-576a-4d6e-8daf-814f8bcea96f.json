@@ -17,11 +17,13 @@
   ],
   "card": 16,
   "championships": 0,
-  "eDensity": 956.5309743825624,
+  "eDensity": 961.5639611630722,
   "emoji": "0x1F6A4",
   "evolution": 0,
   "fullName": "Miami Dale",
-  "gameAttr": [],
+  "gameAttr": [
+    "UNDERSEA"
+  ],
   "id": "b63be8c2-576a-4d6e-8daf-814f8bcea96f",
   "level": 3,
   "lineup": [
@@ -47,7 +49,7 @@
     "20be1c34-071d-40c6-8824-dde2af184b4d",
     "889c9ef9-d521-4436-b41c-9021b81b4dfb"
   ],
-  "rotationSlot": 19,
+  "rotationSlot": 20,
   "seasAttr": [],
   "seasonShames": 1,
   "seasonShamings": 3,
@@ -56,7 +58,13 @@
   "shorthand": "MIA",
   "slogan": "¡Dale!",
   "stadium": "a0851e18-d5d7-4749-b3c5-c6023fe1cc61",
-  "state": {},
+  "state": {
+    "gameModSources": {
+      "UNDERSEA": [
+        "PSYCHOACOUSTICS"
+      ]
+    }
+  },
   "teamSpirit": 0,
   "totalShames": 78,
   "totalShamings": 52,

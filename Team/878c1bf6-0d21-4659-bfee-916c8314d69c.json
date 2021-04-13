@@ -22,11 +22,13 @@
   ],
   "card": 6,
   "championships": 0,
-  "eDensity": 1018.9363920053222,
+  "eDensity": 1032.5256977356112,
   "emoji": "0x1F32E",
   "evolution": 0,
   "fullName": "LA Unlimited Tacos",
-  "gameAttr": [],
+  "gameAttr": [
+    "STALEPOPCORN_PAYOUTS"
+  ],
   "id": "878c1bf6-0d21-4659-bfee-916c8314d69c",
   "level": 3,
   "lineup": [
@@ -49,7 +51,7 @@
     "d81ce662-07b6-4a73-baa4-acbbb41f9dc5",
     "691f9ab2-9dd4-42e8-bf95-9fd01253c801"
   ],
-  "rotationSlot": 19,
+  "rotationSlot": 20,
   "seasAttr": [],
   "seasonShames": 0,
   "seasonShamings": 0,
@@ -58,7 +60,13 @@
   "shorthand": "LATA",
   "slogan": "72° and Infinite",
   "stadium": "36b94380-39a6-4e32-b525-3e888215798a",
-  "state": {},
+  "state": {
+    "gameModSources": {
+      "STALEPOPCORN_PAYOUTS": [
+        "PSYCHOACOUSTICS"
+      ]
+    }
+  },
   "teamSpirit": 0,
   "totalShames": 91,
   "totalShamings": 51,
