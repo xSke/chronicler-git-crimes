@@ -25,6 +25,32 @@
   "items": [
     {
       "baserunningRating": 0,
+      "defenseRating": 0,
+      "durability": 1,
+      "forger": null,
+      "forgerName": null,
+      "health": 1,
+      "hittingRating": 0,
+      "id": "d8968d13-392d-46a1-8404-a099c46cb768",
+      "name": "Cap",
+      "pitchingRating": 0.08214732920710177,
+      "postPrefix": null,
+      "prePrefix": null,
+      "prefixes": null,
+      "root": {
+        "adjustments": [
+          {
+            "stat": 16,
+            "type": 1,
+            "value": 0.1228507334871577
+          }
+        ],
+        "name": "Cap"
+      },
+      "suffix": null
+    },
+    {
+      "baserunningRating": 0,
       "defenseRating": 0.010924169519340277,
       "durability": 2,
       "forger": null,
@@ -67,32 +93,6 @@
           }
         ],
         "name": "Cap"
-      },
-      "suffix": null
-    },
-    {
-      "baserunningRating": 0,
-      "defenseRating": 0,
-      "durability": 1,
-      "forger": null,
-      "forgerName": null,
-      "health": 0,
-      "hittingRating": 0.047167768520544495,
-      "id": "a90363a8-3477-40c2-8bcf-476b4f2ac355",
-      "name": "Bat",
-      "pitchingRating": 0,
-      "postPrefix": null,
-      "prePrefix": null,
-      "prefixes": null,
-      "root": {
-        "adjustments": [
-          {
-            "stat": 2,
-            "type": 1,
-            "value": 0.12753469491604014
-          }
-        ],
-        "name": "Bat"
       },
       "suffix": null
     }
