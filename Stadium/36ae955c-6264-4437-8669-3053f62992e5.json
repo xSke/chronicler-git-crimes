@@ -42,7 +42,17 @@
     "grind_rail_mod",
     "event_horizon_mod"
   ],
-  "renoHand": [],
+  "renoHand": [
+    "sweetener_mod",
+    "salmon_cannons_mod",
+    "obtuseness_plus",
+    "solar_panels_mod",
+    "coffee_one_plus",
+    "peanut_mister_mod",
+    "filthiness_cleanup",
+    "forwardness_plus",
+    "obtuseness_minus"
+  ],
   "renoLog": {
     "grind_rail_mod": 1,
     "psychoacoustics_mod": 1,

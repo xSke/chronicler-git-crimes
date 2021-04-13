@@ -41,7 +41,17 @@
     "flooding_plus",
     "soundsystem_mod"
   ],
-  "renoHand": [],
+  "renoHand": [
+    "salmon_cannons_mod",
+    "viscosity_plus",
+    "sweetener_mod",
+    "sun_two_plus",
+    "fortifications_plus",
+    "forwardness_minus",
+    "elongation_plus",
+    "birdhouses_mod",
+    "filthiness_cleanup"
+  ],
   "renoLog": {
     "grind_rail_mod": 1,
     "secret_base_mod": 1

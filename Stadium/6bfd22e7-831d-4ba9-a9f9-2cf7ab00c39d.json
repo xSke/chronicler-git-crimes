@@ -40,7 +40,17 @@
     "grind_rail_mod",
     "mysticism_plus"
   ],
-  "renoHand": [],
+  "renoHand": [
+    "salmon_cannons_mod",
+    "sweetener_mod",
+    "blooddrain_plus",
+    "reverb_plus",
+    "elongation_minus",
+    "flood_pumps_mod",
+    "feedback_plus",
+    "filthiness_cleanup",
+    "fire_insurance_mod"
+  ],
   "renoLog": {
     "big_bucket_mod": 1
   },

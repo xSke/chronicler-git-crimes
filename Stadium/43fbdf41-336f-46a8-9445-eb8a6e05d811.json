@@ -43,7 +43,17 @@
     "viscosity_minus",
     "ominousness_plus"
   ],
-  "renoHand": [],
+  "renoHand": [
+    "sweetener_mod",
+    "salmon_cannons_mod",
+    "forwardness_plus",
+    "fire_insurance_mod",
+    "grandiosity_plus",
+    "filthiness_cleanup",
+    "fortifications_minus",
+    "fortifications_plus",
+    "elongation_plus"
+  ],
   "renoLog": {
     "big_bucket_mod": 1,
     "flood_pumps_mod": 1,

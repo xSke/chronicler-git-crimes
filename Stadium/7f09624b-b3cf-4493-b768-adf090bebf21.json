@@ -42,7 +42,17 @@
     "soundsystem_mod",
     "solar_eclipse_plus"
   ],
-  "renoHand": [],
+  "renoHand": [
+    "sweetener_mod",
+    "salmon_cannons_mod",
+    "fire_insurance_mod",
+    "mysticism_plus",
+    "inconvenience_minus",
+    "coffee_one_plus",
+    "feedback_plus",
+    "solar_panels_mod",
+    "ominousness_minus"
+  ],
   "renoLog": {
     "grind_rail_mod": 1,
     "peanut_mister_mod": 1,

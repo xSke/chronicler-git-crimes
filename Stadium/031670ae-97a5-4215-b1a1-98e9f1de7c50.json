@@ -42,7 +42,17 @@
     "grandiosity_plus",
     "flood_pumps_mod"
   ],
-  "renoHand": [],
+  "renoHand": [
+    "salmon_cannons_mod",
+    "sweetener_mod",
+    "flooding_plus",
+    "big_bucket_mod",
+    "mysticism_plus",
+    "filthiness_cleanup",
+    "coffee_one_plus",
+    "solar_panels_mod",
+    "forwardness_plus"
+  ],
   "renoLog": {
     "echo_chamber_mod": 1,
     "psychoacoustics_mod": 1,

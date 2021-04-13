@@ -40,7 +40,17 @@
     "grandiosity_plus",
     "obtuseness_minus"
   ],
-  "renoHand": [],
+  "renoHand": [
+    "salmon_cannons_mod",
+    "sweetener_mod",
+    "filthiness_cleanup",
+    "obtuseness_plus",
+    "ominousness_plus",
+    "event_horizon_mod",
+    "coffee_threes_plus",
+    "peanut_mister_mod",
+    "ominousness_minus"
+  ],
   "renoLog": {
     "big_bucket_mod": 1
   },

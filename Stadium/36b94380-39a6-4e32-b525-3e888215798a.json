@@ -42,7 +42,17 @@
     "flood_pumps_mod",
     "peanut_mister_mod"
   ],
-  "renoHand": [],
+  "renoHand": [
+    "salmon_cannons_mod",
+    "sweetener_mod",
+    "solar_panels_mod",
+    "fortifications_plus",
+    "fortifications_minus",
+    "sun_two_plus",
+    "obtuseness_plus",
+    "inconvenience_plus",
+    "viscosity_plus"
+  ],
   "renoLog": {
     "big_bucket_mod": 1,
     "psychoacoustics_mod": 1,

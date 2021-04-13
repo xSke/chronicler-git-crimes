@@ -43,7 +43,17 @@
     "coffee_two_plus",
     "flood_pumps_mod"
   ],
-  "renoHand": [],
+  "renoHand": [
+    "salmon_cannons_mod",
+    "sweetener_mod",
+    "peanut_mister_mod",
+    "flooding_plus",
+    "birdhouses_mod",
+    "mysticism_minus",
+    "coffee_one_plus",
+    "inconvenience_minus",
+    "fortifications_minus"
+  ],
   "renoLog": {
     "big_bucket_mod": 1,
     "psychoacoustics_mod": 1,

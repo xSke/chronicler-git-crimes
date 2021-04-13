@@ -44,7 +44,17 @@
     "fire_insurance_mod",
     "coffee_threes_plus"
   ],
-  "renoHand": [],
+  "renoHand": [
+    "salmon_cannons_mod",
+    "sweetener_mod",
+    "inconvenience_plus",
+    "mysticism_minus",
+    "event_horizon_mod",
+    "coffee_threes_plus",
+    "sun_two_plus",
+    "obtuseness_minus",
+    "viscosity_plus"
+  ],
   "renoLog": {
     "echo_chamber_mod": 1,
     "grind_rail_mod": 1,

@@ -41,7 +41,17 @@
     "flooding_plus",
     "inconvenience_minus"
   ],
-  "renoHand": [],
+  "renoHand": [
+    "sweetener_mod",
+    "salmon_cannons_mod",
+    "blooddrain_plus",
+    "ominousness_plus",
+    "coffee_threes_plus",
+    "obtuseness_minus",
+    "mysticism_plus",
+    "flooding_plus",
+    "reverb_plus"
+  ],
   "renoLog": {
     "grind_rail_mod": 1,
     "peanut_mister_mod": 1,

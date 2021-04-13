@@ -42,7 +42,17 @@
     "soundsystem_mod",
     "peanut_mister_mod"
   ],
-  "renoHand": [],
+  "renoHand": [
+    "sweetener_mod",
+    "salmon_cannons_mod",
+    "sun_two_plus",
+    "coffee_one_plus",
+    "solar_eclipse_plus",
+    "viscosity_minus",
+    "peanut_mister_mod",
+    "ominousness_minus",
+    "mysticism_plus"
+  ],
   "renoLog": {
     "psychoacoustics_mod": 1,
     "secret_base_mod": 1,

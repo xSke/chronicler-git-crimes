@@ -42,7 +42,17 @@
     "reverb_plus",
     "ominousness_plus"
   ],
-  "renoHand": [],
+  "renoHand": [
+    "sweetener_mod",
+    "salmon_cannons_mod",
+    "filthiness_cleanup",
+    "fire_insurance_mod",
+    "birds_plus",
+    "solar_eclipse_plus",
+    "forwardness_minus",
+    "reverb_plus",
+    "elongation_minus"
+  ],
   "renoLog": {
     "big_bucket_mod": 1,
     "flood_pumps_mod": 1,

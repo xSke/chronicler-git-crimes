@@ -42,7 +42,17 @@
     "feedback_plus",
     "echo_chamber_mod"
   ],
-  "renoHand": [],
+  "renoHand": [
+    "salmon_cannons_mod",
+    "sweetener_mod",
+    "forwardness_plus",
+    "mysticism_minus",
+    "elongation_minus",
+    "reverb_plus",
+    "forwardness_minus",
+    "birds_plus",
+    "coffee_threes_plus"
+  ],
   "renoLog": {
     "big_bucket_mod": 1,
     "grind_rail_mod": 1,

@@ -43,7 +43,17 @@
     "blooddrain_plus",
     "elongation_minus"
   ],
-  "renoHand": [],
+  "renoHand": [
+    "salmon_cannons_mod",
+    "sweetener_mod",
+    "inconvenience_minus",
+    "reverb_plus",
+    "coffee_two_plus",
+    "mysticism_plus",
+    "coffee_threes_plus",
+    "sun_two_plus",
+    "black_hole_plus"
+  ],
   "renoLog": {
     "fire_insurance_mod": 1,
     "grind_rail_mod": 1,

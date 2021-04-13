@@ -41,7 +41,17 @@
     "grind_rail_mod",
     "solar_panels_mod"
   ],
-  "renoHand": [],
+  "renoHand": [
+    "sweetener_mod",
+    "salmon_cannons_mod",
+    "peanut_mister_mod",
+    "blooddrain_plus",
+    "mysticism_minus",
+    "black_hole_plus",
+    "inconvenience_minus",
+    "forwardness_plus",
+    "obtuseness_minus"
+  ],
   "renoLog": {
     "grind_rail_mod": 1,
     "psychoacoustics_mod": 1

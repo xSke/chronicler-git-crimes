@@ -42,7 +42,17 @@
     "event_horizon_mod",
     "coffee_two_plus"
   ],
-  "renoHand": [],
+  "renoHand": [
+    "salmon_cannons_mod",
+    "sweetener_mod",
+    "grandiosity_minus",
+    "event_horizon_mod",
+    "inconvenience_minus",
+    "coffee_threes_plus",
+    "viscosity_plus",
+    "coffee_two_plus",
+    "feedback_plus"
+  ],
   "renoLog": {
     "big_bucket_mod": 1,
     "psychoacoustics_mod": 1,

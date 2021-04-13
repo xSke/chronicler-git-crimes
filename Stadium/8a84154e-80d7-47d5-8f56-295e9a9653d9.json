@@ -42,7 +42,17 @@
     "echo_chamber_mod",
     "blooddrain_plus"
   ],
-  "renoHand": [],
+  "renoHand": [
+    "sweetener_mod",
+    "salmon_cannons_mod",
+    "peanut_mister_mod",
+    "forwardness_plus",
+    "flooding_plus",
+    "fortifications_minus",
+    "soundsystem_mod",
+    "reverb_plus",
+    "mysticism_plus"
+  ],
   "renoLog": {
     "flood_pumps_mod": 1,
     "psychoacoustics_mod": 1,

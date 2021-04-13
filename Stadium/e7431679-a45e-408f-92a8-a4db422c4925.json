@@ -42,7 +42,17 @@
     "soundsystem_mod",
     "forwardness_minus"
   ],
-  "renoHand": [],
+  "renoHand": [
+    "salmon_cannons_mod",
+    "sweetener_mod",
+    "grandiosity_minus",
+    "peanuts_plus",
+    "grandiosity_plus",
+    "elongation_plus",
+    "birdhouses_mod",
+    "soundsystem_mod",
+    "viscosity_plus"
+  ],
   "renoLog": {
     "flood_pumps_mod": 1,
     "grind_rail_mod": 1,

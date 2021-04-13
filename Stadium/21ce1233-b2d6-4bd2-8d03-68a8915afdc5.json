@@ -42,7 +42,17 @@
     "viscosity_minus",
     "soundsystem_mod"
   ],
-  "renoHand": [],
+  "renoHand": [
+    "salmon_cannons_mod",
+    "sweetener_mod",
+    "elongation_minus",
+    "birds_plus",
+    "coffee_threes_plus",
+    "viscosity_plus",
+    "solar_eclipse_plus",
+    "mysticism_minus",
+    "coffee_one_plus"
+  ],
   "renoLog": {
     "big_bucket_mod": 1,
     "echo_chamber_mod": 1,

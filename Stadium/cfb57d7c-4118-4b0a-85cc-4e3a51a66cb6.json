@@ -52,7 +52,17 @@
     "peanuts_plus",
     "inconvenience_plus"
   ],
-  "renoHand": [],
+  "renoHand": [
+    "salmon_cannons_mod",
+    "sweetener_mod",
+    "viscosity_minus",
+    "forwardness_plus",
+    "ominousness_plus",
+    "flooding_plus",
+    "solar_panels_mod",
+    "obtuseness_plus",
+    "filthiness_cleanup"
+  ],
   "renoLog": {
     "big_bucket_mod": 1,
     "flood_pumps_mod": 1,
