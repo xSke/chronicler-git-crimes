@@ -55,13 +55,13 @@
   "martyrdom": 0.994277731565638,
   "moxie": 0.5772779914216734,
   "musclitude": 0.6064185499663931,
-  "name": "Hendricks Richardson",
+  "name": "Hen-ri--s Ric----s-n",
   "omniscience": 0.07,
   "overpowerment": 0.29532449952165485,
   "patheticism": 0.23376890259039457,
   "peanutAllergy": false,
   "permAttr": [
-    "ELSEWHERE"
+    "SCATTERED"
   ],
   "pitchingRating": 0.10245743870510812,
   "pressurization": 0.6638795184418913,
@@ -71,10 +71,7 @@
   "shakespearianism": 0.3578218176028243,
   "soul": 7,
   "state": {
-    "elsewhere": {
-      "day": 80,
-      "season": 14
-    }
+    "unscatteredName": "Hendricks Richardson"
   },
   "suppression": 0.4212366013843887,
   "tenaciousness": 0.3371364495207882,
