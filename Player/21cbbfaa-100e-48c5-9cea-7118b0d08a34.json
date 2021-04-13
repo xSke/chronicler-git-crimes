@@ -55,14 +55,12 @@
   "martyrdom": 0.27553689477537713,
   "moxie": 0.3728111139485993,
   "musclitude": 0.9758726030485338,
-  "name": "Ju-ce Collins",
+  "name": "Juice Collins",
   "omniscience": 0.34792781225355296,
   "overpowerment": 0.6642209268759287,
   "patheticism": 0.4471529712644097,
   "peanutAllergy": true,
-  "permAttr": [
-    "SCATTERED"
-  ],
+  "permAttr": [],
   "pitchingRating": 0.8737729880106323,
   "pressurization": 0.8098525163738565,
   "ritual": "Congealing",
@@ -70,9 +68,7 @@
   "seasAttr": [],
   "shakespearianism": 1.0436379928435695,
   "soul": 7,
-  "state": {
-    "unscatteredName": "Juice Collins"
-  },
+  "state": {},
   "suppression": 0.9680684713792588,
   "tenaciousness": 1.0390019625435725,
   "thwackability": 0.6233433925881506,
