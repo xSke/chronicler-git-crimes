@@ -60,10 +60,7 @@
   "overpowerment": 0.9667930946461868,
   "patheticism": 0.001,
   "peanutAllergy": false,
-  "permAttr": [
-    "SUPERYUMMY",
-    "UNDERPERFORMING"
-  ],
+  "permAttr": [],
   "pitchingRating": 0.8447268959631368,
   "pressurization": 0.5408376821510407,
   "ritual": "Pre-visualizing",
@@ -72,11 +69,7 @@
   "shakespearianism": 1.2242466377856291,
   "soul": 3,
   "state": {
-    "permModSources": {
-      "UNDERPERFORMING": [
-        "SUPERYUMMY"
-      ]
-    }
+    "permModSources": {}
   },
   "suppression": 1.4034149548715666,
   "tenaciousness": 0.836203302205804,
