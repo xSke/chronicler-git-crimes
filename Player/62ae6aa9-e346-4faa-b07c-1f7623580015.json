@@ -60,7 +60,9 @@
   "overpowerment": 0.6876729158716173,
   "patheticism": 0.2703595680814873,
   "peanutAllergy": false,
-  "permAttr": [],
+  "permAttr": [
+    "TRIPLE_THREAT"
+  ],
   "pitchingRating": 0.6593749422388345,
   "pressurization": 0.3970858981737535,
   "ritual": "Begging",
