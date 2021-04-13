@@ -63,7 +63,8 @@
   "permAttr": [
     "RETURNED",
     "EGO1",
-    "MARKED"
+    "MARKED",
+    "TRIPLE_THREAT"
   ],
   "pitchingRating": 0.00029853826189179584,
   "pressurization": 0.7113755233221608,
