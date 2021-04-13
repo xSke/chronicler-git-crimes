@@ -33,7 +33,9 @@
   "overpowerment": 0.6190040456167565,
   "patheticism": 0.7065600045792289,
   "peanutAllergy": true,
-  "permAttr": [],
+  "permAttr": [
+    "INHABITING"
+  ],
   "pitchingRating": 0.2546215465689659,
   "pressurization": 0.4747600321721557,
   "ritual": "Astronomy",
