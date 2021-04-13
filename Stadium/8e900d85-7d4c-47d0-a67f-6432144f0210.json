@@ -53,7 +53,9 @@
     "solar_panels_mod": 1
   },
   "secondaryColor": "#b5af26",
-  "state": {},
+  "state": {
+    "solarPanels": true
+  },
   "teamId": "f02aeae2-5e6a-4098-9842-02d2273f25c7",
   "tertiaryColor": "#474400",
   "viscosity": 0.5066661966388385,
