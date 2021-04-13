@@ -22,7 +22,55 @@
   "id": "8ecea7e0-b1fb-4b74-8c8c-3271cb54f659",
   "indulgence": 0.8800238787720435,
   "itemAttr": [],
-  "items": [],
+  "items": [
+    {
+      "baserunningRating": 0,
+      "defenseRating": 0,
+      "durability": 2,
+      "forger": null,
+      "forgerName": null,
+      "health": 2,
+      "hittingRating": -0.009156785264647692,
+      "id": "c42d0c94-aafb-4045-9f75-dee241bad500",
+      "name": "Inflatable Sunglasses",
+      "pitchingRating": -0.007925706301007307,
+      "postPrefix": null,
+      "prePrefix": null,
+      "prefixes": [
+        {
+          "adjustments": [
+            {
+              "stat": 1,
+              "type": 1,
+              "value": 0.08018538943653307
+            },
+            {
+              "stat": 18,
+              "type": 1,
+              "value": -0.05762570400765949
+            },
+            {
+              "stat": 6,
+              "type": 1,
+              "value": 0.09361321296435508
+            }
+          ],
+          "name": "Inflatable"
+        }
+      ],
+      "root": {
+        "adjustments": [
+          {
+            "stat": 8,
+            "type": 1,
+            "value": 0.10106190330006284
+          }
+        ],
+        "name": "Sunglasses"
+      },
+      "suffix": null
+    }
+  ],
   "laserlikeness": 0.425182682837935,
   "leagueTeamId": "9debc64f-74b7-4ae1-a4d6-fce0144b6ea5",
   "martyrdom": 1.013905126951563,
