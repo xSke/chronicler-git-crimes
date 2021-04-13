@@ -33,7 +33,9 @@
   "overpowerment": 0.5789081808698695,
   "patheticism": 0.1226999961940117,
   "peanutAllergy": false,
-  "permAttr": [],
+  "permAttr": [
+    "INHABITING"
+  ],
   "pitchingRating": 0.03491925031457406,
   "pressurization": 0.12328958855793748,
   "ritual": "Signing autographs",
