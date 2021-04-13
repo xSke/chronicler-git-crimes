@@ -25,6 +25,53 @@
   "items": [
     {
       "baserunningRating": 0,
+      "defenseRating": 0.010924169519340277,
+      "durability": 2,
+      "forger": null,
+      "forgerName": null,
+      "health": 2,
+      "hittingRating": 0,
+      "id": "655439a5-c530-4b43-85a0-991fdb3eeab4",
+      "name": "Plant-Based Cap",
+      "pitchingRating": 0.07756524286988475,
+      "postPrefix": null,
+      "prePrefix": null,
+      "prefixes": [
+        {
+          "adjustments": [
+            {
+              "stat": 23,
+              "type": 1,
+              "value": 0.1127390292402709
+            },
+            {
+              "stat": 15,
+              "type": 1,
+              "value": 0.15589077718249572
+            },
+            {
+              "stat": 1,
+              "type": 1,
+              "value": -0.09340613749129116
+            }
+          ],
+          "name": "Plant-Based"
+        }
+      ],
+      "root": {
+        "adjustments": [
+          {
+            "stat": 16,
+            "type": 1,
+            "value": 0.11565053694882242
+          }
+        ],
+        "name": "Cap"
+      },
+      "suffix": null
+    },
+    {
+      "baserunningRating": 0,
       "defenseRating": 0,
       "durability": 1,
       "forger": null,
