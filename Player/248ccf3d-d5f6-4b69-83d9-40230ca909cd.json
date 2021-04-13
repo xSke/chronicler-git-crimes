@@ -15,7 +15,9 @@
   "eDensity": 0,
   "evolution": 0,
   "fate": 97,
-  "gameAttr": [],
+  "gameAttr": [
+    "WIRED"
+  ],
   "groundFriction": 0.17735931551635264,
   "hitStreak": 0,
   "hittingRating": 0.7020987358323023,
@@ -33,9 +35,7 @@
   "overpowerment": 0.5789081808698695,
   "patheticism": 0.1226999961940117,
   "peanutAllergy": false,
-  "permAttr": [
-    "INHABITING"
-  ],
+  "permAttr": [],
   "pitchingRating": 0.03491925031457406,
   "pressurization": 0.12328958855793748,
   "ritual": "Signing autographs",
