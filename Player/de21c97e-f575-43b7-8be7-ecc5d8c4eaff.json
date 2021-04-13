@@ -63,7 +63,8 @@
   "permAttr": [
     "HONEY_ROASTED",
     "UNCERTAIN",
-    "EGO2"
+    "EGO2",
+    "ELSEWHERE"
   ],
   "pitchingRating": 1.2533645671039737,
   "pressurization": 0.3439608525396183,
@@ -72,7 +73,12 @@
   "seasAttr": [],
   "shakespearianism": 0.5233103259932211,
   "soul": 10,
-  "state": {},
+  "state": {
+    "elsewhere": {
+      "day": 9,
+      "season": 15
+    }
+  },
   "suppression": 0.9014469110891448,
   "tenaciousness": 0.4072678579924161,
   "thwackability": 0.6631421919932027,
