@@ -55,13 +55,13 @@
   "martyrdom": 0.7266130962952707,
   "moxie": 0.4978006616719736,
   "musclitude": 0.17,
-  "name": "Don Elliott",
+  "name": "--n -ll--tt",
   "omniscience": 0.4042455618829041,
   "overpowerment": 0.30138143032966463,
   "patheticism": 0.6885783641212516,
   "peanutAllergy": true,
   "permAttr": [
-    "ELSEWHERE"
+    "SCATTERED"
   ],
   "pitchingRating": 0.3606989481907249,
   "pressurization": 0.3445930284286655,
@@ -71,10 +71,7 @@
   "shakespearianism": 0.047580737659700736,
   "soul": 5,
   "state": {
-    "elsewhere": {
-      "day": 59,
-      "season": 14
-    }
+    "unscatteredName": "Don Elliott"
   },
   "suppression": 0.27024660683371055,
   "tenaciousness": 0.4630939658282685,
