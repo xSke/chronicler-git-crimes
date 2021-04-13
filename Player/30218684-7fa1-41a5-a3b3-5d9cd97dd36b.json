@@ -62,7 +62,8 @@
   "peanutAllergy": false,
   "permAttr": [
     "FRIEND_OF_CROWS",
-    "SIPHON"
+    "SIPHON",
+    "COFFEE_RALLY"
   ],
   "pitchingRating": 0.6387129883336606,
   "pressurization": 0.14854720613269462,
