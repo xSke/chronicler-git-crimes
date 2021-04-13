@@ -55,18 +55,18 @@
   ],
   "rotationSlot": 25,
   "seasAttr": [],
-  "seasonShames": 0,
+  "seasonShames": 1,
   "seasonShamings": 0,
   "secondaryColor": "#e83622",
-  "shameRuns": 0,
+  "shameRuns": 1,
   "shorthand": "HAT",
   "slogan": "Never Look Back.",
   "stadium": "929fc650-948a-4736-b7a2-bb7b75902e6e",
   "state": {},
   "teamSpirit": 0,
-  "totalShames": 54,
+  "totalShames": 55,
   "totalShamings": 74,
   "tournamentWins": 0,
   "weekAttr": [],
-  "winStreak": 5
+  "winStreak": -1
 }
