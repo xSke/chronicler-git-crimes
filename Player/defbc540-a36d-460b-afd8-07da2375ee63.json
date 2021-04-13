@@ -24,59 +24,28 @@
   "itemAttr": [],
   "items": [
     {
-      "baserunningRating": 0.00906367572263711,
-      "defenseRating": 0,
-      "durability": 2,
+      "baserunningRating": 0,
+      "defenseRating": 0.02218813558651933,
+      "durability": 1,
       "forger": null,
       "forgerName": null,
-      "health": 2,
-      "hittingRating": 0.024016169649131003,
-      "id": "4fda33cd-0c49-4973-a25d-400106b53687",
-      "name": "Weird Bat",
-      "pitchingRating": 0.01256020146330683,
+      "health": 1,
+      "hittingRating": 0,
+      "id": "7e94c519-2380-4723-b1db-5e70369b651e",
+      "name": "Glove",
+      "pitchingRating": 0,
       "postPrefix": null,
       "prePrefix": null,
-      "prefixes": [
-        {
-          "adjustments": [
-            {
-              "stat": 0,
-              "type": 1,
-              "value": 0.049604305057912725
-            },
-            {
-              "stat": 14,
-              "type": 1,
-              "value": 0.14824755898379263
-            },
-            {
-              "stat": 13,
-              "type": 1,
-              "value": 0.12057311644732138
-            },
-            {
-              "stat": 6,
-              "type": 1,
-              "value": 0.09287991145841155
-            },
-            {
-              "stat": 8,
-              "type": 1,
-              "value": 0.09824364165003018
-            }
-          ],
-          "name": "Weird"
-        }
-      ],
+      "prefixes": null,
       "root": {
         "adjustments": [
           {
-            "stat": 2,
+            "stat": 21,
             "type": 1,
-            "value": 0.1300245320960952
+            "value": 0.11199290182452032
           }
         ],
-        "name": "Bat"
+        "name": "Glove"
       },
       "suffix": null
     }
