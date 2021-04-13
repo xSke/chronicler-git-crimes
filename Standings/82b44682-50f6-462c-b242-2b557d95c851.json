@@ -19,11 +19,11 @@
     "b72f3061-f573-40d7-832a-5ad475bd7909": 12,
     "bb4a9de5-c924-4923-a0cb-9d1445f1ee5d": 11,
     "bfd38797-8404-4b38-8b82-341da28b1f83": 11,
-    "c73b705c-40ad-4633-a6ed-d357ee2e2bcf": 11,
+    "c73b705c-40ad-4633-a6ed-d357ee2e2bcf": 12,
     "ca3f1c8c-c025-4d8e-8eef-5be6accbeb16": 11,
     "d9f89a8a-c563-493e-9d64-78e4f9a55d4a": 11,
     "eb67ae5e-c4bf-46ca-bbbc-425cd34182ff": 11,
-    "f02aeae2-5e6a-4098-9842-02d2273f25c7": 11
+    "f02aeae2-5e6a-4098-9842-02d2273f25c7": 12
   },
   "id": "82b44682-50f6-462c-b242-2b557d95c851",
   "losses": {
@@ -46,7 +46,7 @@
     "b72f3061-f573-40d7-832a-5ad475bd7909": 7,
     "bb4a9de5-c924-4923-a0cb-9d1445f1ee5d": 3,
     "bfd38797-8404-4b38-8b82-341da28b1f83": 7,
-    "c73b705c-40ad-4633-a6ed-d357ee2e2bcf": 6,
+    "c73b705c-40ad-4633-a6ed-d357ee2e2bcf": 7,
     "ca3f1c8c-c025-4d8e-8eef-5be6accbeb16": 2,
     "d9f89a8a-c563-493e-9d64-78e4f9a55d4a": 7,
     "eb67ae5e-c4bf-46ca-bbbc-425cd34182ff": 5,
@@ -76,7 +76,7 @@
     "ca3f1c8c-c025-4d8e-8eef-5be6accbeb16": 34.4,
     "d9f89a8a-c563-493e-9d64-78e4f9a55d4a": 40,
     "eb67ae5e-c4bf-46ca-bbbc-425cd34182ff": 46,
-    "f02aeae2-5e6a-4098-9842-02d2273f25c7": 40
+    "f02aeae2-5e6a-4098-9842-02d2273f25c7": 42
   },
   "wins": {
     "105bc3ff-1320-4e37-8ef0-8d595cb95dd0": 2,
@@ -102,6 +102,6 @@
     "ca3f1c8c-c025-4d8e-8eef-5be6accbeb16": 9,
     "d9f89a8a-c563-493e-9d64-78e4f9a55d4a": 4,
     "eb67ae5e-c4bf-46ca-bbbc-425cd34182ff": 6,
-    "f02aeae2-5e6a-4098-9842-02d2273f25c7": 4
+    "f02aeae2-5e6a-4098-9842-02d2273f25c7": 5
   }
 }
