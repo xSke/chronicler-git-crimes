@@ -1,7 +1,7 @@
 {
   "anticapitalism": 0.4013810222161314,
   "baseThirst": 0.7507696551211369,
-  "baserunningRating": 1.0816095180569865,
+  "baserunningRating": 1.3227013462409438,
   "blood": 6,
   "buoyancy": 0.7513722098846152,
   "chasiness": 0.4480868486320449,
@@ -10,7 +10,7 @@
   "coldness": 1.1307591887475812,
   "continuation": 0.904042582678998,
   "deceased": false,
-  "defenseRating": 0.6339295278437471,
+  "defenseRating": 1.0535662910825463,
   "divinity": 0.8561478496748227,
   "eDensity": 32.764101025120056,
   "evolution": 0,
@@ -18,7 +18,7 @@
   "gameAttr": [],
   "groundFriction": 1.265684592718891,
   "hitStreak": 0,
-  "hittingRating": 0.8676111353798168,
+  "hittingRating": 1.0004012894520486,
   "id": "a3947fbc-50ec-45a4-bca4-49ffebb77dbe",
   "indulgence": 0.8049520980057822,
   "itemAttr": [],
@@ -36,16 +36,16 @@
   "permAttr": [
     "HOMEBODY",
     "OVERPERFORMING",
-    "REDACTED",
-    "MARKED"
+    "MARKED",
+    "ATTRACTOR"
   ],
-  "pitchingRating": 0.668864250879458,
+  "pitchingRating": 1.4595513532301494,
   "pressurization": 0.7857967407463393,
   "ritual": "Extra-gravity workout",
   "ruthlessness": 1.2395775999303358,
   "seasAttr": [],
   "shakespearianism": 0.6287173844595737,
-  "soul": 5,
+  "soul": 0,
   "state": {
     "permModSources": {
       "OVERPERFORMING": [
