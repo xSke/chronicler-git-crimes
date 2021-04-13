@@ -53,7 +53,7 @@
   "rotationSlot": 18,
   "seasAttr": [],
   "seasonShames": 1,
-  "seasonShamings": 1,
+  "seasonShamings": 2,
   "secondaryColor": "#3ee652",
   "shameRuns": 0,
   "shorthand": "HF",
@@ -62,8 +62,8 @@
   "state": {},
   "teamSpirit": 0,
   "totalShames": 63,
-  "totalShamings": 60,
+  "totalShamings": 61,
   "tournamentWins": 0,
   "weekAttr": [],
-  "winStreak": 2
+  "winStreak": 3
 }
