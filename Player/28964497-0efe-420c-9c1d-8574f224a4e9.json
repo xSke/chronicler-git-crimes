@@ -24,28 +24,42 @@
   "itemAttr": [],
   "items": [
     {
-      "baserunningRating": 0,
-      "defenseRating": 0,
-      "durability": 1,
+      "baserunningRating": 0.0372039981415222,
+      "defenseRating": 0.005326783650890454,
+      "durability": 2,
       "forger": null,
       "forgerName": null,
-      "health": 1,
-      "hittingRating": 0.05232483831123114,
-      "id": "a5271ee6-e7e4-4519-9549-552f01fd2f57",
-      "name": "Bat",
-      "pitchingRating": 0,
-      "postPrefix": null,
+      "health": 2,
+      "hittingRating": 0,
+      "id": "032d24f5-1e63-4ba0-9f2d-a2c67d9164e3",
+      "name": "Leg Ring",
+      "pitchingRating": 0.043770919094466065,
+      "postPrefix": {
+        "adjustments": [
+          {
+            "stat": 10,
+            "type": 1,
+            "value": 0.07695317270727459
+          },
+          {
+            "stat": 25,
+            "type": 1,
+            "value": 0.0660911223269804
+          }
+        ],
+        "name": "Leg"
+      },
       "prePrefix": null,
       "prefixes": null,
       "root": {
         "adjustments": [
           {
-            "stat": 2,
+            "stat": 19,
             "type": 1,
-            "value": 0.14677303755843926
+            "value": 0.1162065930133593
           }
         ],
-        "name": "Bat"
+        "name": "Ring"
       },
       "suffix": null
     }
