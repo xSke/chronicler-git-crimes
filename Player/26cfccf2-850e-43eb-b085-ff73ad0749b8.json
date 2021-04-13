@@ -61,7 +61,8 @@
   "patheticism": 0.21137075950024192,
   "peanutAllergy": true,
   "permAttr": [
-    "MINIMALIST"
+    "MINIMALIST",
+    "ELSEWHERE"
   ],
   "pitchingRating": 0.6086625287904187,
   "pressurization": 0.28545395980628685,
@@ -70,7 +71,12 @@
   "seasAttr": [],
   "shakespearianism": 1.1244593858168477,
   "soul": 7,
-  "state": {},
+  "state": {
+    "elsewhere": {
+      "day": 19,
+      "season": 15
+    }
+  },
   "suppression": 0.3637927386634112,
   "tenaciousness": 0.3983637427219093,
   "thwackability": 1.0451598953590868,
