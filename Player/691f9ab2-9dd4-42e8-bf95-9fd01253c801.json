@@ -62,7 +62,8 @@
   "peanutAllergy": true,
   "permAttr": [
     "ECHO",
-    "FIRE_EATER"
+    "FIRE_EATER",
+    "TRIPLE_THREAT"
   ],
   "pitchingRating": 0.909012796782468,
   "pressurization": 0.9154458307182802,
