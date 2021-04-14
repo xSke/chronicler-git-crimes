@@ -1,7 +1,7 @@
 {
   "anticapitalism": 0.9620753983799072,
   "baseThirst": 0.4283265220750918,
-  "baserunningRating": 0.5029219479935211,
+  "baserunningRating": 0.8735416022098899,
   "blood": 0,
   "buoyancy": 0.4560440229739684,
   "chasiness": 1.005924911487686,
@@ -10,7 +10,7 @@
   "coldness": 0.2625770568189394,
   "continuation": 0.1652125557582017,
   "deceased": false,
-  "defenseRating": 0.7364219892984896,
+  "defenseRating": 0.9268213847257484,
   "divinity": 0.30155087311514084,
   "eDensity": 42.59242156758364,
   "evolution": 0,
@@ -18,7 +18,7 @@
   "gameAttr": [],
   "groundFriction": 0.2492668192920091,
   "hitStreak": 0,
-  "hittingRating": 0.5598064939245508,
+  "hittingRating": 1.2197853738106927,
   "id": "d1a198d6-b05a-47cf-ab8e-39a6fa1ed831",
   "indulgence": 0.23942743335431296,
   "itemAttr": [],
@@ -34,18 +34,18 @@
   "patheticism": 0.3470975203208113,
   "peanutAllergy": false,
   "permAttr": [
-    "HARD_BOILED",
     "EGO1",
     "COFFEE_RALLY",
-    "REDACTED"
+    "SCRAMBLED",
+    "ATTRACTOR"
   ],
-  "pitchingRating": 0.4997669355811023,
+  "pitchingRating": 0.6754751070079068,
   "pressurization": 0.7077893681925664,
   "ritual": "Spitting",
   "ruthlessness": 0.36025290713016456,
   "seasAttr": [],
   "shakespearianism": 0.21435997735808196,
-  "soul": 10,
+  "soul": 0,
   "state": {
     "hunches": [
       0,
