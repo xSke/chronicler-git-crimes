@@ -55,14 +55,14 @@
   "martyrdom": 0.29906780048711734,
   "moxie": 1.1529624468864097,
   "musclitude": 1.0645705544262631,
-  "name": "Lowe Forbes",
+  "name": "---- --r---",
   "omniscience": 0.4656826380470327,
   "overpowerment": 0.4966827262567918,
   "patheticism": 0.7032875904768319,
   "peanutAllergy": false,
   "permAttr": [
     "TRIPLE_THREAT",
-    "ELSEWHERE"
+    "SCATTERED"
   ],
   "pitchingRating": 0.7808852623437675,
   "pressurization": 1.0586070350960344,
@@ -72,10 +72,7 @@
   "shakespearianism": 1.4607113410346162,
   "soul": 4,
   "state": {
-    "elsewhere": {
-      "day": 83,
-      "season": 14
-    }
+    "unscatteredName": "Lowe Forbes"
   },
   "suppression": 1.3875668180863707,
   "tenaciousness": 1.0692973515494772,
