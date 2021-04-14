@@ -26,7 +26,7 @@
   "fullName": "Boston Flowers",
   "gameAttr": [],
   "id": "3f8bbb15-61c0-4e3f-8e4a-907a5fb1565e",
-  "level": 4,
+  "level": 3,
   "lineup": [
     "28964497-0efe-420c-9c1d-8574f224a4e9",
     "718dea1a-d9a8-4c2b-933a-f0667b5250e6",
@@ -53,7 +53,7 @@
     "2da49de2-34e5-49d0-b752-af2a2ee061be",
     "a647388d-fc59-4c1b-90d3-8c1826e07775"
   ],
-  "rotationSlot": 43,
+  "rotationSlot": 44,
   "seasAttr": [],
   "seasonShames": 0,
   "seasonShamings": 5,
