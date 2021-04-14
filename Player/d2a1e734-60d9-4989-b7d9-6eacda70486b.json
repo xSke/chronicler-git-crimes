@@ -21,8 +21,47 @@
   "hittingRating": 0.18305625397141667,
   "id": "d2a1e734-60d9-4989-b7d9-6eacda70486b",
   "indulgence": 0.17679402024095747,
-  "itemAttr": [],
-  "items": [],
+  "itemAttr": [
+    "PARASITE"
+  ],
+  "items": [
+    {
+      "baserunningRating": 0,
+      "defenseRating": 0,
+      "durability": 2,
+      "forger": null,
+      "forgerName": null,
+      "health": 2,
+      "hittingRating": 0.0014599394542313404,
+      "id": "22d15a06-759b-43a0-9e25-12f126e5bcb8",
+      "name": "Parasitic Jersey",
+      "pitchingRating": 0,
+      "postPrefix": null,
+      "prePrefix": null,
+      "prefixes": [
+        {
+          "adjustments": [
+            {
+              "mod": "PARASITE",
+              "type": 0
+            }
+          ],
+          "name": "Parasitic"
+        }
+      ],
+      "root": {
+        "adjustments": [
+          {
+            "stat": 5,
+            "type": 1,
+            "value": 0.11035439957012971
+          }
+        ],
+        "name": "Jersey"
+      },
+      "suffix": null
+    }
+  ],
   "laserlikeness": 0.5556055333017378,
   "leagueTeamId": "23e4cbc1-e9cd-47fa-a35b-bfa06f726cb7",
   "martyrdom": 0.42574756252400703,
@@ -41,7 +80,13 @@
   "seasAttr": [],
   "shakespearianism": 0.02895415324880779,
   "soul": 2,
-  "state": {},
+  "state": {
+    "itemModSources": {
+      "PARASITE": [
+        "22d15a06-759b-43a0-9e25-12f126e5bcb8"
+      ]
+    }
+  },
   "suppression": 0.945939967613159,
   "tenaciousness": 0.3046934004227704,
   "thwackability": 0.22848011577602123,
