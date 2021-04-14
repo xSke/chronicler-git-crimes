@@ -24,28 +24,49 @@
   "itemAttr": [],
   "items": [
     {
-      "baserunningRating": 0,
-      "defenseRating": 0,
-      "durability": 1,
+      "baserunningRating": 0.05249488096740451,
+      "defenseRating": 0.04537802445449657,
+      "durability": 2,
       "forger": null,
       "forgerName": null,
-      "health": 1,
-      "hittingRating": 0.04635030419938469,
-      "id": "bba75c14-fefe-47b5-9748-47180aa37994",
-      "name": "Bat",
-      "pitchingRating": 0,
+      "health": 2,
+      "hittingRating": 0,
+      "id": "e1ca9e38-9e0d-41d9-9e81-d374143844db",
+      "name": "Frosty Shoes",
+      "pitchingRating": 0.0019267582738433653,
       "postPrefix": null,
       "prePrefix": null,
-      "prefixes": null,
+      "prefixes": [
+        {
+          "adjustments": [
+            {
+              "stat": 17,
+              "type": 1,
+              "value": 0.13464030591366083
+            },
+            {
+              "stat": 25,
+              "type": 1,
+              "value": 0.4753365101596791
+            },
+            {
+              "stat": 23,
+              "type": 1,
+              "value": 0.14547767232856745
+            }
+          ],
+          "name": "Frosty"
+        }
+      ],
       "root": {
         "adjustments": [
           {
-            "stat": 2,
+            "stat": 10,
             "type": 1,
-            "value": 0.11933465846012932
+            "value": 0.11848355777856416
           }
         ],
-        "name": "Bat"
+        "name": "Shoes"
       },
       "suffix": null
     }
