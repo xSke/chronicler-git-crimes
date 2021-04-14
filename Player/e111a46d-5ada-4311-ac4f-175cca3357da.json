@@ -60,7 +60,9 @@
   "overpowerment": 0.989889161863212,
   "patheticism": 0.4834119155179758,
   "peanutAllergy": true,
-  "permAttr": [],
+  "permAttr": [
+    "TRIPLE_THREAT"
+  ],
   "pitchingRating": 0.8508428222836429,
   "pressurization": 1.0518339472548597,
   "ritual": "Planning an escape",
