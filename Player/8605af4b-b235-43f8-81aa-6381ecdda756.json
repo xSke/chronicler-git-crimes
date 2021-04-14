@@ -30,6 +30,32 @@
       "forger": null,
       "forgerName": null,
       "health": 1,
+      "hittingRating": 0,
+      "id": "2a4c331a-393b-4465-a1ee-25996eec4098",
+      "name": "Sunglasses",
+      "pitchingRating": 0,
+      "postPrefix": null,
+      "prePrefix": null,
+      "prefixes": null,
+      "root": {
+        "adjustments": [
+          {
+            "stat": 8,
+            "type": 1,
+            "value": 0.10425802164985602
+          }
+        ],
+        "name": "Sunglasses"
+      },
+      "suffix": null
+    },
+    {
+      "baserunningRating": 0,
+      "defenseRating": 0,
+      "durability": 1,
+      "forger": null,
+      "forgerName": null,
+      "health": 1,
       "hittingRating": 0.05331648089456309,
       "id": "882b3e21-d187-45e0-b600-1a199edb2c23",
       "name": "Bat",
