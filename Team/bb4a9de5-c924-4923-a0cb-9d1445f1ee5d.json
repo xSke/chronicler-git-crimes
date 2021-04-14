@@ -50,18 +50,18 @@
   ],
   "rotationSlot": 34,
   "seasAttr": [],
-  "seasonShames": 2,
+  "seasonShames": 3,
   "seasonShamings": 0,
   "secondaryColor": "#ba9c65",
-  "shameRuns": 0,
+  "shameRuns": 0.3,
   "shorthand": "OHWO",
   "slogan": "Oh, Worm?",
   "stadium": "8a84154e-80d7-47d5-8f56-295e9a9653d9",
   "state": {},
   "teamSpirit": 0,
-  "totalShames": 14,
+  "totalShames": 15,
   "totalShamings": 14,
   "tournamentWins": 0,
   "weekAttr": [],
-  "winStreak": 1
+  "winStreak": -1
 }
