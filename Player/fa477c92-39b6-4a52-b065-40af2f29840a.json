@@ -14,7 +14,7 @@
   "divinity": 1.2623446579199535,
   "eDensity": 32.04267658664504,
   "evolution": 0,
-  "fate": 60,
+  "fate": 0,
   "gameAttr": [],
   "groundFriction": 0.6715379042579104,
   "hitStreak": 0,
@@ -51,7 +51,7 @@
     }
   ],
   "laserlikeness": 0.30575816423040914,
-  "leagueTeamId": "bfd38797-8404-4b38-8b82-341da28b1f83",
+  "leagueTeamId": "105bc3ff-1320-4e37-8ef0-8d595cb95dd0",
   "martyrdom": 1.123944366877139,
   "moxie": 1.2034862519683724,
   "musclitude": 1.6368886203997908,
