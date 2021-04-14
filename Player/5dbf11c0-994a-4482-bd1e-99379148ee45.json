@@ -30,8 +30,8 @@
       "forger": null,
       "forgerName": null,
       "health": 1,
-      "hittingRating": 0.03702681916709505,
-      "id": "c930b17a-dabd-4958-bcc3-d64c16365d37",
+      "hittingRating": 0.038016288395818165,
+      "id": "f0f82aef-0c3f-42a5-a6ca-91f1b3f57148",
       "name": "Bat",
       "pitchingRating": 0,
       "postPrefix": null,
@@ -42,7 +42,7 @@
           {
             "stat": 2,
             "type": 1,
-            "value": 0.1449618416913309
+            "value": 0.1490741877928131
           }
         ],
         "name": "Bat"
