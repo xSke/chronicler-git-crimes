@@ -60,7 +60,9 @@
   "overpowerment": 0.6275715128332453,
   "patheticism": 0.5642464252479986,
   "peanutAllergy": false,
-  "permAttr": [],
+  "permAttr": [
+    "COFFEE_RALLY"
+  ],
   "pitchingRating": 0.8525754755974596,
   "pressurization": 0.4360459404099559,
   "ritual": "Reality TV",
