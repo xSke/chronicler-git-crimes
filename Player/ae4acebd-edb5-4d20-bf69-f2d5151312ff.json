@@ -26,13 +26,13 @@
     {
       "baserunningRating": 0,
       "defenseRating": 0,
-      "durability": 1,
+      "durability": 2,
       "forger": null,
       "forgerName": null,
-      "health": 1,
-      "hittingRating": 0.095097840421699,
-      "id": "0215819c-b19d-46c8-bfab-dfa7424044bd",
-      "name": "Bat",
+      "health": 2,
+      "hittingRating": 0.09759922108321462,
+      "id": "955985a3-2ae7-41d3-8c46-85170f8dc7b4",
+      "name": "Bat of Vanity",
       "pitchingRating": 0,
       "postPrefix": null,
       "prePrefix": null,
@@ -42,12 +42,26 @@
           {
             "stat": 2,
             "type": 1,
-            "value": 0.14552420206814548
+            "value": 0.14717606617841145
           }
         ],
         "name": "Bat"
       },
-      "suffix": null
+      "suffix": {
+        "adjustments": [
+          {
+            "stat": 7,
+            "type": 1,
+            "value": -0.09800687113723593
+          },
+          {
+            "stat": 5,
+            "type": 1,
+            "value": 0.06099225704074469
+          }
+        ],
+        "name": "Vanity"
+      }
     }
   ],
   "laserlikeness": 0.7266337870287207,
