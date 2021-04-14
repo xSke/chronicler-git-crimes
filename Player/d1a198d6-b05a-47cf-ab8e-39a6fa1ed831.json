@@ -24,7 +24,7 @@
   "itemAttr": [],
   "items": [],
   "laserlikeness": 0.7548660586373481,
-  "leagueTeamId": "b72f3061-f573-40d7-832a-5ad475bd7909",
+  "leagueTeamId": "a37f9158-7f82-46bc-908c-c9e2dda7c33b",
   "martyrdom": 0.4229576804096884,
   "moxie": 0.9522357085479164,
   "musclitude": 0.6786014188406924,
@@ -35,7 +35,6 @@
   "peanutAllergy": false,
   "permAttr": [
     "EGO1",
-    "COFFEE_RALLY",
     "SCRAMBLED",
     "ATTRACTOR"
   ],
