@@ -62,7 +62,10 @@
   "peanutAllergy": true,
   "permAttr": [
     "ECHO",
-    "ALTERNATE"
+    "ALTERNATE",
+    "SUPERALLERGIC",
+    "FRIEND_OF_CROWS",
+    "EGO2"
   ],
   "pitchingRating": 0.909012796782468,
   "pressurization": 0.9154458307182802,
@@ -74,6 +77,15 @@
   "state": {
     "permModSources": {
       "ALTERNATE": [
+        "ECHO"
+      ],
+      "EGO2": [
+        "ECHO"
+      ],
+      "FRIEND_OF_CROWS": [
+        "ECHO"
+      ],
+      "SUPERALLERGIC": [
         "ECHO"
       ],
       "TRIPLE_THREAT": [
