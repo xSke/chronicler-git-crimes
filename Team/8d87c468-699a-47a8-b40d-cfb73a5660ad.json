@@ -54,18 +54,18 @@
   ],
   "rotationSlot": 41,
   "seasAttr": [],
-  "seasonShames": 2,
+  "seasonShames": 3,
   "seasonShamings": 1,
   "secondaryColor": "#b05c6b",
-  "shameRuns": 0,
+  "shameRuns": 3,
   "shorthand": "BALC",
   "slogan": "Claws Up!",
   "stadium": "cfb57d7c-4118-4b0a-85cc-4e3a51a66cb6",
   "state": {},
   "teamSpirit": 0,
-  "totalShames": 64,
+  "totalShames": 65,
   "totalShamings": 67,
   "tournamentWins": 0,
   "weekAttr": [],
-  "winStreak": 2
+  "winStreak": -1
 }
