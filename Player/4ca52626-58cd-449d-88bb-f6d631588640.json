@@ -62,7 +62,8 @@
   "peanutAllergy": false,
   "permAttr": [
     "FLINCH",
-    "FIRE_EATER"
+    "FIRE_EATER",
+    "COFFEE_RALLY"
   ],
   "pitchingRating": 0.6824004364322906,
   "pressurization": 0.9384923224961412,
