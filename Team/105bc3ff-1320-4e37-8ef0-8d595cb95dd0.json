@@ -21,7 +21,7 @@
   ],
   "card": 7,
   "championships": 0,
-  "eDensity": 1448.6188811846057,
+  "eDensity": 1463.6188811846057,
   "emoji": "0x1F3B8",
   "evolution": 0,
   "fullName": "Seattle Garages",
@@ -72,5 +72,5 @@
   "totalShamings": 61,
   "tournamentWins": 0,
   "weekAttr": [],
-  "winStreak": -2
+  "winStreak": 1
 }
