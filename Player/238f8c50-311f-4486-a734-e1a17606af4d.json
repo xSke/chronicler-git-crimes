@@ -60,7 +60,9 @@
   "overpowerment": 1.020931303267414,
   "patheticism": 0.5830511023212681,
   "peanutAllergy": false,
-  "permAttr": [],
+  "permAttr": [
+    "COFFEE_RALLY"
+  ],
   "pitchingRating": 0.4610206474097075,
   "pressurization": 0.5254544407480342,
   "ritual": "Spitting",
