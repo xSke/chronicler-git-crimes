@@ -24,15 +24,15 @@
   "itemAttr": [],
   "items": [
     {
-      "baserunningRating": 0,
+      "baserunningRating": 0.05808608321819542,
       "defenseRating": 0,
       "durability": 1,
       "forger": null,
       "forgerName": null,
-      "health": 0,
-      "hittingRating": 0.032707174028781094,
-      "id": "76a30551-c7f1-4baa-8507-b3fed8aedf22",
-      "name": "Bat",
+      "health": 1,
+      "hittingRating": 0,
+      "id": "8decfe69-71a8-4a85-a12f-8a48c7432669",
+      "name": "Shoes",
       "pitchingRating": 0,
       "postPrefix": null,
       "prePrefix": null,
@@ -40,12 +40,12 @@
       "root": {
         "adjustments": [
           {
-            "stat": 2,
+            "stat": 10,
             "type": 1,
-            "value": 0.13629121922471524
+            "value": 0.12825575544842654
           }
         ],
-        "name": "Bat"
+        "name": "Shoes"
       },
       "suffix": null
     }
