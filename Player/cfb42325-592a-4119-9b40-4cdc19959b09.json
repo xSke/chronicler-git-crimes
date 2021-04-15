@@ -30,22 +30,22 @@
       "forger": null,
       "forgerName": null,
       "health": 1,
-      "hittingRating": 0.029496260301903443,
-      "id": "c429fb6b-dbe6-4306-a72c-7605593fccbf",
-      "name": "Bat",
-      "pitchingRating": 0,
+      "hittingRating": 0,
+      "id": "efa4f599-c8c3-4ecc-b11e-4113d76e0c93",
+      "name": "Ring",
+      "pitchingRating": 0.06473796558302247,
       "postPrefix": null,
       "prePrefix": null,
       "prefixes": null,
       "root": {
         "adjustments": [
           {
-            "stat": 2,
+            "stat": 19,
             "type": 1,
-            "value": 0.13558453793931113
+            "value": 0.10202140704927536
           }
         ],
-        "name": "Bat"
+        "name": "Ring"
       },
       "suffix": null
     }
