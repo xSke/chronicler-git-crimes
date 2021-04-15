@@ -21,18 +21,20 @@
   "hittingRating": 0.1102735511702028,
   "id": "53e701c7-e3c8-4e18-ba05-9b41b4b64cda",
   "indulgence": 0.42182714855937525,
-  "itemAttr": [],
+  "itemAttr": [
+    "BLASERUNNING"
+  ],
   "items": [
     {
-      "baserunningRating": 0,
+      "baserunningRating": 0.06100931412104316,
       "defenseRating": 0,
-      "durability": 1,
+      "durability": 2,
       "forger": null,
       "forgerName": null,
-      "health": 1,
-      "hittingRating": 0.03814685438306345,
-      "id": "1851a3f3-d6fc-4681-a05c-0afe1c216ef8",
-      "name": "Bat",
+      "health": 2,
+      "hittingRating": 0,
+      "id": "7ee005eb-a7d2-4bc1-a88e-bdbf7bfb15c2",
+      "name": "Shoes of Blaserunning",
       "pitchingRating": 0,
       "postPrefix": null,
       "prePrefix": null,
@@ -40,14 +42,22 @@
       "root": {
         "adjustments": [
           {
-            "stat": 2,
+            "stat": 10,
             "type": 1,
-            "value": 0.10427196154992416
+            "value": 0.13675304033824998
           }
         ],
-        "name": "Bat"
+        "name": "Shoes"
       },
-      "suffix": null
+      "suffix": {
+        "adjustments": [
+          {
+            "mod": "BLASERUNNING",
+            "type": 0
+          }
+        ],
+        "name": "Blaserunning"
+      }
     }
   ],
   "laserlikeness": 0.6059887070793063,
@@ -70,7 +80,13 @@
   "seasAttr": [],
   "shakespearianism": 0.5561804154060386,
   "soul": 8,
-  "state": {},
+  "state": {
+    "itemModSources": {
+      "BLASERUNNING": [
+        "7ee005eb-a7d2-4bc1-a88e-bdbf7bfb15c2"
+      ]
+    }
+  },
   "suppression": 0.001,
   "tenaciousness": 1.0214672278903556,
   "thwackability": 0.0779969405690213,
