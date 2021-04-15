@@ -62,7 +62,8 @@
   "peanutAllergy": false,
   "permAttr": [
     "FLINCH",
-    "SIPHON"
+    "SIPHON",
+    "COFFEE_RALLY"
   ],
   "pitchingRating": 0.32787080213130804,
   "pressurization": 0.8231759598388049,
