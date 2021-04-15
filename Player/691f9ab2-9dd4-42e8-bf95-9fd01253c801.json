@@ -62,7 +62,7 @@
   "peanutAllergy": true,
   "permAttr": [
     "ECHO",
-    "HONEY_ROASTED"
+    "SCATTERED"
   ],
   "pitchingRating": 0.909012796782468,
   "pressurization": 0.9154458307182802,
@@ -73,7 +73,7 @@
   "soul": 7,
   "state": {
     "permModSources": {
-      "HONEY_ROASTED": [
+      "SCATTERED": [
         "ECHO"
       ],
       "TRIPLE_THREAT": [
