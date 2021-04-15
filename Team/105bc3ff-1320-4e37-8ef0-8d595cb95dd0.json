@@ -57,7 +57,8 @@
   ],
   "rotationSlot": 77,
   "seasAttr": [
-    "LIFE_OF_PARTY"
+    "LIFE_OF_PARTY",
+    "PARTY_TIME"
   ],
   "seasonShames": 2,
   "seasonShamings": 0,
