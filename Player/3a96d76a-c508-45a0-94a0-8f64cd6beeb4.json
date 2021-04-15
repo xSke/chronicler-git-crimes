@@ -69,14 +69,14 @@
   "ritual": "Have Hope",
   "ruthlessness": 0.5156501842184871,
   "seasAttr": [
-    "FIRE_EATER"
+    "PERK"
   ],
   "shakespearianism": 0.15826474558530457,
   "soul": 4,
   "state": {
     "permModSources": {},
     "seasModSources": {
-      "FIRE_EATER": [
+      "PERK": [
         "RECEIVER"
       ]
     }
