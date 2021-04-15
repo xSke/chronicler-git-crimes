@@ -60,7 +60,9 @@
   "overpowerment": 0.5282506454221774,
   "patheticism": 0.42670511594871985,
   "peanutAllergy": false,
-  "permAttr": [],
+  "permAttr": [
+    "COFFEE_RALLY"
+  ],
   "pitchingRating": 0.33818019050393605,
   "pressurization": 0.6596859090928697,
   "ritual": "Getting taped up",
