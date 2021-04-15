@@ -21,28 +21,40 @@
   "hittingRating": 0.5903029362206407,
   "id": "cf8e152e-2d27-4dcc-ba2b-68127de4e6a4",
   "indulgence": 0.8897828511241573,
-  "itemAttr": [],
+  "itemAttr": [
+    "DOUBLE_PAYOUTS"
+  ],
   "items": [
     {
       "baserunningRating": 0,
       "defenseRating": 0,
-      "durability": 1,
+      "durability": 2,
       "forger": null,
       "forgerName": null,
-      "health": 1,
-      "hittingRating": 0.030434852279491494,
-      "id": "28a5b2a3-ec70-44ad-afd9-29680cc6e6f3",
-      "name": "Bat",
+      "health": 2,
+      "hittingRating": 0.029004185895669332,
+      "id": "d1fb3626-6e48-4efe-bfe9-0b48968ade25",
+      "name": "Golden Bat",
       "pitchingRating": 0,
       "postPrefix": null,
       "prePrefix": null,
-      "prefixes": null,
+      "prefixes": [
+        {
+          "adjustments": [
+            {
+              "mod": "DOUBLE_PAYOUTS",
+              "type": 0
+            }
+          ],
+          "name": "Golden"
+        }
+      ],
       "root": {
         "adjustments": [
           {
             "stat": 2,
             "type": 1,
-            "value": 0.1125730844214968
+            "value": 0.10704444736221812
           }
         ],
         "name": "Bat"
@@ -71,6 +83,11 @@
   "shakespearianism": 0.3578218176028243,
   "soul": 7,
   "state": {
+    "itemModSources": {
+      "DOUBLE_PAYOUTS": [
+        "d1fb3626-6e48-4efe-bfe9-0b48968ade25"
+      ]
+    },
     "unscatteredName": "Hendricks Richardson"
   },
   "suppression": 0.4212366013843887,
