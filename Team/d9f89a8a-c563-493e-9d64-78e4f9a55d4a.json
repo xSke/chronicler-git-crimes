@@ -16,11 +16,13 @@
   ],
   "card": -1,
   "championships": 4,
-  "eDensity": 1915.9365320970317,
+  "eDensity": 1935.48366479076,
   "emoji": "0x1F531",
   "evolution": 1,
   "fullName": "Atlantis Georgias",
-  "gameAttr": [],
+  "gameAttr": [
+    "BASE_INSTINCTS"
+  ],
   "id": "d9f89a8a-c563-493e-9d64-78e4f9a55d4a",
   "level": 4,
   "lineup": [
@@ -47,7 +49,7 @@
     "948ce8a8-19cd-4f81-b84f-88cce02c47bc",
     "cbd19e6f-3d08-4734-b23f-585330028665"
   ],
-  "rotationSlot": 74,
+  "rotationSlot": 75,
   "seasAttr": [],
   "seasonShames": 2,
   "seasonShamings": 1,
@@ -56,7 +58,13 @@
   "shorthand": "ATL",
   "slogan": "You Sink, We Swim",
   "stadium": "37c2743f-1a15-4e3f-bdb1-a6461df93434",
-  "state": {},
+  "state": {
+    "gameModSources": {
+      "BASE_INSTINCTS": [
+        "PSYCHOACOUSTICS"
+      ]
+    }
+  },
   "teamSpirit": 0,
   "totalShames": 16,
   "totalShamings": 13,
