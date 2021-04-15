@@ -60,7 +60,9 @@
   "overpowerment": 0.8812893801780648,
   "patheticism": 0.13873301856011366,
   "peanutAllergy": false,
-  "permAttr": [],
+  "permAttr": [
+    "TRIPLE_THREAT"
+  ],
   "pitchingRating": 0.43027194541744535,
   "pressurization": 0.8179830670142023,
   "ritual": "Hyperbolic time chamber",
