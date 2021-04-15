@@ -42,9 +42,7 @@
   "location": "Houston",
   "mainColor": "#67556b",
   "nickname": "Spies",
-  "permAttr": [
-    "OVERPERFORMING"
-  ],
+  "permAttr": [],
   "rotation": [
     "e111a46d-5ada-4311-ac4f-175cca3357da",
     "b7267aba-6114-4d53-a519-bf6c99f4e3a9",
@@ -56,24 +54,20 @@
   "seasAttr": [
     "MIDDLING"
   ],
-  "seasonShames": 3,
+  "seasonShames": 4,
   "seasonShamings": 2,
   "secondaryColor": "#9e82a4",
-  "shameRuns": 0,
+  "shameRuns": 1,
   "shorthand": "HOU",
   "slogan": "Bang BANG",
   "stadium": "43fbdf41-336f-46a8-9445-eb8a6e05d811",
   "state": {
-    "permModSources": {
-      "OVERPERFORMING": [
-        "MIDDLING"
-      ]
-    }
+    "permModSources": {}
   },
   "teamSpirit": 0,
-  "totalShames": 64,
+  "totalShames": 65,
   "totalShamings": 64,
   "tournamentWins": 0,
   "weekAttr": [],
-  "winStreak": -1
+  "winStreak": -2
 }
