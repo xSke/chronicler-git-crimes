@@ -14,7 +14,9 @@
   "mods": [
     "PSYCHOACOUSTICS",
     "SOUNDSYSTEM",
-    "SECRET_BASE"
+    "SECRET_BASE",
+    "SWEETENER",
+    "SALMON_CANNONS"
   ],
   "mysticism": 0.5907127643182942,
   "name": "The Atlantean Dome",
@@ -40,9 +42,7 @@
     "echo_chamber_mod",
     "inconvenience_minus",
     "soundsystem_mod",
-    "peanut_mister_mod"
-  ],
-  "renoHand": [
+    "peanut_mister_mod",
     "sweetener_mod",
     "salmon_cannons_mod",
     "sun_two_plus",
@@ -53,10 +53,13 @@
     "ominousness_minus",
     "mysticism_plus"
   ],
+  "renoHand": [],
   "renoLog": {
     "psychoacoustics_mod": 1,
+    "salmon_cannons_mod": 1,
     "secret_base_mod": 1,
-    "soundsystem_mod": 1
+    "soundsystem_mod": 1,
+    "sweetener_mod": 1
   },
   "secondaryColor": "#ffaf96",
   "state": {},

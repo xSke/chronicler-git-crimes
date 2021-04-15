@@ -1,7 +1,7 @@
 {
   "birds": 0,
   "elongation": 0.5625529469691449,
-  "filthiness": 0.23320422129461593,
+  "filthiness": 0,
   "fortification": 0.49271620736928706,
   "forwardness": 0.4913963096635772,
   "grandiosity": 0.7141843245347669,
@@ -15,7 +15,8 @@
     "BIG_BUCKET",
     "PEANUT_MISTER",
     "SECRET_BASE",
-    "FLOOD_PUMPS"
+    "FLOOD_PUMPS",
+    "SALMON_CANNONS"
   ],
   "mysticism": 0.4087364786522717,
   "name": "An Undisclosed Location",
@@ -41,9 +42,7 @@
     "flood_pumps_mod",
     "coffee_one_plus",
     "viscosity_minus",
-    "ominousness_plus"
-  ],
-  "renoHand": [
+    "ominousness_plus",
     "sweetener_mod",
     "salmon_cannons_mod",
     "forwardness_plus",
@@ -54,10 +53,12 @@
     "fortifications_plus",
     "elongation_plus"
   ],
+  "renoHand": [],
   "renoLog": {
     "big_bucket_mod": 1,
     "flood_pumps_mod": 1,
     "peanut_mister_mod": 1,
+    "salmon_cannons_mod": 1,
     "secret_base_mod": 1
   },
   "secondaryColor": "#a589ab",

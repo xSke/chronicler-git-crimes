@@ -14,7 +14,9 @@
   "mods": [
     "BIG_BUCKET",
     "SECRET_BASE",
-    "ECHO_CHAMBER"
+    "ECHO_CHAMBER",
+    "SALMON_CANNONS",
+    "SWEETENER"
   ],
   "mysticism": 0.2343003613218557,
   "name": "The Fire Safety Awareness Center",
@@ -40,9 +42,7 @@
     "obtuseness_minus",
     "flooding_plus",
     "forwardness_minus",
-    "ominousness_minus"
-  ],
-  "renoHand": [
+    "ominousness_minus",
     "salmon_cannons_mod",
     "sweetener_mod",
     "ominousness_minus",
@@ -53,10 +53,13 @@
     "mysticism_plus",
     "grandiosity_minus"
   ],
+  "renoHand": [],
   "renoLog": {
     "big_bucket_mod": 1,
     "echo_chamber_mod": 1,
-    "secret_base_mod": 1
+    "salmon_cannons_mod": 1,
+    "secret_base_mod": 1,
+    "sweetener_mod": 1
   },
   "secondaryColor": "#d17588",
   "state": {},

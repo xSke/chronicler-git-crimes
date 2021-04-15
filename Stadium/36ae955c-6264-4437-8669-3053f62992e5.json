@@ -1,7 +1,7 @@
 {
   "birds": 0,
   "elongation": 0.5713775790775273,
-  "filthiness": 0.21127431032391736,
+  "filthiness": 0,
   "fortification": 0.5315151559526681,
   "forwardness": 0.5325150816744646,
   "grandiosity": 0.734028825675743,
@@ -14,7 +14,8 @@
   "mods": [
     "PSYCHOACOUSTICS",
     "SECRET_BASE",
-    "GRIND_RAIL"
+    "GRIND_RAIL",
+    "SWEETENER"
   ],
   "mysticism": 0.48330562996753273,
   "name": "Choux Stadium",
@@ -40,9 +41,7 @@
     "viscosity_minus",
     "flood_pumps_mod",
     "grind_rail_mod",
-    "event_horizon_mod"
-  ],
-  "renoHand": [
+    "event_horizon_mod",
     "sweetener_mod",
     "salmon_cannons_mod",
     "obtuseness_plus",
@@ -53,10 +52,12 @@
     "forwardness_plus",
     "obtuseness_minus"
   ],
+  "renoHand": [],
   "renoLog": {
     "grind_rail_mod": 1,
     "psychoacoustics_mod": 1,
-    "secret_base_mod": 1
+    "secret_base_mod": 1,
+    "sweetener_mod": 1
   },
   "secondaryColor": "#8a6e00",
   "state": {},

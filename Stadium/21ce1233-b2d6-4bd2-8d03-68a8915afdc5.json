@@ -1,6 +1,6 @@
 {
   "birds": 0,
-  "elongation": 0.4818877487202903,
+  "elongation": 0.4148049861299987,
   "filthiness": 0.19357797845544417,
   "fortification": 0.3007557131332617,
   "forwardness": 0.40592456021305384,
@@ -40,9 +40,7 @@
     "reverb_plus",
     "flood_pumps_mod",
     "viscosity_minus",
-    "soundsystem_mod"
-  ],
-  "renoHand": [
+    "soundsystem_mod",
     "salmon_cannons_mod",
     "sweetener_mod",
     "elongation_minus",
@@ -53,6 +51,7 @@
     "mysticism_minus",
     "coffee_one_plus"
   ],
+  "renoHand": [],
   "renoLog": {
     "big_bucket_mod": 1,
     "echo_chamber_mod": 1,
@@ -64,6 +63,7 @@
   "tertiaryColor": "#dbfaec",
   "viscosity": 0.4697632871152416,
   "weather": {
-    "13": 1
+    "13": 1,
+    "7": 1
   }
 }

@@ -15,7 +15,8 @@
     "BIG_BUCKET",
     "PSYCHOACOUSTICS",
     "SOUNDSYSTEM",
-    "SECRET_BASE"
+    "SECRET_BASE",
+    "SWEETENER"
   ],
   "mysticism": 0.7546555506397025,
   "name": "Miami International Arena",
@@ -41,9 +42,7 @@
     "soundsystem_mod",
     "viscosity_minus",
     "coffee_two_plus",
-    "flood_pumps_mod"
-  ],
-  "renoHand": [
+    "flood_pumps_mod",
     "salmon_cannons_mod",
     "sweetener_mod",
     "peanut_mister_mod",
@@ -54,16 +53,20 @@
     "inconvenience_minus",
     "fortifications_minus"
   ],
+  "renoHand": [],
   "renoLog": {
     "big_bucket_mod": 1,
     "psychoacoustics_mod": 1,
     "secret_base_mod": 1,
-    "soundsystem_mod": 1
+    "soundsystem_mod": 1,
+    "sweetener_mod": 1
   },
   "secondaryColor": "#634675",
   "state": {},
   "teamId": "b63be8c2-576a-4d6e-8daf-814f8bcea96f",
   "tertiaryColor": "#0e0812",
   "viscosity": 0.4440929302184828,
-  "weather": {}
+  "weather": {
+    "15": 1
+  }
 }

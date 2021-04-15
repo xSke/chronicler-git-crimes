@@ -1,7 +1,7 @@
 {
   "birds": 0,
   "elongation": 0.4429810834155287,
-  "filthiness": 0.2248472631336611,
+  "filthiness": 0,
   "fortification": 0.6530129161231448,
   "forwardness": 0.5367446740414406,
   "grandiosity": 0.5864887351526414,
@@ -15,7 +15,8 @@
     "PEANUT_MISTER",
     "PSYCHOACOUSTICS",
     "SECRET_BASE",
-    "FLOOD_PUMPS"
+    "FLOOD_PUMPS",
+    "SALMON_CANNONS"
   ],
   "mysticism": 0.5041285467234323,
   "name": "Chesapeake Racetrack and Ballpark",
@@ -50,9 +51,7 @@
     "fortifications_plus",
     "mysticism_minus",
     "peanuts_plus",
-    "inconvenience_plus"
-  ],
-  "renoHand": [
+    "inconvenience_plus",
     "salmon_cannons_mod",
     "sweetener_mod",
     "viscosity_minus",
@@ -63,10 +62,12 @@
     "obtuseness_plus",
     "filthiness_cleanup"
   ],
+  "renoHand": [],
   "renoLog": {
     "big_bucket_mod": 1,
     "flood_pumps_mod": 1,
     "peanut_mister_mod": 1,
+    "salmon_cannons_mod": 1,
     "secret_base_mod": 1
   },
   "secondaryColor": "#ab8287",

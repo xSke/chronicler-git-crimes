@@ -1,7 +1,7 @@
 {
   "birds": 0,
   "elongation": 0.5471392506253375,
-  "filthiness": 0.2931586058157366,
+  "filthiness": 0,
   "fortification": 0.42410791017212784,
   "forwardness": 0.5984538834873534,
   "grandiosity": 0.730681997444272,
@@ -12,12 +12,13 @@
   "mainColor": "#f5feff",
   "model": 8,
   "mods": [
-    "BIG_BUCKET"
+    "BIG_BUCKET",
+    "SALMON_CANNONS"
   ],
   "mysticism": 0.5802136293864534,
   "name": "Gleek Arena",
   "nickname": "The Gleek",
-  "obtuseness": 0.7311452467775168,
+  "obtuseness": 0.7829727636539893,
   "ominousness": 0.4391791221898321,
   "renoCost": -1,
   "renoDiscard": [
@@ -38,9 +39,7 @@
     "flood_pumps_mod",
     "mysticism_minus",
     "grandiosity_plus",
-    "obtuseness_minus"
-  ],
-  "renoHand": [
+    "obtuseness_minus",
     "salmon_cannons_mod",
     "sweetener_mod",
     "filthiness_cleanup",
@@ -51,8 +50,10 @@
     "peanut_mister_mod",
     "ominousness_minus"
   ],
+  "renoHand": [],
   "renoLog": {
-    "big_bucket_mod": 1
+    "big_bucket_mod": 1,
+    "salmon_cannons_mod": 1
   },
   "secondaryColor": "#5fa7b0",
   "state": {},

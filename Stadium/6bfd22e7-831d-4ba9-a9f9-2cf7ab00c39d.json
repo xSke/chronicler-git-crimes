@@ -1,7 +1,7 @@
 {
   "birds": 0,
   "elongation": 0.5551056106844273,
-  "filthiness": 0.27401202013294973,
+  "filthiness": 0,
   "fortification": 0.5989219193636586,
   "forwardness": 0.5661988019739751,
   "grandiosity": 0.24668392594793237,
@@ -12,7 +12,8 @@
   "mainColor": "#8c8d8f",
   "model": 5,
   "mods": [
-    "BIG_BUCKET"
+    "BIG_BUCKET",
+    "SWEETENER"
   ],
   "mysticism": 0.4819230853857312,
   "name": "George Fourman Stadium",
@@ -38,9 +39,7 @@
     "big_bucket_mod",
     "soundsystem_mod",
     "grind_rail_mod",
-    "mysticism_plus"
-  ],
-  "renoHand": [
+    "mysticism_plus",
     "salmon_cannons_mod",
     "sweetener_mod",
     "blooddrain_plus",
@@ -51,8 +50,10 @@
     "filthiness_cleanup",
     "fire_insurance_mod"
   ],
+  "renoHand": [],
   "renoLog": {
-    "big_bucket_mod": 1
+    "big_bucket_mod": 1,
+    "sweetener_mod": 1
   },
   "secondaryColor": "#434345",
   "state": {},

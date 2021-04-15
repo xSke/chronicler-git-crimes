@@ -1,7 +1,7 @@
 {
   "birds": 0,
   "elongation": 0.5757445655057053,
-  "filthiness": 0.21732151871220065,
+  "filthiness": 0,
   "fortification": 0.24014406844576905,
   "forwardness": 0.5180715700940073,
   "grandiosity": 0.6812805772494374,
@@ -41,9 +41,7 @@
     "grandiosity_plus",
     "solar_panels_mod",
     "coffee_two_plus",
-    "grind_rail_mod"
-  ],
-  "renoHand": [
+    "grind_rail_mod",
     "salmon_cannons_mod",
     "sweetener_mod",
     "feedback_plus",
@@ -54,6 +52,7 @@
     "forwardness_minus",
     "event_horizon_mod"
   ],
+  "renoHand": [],
   "renoLog": {
     "big_bucket_mod": 1,
     "grind_rail_mod": 1,
@@ -65,5 +64,7 @@
   "teamId": "747b8e4a-7e50-4638-a973-ea7950a3e739",
   "tertiaryColor": "#e8b5b5",
   "viscosity": 0.5441491334505063,
-  "weather": {}
+  "weather": {
+    "9": 1
+  }
 }

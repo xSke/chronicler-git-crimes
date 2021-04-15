@@ -7,7 +7,7 @@
   "grandiosity": 0.7557407515388677,
   "hype": 0,
   "id": "2a1a52b3-9759-44aa-ba49-b1437396d895",
-  "inconvenience": 0.46633509856455546,
+  "inconvenience": 0.3341721389208974,
   "luxuriousness": 0,
   "mainColor": "#bf0043",
   "model": 8,
@@ -15,7 +15,8 @@
     "FIRE_INSURANCE",
     "SOLAR_PANELS",
     "SECRET_BASE",
-    "GRIND_RAIL"
+    "GRIND_RAIL",
+    "SWEETENER"
   ],
   "mysticism": 0.4493541480949242,
   "name": "Yellowstone National (Ball)Park",
@@ -41,9 +42,7 @@
     "big_bucket_mod",
     "mysticism_minus",
     "blooddrain_plus",
-    "elongation_minus"
-  ],
-  "renoHand": [
+    "elongation_minus",
     "salmon_cannons_mod",
     "sweetener_mod",
     "inconvenience_minus",
@@ -54,11 +53,13 @@
     "sun_two_plus",
     "black_hole_plus"
   ],
+  "renoHand": [],
   "renoLog": {
     "fire_insurance_mod": 1,
     "grind_rail_mod": 1,
     "secret_base_mod": 1,
-    "solar_panels_mod": 1
+    "solar_panels_mod": 1,
+    "sweetener_mod": 1
   },
   "secondaryColor": "#f57aa5",
   "state": {
@@ -68,6 +69,7 @@
   "tertiaryColor": "#ffdbe7",
   "viscosity": 0.4830007638090093,
   "weather": {
+    "1": 1,
     "11": 1
   }
 }

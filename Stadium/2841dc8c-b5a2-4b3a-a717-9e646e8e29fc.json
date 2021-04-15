@@ -14,7 +14,8 @@
   "mods": [
     "PEANUT_MISTER",
     "BIG_BUCKET",
-    "FLOOD_PUMPS"
+    "FLOOD_PUMPS",
+    "SWEETENER"
   ],
   "mysticism": 0.3796073191220504,
   "name": "Basin of Mexico Park",
@@ -40,9 +41,7 @@
     "peanuts_plus",
     "flood_pumps_mod",
     "reverb_plus",
-    "ominousness_plus"
-  ],
-  "renoHand": [
+    "ominousness_plus",
     "sweetener_mod",
     "salmon_cannons_mod",
     "filthiness_cleanup",
@@ -53,10 +52,12 @@
     "reverb_plus",
     "elongation_minus"
   ],
+  "renoHand": [],
   "renoLog": {
     "big_bucket_mod": 1,
     "flood_pumps_mod": 1,
-    "peanut_mister_mod": 1
+    "peanut_mister_mod": 1,
+    "sweetener_mod": 1
   },
   "secondaryColor": "#ffa96b",
   "state": {},
@@ -64,6 +65,7 @@
   "tertiaryColor": "#ffd8c7",
   "viscosity": 0.4813975790750718,
   "weather": {
-    "1": 1
+    "1": 1,
+    "11": 1
   }
 }

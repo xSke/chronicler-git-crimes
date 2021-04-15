@@ -16,7 +16,8 @@
     "PSYCHOACOUSTICS",
     "GRIND_RAIL",
     "SECRET_BASE",
-    "ECHO_CHAMBER"
+    "ECHO_CHAMBER",
+    "SALMON_CANNONS"
   ],
   "mysticism": 0.506593554498159,
   "name": "Lower Moab Scenic Overlook Field",
@@ -42,9 +43,7 @@
     "obtuseness_minus",
     "soundsystem_mod",
     "fire_insurance_mod",
-    "coffee_threes_plus"
-  ],
-  "renoHand": [
+    "coffee_threes_plus",
     "salmon_cannons_mod",
     "sweetener_mod",
     "inconvenience_plus",
@@ -55,10 +54,12 @@
     "obtuseness_minus",
     "viscosity_plus"
   ],
+  "renoHand": [],
   "renoLog": {
     "echo_chamber_mod": 1,
     "grind_rail_mod": 1,
     "psychoacoustics_mod": 1,
+    "salmon_cannons_mod": 1,
     "secret_base_mod": 1,
     "solar_panels_mod": 1
   },
@@ -69,5 +70,7 @@
   "teamId": "f02aeae2-5e6a-4098-9842-02d2273f25c7",
   "tertiaryColor": "#474400",
   "viscosity": 0.5066661966388385,
-  "weather": {}
+  "weather": {
+    "1": 1
+  }
 }

@@ -13,7 +13,8 @@
   "model": 1,
   "mods": [
     "PSYCHOACOUSTICS",
-    "GRIND_RAIL"
+    "GRIND_RAIL",
+    "SWEETENER"
   ],
   "mysticism": 0.5394549078823694,
   "name": "New York, New York Arena, Arena",
@@ -39,9 +40,7 @@
     "ominousness_plus",
     "soundsystem_mod",
     "flooding_plus",
-    "inconvenience_minus"
-  ],
-  "renoHand": [
+    "inconvenience_minus",
     "sweetener_mod",
     "salmon_cannons_mod",
     "blooddrain_plus",
@@ -52,15 +51,19 @@
     "flooding_plus",
     "reverb_plus"
   ],
+  "renoHand": [],
   "renoLog": {
     "grind_rail_mod": 1,
     "peanut_mister_mod": 1,
-    "psychoacoustics_mod": 1
+    "psychoacoustics_mod": 1,
+    "sweetener_mod": 1
   },
   "secondaryColor": "#9e3d47",
   "state": {},
   "teamId": "36569151-a2fb-43c1-9df7-2df512424c82",
   "tertiaryColor": "#c2656e",
   "viscosity": 0.2357024279575276,
-  "weather": {}
+  "weather": {
+    "17": 1
+  }
 }

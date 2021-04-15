@@ -7,14 +7,15 @@
   "grandiosity": 0.7946209333683352,
   "hype": 0,
   "id": "7f09624b-b3cf-4493-b768-adf090bebf21",
-  "inconvenience": 0.414432420932338,
+  "inconvenience": 0.2869605221400935,
   "luxuriousness": 0,
   "mainColor": "#275b62",
   "model": 8,
   "mods": [
     "PSYCHOACOUSTICS",
     "PEANUT_MISTER",
-    "GRIND_RAIL"
+    "GRIND_RAIL",
+    "SWEETENER"
   ],
   "mysticism": 0.5031709071895855,
   "name": "Tokyo Fitness Center",
@@ -40,9 +41,7 @@
     "echo_chamber_mod",
     "flood_pumps_mod",
     "soundsystem_mod",
-    "solar_eclipse_plus"
-  ],
-  "renoHand": [
+    "solar_eclipse_plus",
     "sweetener_mod",
     "salmon_cannons_mod",
     "fire_insurance_mod",
@@ -53,10 +52,12 @@
     "solar_panels_mod",
     "ominousness_minus"
   ],
+  "renoHand": [],
   "renoLog": {
     "grind_rail_mod": 1,
     "peanut_mister_mod": 1,
-    "psychoacoustics_mod": 1
+    "psychoacoustics_mod": 1,
+    "sweetener_mod": 1
   },
   "secondaryColor": "#e8c1dc",
   "state": {},

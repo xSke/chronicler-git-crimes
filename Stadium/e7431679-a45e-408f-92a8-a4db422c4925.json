@@ -14,7 +14,9 @@
   "mods": [
     "PEANUT_MISTER",
     "GRIND_RAIL",
-    "FLOOD_PUMPS"
+    "FLOOD_PUMPS",
+    "BIRDHOUSES",
+    "SALMON_CANNONS"
   ],
   "mysticism": 0.7370254366197266,
   "name": "Hawai'i Viberight Field",
@@ -40,9 +42,7 @@
     "sun_two_plus",
     "elongation_plus",
     "soundsystem_mod",
-    "forwardness_minus"
-  ],
-  "renoHand": [
+    "forwardness_minus",
     "salmon_cannons_mod",
     "sweetener_mod",
     "grandiosity_minus",
@@ -53,10 +53,13 @@
     "soundsystem_mod",
     "viscosity_plus"
   ],
+  "renoHand": [],
   "renoLog": {
+    "birdhouses_mod": 1,
     "flood_pumps_mod": 1,
     "grind_rail_mod": 1,
-    "peanut_mister_mod": 1
+    "peanut_mister_mod": 1,
+    "salmon_cannons_mod": 1
   },
   "secondaryColor": "#0b7517",
   "state": {},

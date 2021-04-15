@@ -15,7 +15,8 @@
     "PEANUT_MISTER",
     "PSYCHOACOUSTICS",
     "GRIND_RAIL",
-    "SOUNDSYSTEM"
+    "SOUNDSYSTEM",
+    "SWEETENER"
   ],
   "mysticism": 0.6398231967453444,
   "name": "Breckenridge Community Field",
@@ -41,9 +42,7 @@
     "black_hole_plus",
     "big_bucket_mod",
     "grind_rail_mod",
-    "solar_panels_mod"
-  ],
-  "renoHand": [
+    "solar_panels_mod",
     "sweetener_mod",
     "salmon_cannons_mod",
     "viscosity_minus",
@@ -54,16 +53,20 @@
     "obtuseness_plus",
     "elongation_minus"
   ],
+  "renoHand": [],
   "renoLog": {
     "grind_rail_mod": 1,
     "peanut_mister_mod": 1,
     "psychoacoustics_mod": 1,
-    "soundsystem_mod": 1
+    "soundsystem_mod": 1,
+    "sweetener_mod": 1
   },
   "secondaryColor": "#1c436b",
   "state": {},
   "teamId": "a37f9158-7f82-46bc-908c-c9e2dda7c33b",
   "tertiaryColor": "#111a22",
   "viscosity": 0.5442719081863592,
-  "weather": {}
+  "weather": {
+    "15": 1
+  }
 }

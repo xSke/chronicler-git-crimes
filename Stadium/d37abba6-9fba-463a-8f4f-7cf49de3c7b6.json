@@ -4,7 +4,7 @@
   "filthiness": 0.2388414380934276,
   "fortification": 0.5342454937183025,
   "forwardness": 0.4856451813964252,
-  "grandiosity": 0.4899290560974432,
+  "grandiosity": 0.3589449382287126,
   "hype": 0,
   "id": "d37abba6-9fba-463a-8f4f-7cf49de3c7b6",
   "inconvenience": 0.5829381489066005,
@@ -14,7 +14,8 @@
   "mods": [
     "PSYCHOACOUSTICS",
     "SOLAR_PANELS",
-    "BIG_BUCKET"
+    "BIG_BUCKET",
+    "SALMON_CANNONS"
   ],
   "mysticism": 0.5754439841690367,
   "name": "Boston Garden",
@@ -40,9 +41,7 @@
     "soundsystem_mod",
     "grandiosity_minus",
     "event_horizon_mod",
-    "coffee_two_plus"
-  ],
-  "renoHand": [
+    "coffee_two_plus",
     "salmon_cannons_mod",
     "sweetener_mod",
     "grandiosity_minus",
@@ -53,9 +52,11 @@
     "coffee_two_plus",
     "feedback_plus"
   ],
+  "renoHand": [],
   "renoLog": {
     "big_bucket_mod": 1,
     "psychoacoustics_mod": 1,
+    "salmon_cannons_mod": 1,
     "solar_panels_mod": 1
   },
   "secondaryColor": "#9f51ad",

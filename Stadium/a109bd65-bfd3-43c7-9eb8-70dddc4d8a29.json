@@ -14,7 +14,8 @@
   "mods": [
     "BIG_BUCKET",
     "SECRET_BASE",
-    "GRIND_RAIL"
+    "GRIND_RAIL",
+    "SWEETENER"
   ],
   "mysticism": 0.6563113327867125,
   "name": "Tastycake Stadium",
@@ -40,9 +41,7 @@
     "grind_rail_mod",
     "peanuts_plus",
     "feedback_plus",
-    "echo_chamber_mod"
-  ],
-  "renoHand": [
+    "echo_chamber_mod",
     "salmon_cannons_mod",
     "sweetener_mod",
     "forwardness_plus",
@@ -53,15 +52,19 @@
     "birds_plus",
     "coffee_threes_plus"
   ],
+  "renoHand": [],
   "renoLog": {
     "big_bucket_mod": 1,
     "grind_rail_mod": 1,
-    "secret_base_mod": 1
+    "secret_base_mod": 1,
+    "sweetener_mod": 1
   },
   "secondaryColor": "#0a5c50",
   "state": {},
   "teamId": "23e4cbc1-e9cd-47fa-a35b-bfa06f726cb7",
   "tertiaryColor": "#0b231d",
   "viscosity": 0.44575448489553093,
-  "weather": {}
+  "weather": {
+    "11": 1
+  }
 }

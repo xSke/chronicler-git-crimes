@@ -14,7 +14,9 @@
   "mods": [
     "PSYCHOACOUSTICS",
     "SECRET_BASE",
-    "ECHO_CHAMBER"
+    "ECHO_CHAMBER",
+    "SWEETENER",
+    "SALMON_CANNONS"
   ],
   "mysticism": 0.4820887614858592,
   "name": "Core Pillar Center",
@@ -40,9 +42,7 @@
     "soundsystem_mod",
     "event_horizon_mod",
     "grandiosity_plus",
-    "flood_pumps_mod"
-  ],
-  "renoHand": [
+    "flood_pumps_mod",
     "salmon_cannons_mod",
     "sweetener_mod",
     "flooding_plus",
@@ -53,10 +53,13 @@
     "solar_panels_mod",
     "forwardness_plus"
   ],
+  "renoHand": [],
   "renoLog": {
     "echo_chamber_mod": 1,
     "psychoacoustics_mod": 1,
-    "secret_base_mod": 1
+    "salmon_cannons_mod": 1,
+    "secret_base_mod": 1,
+    "sweetener_mod": 1
   },
   "secondaryColor": "#ffaf96",
   "state": {},
