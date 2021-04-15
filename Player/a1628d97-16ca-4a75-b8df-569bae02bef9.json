@@ -18,7 +18,7 @@
   "gameAttr": [],
   "groundFriction": 0.001,
   "hitStreak": 0,
-  "hittingRating": 0.0018197008586099835,
+  "hittingRating": 0.0016218100973589304,
   "id": "a1628d97-16ca-4a75-b8df-569bae02bef9",
   "indulgence": 0.001,
   "itemAttr": [],
@@ -58,7 +58,7 @@
   "name": "Chorby Soul",
   "omniscience": 0.001,
   "overpowerment": 0.001,
-  "patheticism": 0.99,
+  "patheticism": 0.999,
   "peanutAllergy": false,
   "permAttr": [
     "RETURNED",
