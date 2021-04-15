@@ -24,28 +24,49 @@
   "itemAttr": [],
   "items": [
     {
-      "baserunningRating": 0,
-      "defenseRating": 0.02122642245027806,
-      "durability": 1,
+      "baserunningRating": 0.046448917756483854,
+      "defenseRating": 0,
+      "durability": 2,
       "forger": null,
       "forgerName": null,
-      "health": 1,
+      "health": 2,
       "hittingRating": 0,
-      "id": "6cf6c2af-632e-43f1-9c72-69407be728ef",
-      "name": "Glove",
-      "pitchingRating": 0,
+      "id": "7d38b79e-6557-46ca-adac-c48c13e54d7d",
+      "name": "Cryogenic Shoes",
+      "pitchingRating": 0.007405927621678299,
       "postPrefix": null,
       "prePrefix": null,
-      "prefixes": null,
+      "prefixes": [
+        {
+          "adjustments": [
+            {
+              "stat": 15,
+              "type": 1,
+              "value": 0.13974660977864506
+            },
+            {
+              "stat": 17,
+              "type": 1,
+              "value": 0.07930545017986922
+            },
+            {
+              "stat": 18,
+              "type": 1,
+              "value": 0.08650506474012234
+            }
+          ],
+          "name": "Cryogenic"
+        }
+      ],
       "root": {
         "adjustments": [
           {
-            "stat": 21,
+            "stat": 10,
             "type": 1,
-            "value": 0.11066190203803128
+            "value": 0.11631135622312833
           }
         ],
-        "name": "Glove"
+        "name": "Shoes"
       },
       "suffix": null
     }
