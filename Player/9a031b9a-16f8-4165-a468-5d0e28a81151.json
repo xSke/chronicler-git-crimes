@@ -60,7 +60,9 @@
   "overpowerment": 0.33398751713485364,
   "patheticism": 0.11441671612830612,
   "peanutAllergy": false,
-  "permAttr": [],
+  "permAttr": [
+    "REDACTED"
+  ],
   "pitchingRating": 0.15974858583943774,
   "pressurization": 0.8744307873457238,
   "ritual": "Eating a bird",
@@ -77,7 +79,5 @@
   "tragicness": 0.0831516721403611,
   "unthwackability": 0.5573228483799053,
   "watchfulness": 0.08773433977897788,
-  "weekAttr": [
-    "COFFEE_PERIL"
-  ]
+  "weekAttr": []
 }
