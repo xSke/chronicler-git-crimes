@@ -21,52 +21,43 @@
   "hittingRating": 0.5466791479657493,
   "id": "4f69e8c2-b2a1-4e98-996a-ccf35ac844c5",
   "indulgence": 0.14287748340550455,
-  "itemAttr": [],
+  "itemAttr": [
+    "PARASITE"
+  ],
   "items": [
     {
-      "baserunningRating": 0.017903639091810586,
+      "baserunningRating": 0,
       "defenseRating": 0,
       "durability": 2,
       "forger": null,
       "forgerName": null,
       "health": 2,
-      "hittingRating": 0.027785262565978575,
-      "id": "99f368ea-5c8f-4483-8619-a415a3fe364e",
-      "name": "Cool Bat",
-      "pitchingRating": 0.001717659291104512,
+      "hittingRating": 0,
+      "id": "9ecde26c-6f70-427c-bb86-cfc08b9fabae",
+      "name": "Parasitic Ring",
+      "pitchingRating": 0.016131669569926343,
       "postPrefix": null,
       "prePrefix": null,
       "prefixes": [
         {
           "adjustments": [
             {
-              "stat": 3,
-              "type": 1,
-              "value": 0.07683698756653985
-            },
-            {
-              "stat": 17,
-              "type": 1,
-              "value": 0.08183530752971399
-            },
-            {
-              "stat": 10,
-              "type": 1,
-              "value": 0.05812776093423784
+              "mod": "PARASITE",
+              "type": 0
             }
           ],
-          "name": "Cool"
+          "name": "Parasitic"
         }
       ],
       "root": {
         "adjustments": [
           {
-            "stat": 2,
+            "stat": 19,
             "type": 1,
-            "value": 0.12770948063942447
+            "value": 0.1411449522077044
           }
         ],
-        "name": "Bat"
+        "name": "Ring"
       },
       "suffix": null
     }
@@ -92,7 +83,13 @@
   "seasAttr": [],
   "shakespearianism": 0.01,
   "soul": 9,
-  "state": {},
+  "state": {
+    "itemModSources": {
+      "PARASITE": [
+        "9ecde26c-6f70-427c-bb86-cfc08b9fabae"
+      ]
+    }
+  },
   "suppression": 0.5645366065607887,
   "tenaciousness": 0.15,
   "thwackability": 1.0239850983983048,
