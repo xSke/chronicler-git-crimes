@@ -56,7 +56,7 @@
     "PARTY_TIME"
   ],
   "seasonShames": 3,
-  "seasonShamings": 7,
+  "seasonShamings": 8,
   "secondaryColor": "#da0000",
   "shameRuns": 0,
   "shorthand": "SFL",
@@ -65,8 +65,8 @@
   "state": {},
   "teamSpirit": 0,
   "totalShames": 77,
-  "totalShamings": 71,
+  "totalShamings": 72,
   "tournamentWins": 0,
   "weekAttr": [],
-  "winStreak": 2
+  "winStreak": 3
 }
