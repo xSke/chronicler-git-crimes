@@ -26,6 +26,11 @@
   },
   {
     "expire": null,
+    "id": "link_problems",
+    "msg": "someday i'll figure out how to do links up here"
+  },
+  {
+    "expire": null,
     "id": "blaseball_back",
     "msg": "Blaseball is BACK"
   },
