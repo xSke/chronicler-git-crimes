@@ -56,18 +56,18 @@
   "seasAttr": [
     "PARTY_TIME"
   ],
-  "seasonShames": 2,
+  "seasonShames": 3,
   "seasonShamings": 4,
   "secondaryColor": "#ffd4d8",
-  "shameRuns": 0,
+  "shameRuns": 2,
   "shorthand": "NYMI",
   "slogan": "Youth Will Save Us",
   "stadium": "ba794e99-4d6b-4e12-9450-6522745190f8",
   "state": {},
   "teamSpirit": 0,
-  "totalShames": 71,
+  "totalShames": 72,
   "totalShamings": 61,
   "tournamentWins": 0,
   "weekAttr": [],
-  "winStreak": -24
+  "winStreak": -25
 }
