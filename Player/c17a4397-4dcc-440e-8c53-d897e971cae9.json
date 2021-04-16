@@ -15,7 +15,9 @@
   "eDensity": 0,
   "evolution": 0,
   "fate": 16,
-  "gameAttr": [],
+  "gameAttr": [
+    "WIRED"
+  ],
   "groundFriction": 0.8723409862002314,
   "hitStreak": 0,
   "hittingRating": 0.15966534962063808,
@@ -33,7 +35,9 @@
   "overpowerment": 0.12729665063432427,
   "patheticism": 0.7652653607688311,
   "peanutAllergy": true,
-  "permAttr": [],
+  "permAttr": [
+    "INHABITING"
+  ],
   "pitchingRating": 0.21518177451624892,
   "pressurization": 0.634520222045976,
   "ritual": "Fishing for compliments",
