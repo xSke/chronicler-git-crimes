@@ -15,7 +15,9 @@
   "eDensity": 31.27858578790216,
   "evolution": 0,
   "fate": 51,
-  "gameAttr": [],
+  "gameAttr": [
+    "WIRED"
+  ],
   "groundFriction": 0.6555780361454515,
   "hitStreak": 0,
   "hittingRating": 0.8401014258561832,
