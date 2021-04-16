@@ -60,7 +60,9 @@
   "overpowerment": 0.46986064816440176,
   "patheticism": 0.925523392342617,
   "peanutAllergy": false,
-  "permAttr": [],
+  "permAttr": [
+    "INHABITING"
+  ],
   "pitchingRating": 0.48144453533328574,
   "pressurization": 0.7607069416503645,
   "ritual": "Wearing lucky socks",
