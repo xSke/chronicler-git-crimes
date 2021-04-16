@@ -11,16 +11,6 @@
   },
   {
     "expire": null,
-    "id": "dale_fan",
-    "msg": "DALE"
-  },
-  {
-    "expire": null,
-    "id": "lootcrates",
-    "msg": "that stack of boxes has a way with words huh"
-  },
-  {
-    "expire": null,
     "id": "garages_again",
     "msg": "getting word of a garages show at 3pm PDT today at https://twitch.tv/thegarages"
   },
@@ -28,6 +18,11 @@
     "expire": null,
     "id": "link_problems",
     "msg": "someday i'll figure out how to do links up here"
+  },
+  {
+    "expire": null,
+    "id": "dale_fan",
+    "msg": "i am the ticker. i am a fan of the miami dale"
   },
   {
     "expire": null,
