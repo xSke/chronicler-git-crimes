@@ -15,7 +15,9 @@
   "eDensity": 18.611924709029743,
   "evolution": 0,
   "fate": 45,
-  "gameAttr": [],
+  "gameAttr": [
+    "WIRED"
+  ],
   "groundFriction": 0.66104146333067,
   "hitStreak": 0,
   "hittingRating": 0.7652202694196057,
@@ -60,9 +62,7 @@
   "overpowerment": 0.1341706649438706,
   "patheticism": 0.2542013813604332,
   "peanutAllergy": true,
-  "permAttr": [
-    "COFFEE_RALLY"
-  ],
+  "permAttr": [],
   "pitchingRating": 0.4102268551701513,
   "pressurization": 0.8572432930816274,
   "ritual": "Whispering",
