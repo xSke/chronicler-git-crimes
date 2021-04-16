@@ -12,7 +12,7 @@
   "deceased": false,
   "defenseRating": 0.5730690300561202,
   "divinity": 0.8665059446570936,
-  "eDensity": 35.97255654801262,
+  "eDensity": 37.92577425285268,
   "evolution": 0,
   "fate": 38,
   "gameAttr": [],
@@ -61,8 +61,7 @@
   "patheticism": 0.0529302860112605,
   "peanutAllergy": false,
   "permAttr": [
-    "FIRE_EATER",
-    "MAGMATIC"
+    "FIRE_EATER"
   ],
   "pitchingRating": 0.8298573421484475,
   "pressurization": 0.8427501339313199,
