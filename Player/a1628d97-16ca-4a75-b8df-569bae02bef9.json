@@ -63,8 +63,7 @@
   "permAttr": [
     "RETURNED",
     "EGO1",
-    "MARKED",
-    "TRIPLE_THREAT"
+    "MARKED"
   ],
   "pitchingRating": 0.00029853826189179584,
   "pressurization": 0.7113755233221608,
@@ -72,7 +71,7 @@
   "ruthlessness": 0.001,
   "seasAttr": [],
   "shakespearianism": 0.001,
-  "soul": 1553,
+  "soul": 1552,
   "state": {},
   "suppression": 0.001,
   "tenaciousness": 0.001,
