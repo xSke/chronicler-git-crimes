@@ -19,7 +19,7 @@
   ],
   "card": 18,
   "championships": 1,
-  "eDensity": 1930.8858981343717,
+  "eDensity": 1926.8858981343717,
   "emoji": "0x1F357",
   "evolution": 0,
   "fullName": "Mexico City Wild Wings",
@@ -50,14 +50,14 @@
     "bd8778e5-02e8-4d1f-9c31-7b63942cc570",
     "089af518-e27c-4256-adc8-62e3f4b30f43"
   ],
-  "rotationSlot": 97,
+  "rotationSlot": 98,
   "seasAttr": [
     "PARTY_TIME"
   ],
   "seasonShames": 6,
   "seasonShamings": 3,
   "secondaryColor": "#ee6300",
-  "shameRuns": 5,
+  "shameRuns": 0,
   "shorthand": "MCWW",
   "slogan": "Pase Lo Que Pase",
   "stadium": "2841dc8c-b5a2-4b3a-a717-9e646e8e29fc",
