@@ -60,23 +60,17 @@
     "PARTY_TIME"
   ],
   "seasonShames": 5,
-  "seasonShamings": 3,
+  "seasonShamings": 4,
   "secondaryColor": "#fffbab",
   "shameRuns": 0,
   "shorthand": "SUN",
   "slogan": "Stare into the Sun...",
   "stadium": "8e900d85-7d4c-47d0-a67f-6432144f0210",
-  "state": {
-    "gameModSources": {
-      "MIDDLING": [
-        "PSYCHOACOUSTICS"
-      ]
-    }
-  },
+  "state": {},
   "teamSpirit": 0,
   "totalShames": 80,
-  "totalShamings": 62,
+  "totalShamings": 63,
   "tournamentWins": 0,
   "weekAttr": [],
-  "winStreak": 2
+  "winStreak": 3
 }

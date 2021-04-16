@@ -54,10 +54,10 @@
   "seasAttr": [
     "MIDDLING"
   ],
-  "seasonShames": 4,
+  "seasonShames": 5,
   "seasonShamings": 3,
   "secondaryColor": "#9e82a4",
-  "shameRuns": 0,
+  "shameRuns": 1,
   "shorthand": "HOU",
   "slogan": "Bang BANG",
   "stadium": "43fbdf41-336f-46a8-9445-eb8a6e05d811",
@@ -65,9 +65,9 @@
     "permModSources": {}
   },
   "teamSpirit": 0,
-  "totalShames": 65,
+  "totalShames": 66,
   "totalShamings": 65,
   "tournamentWins": 0,
   "weekAttr": [],
-  "winStreak": -3
+  "winStreak": -4
 }
