@@ -21,6 +21,11 @@
   },
   {
     "expire": null,
+    "id": "garages_again",
+    "msg": "getting word of a garages show at 3pm PDT today at https://twitch.tv/thegarages"
+  },
+  {
+    "expire": null,
     "id": "blaseball_back",
     "msg": "Blaseball is BACK"
   },
