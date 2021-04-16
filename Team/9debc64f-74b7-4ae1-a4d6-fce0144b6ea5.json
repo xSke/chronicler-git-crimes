@@ -22,13 +22,13 @@
   ],
   "card": 17,
   "championships": 0,
-  "eDensity": 2171.415171272939,
+  "eDensity": 2178.2543471502277,
   "emoji": "0x1F575",
   "evolution": 0,
   "fullName": "Houston Spies",
   "gameAttr": [],
   "id": "9debc64f-74b7-4ae1-a4d6-fce0144b6ea5",
-  "level": 4,
+  "level": 5,
   "lineup": [
     "d2d76815-cbdc-4c4b-9c9e-32ebf2297cc7",
     "d8ee256f-e3d0-46cb-8c77-b1f88d8c9df9",
@@ -50,7 +50,7 @@
     "e972984c-2895-451c-b518-f06a0d8bd375",
     "fcb08e4f-df3a-446c-ab50-58a496ac5f3f"
   ],
-  "rotationSlot": 89,
+  "rotationSlot": 90,
   "seasAttr": [
     "MIDDLING"
   ],
