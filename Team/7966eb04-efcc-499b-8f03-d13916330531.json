@@ -29,7 +29,6 @@
     "8adb084b-19fe-4295-bcd2-f92afdb62bd7",
     "ac69dba3-6225-4afd-ab4b-23fc78f730fb",
     "2ffbaec8-a646-4435-a17a-3a0a2b5f3e16",
-    "9a031b9a-16f8-4165-a468-5d0e28a81151",
     "aa6c2662-75f8-4506-aa06-9a0993313216"
   ],
   "location": "Yellowstone",
@@ -62,5 +61,5 @@
   "totalShamings": 69,
   "tournamentWins": 0,
   "weekAttr": [],
-  "winStreak": -1
+  "winStreak": -2
 }
