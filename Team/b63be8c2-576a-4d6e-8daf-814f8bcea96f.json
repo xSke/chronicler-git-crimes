@@ -18,13 +18,13 @@
   ],
   "card": 16,
   "championships": 0,
-  "eDensity": 1614.89800145155,
+  "eDensity": 1632.2731303986898,
   "emoji": "0x1F6A4",
   "evolution": 0,
   "fullName": "Miami Dale",
   "gameAttr": [],
   "id": "b63be8c2-576a-4d6e-8daf-814f8bcea96f",
-  "level": 3,
+  "level": 4,
   "lineup": [
     "0cc5bd39-e90d-42f9-9dd8-7e703f316436",
     "9d6f3d23-bc26-40e6-93aa-0b1c693e0ba8",
@@ -48,7 +48,7 @@
     "20be1c34-071d-40c6-8824-dde2af184b4d",
     "889c9ef9-d521-4436-b41c-9021b81b4dfb"
   ],
-  "rotationSlot": 87,
+  "rotationSlot": 88,
   "seasAttr": [
     "PARTY_TIME"
   ],

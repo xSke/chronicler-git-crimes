@@ -15,7 +15,9 @@
   "eDensity": 46.875470701839575,
   "evolution": 0,
   "fate": 94,
-  "gameAttr": [],
+  "gameAttr": [
+    "OVERPERFORMING"
+  ],
   "groundFriction": 0.8661247156091836,
   "hitStreak": 0,
   "hittingRating": 0.5345637884160873,
@@ -62,7 +64,8 @@
   "peanutAllergy": false,
   "permAttr": [
     "FLICKERING",
-    "RECEIVER"
+    "RECEIVER",
+    "TRIPLE_THREAT"
   ],
   "pitchingRating": 0.48892476684479896,
   "pressurization": 0.5991665436375463,
@@ -74,6 +77,11 @@
   "shakespearianism": 0.15826474558530457,
   "soul": 4,
   "state": {
+    "gameModSources": {
+      "OVERPERFORMING": [
+        "PERK"
+      ]
+    },
     "permModSources": {},
     "seasModSources": {
       "PERK": [
