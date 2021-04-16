@@ -72,7 +72,9 @@
   "overpowerment": 0.7166770431675262,
   "patheticism": 0.4828712408410034,
   "peanutAllergy": false,
-  "permAttr": [],
+  "permAttr": [
+    "TRIPLE_THREAT"
+  ],
   "pitchingRating": 0.618850067026582,
   "pressurization": 0.10446151011552995,
   "ritual": "Runes",
