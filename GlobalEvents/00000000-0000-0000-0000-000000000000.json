@@ -31,11 +31,6 @@
   },
   {
     "expire": null,
-    "id": "i_am_ticker",
-    "msg": "I am the ticker. I live atop the page."
-  },
-  {
-    "expire": null,
     "id": "i_feel_alive",
     "msg": "I feel so ALIVE"
   },
