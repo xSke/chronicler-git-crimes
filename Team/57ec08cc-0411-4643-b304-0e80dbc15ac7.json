@@ -42,7 +42,9 @@
   "location": "Mexico City",
   "mainColor": "#d15700",
   "nickname": "Wild Wings",
-  "permAttr": [],
+  "permAttr": [
+    "FREE_WILL"
+  ],
   "rotation": [
     "65273615-22d5-4df1-9a73-707b23e828d5",
     "28162da7-eafa-4eb1-8bc1-5a625f03ae57",
@@ -67,5 +69,5 @@
   "totalShamings": 58,
   "tournamentWins": 0,
   "weekAttr": [],
-  "winStreak": 1
+  "winStreak": 2
 }
