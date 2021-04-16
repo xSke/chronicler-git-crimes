@@ -60,7 +60,9 @@
   "overpowerment": 0.5149074980727318,
   "patheticism": 0.6098355270259417,
   "peanutAllergy": false,
-  "permAttr": [],
+  "permAttr": [
+    "REDACTED"
+  ],
   "pitchingRating": 0.29914554117259806,
   "pressurization": 0.8307888080580499,
   "ritual": "Hundreds of candles",
@@ -77,7 +79,5 @@
   "tragicness": 0.001,
   "unthwackability": 0.4075721751310136,
   "watchfulness": 0.764499265884984,
-  "weekAttr": [
-    "COFFEE_PERIL"
-  ]
+  "weekAttr": []
 }
