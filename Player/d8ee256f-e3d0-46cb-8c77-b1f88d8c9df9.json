@@ -24,28 +24,54 @@
   "itemAttr": [],
   "items": [
     {
-      "baserunningRating": 0,
-      "defenseRating": 0,
-      "durability": 1,
+      "baserunningRating": 0.04945121252045348,
+      "defenseRating": 0.014087010207101793,
+      "durability": 2,
       "forger": null,
       "forgerName": null,
-      "health": 1,
-      "hittingRating": 0.011159124771152997,
-      "id": "31a088d7-9aea-4dcc-b385-d2440dbd5134",
-      "name": "Necklace",
-      "pitchingRating": 0,
+      "health": 2,
+      "hittingRating": 0,
+      "id": "1034dc32-e3da-465f-8ae6-a18a3efd6072",
+      "name": "Metaphorical Shoes",
+      "pitchingRating": 0.015629949038229812,
       "postPrefix": null,
       "prePrefix": null,
-      "prefixes": null,
+      "prefixes": [
+        {
+          "adjustments": [
+            {
+              "stat": 14,
+              "type": 1,
+              "value": 0.10964222436113258
+            },
+            {
+              "stat": 23,
+              "type": 1,
+              "value": 0.08390776088990923
+            },
+            {
+              "stat": 25,
+              "type": 1,
+              "value": 0.08084407405644208
+            },
+            {
+              "stat": 11,
+              "type": 1,
+              "value": -0.07458132536663736
+            }
+          ],
+          "name": "Metaphorical"
+        }
+      ],
       "root": {
         "adjustments": [
           {
-            "stat": 3,
+            "stat": 10,
             "type": 1,
-            "value": 0.12523066762297866
+            "value": 0.1197850823484972
           }
         ],
-        "name": "Necklace"
+        "name": "Shoes"
       },
       "suffix": null
     }
