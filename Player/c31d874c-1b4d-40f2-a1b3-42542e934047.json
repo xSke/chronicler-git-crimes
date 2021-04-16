@@ -60,7 +60,9 @@
   "overpowerment": 0.9281631317756648,
   "patheticism": 0.06653481045852369,
   "peanutAllergy": false,
-  "permAttr": [],
+  "permAttr": [
+    "COFFEE_RALLY"
+  ],
   "pitchingRating": 0.24701167075672095,
   "pressurization": 0.6822997757659564,
   "ritual": "Intermittent fasting",
