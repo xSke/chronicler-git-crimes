@@ -21,7 +21,7 @@
   ],
   "card": 5,
   "championships": 0,
-  "eDensity": 4846.121391969964,
+  "eDensity": 4841.121391969964,
   "emoji": "0x1F4F1",
   "evolution": 0,
   "fullName": "New York Millennials",
@@ -52,14 +52,14 @@
     "18af933a-4afa-4cba-bda5-45160f3af99b",
     "138fccc3-e66f-4b07-8327-d4b6f372f654"
   ],
-  "rotationSlot": 83,
+  "rotationSlot": 84,
   "seasAttr": [
     "PARTY_TIME"
   ],
   "seasonShames": 3,
   "seasonShamings": 4,
   "secondaryColor": "#ffd4d8",
-  "shameRuns": 2,
+  "shameRuns": 0,
   "shorthand": "NYMI",
   "slogan": "Youth Will Save Us",
   "stadium": "ba794e99-4d6b-4e12-9450-6522745190f8",
