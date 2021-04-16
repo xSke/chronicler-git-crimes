@@ -26,26 +26,52 @@
     {
       "baserunningRating": 0,
       "defenseRating": 0,
-      "durability": 1,
+      "durability": 2,
       "forger": null,
       "forgerName": null,
-      "health": 0,
-      "hittingRating": 0.04646757814331504,
-      "id": "af4918a8-5488-4e35-b06e-eb8924650119",
-      "name": "Bat",
-      "pitchingRating": 0,
+      "health": 2,
+      "hittingRating": 0.02044237330657428,
+      "id": "375d8fc3-1309-49b4-8a34-9418c42bca72",
+      "name": "Chaotic Jersey",
+      "pitchingRating": -0.005570791444519552,
       "postPrefix": null,
       "prePrefix": null,
-      "prefixes": null,
+      "prefixes": [
+        {
+          "adjustments": [
+            {
+              "stat": 2,
+              "type": 1,
+              "value": -0.019269659870911997
+            },
+            {
+              "stat": 16,
+              "type": 1,
+              "value": -0.011526414167693191
+            },
+            {
+              "stat": 6,
+              "type": 1,
+              "value": -0.03186814655343976
+            },
+            {
+              "stat": 3,
+              "type": 1,
+              "value": 0.25735565597605115
+            }
+          ],
+          "name": "Chaotic"
+        }
+      ],
       "root": {
         "adjustments": [
           {
-            "stat": 2,
+            "stat": 5,
             "type": 1,
-            "value": 0.10390846000709132
+            "value": 0.14022472517117207
           }
         ],
-        "name": "Bat"
+        "name": "Jersey"
       },
       "suffix": null
     }
