@@ -74,7 +74,8 @@
   "peanutAllergy": false,
   "permAttr": [
     "ALTERNATE",
-    "PARASITE"
+    "PARASITE",
+    "ELSEWHERE"
   ],
   "pitchingRating": 0.12155856766130609,
   "pressurization": 0.09150038125921144,
@@ -84,6 +85,10 @@
   "shakespearianism": 0.9519310680561516,
   "soul": 2,
   "state": {
+    "elsewhere": {
+      "day": 97,
+      "season": 15
+    },
     "itemModSources": {
       "CHUNKY": [
         "cee23a8a-b09d-4fdf-82b4-d3d85df75917"
