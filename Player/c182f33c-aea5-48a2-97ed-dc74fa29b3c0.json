@@ -60,7 +60,9 @@
   "overpowerment": 0.5740329303700249,
   "patheticism": 0.093564474099049,
   "peanutAllergy": true,
-  "permAttr": [],
+  "permAttr": [
+    "COFFEE_RALLY"
+  ],
   "pitchingRating": 0.38986124952159384,
   "pressurization": 0.7091781670118431,
   "ritual": "Eating",
