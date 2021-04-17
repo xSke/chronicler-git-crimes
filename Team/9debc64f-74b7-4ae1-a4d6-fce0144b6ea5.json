@@ -51,13 +51,10 @@
     "e972984c-2895-451c-b518-f06a0d8bd375",
     "fcb08e4f-df3a-446c-ab50-58a496ac5f3f"
   ],
-  "rotationSlot": 109,
-  "seasAttr": [
-    "MIDDLING",
-    "PARTY_TIME"
-  ],
-  "seasonShames": 5,
-  "seasonShamings": 3,
+  "rotationSlot": 0,
+  "seasAttr": [],
+  "seasonShames": 0,
+  "seasonShamings": 0,
   "secondaryColor": "#9e82a4",
   "shameRuns": 0,
   "shorthand": "HOU",

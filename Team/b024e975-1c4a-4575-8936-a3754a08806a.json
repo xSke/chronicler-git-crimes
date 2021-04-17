@@ -19,7 +19,7 @@
     "d796d287-77ef-49f0-89ef-87bcdeb280ee"
   ],
   "card": 3,
-  "championships": 0,
+  "championships": 1,
   "eDensity": 2369.2676736613284,
   "emoji": "0x1F969",
   "evolution": 0,
@@ -49,10 +49,10 @@
     "042962c8-4d8b-44a6-b854-6ccef3d82716",
     "338694b7-6256-4724-86b6-3884299a5d9e"
   ],
-  "rotationSlot": 111,
+  "rotationSlot": 0,
   "seasAttr": [],
-  "seasonShames": 2,
-  "seasonShamings": 2,
+  "seasonShames": 0,
+  "seasonShamings": 0,
   "secondaryColor": "#b2b3b5",
   "shameRuns": 0,
   "shorthand": "DAL",
@@ -64,5 +64,5 @@
   "totalShamings": 72,
   "tournamentWins": 0,
   "weekAttr": [],
-  "winStreak": -1
+  "winStreak": 1
 }

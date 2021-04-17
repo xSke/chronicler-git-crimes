@@ -53,12 +53,10 @@
     "18af933a-4afa-4cba-bda5-45160f3af99b",
     "138fccc3-e66f-4b07-8327-d4b6f372f654"
   ],
-  "rotationSlot": 99,
-  "seasAttr": [
-    "PARTY_TIME"
-  ],
-  "seasonShames": 4,
-  "seasonShamings": 4,
+  "rotationSlot": 0,
+  "seasAttr": [],
+  "seasonShames": 0,
+  "seasonShamings": 0,
   "secondaryColor": "#ffd4d8",
   "shameRuns": 0,
   "shorthand": "NYMI",
