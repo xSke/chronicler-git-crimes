@@ -60,7 +60,9 @@
   "overpowerment": 0.2755166743426213,
   "patheticism": 0.30723039800780755,
   "peanutAllergy": false,
-  "permAttr": [],
+  "permAttr": [
+    "TRIPLE_THREAT"
+  ],
   "pitchingRating": 0.7549883062845876,
   "pressurization": 0.4817777052719996,
   "ritual": "Bonsai",
