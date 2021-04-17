@@ -15,7 +15,9 @@
   "eDensity": 56.119776359256875,
   "evolution": 1,
   "fate": 81,
-  "gameAttr": [],
+  "gameAttr": [
+    "OVERPERFORMING"
+  ],
   "groundFriction": 0.4742616409916045,
   "hitStreak": 0,
   "hittingRating": 0.21009408756816425,
@@ -72,6 +74,11 @@
   "shakespearianism": 0.9776185693429872,
   "soul": 7,
   "state": {
+    "gameModSources": {
+      "OVERPERFORMING": [
+        "PERK"
+      ]
+    },
     "permModSources": {
       "PERK": [
         "ECHO"
