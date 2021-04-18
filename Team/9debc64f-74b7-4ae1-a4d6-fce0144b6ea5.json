@@ -17,6 +17,7 @@
     "b7c4f986-e62a-4a8f-b5f0-8f30ecc35c5d",
     "b7c1ddda-945c-4b2e-8831-ad9f2ec4a608",
     "24ad200d-a45f-4286-bfa5-48909f98a1f7",
+    "e972984c-2895-451c-b518-f06a0d8bd375",
     "68462bfa-9006-4637-8830-2e7840d9089a",
     "e8652db0-c67a-4c8a-9acc-2951cf400cd0",
     "6d9001ff-ba9f-40c0-9315-79feba541b65"
@@ -43,12 +44,13 @@
   "location": "Houston",
   "mainColor": "#67556b",
   "nickname": "Spies",
-  "permAttr": [],
+  "permAttr": [
+    "PSYCHIC"
+  ],
   "rotation": [
     "e111a46d-5ada-4311-ac4f-175cca3357da",
     "b7267aba-6114-4d53-a519-bf6c99f4e3a9",
     "7dca7137-b872-46f5-8e59-8c9c996e9d22",
-    "e972984c-2895-451c-b518-f06a0d8bd375",
     "fcb08e4f-df3a-446c-ab50-58a496ac5f3f"
   ],
   "rotationSlot": 0,

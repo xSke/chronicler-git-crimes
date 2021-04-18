@@ -3,7 +3,7 @@
     "66cebbbf-9933-4329-924a-72bd3718f321",
     "1aec2c01-b766-4018-a271-419e5371bc8f",
     "0daf04fc-8d0d-4513-8e98-4f610616453b",
-    "c0732e36-3731-4f1a-abdc-daa9563b6506"
+    "0cc5bd39-e90d-42f9-9dd8-7e703f316436"
   ],
   "bullpen": [
     "b019fb2b-9f4b-4deb-bf78-6bee2f16d98d",
@@ -26,7 +26,8 @@
   "id": "b63be8c2-576a-4d6e-8daf-814f8bcea96f",
   "level": 4,
   "lineup": [
-    "0cc5bd39-e90d-42f9-9dd8-7e703f316436",
+    "af6b3edc-ed52-4edc-b0c9-14e0a5ae0ee3",
+    "c0732e36-3731-4f1a-abdc-daa9563b6506",
     "9d6f3d23-bc26-40e6-93aa-0b1c693e0ba8",
     "0eddd056-9d72-4804-bd60-53144b785d5c",
     "5a26fc61-d75d-4c01-9ce2-1880ffb5550f",
@@ -40,12 +41,10 @@
   "nickname": "Dale",
   "permAttr": [
     "LIFE_OF_PARTY",
-    "ELECTRIC",
-    "FREE_WILL"
+    "ELECTRIC"
   ],
   "rotation": [
     "a38ada0a-aeac-4a3d-b9a5-968687ccd2f9",
-    "af6b3edc-ed52-4edc-b0c9-14e0a5ae0ee3",
     "20be1c34-071d-40c6-8824-dde2af184b4d",
     "889c9ef9-d521-4436-b41c-9021b81b4dfb"
   ],

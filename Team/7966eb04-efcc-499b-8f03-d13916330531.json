@@ -3,12 +3,13 @@
     "945974c5-17d9-43e7-92f6-ba49064bbc59",
     "c6146c45-3d9b-4749-9f03-d4faae61e2c3",
     "ac57cf28-556f-47af-9154-6bcea2ace9fc",
+    "aa6c2662-75f8-4506-aa06-9a0993313216",
     "7b779947-46ef-4b77-be37-962d60875647"
   ],
   "bullpen": [
     "17392be2-7344-48a0-b4db-8a040a7fb532",
     "450e6483-d116-41d8-933b-1b541d5f0026",
-    "1af239ae-7e12-42be-9120-feff90453c85",
+    "44c92d97-bb39-469d-a13b-f2dd9ae644d1",
     "94f30f21-f889-4a2e-9b94-818475bb1ca0",
     "1ded0384-d290-4ea1-a72b-4f9d220cbe37",
     "82733eb4-103d-4be1-843e-6eb6df35ecd7",
@@ -28,8 +29,8 @@
   "lineup": [
     "8adb084b-19fe-4295-bcd2-f92afdb62bd7",
     "ac69dba3-6225-4afd-ab4b-23fc78f730fb",
-    "2ffbaec8-a646-4435-a17a-3a0a2b5f3e16",
-    "aa6c2662-75f8-4506-aa06-9a0993313216"
+    "89ec77d8-c186-4027-bd45-f407b4800c2c",
+    "2ffbaec8-a646-4435-a17a-3a0a2b5f3e16"
   ],
   "location": "Yellowstone",
   "mainColor": "#bf0043",
@@ -38,11 +39,10 @@
     "O_NO"
   ],
   "rotation": [
-    "89ec77d8-c186-4027-bd45-f407b4800c2c",
     "24f6829e-7bb4-4e1e-8b59-a07514657e72",
     "b6aa8ce8-2587-4627-83c1-2a48d44afaee",
     "09f2787a-3352-41a6-8810-d80e97b253b5",
-    "44c92d97-bb39-469d-a13b-f2dd9ae644d1"
+    "1af239ae-7e12-42be-9120-feff90453c85"
   ],
   "rotationSlot": 0,
   "seasAttr": [],

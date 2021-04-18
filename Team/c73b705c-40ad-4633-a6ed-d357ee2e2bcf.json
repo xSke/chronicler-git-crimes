@@ -27,13 +27,14 @@
   "level": 4,
   "lineup": [
     "da67c196-4cac-428b-8c18-2a411055ea35",
+    "62ae6aa9-e346-4faa-b07c-1f7623580015",
     "cfb42325-592a-4119-9b40-4cdc19959b09",
     "b60605e6-ff41-4388-a61a-fafd2175f7ad",
     "e2f39815-5291-4dcf-ba19-97dcf0c015e9",
     "2d07ccd0-cac7-4ccd-bab6-a078bb983174",
     "3188d641-4fcc-4d5e-887d-5f454b4c4ff8",
-    "19241aa4-38e3-45ed-9750-68f4401f80e1",
-    "864b3be8-e836-426e-ae56-20345b41d03d",
+    "083d09d4-7ed3-4100-b021-8fbe30dd43e8",
+    "03b80a57-77ea-4913-9be4-7a85c3594745",
     "adcbc290-81c5-4da9-b4da-2e594b080710"
   ],
   "location": "Tokyo",
@@ -43,11 +44,11 @@
     "POPCORN_PAYOUTS"
   ],
   "rotation": [
-    "62ae6aa9-e346-4faa-b07c-1f7623580015",
     "6a567da6-7c96-44d3-85de-e5a08a919250",
     "fa40d6ea-e24b-4422-9df1-0643ab202c5f",
     "9c23702b-f0c2-4668-8bcc-61bbdbbfd93e",
-    "f741dc01-2bae-4459-bfc0-f97536193eea"
+    "f741dc01-2bae-4459-bfc0-f97536193eea",
+    "28162da7-eafa-4eb1-8bc1-5a625f03ae57"
   ],
   "rotationSlot": 0,
   "seasAttr": [],

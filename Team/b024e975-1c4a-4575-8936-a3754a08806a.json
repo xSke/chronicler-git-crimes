@@ -41,13 +41,15 @@
   "location": "Dallas",
   "mainColor": "#8c8d8f",
   "nickname": "Steaks",
-  "permAttr": [],
+  "permAttr": [
+    "AAA"
+  ],
   "rotation": [
     "b7ca8f3f-2fdc-477b-84f4-157f2802e9b5",
     "6b8d128f-ed51-496d-a965-6614476f8256",
     "82d1b7b4-ce00-4536-8631-a025f05150ce",
     "042962c8-4d8b-44a6-b854-6ccef3d82716",
-    "338694b7-6256-4724-86b6-3884299a5d9e"
+    "266abcc0-8abc-4570-b32e-e5668e5d38f3"
   ],
   "rotationSlot": 0,
   "seasAttr": [],

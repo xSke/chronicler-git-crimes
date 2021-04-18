@@ -35,7 +35,7 @@
     "efafe75e-2f00-4418-914c-9b6675d39264",
     "c0177f76-67fc-4316-b650-894159dede45",
     "b082ca6e-eb11-4eab-8d6a-30f8be522ec4",
-    "083d09d4-7ed3-4100-b021-8fbe30dd43e8",
+    "19241aa4-38e3-45ed-9750-68f4401f80e1",
     "5bcfb3ff-5786-4c6c-964c-5c325fcc48d7",
     "7cf83bdc-f95f-49d3-b716-06f2cf60a78d",
     "2e86de11-a2dd-4b28-b5fe-f4d0c38cd20b",
@@ -47,10 +47,11 @@
   "permAttr": [
     "FIREPROOF",
     "SEALANT",
-    "AMBUSH"
+    "AMBUSH",
+    "FIERY"
   ],
   "rotation": [
-    "2720559e-9173-4042-aaa0-d3852b72ab2e",
+    "4ed61b18-c1f6-4d71-aea3-caac01470b5c",
     "7aeb8e0b-f6fb-4a9e-bba2-335dada5f0a3",
     "b3e512df-c411-4100-9544-0ceadddb28cf"
   ],
