@@ -24,15 +24,15 @@
   "itemAttr": [],
   "items": [
     {
-      "baserunningRating": 0,
-      "defenseRating": 0,
-      "durability": 1,
+      "baserunningRating": 0.0995108470041347,
+      "defenseRating": 0.02311181615984692,
+      "durability": 2,
       "forger": null,
       "forgerName": null,
-      "health": 0,
-      "hittingRating": 0.028472916176562668,
-      "id": "72f19a44-f97a-47e0-93f2-c797ab1d3fb6",
-      "name": "Bat",
+      "health": 2,
+      "hittingRating": 0.03220046172386781,
+      "id": "c68c7959-585a-4ef0-b8ee-f0b160e9f21b",
+      "name": "Shoes of Dexterity",
       "pitchingRating": 0,
       "postPrefix": null,
       "prePrefix": null,
@@ -40,14 +40,33 @@
       "root": {
         "adjustments": [
           {
-            "stat": 2,
+            "stat": 10,
             "type": 1,
-            "value": 0.14263613181386248
+            "value": 0.1708982062183355
           }
         ],
-        "name": "Bat"
+        "name": "Shoes"
       },
-      "suffix": null
+      "suffix": {
+        "adjustments": [
+          {
+            "stat": 2,
+            "type": 1,
+            "value": 0.16219945421106305
+          },
+          {
+            "stat": 21,
+            "type": 1,
+            "value": 0.1329136746904088
+          },
+          {
+            "stat": 11,
+            "type": 1,
+            "value": 0.16100039888699166
+          }
+        ],
+        "name": "Dexterity"
+      }
     }
   ],
   "laserlikeness": 0.5980383867799741,

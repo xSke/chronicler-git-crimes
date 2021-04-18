@@ -25,15 +25,15 @@
   "items": [
     {
       "baserunningRating": 0,
-      "defenseRating": 0,
-      "durability": 1,
+      "defenseRating": 0.024977736680925955,
+      "durability": 2,
       "forger": null,
       "forgerName": null,
-      "health": 0,
-      "hittingRating": 0.030805870541703473,
-      "id": "5c477844-3513-4162-a50b-c8e9aa8e2729",
-      "name": "Bat",
-      "pitchingRating": 0,
+      "health": 2,
+      "hittingRating": 0.049693360109011486,
+      "id": "311bf178-6b9c-4570-add4-6cfe111ef971",
+      "name": "Bat of Intelligence",
+      "pitchingRating": 0.021905232105179695,
       "postPrefix": null,
       "prePrefix": null,
       "prefixes": null,
@@ -42,12 +42,31 @@
           {
             "stat": 2,
             "type": 1,
-            "value": 0.11829299927411192
+            "value": 0.19606302455044303
           }
         ],
         "name": "Bat"
       },
-      "suffix": null
+      "suffix": {
+        "adjustments": [
+          {
+            "stat": 19,
+            "type": 1,
+            "value": 0.17603045311409174
+          },
+          {
+            "stat": 24,
+            "type": 1,
+            "value": 0.1516936072888322
+          },
+          {
+            "stat": 14,
+            "type": 1,
+            "value": 0.13361849863552352
+          }
+        ],
+        "name": "Intelligence"
+      }
     }
   ],
   "laserlikeness": 0.7424979820322655,

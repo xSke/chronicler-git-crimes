@@ -22,7 +22,34 @@
   "id": "1af239ae-7e12-42be-9120-feff90453c85",
   "indulgence": 0.3466514128937004,
   "itemAttr": [],
-  "items": [],
+  "items": [
+    {
+      "baserunningRating": 0.08975227053148427,
+      "defenseRating": 0,
+      "durability": 1,
+      "forger": null,
+      "forgerName": null,
+      "health": 1,
+      "hittingRating": 0,
+      "id": "981c7892-83d3-4ef3-b187-6c65925c035a",
+      "name": "Shoes",
+      "pitchingRating": 0,
+      "postPrefix": null,
+      "prePrefix": null,
+      "prefixes": null,
+      "root": {
+        "adjustments": [
+          {
+            "stat": 10,
+            "type": 1,
+            "value": 0.17454881373575273
+          }
+        ],
+        "name": "Shoes"
+      },
+      "suffix": null
+    }
+  ],
   "laserlikeness": 0.5216772857923473,
   "leagueTeamId": "7966eb04-efcc-499b-8f03-d13916330531",
   "martyrdom": 0.030954407936203385,

@@ -24,25 +24,51 @@
   "itemAttr": [],
   "items": [
     {
-      "baserunningRating": 0,
-      "defenseRating": 0,
-      "durability": 1,
+      "baserunningRating": 0.02266996542973443,
+      "defenseRating": null,
+      "durability": 2,
       "forger": null,
       "forgerName": null,
-      "health": 0,
-      "hittingRating": 0.027041038892932023,
-      "id": "9067a096-f1d8-4bf7-a094-e88a35342fb4",
-      "name": "Bat",
-      "pitchingRating": 0,
+      "health": 2,
+      "hittingRating": 0.04782546160421519,
+      "id": "e5f551e9-f39a-4b46-b427-c1a1be854583",
+      "name": "Sharp Bat",
+      "pitchingRating": 0.07250952359309903,
       "postPrefix": null,
       "prePrefix": null,
-      "prefixes": null,
+      "prefixes": [
+        {
+          "adjustments": [
+            {
+              "stat": 2,
+              "type": 1,
+              "value": 0.10534656380742774
+            },
+            {
+              "stat": 16,
+              "type": 1,
+              "value": 0.15475317743075456
+            },
+            {
+              "stat": 13,
+              "type": 1,
+              "value": 0.17736362551979726
+            },
+            {
+              "stat": 22,
+              "type": 1,
+              "value": -0.19159235508993663
+            }
+          ],
+          "name": "Sharp"
+        }
+      ],
       "root": {
         "adjustments": [
           {
             "stat": 2,
             "type": 1,
-            "value": 0.11934940559053872
+            "value": 0.10147766014325615
           }
         ],
         "name": "Bat"

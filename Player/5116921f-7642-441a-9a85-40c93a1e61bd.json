@@ -21,37 +21,47 @@
   "hittingRating": 0.44457436007953893,
   "id": "5116921f-7642-441a-9a85-40c93a1e61bd",
   "indulgence": 0.44739095367317855,
-  "itemAttr": [],
+  "itemAttr": [
+    "PRO_SKATER"
+  ],
   "items": [
     {
-      "baserunningRating": 0,
+      "baserunningRating": 0.017968080241411388,
       "defenseRating": 0,
-      "durability": 1,
+      "durability": 2,
       "forger": null,
       "forgerName": null,
-      "health": 1,
-      "hittingRating": 0.022227400545902276,
-      "id": "c06141af-98c4-41ee-b13d-0edfda2cc243",
-      "name": "Bat",
+      "health": 2,
+      "hittingRating": 0,
+      "id": "aaf37c75-11e1-46fc-996c-ff00550c8241",
+      "name": "Skate Board",
       "pitchingRating": 0,
-      "postPrefix": null,
+      "postPrefix": {
+        "adjustments": [
+          {
+            "mod": "PRO_SKATER",
+            "type": 0
+          }
+        ],
+        "name": "Skate"
+      },
       "prePrefix": null,
       "prefixes": null,
       "root": {
         "adjustments": [
           {
-            "stat": 2,
+            "stat": 13,
             "type": 1,
-            "value": 0.10322664504661812
+            "value": 0.17919051066783864
           }
         ],
-        "name": "Bat"
+        "name": "Board"
       },
       "suffix": null
     }
   ],
   "laserlikeness": 0.9427464430179112,
-  "leagueTeamId": "d9f89a8a-c563-493e-9d64-78e4f9a55d4a",
+  "leagueTeamId": "979aee4a-6d80-4863-bf1c-ee1a78e06024",
   "martyrdom": 0.8726230829973599,
   "moxie": 0.14553586770236496,
   "musclitude": 0.06081652894605549,
@@ -68,7 +78,13 @@
   "seasAttr": [],
   "shakespearianism": 0.08347852338091405,
   "soul": 1,
-  "state": {},
+  "state": {
+    "itemModSources": {
+      "PRO_SKATER": [
+        "aaf37c75-11e1-46fc-996c-ff00550c8241"
+      ]
+    }
+  },
   "suppression": 0.751017693001452,
   "tenaciousness": 0.9510905903875528,
   "thwackability": 0.5032989915135551,

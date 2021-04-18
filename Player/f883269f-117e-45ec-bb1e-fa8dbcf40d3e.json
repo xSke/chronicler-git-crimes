@@ -26,28 +26,42 @@
     {
       "baserunningRating": 0,
       "defenseRating": 0,
-      "durability": 1,
+      "durability": 2,
       "forger": null,
       "forgerName": null,
-      "health": 1,
-      "hittingRating": 0.02393105847375354,
-      "id": "3e78a7e6-5a45-4757-a452-109d7b0c4473",
-      "name": "Bat",
-      "pitchingRating": 0,
+      "health": 2,
+      "hittingRating": 0.053779186067515194,
+      "id": "f52e127d-e0ec-447c-aaa6-84448fa19e7c",
+      "name": "Cap of the Feast",
+      "pitchingRating": 0.0471341640913443,
       "postPrefix": null,
       "prePrefix": null,
       "prefixes": null,
       "root": {
         "adjustments": [
           {
-            "stat": 2,
+            "stat": 16,
             "type": 1,
-            "value": 0.10737161221437524
+            "value": 0.19539029077793937
           }
         ],
-        "name": "Bat"
+        "name": "Cap"
       },
-      "suffix": null
+      "suffix": {
+        "adjustments": [
+          {
+            "stat": 16,
+            "type": 1,
+            "value": -0.10432861977221083
+          },
+          {
+            "stat": 2,
+            "type": 1,
+            "value": 0.22222592596630847
+          }
+        ],
+        "name": "the Feast"
+      }
     }
   ],
   "laserlikeness": 0.7740689686019171,

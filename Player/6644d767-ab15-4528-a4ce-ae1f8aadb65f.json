@@ -33,7 +33,9 @@
   "overpowerment": 0.8185466769535259,
   "patheticism": 0.18583044463894735,
   "peanutAllergy": true,
-  "permAttr": [],
+  "permAttr": [
+    "AMBITIOUS"
+  ],
   "pitchingRating": 0.2540581293455701,
   "pressurization": 0.04007210959742325,
   "ritual": "Reading theory",

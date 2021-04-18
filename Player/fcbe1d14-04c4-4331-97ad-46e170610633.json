@@ -29,23 +29,23 @@
       "durability": 1,
       "forger": null,
       "forgerName": null,
-      "health": 0,
-      "hittingRating": 0.037303094987313545,
-      "id": "58925187-081c-436e-acbf-57675ff32208",
-      "name": "Bat",
-      "pitchingRating": 0,
+      "health": 1,
+      "hittingRating": 0,
+      "id": "48e80165-a4b0-4d05-ad5d-be2e3ef58b08",
+      "name": "Cap",
+      "pitchingRating": 0.03959798982464313,
       "postPrefix": null,
       "prePrefix": null,
       "prefixes": null,
       "root": {
         "adjustments": [
           {
-            "stat": 2,
+            "stat": 16,
             "type": 1,
-            "value": 0.12976068507628694
+            "value": 0.13010124445607382
           }
         ],
-        "name": "Bat"
+        "name": "Cap"
       },
       "suffix": null
     }

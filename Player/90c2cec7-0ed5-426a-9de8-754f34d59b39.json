@@ -21,8 +21,71 @@
   "hittingRating": 0.7480975503525489,
   "id": "90c2cec7-0ed5-426a-9de8-754f34d59b39",
   "indulgence": 1.414625547413696,
-  "itemAttr": [],
+  "itemAttr": [
+    "HIGH_PRESSURE"
+  ],
   "items": [
+    {
+      "baserunningRating": -0.07072122915548207,
+      "defenseRating": 0.039224623286085,
+      "durability": 3,
+      "forger": null,
+      "forgerName": null,
+      "health": 3,
+      "hittingRating": 0,
+      "id": "21a954ca-dd7f-4aca-8f19-fedf0004a96f",
+      "name": "Clutch Rubber Glove",
+      "pitchingRating": 0.04108825059024013,
+      "postPrefix": null,
+      "prePrefix": null,
+      "prefixes": [
+        {
+          "adjustments": [
+            {
+              "mod": "HIGH_PRESSURE",
+              "type": 0
+            }
+          ],
+          "name": "Clutch"
+        },
+        {
+          "adjustments": [
+            {
+              "stat": 13,
+              "type": 1,
+              "value": -0.0665261985329072
+            },
+            {
+              "stat": 10,
+              "type": 1,
+              "value": -0.10921747856006896
+            },
+            {
+              "stat": 16,
+              "type": 1,
+              "value": 0.34402777381444855
+            },
+            {
+              "stat": 18,
+              "type": 1,
+              "value": -0.13916149265293123
+            }
+          ],
+          "name": "Rubber"
+        }
+      ],
+      "root": {
+        "adjustments": [
+          {
+            "stat": 21,
+            "type": 1,
+            "value": 0.151166214596663
+          }
+        ],
+        "name": "Glove"
+      },
+      "suffix": null
+    },
     {
       "baserunningRating": 0,
       "defenseRating": 0,
@@ -71,7 +134,13 @@
   "seasAttr": [],
   "shakespearianism": 1.1262703878953348,
   "soul": 2,
-  "state": {},
+  "state": {
+    "itemModSources": {
+      "HIGH_PRESSURE": [
+        "21a954ca-dd7f-4aca-8f19-fedf0004a96f"
+      ]
+    }
+  },
   "suppression": 0.4796881707942455,
   "tenaciousness": 1.2399315538408378,
   "thwackability": 0.45198282321606054,

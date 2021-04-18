@@ -26,26 +26,34 @@
     {
       "baserunningRating": 0,
       "defenseRating": 0,
-      "durability": 1,
+      "durability": 3,
       "forger": null,
       "forgerName": null,
-      "health": 0,
-      "hittingRating": 0.03060122046158653,
-      "id": "bc8eea7a-fbb2-4003-8f2d-e97314ab3b79",
-      "name": "Bat",
-      "pitchingRating": 0,
-      "postPrefix": null,
+      "health": 3,
+      "hittingRating": 0,
+      "id": "60af9156-666a-479b-b724-f1334357e07f",
+      "name": "Rock Cap",
+      "pitchingRating": 0.12387705287524914,
+      "postPrefix": {
+        "adjustments": [
+          {
+            "type": 3,
+            "value": 1
+          }
+        ],
+        "name": "Rock"
+      },
       "prePrefix": null,
       "prefixes": null,
       "root": {
         "adjustments": [
           {
-            "stat": 2,
+            "stat": 16,
             "type": 1,
-            "value": 0.1085326417853736
+            "value": 0.16461037544073903
           }
         ],
-        "name": "Bat"
+        "name": "Cap"
       },
       "suffix": null
     }

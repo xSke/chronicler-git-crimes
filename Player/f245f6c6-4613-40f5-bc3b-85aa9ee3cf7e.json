@@ -29,6 +29,32 @@
       "durability": 1,
       "forger": null,
       "forgerName": null,
+      "health": 1,
+      "hittingRating": 0.037387485615455573,
+      "id": "8772a70f-e2a7-4d14-b182-ca815c755925",
+      "name": "Bat",
+      "pitchingRating": 0,
+      "postPrefix": null,
+      "prePrefix": null,
+      "prefixes": null,
+      "root": {
+        "adjustments": [
+          {
+            "stat": 2,
+            "type": 1,
+            "value": 0.174906431616488
+          }
+        ],
+        "name": "Bat"
+      },
+      "suffix": null
+    },
+    {
+      "baserunningRating": 0,
+      "defenseRating": 0,
+      "durability": 1,
+      "forger": null,
+      "forgerName": null,
       "health": 0,
       "hittingRating": 0.03073946672959249,
       "id": "92ffc2d2-2d9c-4607-8794-831edca00905",

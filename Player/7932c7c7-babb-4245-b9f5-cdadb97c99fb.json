@@ -60,7 +60,9 @@
   "overpowerment": 0.8735163473239724,
   "patheticism": 0.703871858851337,
   "peanutAllergy": false,
-  "permAttr": [],
+  "permAttr": [
+    "LATE_TO_PARTY"
+  ],
   "pitchingRating": 0.21987760870661208,
   "pressurization": 0.24853449628553115,
   "ritual": "Inversion table",

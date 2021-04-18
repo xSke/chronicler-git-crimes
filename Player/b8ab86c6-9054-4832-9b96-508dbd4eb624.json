@@ -62,7 +62,8 @@
   "peanutAllergy": false,
   "permAttr": [
     "FLINCH",
-    "HAUNTED"
+    "HAUNTED",
+    "EARLBIRDS"
   ],
   "pitchingRating": 0.6970979786663787,
   "pressurization": 0.5195664478482989,

@@ -9,7 +9,7 @@
   "coffee": null,
   "coldness": 0.001,
   "continuation": 0.001,
-  "deceased": true,
+  "deceased": false,
   "defenseRating": 0.007943282347242812,
   "divinity": 0.001,
   "eDensity": 3098.584397486479,
@@ -51,7 +51,7 @@
     }
   ],
   "laserlikeness": 0.001,
-  "leagueTeamId": "36569151-a2fb-43c1-9df7-2df512424c82",
+  "leagueTeamId": "8d87c468-699a-47a8-b40d-cfb73a5660ad",
   "martyrdom": 0.001,
   "moxie": 0.001,
   "musclitude": 0.001,
@@ -63,7 +63,8 @@
   "permAttr": [
     "RETURNED",
     "EGO1",
-    "MARKED"
+    "MARKED",
+    "DEBT_THREE"
   ],
   "pitchingRating": 0.00029853826189179584,
   "pressurization": 0.7113755233221608,
