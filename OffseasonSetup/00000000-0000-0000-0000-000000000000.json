@@ -179,9 +179,17 @@
       "value": 1
     },
     {
-      "description": "A Random Hitter on your Team gets a Skateboard.",
+      "description": "A Random Hitter on your Team gets a Skate Board.",
       "id": "random_player_item_skateboard",
-      "title": "Skateboard",
+      "metadata": {
+        "item": "skateboard",
+        "playerSelection": 0,
+        "sourceLocation": [
+          0,
+          1
+        ]
+      },
+      "title": "Skate Board",
       "type": 175,
       "value": 1
     },
