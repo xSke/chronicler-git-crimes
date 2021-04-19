@@ -21,7 +21,7 @@
   ],
   "card": 2,
   "championships": 0,
-  "eDensity": 1357.1121598880547,
+  "eDensity": 1376.1121598880547,
   "emoji": "0x1F339",
   "evolution": 0,
   "fullName": "Boston Flowers",
@@ -54,7 +54,7 @@
     "defbc540-a36d-460b-afd8-07da2375ee63",
     "97dfc1f6-ac94-4cdc-b0d5-1cb9f8984aa5"
   ],
-  "rotationSlot": 4,
+  "rotationSlot": 5,
   "seasAttr": [],
   "seasonShames": 2,
   "seasonShamings": 0,
@@ -63,9 +63,7 @@
   "shorthand": "BOF",
   "slogan": "Let's Grow!",
   "stadium": "d37abba6-9fba-463a-8f4f-7cf49de3c7b6",
-  "state": {
-    "overflowRuns": 1
-  },
+  "state": {},
   "teamSpirit": 0,
   "totalShames": 62,
   "totalShamings": 70,
