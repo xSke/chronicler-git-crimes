@@ -9,7 +9,7 @@
   "coffee": null,
   "coldness": 0.001,
   "continuation": 0.001,
-  "deceased": false,
+  "deceased": true,
   "defenseRating": 0.007943282347242812,
   "divinity": 0.001,
   "eDensity": 3098.584397486479,
