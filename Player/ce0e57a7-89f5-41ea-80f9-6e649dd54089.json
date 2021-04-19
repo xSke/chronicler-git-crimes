@@ -67,7 +67,7 @@
   "martyrdom": 0.3330855136299492,
   "moxie": 1.0002624507458953,
   "musclitude": 0.4885126487784556,
-  "name": "Yong Wright",
+  "name": "---- -ri-h-",
   "omniscience": 0.17902100254047792,
   "overpowerment": 0.108221593085352,
   "patheticism": 0.32382265035378444,
@@ -75,7 +75,7 @@
   "permAttr": [
     "ALTERNATE",
     "PARASITE",
-    "ELSEWHERE"
+    "SCATTERED"
   ],
   "pitchingRating": 0.12155856766130609,
   "pressurization": 0.09150038125921144,
@@ -85,15 +85,12 @@
   "shakespearianism": 0.9519310680561516,
   "soul": 2,
   "state": {
-    "elsewhere": {
-      "day": 97,
-      "season": 15
-    },
     "itemModSources": {
       "CHUNKY": [
         "cee23a8a-b09d-4fdf-82b4-d3d85df75917"
       ]
-    }
+    },
+    "unscatteredName": "Yong Wright"
   },
   "suppression": 0.8368656873027983,
   "tenaciousness": 0.52005564851742,
