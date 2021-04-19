@@ -60,7 +60,9 @@
   "overpowerment": 1.115490065787898,
   "patheticism": 0.7160654877957477,
   "peanutAllergy": false,
-  "permAttr": [],
+  "permAttr": [
+    "COFFEE_RALLY"
+  ],
   "pitchingRating": 0.44533587721060824,
   "pressurization": 0.5449316274206509,
   "ritual": "Hanging on by a thread",
