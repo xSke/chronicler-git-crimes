@@ -1,380 +1,388 @@
 {
   "blessings": [
     {
-      "description": "A random Player on your Team will be a permanent Earlbird.",
-      "id": "random_player_earlbirds",
+      "description": "Two Adjacent Players in your Team's Lineup will gain +15% Moxie.",
+      "id": "team_adjacent_players_moxie",
       "metadata": {
-        "mod": "EARLBIRDS",
-        "modType": 0,
-        "playerSelection": 0,
+        "groupType": 0,
+        "percentage": 0.15,
         "sourceLocation": [
-          0,
-          1
-        ]
+          0
+        ],
+        "stat": 3
       },
-      "subheader": "Brought to you by@Yes Plz Coffee@https://yesplz.coffee/?promo=blaseballbaby&utm_source=blaseball&utm_medium=display&utm_campaign=april",
-      "title": "Early Riser",
-      "type": 167,
+      "subheader": "Presented by @Fellow Traveller's LudoNarraCon@http://bit.ly/LNC-Blaseball",
+      "title": "Buddies",
+      "type": 181,
       "value": 1
     },
     {
-      "description": "A random Player on your Team will be permanently Middling.",
-      "id": "random_player_middling",
-      "metadata": {
-        "mod": "MIDDLING",
-        "modType": 0,
-        "playerSelection": 0,
-        "sourceLocation": [
-          0,
-          1
-        ]
-      },
-      "title": "Middle of the Pack",
-      "type": 167,
+      "description": "Chaarge! Give your Team AA Blood.",
+      "id": "team_aa_blood_type",
+      "title": "Power Chaarge",
+      "type": 178,
       "value": 1
     },
     {
-      "description": "A random Player on your Team will be permanently Late to the Party.",
-      "id": "random_player_late_to_party",
-      "metadata": {
-        "mod": "LATE_TO_PARTY",
-        "modType": 0,
-        "playerSelection": 0,
-        "sourceLocation": [
-          0,
-          1
-        ]
-      },
-      "title": "Fashionably Late",
-      "type": 167,
+      "description": "Give your Team Acidic Blood.",
+      "id": "team_acidic_blood_type",
+      "title": "Xenomorph",
+      "type": 179,
       "value": 1
     },
     {
-      "description": "A random Player on your Team will be permanently Ambitious.",
-      "id": "random_player_ambitious",
-      "metadata": {
-        "mod": "AMBITIOUS",
-        "modType": 0,
-        "playerSelection": 0,
-        "sourceLocation": [
-          0,
-          1
-        ]
-      },
-      "title": "Posterizer",
-      "type": 167,
+      "description": "Call the Alternate for all Players in your Shadows.",
+      "id": "all_shadows_alternates",
+      "title": "On Deck",
+      "type": 182,
       "value": 1
     },
     {
-      "description": "All Players on your Team with an available Item slot (empty or broken) will open a Generic Bat Crate.",
-      "id": "team_items_generic_bats",
+      "description": "All Players on your Team with an available Item slot (empty or broken) will open a Generic Jersey Crate.",
+      "id": "team_items_generic_jerseys",
       "metadata": {
         "sourceLocation": [
           0,
           1
         ],
-        "table": "generic_bats"
+        "table": "generic_jerseys"
       },
-      "title": "Bats Supply Run",
+      "title": "Jerseys Supply Run",
       "type": 176,
       "value": 1
     },
     {
-      "description": "All Players on your Team with an available Item slot (empty or broken) will open a Generic Cap Crate.",
-      "id": "team_items_generic_caps",
+      "description": "All Players on your Team with an available Item slot (empty or broken) will open a Generic Rings Crate.",
+      "id": "team_items_generic_rings",
       "metadata": {
         "sourceLocation": [
           0,
           1
         ],
-        "table": "generic_caps"
+        "table": "generic_rings"
       },
-      "title": "Caps Supply Run",
+      "title": "Rings Supply Run",
       "type": 176,
       "value": 1
     },
     {
-      "description": "All Players on your Team with an available Item slot (empty or broken) will open a Generic Shoes Crate.",
-      "id": "team_items_generic_shoes",
+      "description": "All Players on your Team with an available Item slot (empty or broken) will open a Generic Necklace Crate.",
+      "id": "team_items_generic_necklaces",
       "metadata": {
         "sourceLocation": [
           0,
           1
         ],
-        "table": "generic_shoes"
+        "table": "generic_necklaces"
       },
-      "title": "Shoes Supply Run",
+      "title": "Necklace Supply Run",
       "type": 176,
       "value": 1
     },
     {
-      "description": "All Players on your Team with an available Item slot (empty or broken) will open a Generic Glove Crate.",
-      "id": "team_items_generic_gloves",
+      "description": "All Players on your Team with an available Item slot (empty or broken) will open a Generic Sunglasses Crate.",
+      "id": "team_items_generic_sunglasses",
       "metadata": {
         "sourceLocation": [
           0,
           1
         ],
-        "table": "generic_gloves"
+        "table": "generic_sunglasses"
       },
-      "title": "Glove Supply Run",
+      "title": "Sunglasses Supply Run",
       "type": 176,
       "value": 1
     },
     {
-      "description": "A Random Hitter on your Team with an available Item slot (empty or broken) will open a Handcrafted Bat Crate.",
-      "id": "random_player_handcrafted_bat",
+      "description": "A Random Hitter on your Team with an available Item slot (empty or broken) will open a Handcrafted Jersey Crate.",
+      "id": "random_player_handcrafted_jersey",
       "metadata": {
         "playerSelection": 0,
         "sourceLocation": [
           0
         ],
-        "table": "handcrafted_bats"
+        "table": "handcrafted_jerseys"
       },
-      "title": "Handcrafted Bat Drop",
+      "title": "Handcrafted Jersey Drop",
       "type": 177,
       "value": 1
     },
     {
-      "description": "A Random Pitcher on your Team with an available Item slot (empty or broken) will open a Handcrafted Cap Crate.",
-      "id": "random_player_handcrafted_cap",
+      "description": "A Random Pitcher on your Team with an available Item slot (empty or broken) will open a Handcrafted Ring Crate.",
+      "id": "random_player_handcrafted_ring",
       "metadata": {
         "playerSelection": 0,
         "sourceLocation": [
           1
         ],
-        "table": "handcrafted_caps"
+        "table": "handcrafted_rings"
       },
-      "title": "Handcrafted Cap Drop",
+      "title": "Handcrafted Ring Drop",
       "type": 177,
       "value": 1
     },
     {
-      "description": "A Random Hitter on your Team with an available Item slot (empty or broken) will open a Handcrafted Shoes Crate.",
-      "id": "random_player_handcrafted_shoes",
+      "description": "A Random Hitter on your Team with an available Item slot (empty or broken) will open a Handcrafted Necklace Crate.",
+      "id": "random_player_handcrafted_necklace",
       "metadata": {
         "playerSelection": 0,
         "sourceLocation": [
           0
         ],
-        "table": "handcrafted_shoes"
+        "table": "handcrafted_necklaces"
       },
-      "title": "Handcrafted Shoes Drop",
+      "title": "Handcrafted Necklace Drop",
       "type": 177,
       "value": 1
     },
     {
-      "description": "A Random Hitter on your Team with an available Item slot (empty or broken) will open a Handcrafted Gloves Crate.",
-      "id": "random_player_handcrafted_glove",
+      "description": "A Random Player on your Team with an available Item slot (empty or broken) will open a Handcrafted Sunglasses Crate.",
+      "id": "random_player_handcrafted_sunglasses",
       "metadata": {
         "playerSelection": 0,
         "sourceLocation": [
           0,
           1
         ],
-        "table": "handcrafted_gloves"
+        "table": "handcrafted_sunglasses"
       },
-      "title": "Handcrafted Glove Drop",
+      "title": "Handcrafted Sunglasses Drop",
       "type": 177,
       "value": 1
     },
     {
-      "description": "A Random Hitter on your Team gets a Skate Board.",
-      "id": "random_player_item_skateboard",
+      "description": "A Random Hitter on your Team with an available Item slot (empty or broken) will open a Dexterity Crate.",
+      "id": "random_player_dexterity_item",
       "metadata": {
-        "item": "skateboard",
         "playerSelection": 0,
+        "sourceLocation": [
+          0,
+          1
+        ],
+        "table": "dexterity_items"
+      },
+      "title": "Dexterity Crate Drop",
+      "type": 177,
+      "value": 1
+    },
+    {
+      "description": "A Random Player on your Team with an available Item slot (empty or broken) will open a Slime Crate.",
+      "id": "random_player_slime_item",
+      "metadata": {
+        "playerSelection": 0,
+        "sourceLocation": [
+          0,
+          1
+        ],
+        "table": "slime_items"
+      },
+      "title": "Slime Crate Drop",
+      "type": 177,
+      "value": 1
+    },
+    {
+      "description": "A Random Hitter on your Team with an available Item slot (empty or broken) will open a Blood Crate.",
+      "id": "random_player_blood_item",
+      "metadata": {
+        "playerSelection": 0,
+        "sourceLocation": [
+          0,
+          1
+        ],
+        "table": "blood_items"
+      },
+      "title": "Blood Crate Drop",
+      "type": 177,
+      "value": 1
+    },
+    {
+      "description": "A Random Pitcher on your Team with an available Item slot (empty or broken) will open an Intelligence Crate.",
+      "id": "random_player_intelligence_item",
+      "metadata": {
+        "playerSelection": 0,
+        "sourceLocation": [
+          0,
+          1
+        ],
+        "table": "intelligence_items"
+      },
+      "title": "Intelligence Crate Drop",
+      "type": 177,
+      "value": 1
+    },
+    {
+      "description": "Promote the Best Baserunner in your Team's Shadows to a random position in the Lineup.",
+      "id": "move_best_shadows_baserunner_to_lineup",
+      "metadata": {
+        "destinationLocation": [
+          0
+        ],
+        "destinationSelection": 1,
+        "playerSelection": 5,
+        "sourceLocation": [
+          2,
+          3
+        ]
+      },
+      "title": "In a Pinch",
+      "type": 164,
+      "value": 1
+    },
+    {
+      "description": "Promote the Best Defender in your Team's Shadows to a random position in the Lineup.",
+      "id": "move_best_shadows_defender_to_lineup",
+      "metadata": {
+        "destinationLocation": [
+          0
+        ],
+        "destinationSelection": 1,
+        "playerSelection": 7,
+        "sourceLocation": [
+          2,
+          3
+        ]
+      },
+      "title": "Patchwork",
+      "type": 164,
+      "value": 1
+    },
+    {
+      "description": "Recruit a Random Player in the League with the Alternate Modification to your Team.",
+      "id": "recruit_alternator_player",
+      "metadata": {
+        "mod": "ALTERNATE",
         "sourceLocation": [
           0,
           1
         ]
       },
-      "title": "Skate Board",
-      "type": 175,
+      "title": "Alternator",
+      "type": 163,
       "value": 1
     },
     {
-      "description": "Get Fired Up. Give your Team Fire Blood.",
-      "id": "team_fire_blood_type",
-      "title": "Fired Up",
-      "type": 172,
+      "description": "Recruit a Random Player in the League with the Attractor Modification to your Team.",
+      "id": "recruit_attractor_player",
+      "metadata": {
+        "mod": "ATTRACTOR",
+        "sourceLocation": [
+          0,
+          1
+        ]
+      },
+      "title": "Strange Attractor",
+      "type": 163,
       "value": 1
     },
     {
-      "description": "Give your Team Psychic Blood.",
-      "id": "team_psychic_blood_type",
-      "title": "Mind Trick",
-      "type": 173,
+      "description": "The Last Three Players in your Team's Lineup will gain 10% Thwackability.",
+      "id": "team_last_three_thwackability",
+      "metadata": {
+        "groupType": 1,
+        "percentage": 0.1,
+        "sourceLocation": [
+          0
+        ],
+        "stat": 2
+      },
+      "title": "Last Not Least",
+      "type": 181,
       "value": 1
     },
     {
-      "description": "Chaaarge! Give your Team AAA Blood.",
-      "id": "team_aaa_blood_type",
-      "title": "Power Chaaarge",
-      "type": 174,
-      "value": 1
-    },
-    {
-      "description": "Move the Player with the highest Divinity on your Team to the Cleanup spot (the 4th spot in your Lineup).",
-      "id": "move_highest_divinity_to_cleanup",
+      "description": "Move the Best Overall Hitter in your Team's Lineup or Rotation to the #3 spot in your Team's Lineup.",
+      "id": "move_best_hitter_to_third",
       "metadata": {
         "destinationLocation": [
           0
         ],
         "destinationSelection": 0,
         "fromFirst": true,
-        "index": 3,
-        "playerSelection": 13,
+        "index": 2,
+        "playerSelection": 1,
         "sourceLocation": [
           0,
           1
         ]
       },
-      "title": "Clean Up",
+      "title": "Set the Table",
       "type": 164,
       "value": 1
     },
     {
-      "description": "Move the Worst Defender in your Lineup to the Shadows.",
-      "id": "move_worst_defender_to_shadows",
+      "description": "A random player in your Team's Rotation will gain 40% Overpowerment but lose 20% Unthwackability.",
+      "id": "pitcher_overpower_unthwack_tradeoff",
       "metadata": {
-        "destinationLocation": [
-          2
-        ],
-        "destinationSelection": 0,
-        "fromFirst": false,
-        "index": 0,
-        "playerSelection": 8,
+        "boostAmount": 0.4,
+        "boostStat": 18,
+        "impairAmount": 0.2,
+        "impairStat": 16,
+        "selectionType": 0,
         "sourceLocation": [
-          0
-        ]
-      },
-      "title": "Weakest Link",
-      "type": 164,
-      "value": 1
-    },
-    {
-      "description": "Promote the Best Hitter in your Team's Shadows to a random position in the Lineup.",
-      "id": "move_best_shadows_hitter_to_lineup",
-      "metadata": {
-        "destinationLocation": [
-          0
-        ],
-        "destinationSelection": 1,
-        "playerSelection": 1,
-        "sourceLocation": [
-          2,
-          3
-        ]
-      },
-      "title": "Time to Shine",
-      "type": 164,
-      "value": 1
-    },
-    {
-      "description": "Promote the Best Pitcher in your Team's Shadows to a random position in the Rotation.",
-      "id": "move_best_shadows_pitcher_to_rotation",
-      "metadata": {
-        "destinationLocation": [
           1
-        ],
-        "destinationSelection": 1,
-        "playerSelection": 3,
-        "sourceLocation": [
-          2,
-          3
         ]
       },
-      "title": "Sweet Relief",
-      "type": 164,
+      "title": "Grounded",
+      "type": 180,
       "value": 1
     },
     {
-      "description": "Your Team's Shadows will have their Hitting Boosted from 1% to 12%.",
-      "id": "team_shadows_ranged_hitting",
+      "description": "A random player in your Team's Rotation will gain 40% Unthwackability but lose 20% Overpowerment.",
+      "id": "pitcher_unthwack_overpower_tradeoff",
       "metadata": {
-        "max": ".12",
-        "min": ".01",
-        "rating": 0,
+        "boostAmount": 0.4,
+        "boostStat": 16,
+        "impairAmount": 0.2,
+        "impairStat": 18,
+        "selectionType": 0,
         "sourceLocation": [
-          2,
-          3
+          1
         ]
       },
-      "title": "Shadow Batting Practice",
-      "type": 160,
-      "value": 1
-    },
-    {
-      "description": "Your Team's Shadows will have their Pitching Boosted from 1% to 12%.",
-      "id": "team_shadows_ranged_pitching",
-      "metadata": {
-        "max": ".12",
-        "min": ".01",
-        "rating": 1,
-        "sourceLocation": [
-          2,
-          3
-        ]
-      },
-      "title": "Shadow Pitching Practice",
-      "type": 160,
-      "value": 1
-    },
-    {
-      "description": "Your Team's Shadows will have their Baserunning Boosted from 1% to 12%.",
-      "id": "team_shadows_ranged_baserunning",
-      "metadata": {
-        "max": ".12",
-        "min": ".01",
-        "rating": 3,
-        "sourceLocation": [
-          2,
-          3
-        ]
-      },
-      "title": "Shadow Running Practice",
-      "type": 160,
-      "value": 1
-    },
-    {
-      "description": "Your Team's Shadows will have their Defense Boosted from 1% to 12%.",
-      "id": "team_shadows_ranged_defense",
-      "metadata": {
-        "max": ".12",
-        "min": ".01",
-        "rating": 2,
-        "sourceLocation": [
-          2,
-          3
-        ]
-      },
-      "title": "Shadow Defense Practice",
-      "type": 160,
+      "title": "Untouchable",
+      "type": 180,
       "value": 1
     }
   ],
   "decrees": [
     {
-      "description": "Anytime a Player accumulates 400 Runs (scoring as a baserunner or allowing as a pitcher), they'll earn an Item Crate for a random active Player on their Team.",
-      "id": "goodie_bags",
-      "title": "Goodie Bags",
-      "type": 65
+      "description": "Upshelling Events on the Feed will earn you Coins and Prizes.",
+      "id": "build_forum",
+      "title": "Forum",
+      "type": 68
     },
     {
-      "description": "Anytime a Division accumulates 99 Wins, each Team in that Division will receive an Item Crate for a random active Player on their Team.",
-      "id": "gift_baskets",
-      "title": "Gift Baskets",
-      "type": 66
+      "description": "Reveal the Ancient Histories of Blaseball.",
+      "id": "build_library",
+      "title": "Library",
+      "type": 69
     },
     {
-      "description": "Anytime 3000 Runs are accumulated league-wide, every Team will receive an Item Crate for a random active Player on their Team.",
-      "id": "community_chest",
-      "title": "Community Chest",
-      "type": 67
+      "description": "Add a Will that lets you build a custom Item and give it to a Player on your Team.",
+      "id": "build_laboratory",
+      "title": "Laboratory",
+      "type": 70
+    },
+    {
+      "description": "All non-Playoff Teams from this Season build a Smithy in their Ballpark, which occasionally repairs Items.",
+      "id": "build_smithy",
+      "title": "Smithy",
+      "type": 71
+    },
+    {
+      "description": "The Top 99 Events of each Season will be Remembered.",
+      "id": "build_monument",
+      "title": "Monument",
+      "type": 72
+    },
+    {
+      "description": "All games have a chance of being Prize Matches, in which the winning Team will open an Item Crate.",
+      "id": "build_fairgrounds",
+      "title": "Fairgrounds",
+      "type": 73
     }
   ],
-  "decreesToPass": 1,
+  "decreesToPass": 3,
   "wills": [
     {
       "description": "Steal a Player from the Idols board. Send a random Player from your Team back.",
