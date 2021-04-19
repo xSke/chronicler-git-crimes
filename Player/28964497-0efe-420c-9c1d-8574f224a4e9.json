@@ -16,7 +16,8 @@
   "evolution": 0,
   "fate": 15,
   "gameAttr": [
-    "REVERBERATING"
+    "REVERBERATING",
+    "REPEATING"
   ],
   "groundFriction": 0.37437619151404145,
   "hitStreak": 0,
