@@ -35,9 +35,9 @@
   "peanutAllergy": false,
   "permAttr": [
     "HOMEBODY",
-    "OVERPERFORMING",
     "MARKED",
-    "ATTRACTOR"
+    "ATTRACTOR",
+    "UNDERPERFORMING"
   ],
   "pitchingRating": 1.4595513532301494,
   "pressurization": 0.7857967407463393,
@@ -48,7 +48,7 @@
   "soul": 0,
   "state": {
     "permModSources": {
-      "OVERPERFORMING": [
+      "UNDERPERFORMING": [
         "HOMEBODY"
       ]
     }
