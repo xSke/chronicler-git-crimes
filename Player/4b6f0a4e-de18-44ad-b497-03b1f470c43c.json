@@ -63,7 +63,8 @@
   "permAttr": [
     "ALTERNATE",
     "FIRE_EATER",
-    "REPEATING"
+    "REPEATING",
+    "SHELLED"
   ],
   "pitchingRating": 0.18520518514863907,
   "pressurization": 0.09845690110078112,
