@@ -62,7 +62,6 @@
   "peanutAllergy": true,
   "permAttr": [
     "ECHO",
-    "FIRE_EATER",
     "SHELLED"
   ],
   "pitchingRating": 0.909012796782468,
@@ -74,9 +73,6 @@
   "soul": 7,
   "state": {
     "permModSources": {
-      "FIRE_EATER": [
-        "ECHO"
-      ],
       "SHELLED": [
         "ECHO"
       ],
