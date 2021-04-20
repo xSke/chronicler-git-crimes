@@ -61,17 +61,11 @@
   "shorthand": "TKL",
   "slogan": "Heart and Swole",
   "stadium": "7f09624b-b3cf-4493-b768-adf090bebf21",
-  "state": {
-    "gameModSources": {
-      "FIERY": [
-        "PSYCHOACOUSTICS"
-      ]
-    }
-  },
+  "state": {},
   "teamSpirit": 0,
   "totalShames": 36,
   "totalShamings": 17,
   "tournamentWins": 0,
   "weekAttr": [],
-  "winStreak": 1
+  "winStreak": -1
 }
