@@ -67,14 +67,12 @@
   "martyrdom": 0.994277731565638,
   "moxie": 0.5772779914216734,
   "musclitude": 0.6064185499663931,
-  "name": "Hendricks Richar-son",
+  "name": "Hendricks Richardson",
   "omniscience": 0.07,
   "overpowerment": 0.29532449952165485,
   "patheticism": 0.23376890259039457,
   "peanutAllergy": false,
-  "permAttr": [
-    "SCATTERED"
-  ],
+  "permAttr": [],
   "pitchingRating": 0.10245743870510812,
   "pressurization": 0.6638795184418913,
   "ritual": "Cold tub",
@@ -87,8 +85,7 @@
       "DOUBLE_PAYOUTS": [
         "d1fb3626-6e48-4efe-bfe9-0b48968ade25"
       ]
-    },
-    "unscatteredName": "Hendricks Richardson"
+    }
   },
   "suppression": 0.4212366013843887,
   "tenaciousness": 0.3371364495207882,
