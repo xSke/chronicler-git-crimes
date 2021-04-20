@@ -21,33 +21,54 @@
   "hittingRating": 1.124430057001952,
   "id": "678170e4-0688-436d-a02d-c0467f9af8c0",
   "indulgence": 0.6272106568921945,
-  "itemAttr": [],
+  "itemAttr": [
+    "ENTANGLED",
+    "UNCERTAIN"
+  ],
   "items": [
     {
       "baserunningRating": 0,
       "defenseRating": 0,
-      "durability": 1,
+      "durability": 3,
       "forger": null,
       "forgerName": null,
-      "health": 0,
-      "hittingRating": 0.041545942842857286,
-      "id": "02b2ed30-a2db-480e-ba15-dade9e68bc57",
-      "name": "Bat",
+      "health": 3,
+      "hittingRating": 0.02149516610418134,
+      "id": "5382b436-fe1d-46fd-b2b5-c75e26b3caca",
+      "name": "Uncertain Necklace of Entanglement",
       "pitchingRating": 0,
       "postPrefix": null,
       "prePrefix": null,
-      "prefixes": null,
+      "prefixes": [
+        {
+          "adjustments": [
+            {
+              "mod": "UNCERTAIN",
+              "type": 0
+            }
+          ],
+          "name": "Uncertain"
+        }
+      ],
       "root": {
         "adjustments": [
           {
-            "stat": 2,
+            "stat": 3,
             "type": 1,
-            "value": 0.1479576564989942
+            "value": 0.19536344289069607
           }
         ],
-        "name": "Bat"
+        "name": "Necklace"
       },
-      "suffix": null
+      "suffix": {
+        "adjustments": [
+          {
+            "mod": "ENTANGLED",
+            "type": 0
+          }
+        ],
+        "name": "Entanglement"
+      }
     }
   ],
   "laserlikeness": 0.5451647290182758,
@@ -70,7 +91,16 @@
   "seasAttr": [],
   "shakespearianism": 0.51957042187695,
   "soul": 4,
-  "state": {},
+  "state": {
+    "itemModSources": {
+      "ENTANGLED": [
+        "5382b436-fe1d-46fd-b2b5-c75e26b3caca"
+      ],
+      "UNCERTAIN": [
+        "5382b436-fe1d-46fd-b2b5-c75e26b3caca"
+      ]
+    }
+  },
   "suppression": 0.1773529386176385,
   "tenaciousness": 0.9497233416175496,
   "thwackability": 1.3545874347266889,

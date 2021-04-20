@@ -21,33 +21,52 @@
   "hittingRating": 0.5712828885303919,
   "id": "6b8d128f-ed51-496d-a965-6614476f8256",
   "indulgence": 0.10311704612332348,
-  "itemAttr": [],
+  "itemAttr": [
+    "FORCE",
+    "COFFEE_PERIL"
+  ],
   "items": [
     {
       "baserunningRating": 0,
-      "defenseRating": 0,
-      "durability": 1,
+      "defenseRating": 0.11183821483195804,
+      "durability": 3,
       "forger": null,
       "forgerName": null,
-      "health": 0,
-      "hittingRating": 0.037127121742833835,
-      "id": "7620d196-2337-4e27-a9b9-8f7dea139078",
-      "name": "Bat",
+      "health": 3,
+      "hittingRating": 0,
+      "id": "483e2719-6901-4ba0-b564-4b0ec548eeca",
+      "name": "Force Field of Observation",
       "pitchingRating": 0,
-      "postPrefix": null,
+      "postPrefix": {
+        "adjustments": [
+          {
+            "mod": "FORCE",
+            "type": 0
+          }
+        ],
+        "name": "Force"
+      },
       "prePrefix": null,
       "prefixes": null,
       "root": {
         "adjustments": [
           {
-            "stat": 2,
+            "stat": 22,
             "type": 1,
-            "value": 0.12355982132695796
+            "value": 0.18079103472170008
           }
         ],
-        "name": "Bat"
+        "name": "Field"
       },
-      "suffix": null
+      "suffix": {
+        "adjustments": [
+          {
+            "mod": "COFFEE_PERIL",
+            "type": 0
+          }
+        ],
+        "name": "Observation"
+      }
     }
   ],
   "laserlikeness": 0.3295632415916062,
@@ -70,7 +89,16 @@
   "seasAttr": [],
   "shakespearianism": 0.3762870759234469,
   "soul": 2,
-  "state": {},
+  "state": {
+    "itemModSources": {
+      "COFFEE_PERIL": [
+        "483e2719-6901-4ba0-b564-4b0ec548eeca"
+      ],
+      "FORCE": [
+        "483e2719-6901-4ba0-b564-4b0ec548eeca"
+      ]
+    }
+  },
   "suppression": 0.9983139214117022,
   "tenaciousness": 0.07540363782607888,
   "thwackability": 0.6269019168583696,
