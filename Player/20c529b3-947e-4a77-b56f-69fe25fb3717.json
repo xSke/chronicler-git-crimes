@@ -24,28 +24,54 @@
   "itemAttr": [],
   "items": [
     {
-      "baserunningRating": 0,
-      "defenseRating": 0,
-      "durability": 1,
+      "baserunningRating": 0.02959133978911971,
+      "defenseRating": 0.0431639286121237,
+      "durability": 2,
       "forger": null,
       "forgerName": null,
-      "health": 0,
-      "hittingRating": 0.018333341552798865,
-      "id": "edaa4590-2b21-4b63-a746-e3a52f6f5e24",
-      "name": "Bat",
-      "pitchingRating": 0,
+      "health": 2,
+      "hittingRating": 0,
+      "id": "ccf06019-04b4-4bde-acdc-d0e0f2efe7bd",
+      "name": "Metaphorical Shoes",
+      "pitchingRating": 0.001380334532108625,
       "postPrefix": null,
       "prePrefix": null,
-      "prefixes": null,
+      "prefixes": [
+        {
+          "adjustments": [
+            {
+              "stat": 14,
+              "type": 1,
+              "value": 0.357983851787798
+            },
+            {
+              "stat": 23,
+              "type": 1,
+              "value": 0.3264741030199416
+            },
+            {
+              "stat": 25,
+              "type": 1,
+              "value": 0.2746213310110429
+            },
+            {
+              "stat": 11,
+              "type": 1,
+              "value": -0.08964696064065558
+            }
+          ],
+          "name": "Metaphorical"
+        }
+      ],
       "root": {
         "adjustments": [
           {
-            "stat": 2,
+            "stat": 10,
             "type": 1,
-            "value": 0.12323838432959004
+            "value": 0.1865807747041409
           }
         ],
-        "name": "Bat"
+        "name": "Shoes"
       },
       "suffix": null
     }
