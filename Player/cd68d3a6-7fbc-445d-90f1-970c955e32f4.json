@@ -33,7 +33,9 @@
   "overpowerment": 0.8535347546522338,
   "patheticism": 0.479254857584443,
   "peanutAllergy": true,
-  "permAttr": [],
+  "permAttr": [
+    "INHABITING"
+  ],
   "pitchingRating": 0.616434958996072,
   "pressurization": 0.1839258183789687,
   "ritual": "Theft",
