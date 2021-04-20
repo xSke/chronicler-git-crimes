@@ -20,9 +20,7 @@
   "emoji": "0x1F531",
   "evolution": 1,
   "fullName": "Atlantis Georgias",
-  "gameAttr": [
-    "EXTRA_STRIKE"
-  ],
+  "gameAttr": [],
   "id": "d9f89a8a-c563-493e-9d64-78e4f9a55d4a",
   "level": 2,
   "lineup": [
@@ -58,17 +56,11 @@
   "shorthand": "ATL",
   "slogan": "You Sink, We Swim",
   "stadium": "37c2743f-1a15-4e3f-bdb1-a6461df93434",
-  "state": {
-    "gameModSources": {
-      "EXTRA_STRIKE": [
-        "PSYCHOACOUSTICS"
-      ]
-    }
-  },
+  "state": {},
   "teamSpirit": 0,
   "totalShames": 18,
   "totalShamings": 14,
   "tournamentWins": 0,
   "weekAttr": [],
-  "winStreak": -1
+  "winStreak": 1
 }
