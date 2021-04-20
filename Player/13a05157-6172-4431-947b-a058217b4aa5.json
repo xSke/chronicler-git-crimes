@@ -1,7 +1,7 @@
 {
   "anticapitalism": 1.5241891915318184,
   "baseThirst": 0.23830900284935835,
-  "baserunningRating": 0.4508020736070087,
+  "baserunningRating": 0.4461284696021601,
   "blood": 4,
   "buoyancy": 0.66484964415115,
   "chasiness": 1.4293943832753109,
@@ -16,7 +16,7 @@
   "evolution": 0,
   "fate": 5,
   "gameAttr": [],
-  "groundFriction": 0.38234921540490013,
+  "groundFriction": 0.3445089732544681,
   "hitStreak": 0,
   "hittingRating": 0.4398746621983845,
   "id": "13a05157-6172-4431-947b-a058217b4aa5",
