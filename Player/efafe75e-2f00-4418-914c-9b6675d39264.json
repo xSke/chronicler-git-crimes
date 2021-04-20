@@ -63,7 +63,8 @@
   "permAttr": [
     "SPICY",
     "EGO3",
-    "MIDDLING"
+    "MIDDLING",
+    "OVERPERFORMING"
   ],
   "pitchingRating": 0.7017882721344733,
   "pressurization": 0.2448115052278576,
@@ -72,7 +73,13 @@
   "seasAttr": [],
   "shakespearianism": 0.6889130913208867,
   "soul": 7,
-  "state": {},
+  "state": {
+    "permModSources": {
+      "OVERPERFORMING": [
+        "MIDDLING"
+      ]
+    }
+  },
   "suppression": 0.45731430129219847,
   "tenaciousness": 0.40355828796160303,
   "thwackability": 1.0440725635066186,
