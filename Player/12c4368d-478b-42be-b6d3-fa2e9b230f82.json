@@ -15,7 +15,9 @@
   "eDensity": 29.580701333156377,
   "evolution": 1,
   "fate": 0,
-  "gameAttr": [],
+  "gameAttr": [
+    "REPEATING"
+  ],
   "groundFriction": 1.2084419866072953,
   "hitStreak": 0,
   "hittingRating": 0.8396247576327079,
