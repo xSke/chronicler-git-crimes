@@ -62,7 +62,7 @@
   "peanutAllergy": true,
   "permAttr": [
     "ECHO",
-    "ALTERNATE"
+    "SHELLED"
   ],
   "pitchingRating": 0.909012796782468,
   "pressurization": 0.9154458307182802,
@@ -73,7 +73,7 @@
   "soul": 7,
   "state": {
     "permModSources": {
-      "ALTERNATE": [
+      "SHELLED": [
         "ECHO"
       ],
       "TRIPLE_THREAT": [
