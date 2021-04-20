@@ -10,7 +10,7 @@
   "coldness": 0.6334817167668362,
   "continuation": 0.27778876699065363,
   "deceased": false,
-  "defenseRating": 0.6578004084319888,
+  "defenseRating": 0.6611201101945001,
   "divinity": 0.041250455584755485,
   "eDensity": 18.02853569037363,
   "evolution": 0,
@@ -94,6 +94,6 @@
   "tournamentTeamId": null,
   "tragicness": 0.06079906641624997,
   "unthwackability": 0.9100649495283876,
-  "watchfulness": 0.7961210324059489,
+  "watchfulness": 0.8372234583080168,
   "weekAttr": []
 }
