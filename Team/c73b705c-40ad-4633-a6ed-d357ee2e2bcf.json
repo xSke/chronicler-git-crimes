@@ -18,11 +18,13 @@
   ],
   "card": 10,
   "championships": 0,
-  "eDensity": 1361.9106813277497,
+  "eDensity": 1364.5972200242525,
   "emoji": "🏋️‍♀️",
   "evolution": 0,
   "fullName": "Tokyo Lift",
-  "gameAttr": [],
+  "gameAttr": [
+    "FIREPROOF"
+  ],
   "id": "c73b705c-40ad-4633-a6ed-d357ee2e2bcf",
   "level": 2,
   "lineup": [
@@ -50,7 +52,7 @@
     "f741dc01-2bae-4459-bfc0-f97536193eea",
     "28162da7-eafa-4eb1-8bc1-5a625f03ae57"
   ],
-  "rotationSlot": 26,
+  "rotationSlot": 27,
   "seasAttr": [],
   "seasonShames": 2,
   "seasonShamings": 2,
@@ -59,7 +61,13 @@
   "shorthand": "TKL",
   "slogan": "Heart and Swole",
   "stadium": "7f09624b-b3cf-4493-b768-adf090bebf21",
-  "state": {},
+  "state": {
+    "gameModSources": {
+      "FIREPROOF": [
+        "PSYCHOACOUSTICS"
+      ]
+    }
+  },
   "teamSpirit": 0,
   "totalShames": 38,
   "totalShamings": 18,
