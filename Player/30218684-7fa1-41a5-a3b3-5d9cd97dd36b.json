@@ -55,7 +55,7 @@
   "martyrdom": 0.704951526028453,
   "moxie": 0.5851644015411556,
   "musclitude": 0.7606858172807677,
-  "name": "Jordan Hildebert",
+  "name": "--r--- -----b---",
   "omniscience": 0.8015213760335168,
   "overpowerment": 1.0839819824194312,
   "patheticism": 0.4176997877559565,
@@ -63,7 +63,7 @@
   "permAttr": [
     "FRIEND_OF_CROWS",
     "SIPHON",
-    "ELSEWHERE"
+    "SCATTERED"
   ],
   "pitchingRating": 0.7664849551159566,
   "pressurization": 0.14854720613269462,
@@ -73,10 +73,7 @@
   "shakespearianism": 1.2281857248930803,
   "soul": 9,
   "state": {
-    "elsewhere": {
-      "day": 71,
-      "season": 15
-    }
+    "unscatteredName": "Jordan Hildebert"
   },
   "suppression": 0.3484227410588372,
   "tenaciousness": 0.6799666007835589,
