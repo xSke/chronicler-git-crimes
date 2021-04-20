@@ -18,7 +18,7 @@
   ],
   "card": 16,
   "championships": 0,
-  "eDensity": 1403.8497073678536,
+  "eDensity": 1407.4600084034555,
   "emoji": "0x1F6A4",
   "evolution": 0,
   "fullName": "Miami Dale",
@@ -63,5 +63,5 @@
   "totalShamings": 58,
   "tournamentWins": 0,
   "weekAttr": [],
-  "winStreak": 1
+  "winStreak": -1
 }
