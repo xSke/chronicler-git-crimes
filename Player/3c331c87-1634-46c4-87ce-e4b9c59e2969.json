@@ -60,7 +60,9 @@
   "overpowerment": 0.7156209571036672,
   "patheticism": 0.030928123995975,
   "peanutAllergy": false,
-  "permAttr": [],
+  "permAttr": [
+    "ELSEWHERE"
+  ],
   "pitchingRating": 0.9944598902433834,
   "pressurization": 0.3186511553901601,
   "ritual": "Cartoons",
