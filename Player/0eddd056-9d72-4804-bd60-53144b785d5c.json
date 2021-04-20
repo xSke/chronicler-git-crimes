@@ -55,14 +55,14 @@
   "martyrdom": 0.15187679597679377,
   "moxie": 0.7330853808140045,
   "musclitude": 0.27272387623045535,
-  "name": "Caleb Novak",
+  "name": "Cal-b -o-ak",
   "omniscience": 0.755426039196899,
   "overpowerment": 0.9190378176740852,
   "patheticism": 0.8526348791460456,
   "peanutAllergy": false,
   "permAttr": [
     "FIRE_EATER",
-    "ELSEWHERE"
+    "SCATTERED"
   ],
   "pitchingRating": 0.16214403220795048,
   "pressurization": 0.0934128692276665,
@@ -72,10 +72,7 @@
   "shakespearianism": 0.5689152313666815,
   "soul": 3,
   "state": {
-    "elsewhere": {
-      "day": 92,
-      "season": 15
-    }
+    "unscatteredName": "Caleb Novak"
   },
   "suppression": 0.48585145458168894,
   "tenaciousness": 0.30862710945226596,
