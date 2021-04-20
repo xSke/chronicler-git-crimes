@@ -21,33 +21,89 @@
   "hittingRating": 0.9945578994872172,
   "id": "11de4da3-8208-43ff-a1ff-0b3480a0fbf1",
   "indulgence": 1.252691721682053,
-  "itemAttr": [],
+  "itemAttr": [
+    "TRAVELING"
+  ],
   "items": [
     {
-      "baserunningRating": 0,
-      "defenseRating": 0,
-      "durability": 1,
+      "baserunningRating": 0.09299159860971452,
+      "defenseRating": 0.05366409418354734,
+      "durability": 4,
       "forger": null,
       "forgerName": null,
-      "health": 1,
-      "hittingRating": 0.05044469061272738,
-      "id": "bcfa4088-3176-4b04-a3d2-97a367644dae",
-      "name": "Bat",
+      "health": 4,
+      "hittingRating": 0.0944325907761998,
+      "id": "147317bb-c783-4768-8624-44fb224b9939",
+      "name": "Lucky Travelling Shoes of Wisdom",
       "pitchingRating": 0,
       "postPrefix": null,
       "prePrefix": null,
-      "prefixes": null,
+      "prefixes": [
+        {
+          "adjustments": [
+            {
+              "stat": 2,
+              "type": 1,
+              "value": 0.11775888938205256
+            },
+            {
+              "stat": 4,
+              "type": 1,
+              "value": 0.19136323006009515
+            },
+            {
+              "stat": 3,
+              "type": 1,
+              "value": -0.1373949719212647
+            },
+            {
+              "stat": 6,
+              "type": 1,
+              "value": 0.1065872591676857
+            }
+          ],
+          "name": "Lucky"
+        },
+        {
+          "adjustments": [
+            {
+              "mod": "TRAVELING",
+              "type": 0
+            }
+          ],
+          "name": "Travelling"
+        }
+      ],
       "root": {
         "adjustments": [
           {
-            "stat": 2,
+            "stat": 10,
             "type": 1,
-            "value": 0.13006568378560457
+            "value": 0.19173256955182308
           }
         ],
-        "name": "Bat"
+        "name": "Shoes"
       },
-      "suffix": null
+      "suffix": {
+        "adjustments": [
+          {
+            "stat": 21,
+            "type": 1,
+            "value": 0.17223463062350733
+          },
+          {
+            "stat": 23,
+            "type": 1,
+            "value": 0.1719807713974405
+          },
+          {
+            "stat": 12,
+            "type": 1,
+            "value": 0.1208276177755518
+          }
+        ],
+        "name": "Wisdom"
+      }
     }
   ],
   "laserlikeness": 1.3541883531099872,
@@ -70,7 +126,13 @@
   "seasAttr": [],
   "shakespearianism": 1.3898727180401105,
   "soul": 2,
-  "state": {},
+  "state": {
+    "itemModSources": {
+      "TRAVELING": [
+        "147317bb-c783-4768-8624-44fb224b9939"
+      ]
+    }
+  },
   "suppression": 0.4755076769159464,
   "tenaciousness": 0.5049668959560221,
   "thwackability": 0.8588796934116999,

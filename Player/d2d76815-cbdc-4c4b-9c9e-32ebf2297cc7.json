@@ -24,30 +24,65 @@
   "itemAttr": [],
   "items": [
     {
-      "baserunningRating": 0,
-      "defenseRating": 0,
-      "durability": 1,
+      "baserunningRating": -0.05424363436871504,
+      "defenseRating": -0.02831069712990292,
+      "durability": 3,
       "forger": null,
       "forgerName": null,
-      "health": 1,
-      "hittingRating": 0.03259200039684562,
-      "id": "0ed6cde0-69ab-45f7-9a3b-b1afc1d79189",
-      "name": "Bat",
-      "pitchingRating": 0,
+      "health": 3,
+      "hittingRating": 0.11773864648368326,
+      "id": "95c518b0-1e4f-4403-b590-003e387c01bf",
+      "name": "Wooden Bat of Strength",
+      "pitchingRating": 0.029546350843105414,
       "postPrefix": null,
       "prePrefix": null,
-      "prefixes": null,
+      "prefixes": [
+        {
+          "adjustments": [
+            {
+              "stat": 2,
+              "type": 1,
+              "value": 0.22492803134131947
+            },
+            {
+              "stat": 10,
+              "type": 1,
+              "value": -0.09166944759839447
+            },
+            {
+              "stat": 22,
+              "type": 1,
+              "value": -0.11340716886746303
+            }
+          ],
+          "name": "Wooden"
+        }
+      ],
       "root": {
         "adjustments": [
           {
             "stat": 2,
             "type": 1,
-            "value": 0.10930064054294024
+            "value": 0.11892729928843176
           }
         ],
         "name": "Bat"
       },
-      "suffix": null
+      "suffix": {
+        "adjustments": [
+          {
+            "stat": 5,
+            "type": 1,
+            "value": 0.2016546861377156
+          },
+          {
+            "stat": 18,
+            "type": 1,
+            "value": 0.19430197192451196
+          }
+        ],
+        "name": "Strength"
+      }
     }
   ],
   "laserlikeness": 0.4136447700851963,

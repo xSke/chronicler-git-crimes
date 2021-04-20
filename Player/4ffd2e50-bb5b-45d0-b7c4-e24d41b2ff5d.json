@@ -21,31 +21,72 @@
   "hittingRating": 0.7342883033802067,
   "id": "4ffd2e50-bb5b-45d0-b7c4-e24d41b2ff5d",
   "indulgence": 1.1074093517070505,
-  "itemAttr": [],
+  "itemAttr": [
+    "SOUNDPROOF",
+    "AMBITIOUS"
+  ],
   "items": [
     {
-      "baserunningRating": 0,
+      "baserunningRating": -0.02080802951025429,
       "defenseRating": 0,
-      "durability": 1,
+      "durability": 4,
       "forger": null,
       "forgerName": null,
-      "health": 1,
-      "hittingRating": 0.06357990250910261,
-      "id": "4b547265-e57b-409d-a350-546595a46874",
-      "name": "Bat",
-      "pitchingRating": 0,
-      "postPrefix": null,
+      "health": 4,
+      "hittingRating": 0.03425962883100764,
+      "id": "bbb4f0d5-5e4a-4093-aabd-6e9344c76daa",
+      "name": "Noise-Cancelling Ambitious Blood Cap",
+      "pitchingRating": 0.08441410067818145,
+      "postPrefix": {
+        "adjustments": [
+          {
+            "stat": 7,
+            "type": 1,
+            "value": 0.11329037971116047
+          },
+          {
+            "stat": 9,
+            "type": 1,
+            "value": -0.0953559510506837
+          },
+          {
+            "stat": 4,
+            "type": 1,
+            "value": 0.17711324428847647
+          }
+        ],
+        "name": "Blood"
+      },
       "prePrefix": null,
-      "prefixes": null,
+      "prefixes": [
+        {
+          "adjustments": [
+            {
+              "mod": "SOUNDPROOF",
+              "type": 0
+            }
+          ],
+          "name": "Noise-Cancelling"
+        },
+        {
+          "adjustments": [
+            {
+              "mod": "AMBITIOUS",
+              "type": 0
+            }
+          ],
+          "name": "Ambitious"
+        }
+      ],
       "root": {
         "adjustments": [
           {
-            "stat": 2,
+            "stat": 16,
             "type": 1,
-            "value": 0.13025089574821372
+            "value": 0.17627267883459863
           }
         ],
-        "name": "Bat"
+        "name": "Cap"
       },
       "suffix": null
     }
@@ -68,7 +109,16 @@
   "seasAttr": [],
   "shakespearianism": 0.5756521891336078,
   "soul": 4,
-  "state": {},
+  "state": {
+    "itemModSources": {
+      "AMBITIOUS": [
+        "bbb4f0d5-5e4a-4093-aabd-6e9344c76daa"
+      ],
+      "SOUNDPROOF": [
+        "bbb4f0d5-5e4a-4093-aabd-6e9344c76daa"
+      ]
+    }
+  },
   "suppression": 0.6434852223842624,
   "tenaciousness": 0.5240996938198681,
   "thwackability": 0.4864224398331869,

@@ -21,33 +21,59 @@
   "hittingRating": 0.3935333180980199,
   "id": "12577256-bc4e-4955-81d6-b422d895fb12",
   "indulgence": 0.3989144856140363,
-  "itemAttr": [],
+  "itemAttr": [
+    "BLASERUNNING"
+  ],
   "items": [
     {
       "baserunningRating": 0,
-      "defenseRating": 0,
-      "durability": 1,
+      "defenseRating": 0.004552115809719537,
+      "durability": 3,
       "forger": null,
       "forgerName": null,
-      "health": 1,
-      "hittingRating": 0.09231943874757724,
-      "id": "dc978e67-f51f-4b7e-876a-0f334b3ab730",
-      "name": "Bat",
-      "pitchingRating": 0,
+      "health": 3,
+      "hittingRating": 0.008857441146461698,
+      "id": "b7a5510c-685c-41e5-abc8-3667afa67ebf",
+      "name": "Brambly Necklace of Blaserunning",
+      "pitchingRating": 0.05524046384225623,
       "postPrefix": null,
       "prePrefix": null,
-      "prefixes": null,
+      "prefixes": [
+        {
+          "adjustments": [
+            {
+              "stat": 19,
+              "type": 1,
+              "value": 0.14820756209014196
+            },
+            {
+              "stat": 24,
+              "type": 1,
+              "value": 0.10506974136762266
+            }
+          ],
+          "name": "Brambly"
+        }
+      ],
       "root": {
         "adjustments": [
           {
-            "stat": 2,
+            "stat": 3,
             "type": 1,
-            "value": 0.139682217909721
+            "value": 0.11299201133263166
           }
         ],
-        "name": "Bat"
+        "name": "Necklace"
       },
-      "suffix": null
+      "suffix": {
+        "adjustments": [
+          {
+            "mod": "BLASERUNNING",
+            "type": 0
+          }
+        ],
+        "name": "Blaserunning"
+      }
     }
   ],
   "laserlikeness": 0.21218311147180152,
@@ -70,7 +96,13 @@
   "seasAttr": [],
   "shakespearianism": 0.6730709840387874,
   "soul": 4,
-  "state": {},
+  "state": {
+    "itemModSources": {
+      "BLASERUNNING": [
+        "b7a5510c-685c-41e5-abc8-3667afa67ebf"
+      ]
+    }
+  },
   "suppression": 0.2728692605918413,
   "tenaciousness": 0.11118620272591176,
   "thwackability": 0.15647386617329792,

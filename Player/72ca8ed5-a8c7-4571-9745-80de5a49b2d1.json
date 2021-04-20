@@ -26,26 +26,40 @@
     {
       "baserunningRating": 0,
       "defenseRating": 0,
-      "durability": 1,
+      "durability": 2,
       "forger": null,
       "forgerName": null,
-      "health": 1,
-      "hittingRating": 0.026671855471570582,
-      "id": "a15f54fa-53ec-4c55-bc81-6189fc1f261f",
-      "name": "Bat",
-      "pitchingRating": 0,
-      "postPrefix": null,
+      "health": 2,
+      "hittingRating": 0.025114321548358243,
+      "id": "d7b98d29-f376-44ae-95cc-852c6d985bb8",
+      "name": "Arm Cap",
+      "pitchingRating": 0.13647654656110866,
+      "postPrefix": {
+        "adjustments": [
+          {
+            "stat": 2,
+            "type": 1,
+            "value": 0.13518165379223646
+          },
+          {
+            "stat": 16,
+            "type": 1,
+            "value": 0.12787685893966988
+          }
+        ],
+        "name": "Arm"
+      },
       "prePrefix": null,
       "prefixes": null,
       "root": {
         "adjustments": [
           {
-            "stat": 2,
+            "stat": 16,
             "type": 1,
-            "value": 0.14399148362409214
+            "value": 0.15858338974194497
           }
         ],
-        "name": "Bat"
+        "name": "Cap"
       },
       "suffix": null
     }

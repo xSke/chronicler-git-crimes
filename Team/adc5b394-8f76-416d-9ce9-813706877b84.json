@@ -49,10 +49,10 @@
   ],
   "rotationSlot": 30,
   "seasAttr": [],
-  "seasonShames": 2,
+  "seasonShames": 3,
   "seasonShamings": 1,
   "secondaryColor": "#178f55",
-  "shameRuns": 0,
+  "shameRuns": 1,
   "shorthand": "KCBM",
   "slogan": "Fresh Breath, Here We Come.",
   "stadium": "21ce1233-b2d6-4bd2-8d03-68a8915afdc5",
@@ -60,9 +60,9 @@
     "permModSources": {}
   },
   "teamSpirit": 0,
-  "totalShames": 81,
+  "totalShames": 82,
   "totalShamings": 61,
   "tournamentWins": 0,
   "weekAttr": [],
-  "winStreak": -3
+  "winStreak": -4
 }

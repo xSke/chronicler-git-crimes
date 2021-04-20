@@ -24,49 +24,51 @@
   "itemAttr": [],
   "items": [
     {
-      "baserunningRating": 0,
-      "defenseRating": 0.024977736680925955,
+      "baserunningRating": 0.01754683037356064,
+      "defenseRating": 0.029221666876408592,
       "durability": 2,
       "forger": null,
       "forgerName": null,
       "health": 2,
-      "hittingRating": 0.049693360109011486,
-      "id": "311bf178-6b9c-4570-add4-6cfe111ef971",
-      "name": "Bat of Intelligence",
-      "pitchingRating": 0.021905232105179695,
+      "hittingRating": 0.005926727989368663,
+      "id": "0f6b3d3b-34f4-45f6-8d19-c389d524f87d",
+      "name": "Hearty Necklace",
+      "pitchingRating": 0,
       "postPrefix": null,
       "prePrefix": null,
-      "prefixes": null,
+      "prefixes": [
+        {
+          "adjustments": [
+            {
+              "stat": 22,
+              "type": 1,
+              "value": 0.19837324265403744
+            },
+            {
+              "stat": 20,
+              "type": 1,
+              "value": 0.15118946205833905
+            },
+            {
+              "stat": 12,
+              "type": 1,
+              "value": 0.12237650192774174
+            }
+          ],
+          "name": "Hearty"
+        }
+      ],
       "root": {
         "adjustments": [
           {
-            "stat": 2,
+            "stat": 3,
             "type": 1,
-            "value": 0.19606302455044303
+            "value": 0.12472677805630328
           }
         ],
-        "name": "Bat"
+        "name": "Necklace"
       },
-      "suffix": {
-        "adjustments": [
-          {
-            "stat": 19,
-            "type": 1,
-            "value": 0.17603045311409174
-          },
-          {
-            "stat": 24,
-            "type": 1,
-            "value": 0.1516936072888322
-          },
-          {
-            "stat": 14,
-            "type": 1,
-            "value": 0.13361849863552352
-          }
-        ],
-        "name": "Intelligence"
-      }
+      "suffix": null
     }
   ],
   "laserlikeness": 0.7424979820322655,

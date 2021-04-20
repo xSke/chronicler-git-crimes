@@ -24,6 +24,32 @@
   "itemAttr": [],
   "items": [
     {
+      "baserunningRating": 0.12269831690492504,
+      "defenseRating": 0,
+      "durability": 1,
+      "forger": null,
+      "forgerName": null,
+      "health": 1,
+      "hittingRating": 0,
+      "id": "d1e34162-bd5f-436e-9e5b-acbc30bedbab",
+      "name": "Shoes",
+      "pitchingRating": 0,
+      "postPrefix": null,
+      "prePrefix": null,
+      "prefixes": null,
+      "root": {
+        "adjustments": [
+          {
+            "stat": 10,
+            "type": 1,
+            "value": 0.1582446233712125
+          }
+        ],
+        "name": "Shoes"
+      },
+      "suffix": null
+    },
+    {
       "baserunningRating": 0,
       "defenseRating": 0,
       "durability": 2,

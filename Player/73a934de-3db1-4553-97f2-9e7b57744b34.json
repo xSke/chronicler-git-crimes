@@ -22,7 +22,48 @@
   "id": "73a934de-3db1-4553-97f2-9e7b57744b34",
   "indulgence": 0.01962010633127909,
   "itemAttr": [],
-  "items": [],
+  "items": [
+    {
+      "baserunningRating": 0,
+      "defenseRating": 0,
+      "durability": 2,
+      "forger": null,
+      "forgerName": null,
+      "health": 2,
+      "hittingRating": 0.07497669164230875,
+      "id": "70eaf198-8ced-4c44-b5d9-3d2baefa5bba",
+      "name": "Arm Jersey",
+      "pitchingRating": 0.02552368319739039,
+      "postPrefix": {
+        "adjustments": [
+          {
+            "stat": 2,
+            "type": 1,
+            "value": 0.12533514566369605
+          },
+          {
+            "stat": 16,
+            "type": 1,
+            "value": 0.1642202209400331
+          }
+        ],
+        "name": "Arm"
+      },
+      "prePrefix": null,
+      "prefixes": null,
+      "root": {
+        "adjustments": [
+          {
+            "stat": 5,
+            "type": 1,
+            "value": 0.16785221497430525
+          }
+        ],
+        "name": "Jersey"
+      },
+      "suffix": null
+    }
+  ],
   "laserlikeness": 0.3674839777516616,
   "leagueTeamId": "3f8bbb15-61c0-4e3f-8e4a-907a5fb1565e",
   "martyrdom": 0.5249995292431402,

@@ -24,28 +24,44 @@
   "itemAttr": [],
   "items": [
     {
-      "baserunningRating": 0,
+      "baserunningRating": 0.020959784693742156,
       "defenseRating": 0,
-      "durability": 1,
+      "durability": 2,
       "forger": null,
       "forgerName": null,
-      "health": 0,
-      "hittingRating": 0.007529987223465318,
-      "id": "f85e4fb2-0f10-4d20-b865-8bc7d98f5b3d",
-      "name": "Necklace",
+      "health": 2,
+      "hittingRating": 0,
+      "id": "20de2f6c-18f6-48a2-a81f-a28f4924d829",
+      "name": "Passionate Sunglasses",
       "pitchingRating": 0,
       "postPrefix": null,
       "prePrefix": null,
-      "prefixes": null,
+      "prefixes": [
+        {
+          "adjustments": [
+            {
+              "stat": 9,
+              "type": 1,
+              "value": 0.15250611891316748
+            },
+            {
+              "stat": 11,
+              "type": 1,
+              "value": 0.1341391153666814
+            }
+          ],
+          "name": "Passionate"
+        }
+      ],
       "root": {
         "adjustments": [
           {
-            "stat": 3,
+            "stat": 8,
             "type": 1,
-            "value": 0.12885848672052916
+            "value": 0.15076049600786437
           }
         ],
-        "name": "Necklace"
+        "name": "Sunglasses"
       },
       "suffix": null
     },

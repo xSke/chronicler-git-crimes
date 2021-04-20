@@ -24,15 +24,15 @@
   "itemAttr": [],
   "items": [
     {
-      "baserunningRating": 0,
-      "defenseRating": 0,
-      "durability": 1,
+      "baserunningRating": 0.014085396213120438,
+      "defenseRating": 0.03769842201910367,
+      "durability": 2,
       "forger": null,
       "forgerName": null,
-      "health": 1,
-      "hittingRating": 0.055399641478434014,
-      "id": "91a454e7-ade2-404e-8d0b-af34e231813c",
-      "name": "Bat",
+      "health": 2,
+      "hittingRating": 0.009777633764201044,
+      "id": "1e72bafe-5040-45a9-a885-3288513fa0b7",
+      "name": "Necklace of Wisdom",
       "pitchingRating": 0,
       "postPrefix": null,
       "prePrefix": null,
@@ -40,14 +40,33 @@
       "root": {
         "adjustments": [
           {
-            "stat": 2,
+            "stat": 3,
             "type": 1,
-            "value": 0.14907304192863124
+            "value": 0.1736468625904914
           }
         ],
-        "name": "Bat"
+        "name": "Necklace"
       },
-      "suffix": null
+      "suffix": {
+        "adjustments": [
+          {
+            "stat": 21,
+            "type": 1,
+            "value": 0.12254898072297414
+          },
+          {
+            "stat": 23,
+            "type": 1,
+            "value": 0.12537624593165947
+          },
+          {
+            "stat": 12,
+            "type": 1,
+            "value": 0.112079732475751
+          }
+        ],
+        "name": "Wisdom"
+      }
     }
   ],
   "laserlikeness": 0.9530012799385156,

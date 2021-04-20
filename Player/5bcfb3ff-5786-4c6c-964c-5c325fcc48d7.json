@@ -24,25 +24,65 @@
   "itemAttr": [],
   "items": [
     {
-      "baserunningRating": 0,
-      "defenseRating": 0,
-      "durability": 1,
+      "baserunningRating": 0.05762160733064581,
+      "defenseRating": -0.04100853197164789,
+      "durability": 3,
       "forger": null,
       "forgerName": null,
-      "health": 0,
-      "hittingRating": 0.05227346201997163,
-      "id": "af2879c7-4e6f-4105-bec5-7fffa5164a6b",
-      "name": "Bat",
-      "pitchingRating": 0,
-      "postPrefix": null,
+      "health": 3,
+      "hittingRating": 0.0973453856718154,
+      "id": "edde5b41-625c-4721-9a4d-4e276f3726a4",
+      "name": "Sharp Leg Bat",
+      "pitchingRating": 0.02261423333404375,
+      "postPrefix": {
+        "adjustments": [
+          {
+            "stat": 10,
+            "type": 1,
+            "value": 0.12386398200778832
+          },
+          {
+            "stat": 25,
+            "type": 1,
+            "value": 0.10364729753095284
+          }
+        ],
+        "name": "Leg"
+      },
       "prePrefix": null,
-      "prefixes": null,
+      "prefixes": [
+        {
+          "adjustments": [
+            {
+              "stat": 2,
+              "type": 1,
+              "value": 0.14318882650231346
+            },
+            {
+              "stat": 16,
+              "type": 1,
+              "value": 0.1852282684663552
+            },
+            {
+              "stat": 13,
+              "type": 1,
+              "value": 0.12321135475442124
+            },
+            {
+              "stat": 22,
+              "type": 1,
+              "value": -0.19052931100700551
+            }
+          ],
+          "name": "Sharp"
+        }
+      ],
       "root": {
         "adjustments": [
           {
             "stat": 2,
             "type": 1,
-            "value": 0.14856198106854623
+            "value": 0.14753108705511625
           }
         ],
         "name": "Bat"

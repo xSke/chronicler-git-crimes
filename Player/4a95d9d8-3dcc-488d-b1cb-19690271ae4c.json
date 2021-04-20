@@ -25,6 +25,68 @@
   "items": [
     {
       "baserunningRating": 0,
+      "defenseRating": -0.021185263279255295,
+      "durability": 3,
+      "forger": null,
+      "forgerName": null,
+      "health": 3,
+      "hittingRating": 0.017850418876666607,
+      "id": "9a19b0dc-1bd8-4480-99fa-a327380f1442",
+      "name": "Limestone Hard Sunglasses",
+      "pitchingRating": 0.24192126838197048,
+      "postPrefix": null,
+      "prePrefix": null,
+      "prefixes": [
+        {
+          "adjustments": [
+            {
+              "stat": 16,
+              "type": 1,
+              "value": 0.3049452033694827
+            },
+            {
+              "stat": 18,
+              "type": 1,
+              "value": -0.046793309247728294
+            }
+          ],
+          "name": "Limestone"
+        },
+        {
+          "adjustments": [
+            {
+              "stat": 19,
+              "type": 1,
+              "value": 0.23839241069531533
+            },
+            {
+              "stat": 5,
+              "type": 1,
+              "value": 0.16991473560873138
+            },
+            {
+              "stat": 21,
+              "type": 1,
+              "value": -0.10005215871584032
+            }
+          ],
+          "name": "Hard"
+        }
+      ],
+      "root": {
+        "adjustments": [
+          {
+            "stat": 8,
+            "type": 1,
+            "value": 0.1696859186933221
+          }
+        ],
+        "name": "Sunglasses"
+      },
+      "suffix": null
+    },
+    {
+      "baserunningRating": 0,
       "defenseRating": 0,
       "durability": 1,
       "forger": null,

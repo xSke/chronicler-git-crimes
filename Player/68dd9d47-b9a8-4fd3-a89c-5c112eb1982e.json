@@ -26,34 +26,42 @@
     {
       "baserunningRating": 0,
       "defenseRating": 0,
-      "durability": 4,
+      "durability": 2,
       "forger": null,
       "forgerName": null,
-      "health": 4,
-      "hittingRating": 0.11139757415520618,
-      "id": "aab9ce81-6fd4-439b-867c-a9da07b3e011",
-      "name": "Concrete Bat",
-      "pitchingRating": 0,
-      "postPrefix": {
-        "adjustments": [
-          {
-            "type": 3,
-            "value": 2
-          }
-        ],
-        "name": "Concrete"
-      },
+      "health": 2,
+      "hittingRating": 0.018885595603309106,
+      "id": "1af27c15-2031-4ff7-8764-25afa87932b2",
+      "name": "Mesh Cap",
+      "pitchingRating": 0.04822182344856751,
+      "postPrefix": null,
       "prePrefix": null,
-      "prefixes": null,
+      "prefixes": [
+        {
+          "adjustments": [
+            {
+              "stat": 3,
+              "type": 1,
+              "value": 0.2711596168337296
+            },
+            {
+              "stat": 18,
+              "type": 1,
+              "value": -0.13816592733531155
+            }
+          ],
+          "name": "Mesh"
+        }
+      ],
       "root": {
         "adjustments": [
           {
-            "stat": 2,
+            "stat": 16,
             "type": 1,
-            "value": 0.11636700336056469
+            "value": 0.10832238453797945
           }
         ],
-        "name": "Bat"
+        "name": "Cap"
       },
       "suffix": null
     }

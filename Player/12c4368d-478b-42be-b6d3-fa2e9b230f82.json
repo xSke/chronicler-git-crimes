@@ -28,6 +28,58 @@
     {
       "baserunningRating": 0,
       "defenseRating": 0,
+      "durability": 2,
+      "forger": null,
+      "forgerName": null,
+      "health": 2,
+      "hittingRating": 0.031595303389441276,
+      "id": "3328255f-0336-46bd-a937-14c9f2d7a422",
+      "name": "Holey Ring",
+      "pitchingRating": 0.09301074617319915,
+      "postPrefix": null,
+      "prePrefix": null,
+      "prefixes": [
+        {
+          "adjustments": [
+            {
+              "stat": 4,
+              "type": 1,
+              "value": 0.16683741299794214
+            },
+            {
+              "stat": 18,
+              "type": 1,
+              "value": -0.061932968279589856
+            },
+            {
+              "stat": 6,
+              "type": 1,
+              "value": 0.13995758244581846
+            },
+            {
+              "stat": 0,
+              "type": 1,
+              "value": 0.10047449497791466
+            }
+          ],
+          "name": "Holey"
+        }
+      ],
+      "root": {
+        "adjustments": [
+          {
+            "stat": 19,
+            "type": 1,
+            "value": 0.19681180202970416
+          }
+        ],
+        "name": "Ring"
+      },
+      "suffix": null
+    },
+    {
+      "baserunningRating": 0,
+      "defenseRating": 0,
       "durability": 1,
       "forger": null,
       "forgerName": null,

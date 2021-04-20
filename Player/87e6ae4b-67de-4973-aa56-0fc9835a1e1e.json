@@ -24,25 +24,76 @@
   "itemAttr": [],
   "items": [
     {
-      "baserunningRating": 0,
-      "defenseRating": 0,
-      "durability": 1,
+      "baserunningRating": -0.01066886719461002,
+      "defenseRating": 0.04567137653691389,
+      "durability": 3,
       "forger": null,
       "forgerName": null,
-      "health": 1,
-      "hittingRating": 0.07796061149808275,
-      "id": "5ae72654-58e3-4a50-bd4b-0ba4e8dbb95c",
-      "name": "Bat",
-      "pitchingRating": 0,
+      "health": 3,
+      "hittingRating": 0.09110205471665211,
+      "id": "7d1e2cff-9ebe-4264-83f6-e1fc27a877ad",
+      "name": "Greedy Metaphorical Bat",
+      "pitchingRating": 0.013944475367683172,
       "postPrefix": null,
       "prePrefix": null,
-      "prefixes": null,
+      "prefixes": [
+        {
+          "adjustments": [
+            {
+              "stat": 12,
+              "type": 1,
+              "value": 0.2329280325268036
+            },
+            {
+              "stat": 11,
+              "type": 1,
+              "value": 0.2219187954817239
+            },
+            {
+              "stat": 9,
+              "type": 1,
+              "value": 0.2305026129937714
+            },
+            {
+              "stat": 10,
+              "type": 1,
+              "value": -0.13663984740977891
+            }
+          ],
+          "name": "Greedy"
+        },
+        {
+          "adjustments": [
+            {
+              "stat": 14,
+              "type": 1,
+              "value": 0.2003300764987771
+            },
+            {
+              "stat": 23,
+              "type": 1,
+              "value": 0.32171642672605266
+            },
+            {
+              "stat": 25,
+              "type": 1,
+              "value": 0.25649735516247263
+            },
+            {
+              "stat": 11,
+              "type": 1,
+              "value": -0.185136667633045
+            }
+          ],
+          "name": "Metaphorical"
+        }
+      ],
       "root": {
         "adjustments": [
           {
             "stat": 2,
             "type": 1,
-            "value": 0.1440021876889495
+            "value": 0.1706373100991361
           }
         ],
         "name": "Bat"

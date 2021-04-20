@@ -21,8 +21,96 @@
   "hittingRating": 0.9421647445220492,
   "id": "84a2b5f6-4955-4007-9299-3d35ae7135d3",
   "indulgence": 0.66937458816888,
-  "itemAttr": [],
+  "itemAttr": [
+    "GRAVITY"
+  ],
   "items": [
+    {
+      "baserunningRating": 0.010332639145903657,
+      "defenseRating": 0.008112195226817942,
+      "durability": 4,
+      "forger": null,
+      "forgerName": null,
+      "health": 4,
+      "hittingRating": 0.08889822741352327,
+      "id": "c3136764-a320-4a47-8f8d-fef45bb195db",
+      "name": "Sharp Gravity Holey Glove",
+      "pitchingRating": 0.04540710676721271,
+      "postPrefix": null,
+      "prePrefix": null,
+      "prefixes": [
+        {
+          "adjustments": [
+            {
+              "stat": 2,
+              "type": 1,
+              "value": 0.13728321678812366
+            },
+            {
+              "stat": 16,
+              "type": 1,
+              "value": 0.16950904132369218
+            },
+            {
+              "stat": 13,
+              "type": 1,
+              "value": 0.184883573269625
+            },
+            {
+              "stat": 22,
+              "type": 1,
+              "value": -0.14183992164330167
+            }
+          ],
+          "name": "Sharp"
+        },
+        {
+          "adjustments": [
+            {
+              "mod": "GRAVITY",
+              "type": 0
+            }
+          ],
+          "name": "Gravity"
+        },
+        {
+          "adjustments": [
+            {
+              "stat": 4,
+              "type": 1,
+              "value": 0.17936857564249897
+            },
+            {
+              "stat": 18,
+              "type": 1,
+              "value": -0.07881113656487462
+            },
+            {
+              "stat": 6,
+              "type": 1,
+              "value": 0.15716315075343648
+            },
+            {
+              "stat": 0,
+              "type": 1,
+              "value": 0.14813234057805044
+            }
+          ],
+          "name": "Holey"
+        }
+      ],
+      "root": {
+        "adjustments": [
+          {
+            "stat": 21,
+            "type": 1,
+            "value": 0.18192354082125603
+          }
+        ],
+        "name": "Glove"
+      },
+      "suffix": null
+    },
     {
       "baserunningRating": 0,
       "defenseRating": 0,
@@ -71,7 +159,13 @@
   "seasAttr": [],
   "shakespearianism": 1.4116393681019703,
   "soul": 5,
-  "state": {},
+  "state": {
+    "itemModSources": {
+      "GRAVITY": [
+        "c3136764-a320-4a47-8f8d-fef45bb195db"
+      ]
+    }
+  },
   "suppression": 1.1930666375242664,
   "tenaciousness": 1.2503470007104025,
   "thwackability": 0.820188246464128,

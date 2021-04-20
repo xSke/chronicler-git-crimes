@@ -24,28 +24,47 @@
   "itemAttr": [],
   "items": [
     {
-      "baserunningRating": 0,
-      "defenseRating": 0,
-      "durability": 1,
+      "baserunningRating": -0.013658548179682596,
+      "defenseRating": 0.03807314051867072,
+      "durability": 2,
       "forger": null,
       "forgerName": null,
-      "health": 1,
-      "hittingRating": 0.03447835379143338,
-      "id": "e635c7ac-752c-4174-b19a-275537ea52ae",
-      "name": "Bat",
+      "health": 2,
+      "hittingRating": 0.04257889480154187,
+      "id": "39e11cb2-f48c-4eb7-8329-c274cead5898",
+      "name": "Blood Glove",
       "pitchingRating": 0,
-      "postPrefix": null,
+      "postPrefix": {
+        "adjustments": [
+          {
+            "stat": 7,
+            "type": 1,
+            "value": 0.22990136745729903
+          },
+          {
+            "stat": 9,
+            "type": 1,
+            "value": -0.131096056289728
+          },
+          {
+            "stat": 4,
+            "type": 1,
+            "value": 0.11570947524040684
+          }
+        ],
+        "name": "Blood"
+      },
       "prePrefix": null,
       "prefixes": null,
       "root": {
         "adjustments": [
           {
-            "stat": 2,
+            "stat": 21,
             "type": 1,
-            "value": 0.10866064204158445
+            "value": 0.19826300399775307
           }
         ],
-        "name": "Bat"
+        "name": "Glove"
       },
       "suffix": null
     }

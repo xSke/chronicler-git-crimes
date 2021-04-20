@@ -25,6 +25,53 @@
   "items": [
     {
       "baserunningRating": 0,
+      "defenseRating": -0.09373669520361122,
+      "durability": 2,
+      "forger": null,
+      "forgerName": null,
+      "health": 2,
+      "hittingRating": 0.008219791059213777,
+      "id": "d2efe4f0-b510-412e-b9c0-78f13cfb66ba",
+      "name": "Hard Sunglasses",
+      "pitchingRating": 0.09290347610214011,
+      "postPrefix": null,
+      "prePrefix": null,
+      "prefixes": [
+        {
+          "adjustments": [
+            {
+              "stat": 19,
+              "type": 1,
+              "value": 0.1536755508703648
+            },
+            {
+              "stat": 5,
+              "type": 1,
+              "value": 0.15699338750799635
+            },
+            {
+              "stat": 21,
+              "type": 1,
+              "value": -0.1070189904574516
+            }
+          ],
+          "name": "Hard"
+        }
+      ],
+      "root": {
+        "adjustments": [
+          {
+            "stat": 8,
+            "type": 1,
+            "value": 0.18268543607469276
+          }
+        ],
+        "name": "Sunglasses"
+      },
+      "suffix": null
+    },
+    {
+      "baserunningRating": 0,
       "defenseRating": 0,
       "durability": 1,
       "forger": null,

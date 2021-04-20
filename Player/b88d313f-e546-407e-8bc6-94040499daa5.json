@@ -24,28 +24,47 @@
   "itemAttr": [],
   "items": [
     {
-      "baserunningRating": 0,
+      "baserunningRating": -0.01680640696340252,
       "defenseRating": 0,
-      "durability": 1,
+      "durability": 2,
       "forger": null,
       "forgerName": null,
-      "health": 1,
-      "hittingRating": 0.03063432162789259,
-      "id": "5a52bd20-1985-4790-97c7-1e5db194fc8e",
-      "name": "Bat",
+      "health": 2,
+      "hittingRating": 0.08520931512476404,
+      "id": "6acfc62a-dd7b-40fb-be61-29d77a452166",
+      "name": "Blood Necklace",
       "pitchingRating": 0,
-      "postPrefix": null,
+      "postPrefix": {
+        "adjustments": [
+          {
+            "stat": 7,
+            "type": 1,
+            "value": 0.1865571383314676
+          },
+          {
+            "stat": 9,
+            "type": 1,
+            "value": -0.09804627330011637
+          },
+          {
+            "stat": 4,
+            "type": 1,
+            "value": 0.20842746988928573
+          }
+        ],
+        "name": "Blood"
+      },
       "prePrefix": null,
       "prefixes": null,
       "root": {
         "adjustments": [
           {
-            "stat": 2,
+            "stat": 3,
             "type": 1,
-            "value": 0.10751984612712698
+            "value": 0.1527201753217057
           }
         ],
-        "name": "Bat"
+        "name": "Necklace"
       },
       "suffix": null
     }

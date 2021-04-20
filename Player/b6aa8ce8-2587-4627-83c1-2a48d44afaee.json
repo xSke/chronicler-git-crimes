@@ -21,33 +21,59 @@
   "hittingRating": 0.3677994052237692,
   "id": "b6aa8ce8-2587-4627-83c1-2a48d44afaee",
   "indulgence": 0.3584439361602173,
-  "itemAttr": [],
+  "itemAttr": [
+    "CAREFUL"
+  ],
   "items": [
     {
       "baserunningRating": 0,
       "defenseRating": 0,
-      "durability": 1,
+      "durability": 3,
       "forger": null,
       "forgerName": null,
-      "health": 1,
-      "hittingRating": 0.03206773503565158,
-      "id": "5e3225e8-5fb2-48e3-9a56-0a6f2745adcb",
-      "name": "Bat",
-      "pitchingRating": 0,
+      "health": 3,
+      "hittingRating": 0.05445246348629823,
+      "id": "5350c1fb-c621-4ca0-b1da-8d513e02a829",
+      "name": "Careful Bat of Strength",
+      "pitchingRating": 0.055713886087874864,
       "postPrefix": null,
       "prePrefix": null,
-      "prefixes": null,
+      "prefixes": [
+        {
+          "adjustments": [
+            {
+              "mod": "CAREFUL",
+              "type": 0
+            }
+          ],
+          "name": "Careful"
+        }
+      ],
       "root": {
         "adjustments": [
           {
             "stat": 2,
             "type": 1,
-            "value": 0.119700967026211
+            "value": 0.164997066343128
           }
         ],
         "name": "Bat"
       },
-      "suffix": null
+      "suffix": {
+        "adjustments": [
+          {
+            "stat": 5,
+            "type": 1,
+            "value": 0.1475543840840942
+          },
+          {
+            "stat": 18,
+            "type": 1,
+            "value": 0.2475323180819518
+          }
+        ],
+        "name": "Strength"
+      }
     }
   ],
   "laserlikeness": 0.5562343106871288,
@@ -68,7 +94,13 @@
   "seasAttr": [],
   "shakespearianism": 1.050734223402762,
   "soul": 9,
-  "state": {},
+  "state": {
+    "itemModSources": {
+      "CAREFUL": [
+        "5350c1fb-c621-4ca0-b1da-8d513e02a829"
+      ]
+    }
+  },
   "suppression": 1.0106820995006365,
   "tenaciousness": 0.2595995070577448,
   "thwackability": 0.4437022207395701,

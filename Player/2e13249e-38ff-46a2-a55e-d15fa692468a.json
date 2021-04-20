@@ -21,31 +21,68 @@
   "hittingRating": 0.7472415347994825,
   "id": "2e13249e-38ff-46a2-a55e-d15fa692468a",
   "indulgence": 0.3221892435664734,
-  "itemAttr": [],
+  "itemAttr": [
+    "CHUNKY"
+  ],
   "items": [
     {
-      "baserunningRating": 0,
+      "baserunningRating": -0.03857682523465755,
       "defenseRating": 0,
-      "durability": 1,
+      "durability": 3,
       "forger": null,
       "forgerName": null,
-      "health": 1,
-      "hittingRating": 0.06427133180734301,
-      "id": "0c668a6d-eeb4-4c64-804f-7f68e7a40313",
-      "name": "Bat",
-      "pitchingRating": 0,
+      "health": 3,
+      "hittingRating": 0.007489251973120781,
+      "id": "ecc1aec5-33cb-4219-9e9d-9a3d4937285e",
+      "name": "Chunky Rubber Jersey",
+      "pitchingRating": 0.19086338270393277,
       "postPrefix": null,
       "prePrefix": null,
-      "prefixes": null,
+      "prefixes": [
+        {
+          "adjustments": [
+            {
+              "mod": "CHUNKY",
+              "type": 0
+            }
+          ],
+          "name": "Chunky"
+        },
+        {
+          "adjustments": [
+            {
+              "stat": 13,
+              "type": 1,
+              "value": -0.14744533163257414
+            },
+            {
+              "stat": 10,
+              "type": 1,
+              "value": -0.059231173939378254
+            },
+            {
+              "stat": 16,
+              "type": 1,
+              "value": 0.31147247092896685
+            },
+            {
+              "stat": 18,
+              "type": 1,
+              "value": -0.10097466556272236
+            }
+          ],
+          "name": "Rubber"
+        }
+      ],
       "root": {
         "adjustments": [
           {
-            "stat": 2,
+            "stat": 5,
             "type": 1,
-            "value": 0.10907437458256124
+            "value": 0.14946296620523852
           }
         ],
-        "name": "Bat"
+        "name": "Jersey"
       },
       "suffix": null
     }
@@ -70,7 +107,13 @@
   "seasAttr": [],
   "shakespearianism": 1.1541691247899435,
   "soul": 4,
-  "state": {},
+  "state": {
+    "itemModSources": {
+      "CHUNKY": [
+        "ecc1aec5-33cb-4219-9e9d-9a3d4937285e"
+      ]
+    }
+  },
   "suppression": 1.129079899838862,
   "tenaciousness": 0.42980924655288094,
   "thwackability": 0.4139071195436675,

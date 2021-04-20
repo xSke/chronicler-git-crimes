@@ -21,31 +21,43 @@
   "hittingRating": 0.640152134843212,
   "id": "d6c69d2d-9344-4b19-85a4-6cfcbaead5d2",
   "indulgence": 0.42610955800469774,
-  "itemAttr": [],
+  "itemAttr": [
+    "REPEATING"
+  ],
   "items": [
     {
       "baserunningRating": 0,
       "defenseRating": 0,
-      "durability": 1,
+      "durability": 2,
       "forger": null,
       "forgerName": null,
-      "health": 1,
-      "hittingRating": 0.033744506264873686,
-      "id": "b606ed30-3558-4862-bae9-0adb83b5935f",
-      "name": "Bat",
+      "health": 2,
+      "hittingRating": 0,
+      "id": "48ff3e5d-da62-4457-954e-20fe4d5e8d9d",
+      "name": "Repeating Sunglasses",
       "pitchingRating": 0,
       "postPrefix": null,
       "prePrefix": null,
-      "prefixes": null,
+      "prefixes": [
+        {
+          "adjustments": [
+            {
+              "mod": "REPEATING",
+              "type": 0
+            }
+          ],
+          "name": "Repeating"
+        }
+      ],
       "root": {
         "adjustments": [
           {
-            "stat": 2,
+            "stat": 8,
             "type": 1,
-            "value": 0.11118972864619672
+            "value": 0.16138729231169868
           }
         ],
-        "name": "Bat"
+        "name": "Sunglasses"
       },
       "suffix": null
     }
@@ -70,7 +82,13 @@
   "seasAttr": [],
   "shakespearianism": 0.6676997725110608,
   "soul": 6,
-  "state": {},
+  "state": {
+    "itemModSources": {
+      "REPEATING": [
+        "48ff3e5d-da62-4457-954e-20fe4d5e8d9d"
+      ]
+    }
+  },
   "suppression": 1.090032075343108,
   "tenaciousness": 1.20989851542772,
   "thwackability": 0.7033221833270427,
