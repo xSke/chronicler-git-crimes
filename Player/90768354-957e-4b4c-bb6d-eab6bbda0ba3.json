@@ -26,23 +26,52 @@
     {
       "baserunningRating": 0,
       "defenseRating": 0,
-      "durability": 1,
+      "durability": 2,
       "forger": null,
       "forgerName": null,
-      "health": 1,
-      "hittingRating": 0.03030115617870044,
-      "id": "4293d9d4-f998-41f5-b1da-8882a87db473",
-      "name": "Bat",
-      "pitchingRating": 0,
-      "postPrefix": null,
+      "health": 2,
+      "hittingRating": 0.02676480290619776,
+      "id": "92fce679-944f-43d6-88ba-8344ca47cfa2",
+      "name": "Inflatable Plastic Bat",
+      "pitchingRating": -0.01241430456160464,
+      "postPrefix": {
+        "adjustments": [
+          {
+            "type": 3,
+            "value": -1
+          }
+        ],
+        "name": "Plastic"
+      },
       "prePrefix": null,
-      "prefixes": null,
+      "prefixes": [
+        {
+          "adjustments": [
+            {
+              "stat": 1,
+              "type": 1,
+              "value": 0.21746986414386116
+            },
+            {
+              "stat": 18,
+              "type": 1,
+              "value": -0.06658648450619205
+            },
+            {
+              "stat": 6,
+              "type": 1,
+              "value": 0.08566300696034593
+            }
+          ],
+          "name": "Inflatable"
+        }
+      ],
       "root": {
         "adjustments": [
           {
             "stat": 2,
             "type": 1,
-            "value": 0.1253927986589745
+            "value": 0.1277887422102491
           }
         ],
         "name": "Bat"
