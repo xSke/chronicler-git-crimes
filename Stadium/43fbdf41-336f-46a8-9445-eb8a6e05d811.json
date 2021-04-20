@@ -53,7 +53,17 @@
     "fortifications_plus",
     "elongation_plus"
   ],
-  "renoHand": [],
+  "renoHand": [
+    "fax_machine_mod",
+    "blooddrain_plus",
+    "birds_plus",
+    "grandiosity_plus",
+    "inconvenience_plus",
+    "reverb_plus",
+    "fortifications_minus",
+    "soundsystem_mod",
+    "peanuts_plus"
+  ],
   "renoLog": {
     "big_bucket_mod": 1,
     "flood_pumps_mod": 1,

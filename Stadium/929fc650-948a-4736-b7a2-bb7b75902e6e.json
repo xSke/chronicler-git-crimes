@@ -52,7 +52,17 @@
     "forwardness_minus",
     "event_horizon_mod"
   ],
-  "renoHand": [],
+  "renoHand": [
+    "fax_machine_mod",
+    "echo_chamber_mod",
+    "mysticism_minus",
+    "inconvenience_minus",
+    "blooddrain_plus",
+    "hotel_motel_mod",
+    "coffee_threes_plus",
+    "birds_plus",
+    "birdhouses_mod"
+  ],
   "renoLog": {
     "big_bucket_mod": 1,
     "grind_rail_mod": 1,

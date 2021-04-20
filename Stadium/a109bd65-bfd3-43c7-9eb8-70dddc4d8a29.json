@@ -52,7 +52,17 @@
     "birds_plus",
     "coffee_threes_plus"
   ],
-  "renoHand": [],
+  "renoHand": [
+    "fax_machine_mod",
+    "peanuts_plus",
+    "filthiness_cleanup",
+    "echo_chamber_mod",
+    "viscosity_minus",
+    "reverb_plus",
+    "birds_plus",
+    "coffee_threes_plus",
+    "inconvenience_plus"
+  ],
   "renoLog": {
     "big_bucket_mod": 1,
     "grind_rail_mod": 1,

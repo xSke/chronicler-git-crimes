@@ -52,7 +52,17 @@
     "reverb_plus",
     "mysticism_plus"
   ],
-  "renoHand": [],
+  "renoHand": [
+    "fax_machine_mod",
+    "fortifications_minus",
+    "viscosity_minus",
+    "grandiosity_plus",
+    "grind_rail_mod",
+    "forwardness_plus",
+    "solar_eclipse_plus",
+    "coffee_one_plus",
+    "birdhouses_mod"
+  ],
   "renoLog": {
     "flood_pumps_mod": 1,
     "psychoacoustics_mod": 1,

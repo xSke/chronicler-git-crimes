@@ -53,7 +53,17 @@
     "mysticism_plus",
     "grandiosity_minus"
   ],
-  "renoHand": [],
+  "renoHand": [
+    "fax_machine_mod",
+    "sun_two_plus",
+    "hotel_motel_mod",
+    "peanut_mister_mod",
+    "solar_eclipse_plus",
+    "forwardness_plus",
+    "filthiness_cleanup",
+    "flooding_plus",
+    "mysticism_minus"
+  ],
   "renoLog": {
     "big_bucket_mod": 1,
     "echo_chamber_mod": 1,

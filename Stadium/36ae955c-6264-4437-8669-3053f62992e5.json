@@ -52,7 +52,17 @@
     "forwardness_plus",
     "obtuseness_minus"
   ],
-  "renoHand": [],
+  "renoHand": [
+    "fax_machine_mod",
+    "fortifications_plus",
+    "feedback_plus",
+    "solar_eclipse_plus",
+    "sun_two_plus",
+    "flooding_plus",
+    "forwardness_plus",
+    "coffee_one_plus",
+    "hotel_motel_mod"
+  ],
   "renoLog": {
     "grind_rail_mod": 1,
     "psychoacoustics_mod": 1,

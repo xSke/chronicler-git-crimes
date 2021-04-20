@@ -51,7 +51,17 @@
     "flooding_plus",
     "reverb_plus"
   ],
-  "renoHand": [],
+  "renoHand": [
+    "fax_machine_mod",
+    "obtuseness_plus",
+    "forwardness_minus",
+    "hotel_motel_mod",
+    "obtuseness_minus",
+    "viscosity_minus",
+    "coffee_two_plus",
+    "birds_plus",
+    "inconvenience_minus"
+  ],
   "renoLog": {
     "grind_rail_mod": 1,
     "peanut_mister_mod": 1,

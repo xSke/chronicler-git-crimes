@@ -53,7 +53,17 @@
     "obtuseness_plus",
     "elongation_minus"
   ],
-  "renoHand": [],
+  "renoHand": [
+    "fax_machine_mod",
+    "coffee_two_plus",
+    "hotel_motel_mod",
+    "peanuts_plus",
+    "coffee_threes_plus",
+    "solar_eclipse_plus",
+    "grandiosity_plus",
+    "blooddrain_plus",
+    "filthiness_cleanup"
+  ],
   "renoLog": {
     "grind_rail_mod": 1,
     "peanut_mister_mod": 1,

@@ -51,7 +51,17 @@
     "inconvenience_plus",
     "viscosity_plus"
   ],
-  "renoHand": [],
+  "renoHand": [
+    "fax_machine_mod",
+    "grandiosity_plus",
+    "solar_eclipse_plus",
+    "hotel_motel_mod",
+    "forwardness_minus",
+    "obtuseness_minus",
+    "blooddrain_plus",
+    "inconvenience_plus",
+    "viscosity_minus"
+  ],
   "renoLog": {
     "big_bucket_mod": 1,
     "psychoacoustics_mod": 1,

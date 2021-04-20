@@ -53,7 +53,17 @@
     "soundsystem_mod",
     "viscosity_plus"
   ],
-  "renoHand": [],
+  "renoHand": [
+    "fax_machine_mod",
+    "peanuts_plus",
+    "viscosity_plus",
+    "ominousness_plus",
+    "mysticism_minus",
+    "hotel_motel_mod",
+    "echo_chamber_mod",
+    "inconvenience_plus",
+    "coffee_two_plus"
+  ],
   "renoLog": {
     "birdhouses_mod": 1,
     "flood_pumps_mod": 1,

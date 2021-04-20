@@ -53,7 +53,17 @@
     "solar_panels_mod",
     "forwardness_plus"
   ],
-  "renoHand": [],
+  "renoHand": [
+    "fax_machine_mod",
+    "ominousness_minus",
+    "obtuseness_minus",
+    "peanuts_plus",
+    "hotel_motel_mod",
+    "viscosity_minus",
+    "solar_eclipse_plus",
+    "coffee_one_plus",
+    "reverb_plus"
+  ],
   "renoLog": {
     "echo_chamber_mod": 1,
     "psychoacoustics_mod": 1,

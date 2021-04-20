@@ -52,7 +52,17 @@
     "reverb_plus",
     "elongation_minus"
   ],
-  "renoHand": [],
+  "renoHand": [
+    "fax_machine_mod",
+    "feedback_plus",
+    "secret_base_mod",
+    "coffee_one_plus",
+    "solar_eclipse_plus",
+    "black_hole_plus",
+    "inconvenience_plus",
+    "coffee_two_plus",
+    "filthiness_cleanup"
+  ],
   "renoLog": {
     "big_bucket_mod": 1,
     "flood_pumps_mod": 1,

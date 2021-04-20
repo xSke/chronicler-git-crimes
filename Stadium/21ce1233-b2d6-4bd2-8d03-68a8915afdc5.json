@@ -51,7 +51,17 @@
     "mysticism_minus",
     "coffee_one_plus"
   ],
-  "renoHand": [],
+  "renoHand": [
+    "fax_machine_mod",
+    "filthiness_cleanup",
+    "forwardness_plus",
+    "secret_base_mod",
+    "birds_plus",
+    "reverb_plus",
+    "event_horizon_mod",
+    "coffee_threes_plus",
+    "coffee_two_plus"
+  ],
   "renoLog": {
     "big_bucket_mod": 1,
     "echo_chamber_mod": 1,

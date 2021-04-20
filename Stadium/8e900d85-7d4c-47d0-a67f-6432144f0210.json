@@ -54,7 +54,17 @@
     "obtuseness_minus",
     "viscosity_plus"
   ],
-  "renoHand": [],
+  "renoHand": [
+    "fax_machine_mod",
+    "grandiosity_minus",
+    "filthiness_cleanup",
+    "flood_pumps_mod",
+    "blooddrain_plus",
+    "elongation_minus",
+    "mysticism_minus",
+    "hotel_motel_mod",
+    "feedback_plus"
+  ],
   "renoLog": {
     "echo_chamber_mod": 1,
     "grind_rail_mod": 1,

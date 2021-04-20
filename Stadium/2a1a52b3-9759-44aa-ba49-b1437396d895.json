@@ -53,7 +53,17 @@
     "sun_two_plus",
     "black_hole_plus"
   ],
-  "renoHand": [],
+  "renoHand": [
+    "fax_machine_mod",
+    "flooding_plus",
+    "ominousness_minus",
+    "mysticism_plus",
+    "obtuseness_plus",
+    "reverb_plus",
+    "echo_chamber_mod",
+    "big_bucket_mod",
+    "peanut_mister_mod"
+  ],
   "renoLog": {
     "fire_insurance_mod": 1,
     "grind_rail_mod": 1,

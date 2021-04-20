@@ -53,7 +53,17 @@
     "ominousness_minus",
     "mysticism_plus"
   ],
-  "renoHand": [],
+  "renoHand": [
+    "fax_machine_mod",
+    "blooddrain_plus",
+    "coffee_one_plus",
+    "elongation_minus",
+    "obtuseness_plus",
+    "solar_eclipse_plus",
+    "coffee_two_plus",
+    "reverb_plus",
+    "hotel_motel_mod"
+  ],
   "renoLog": {
     "psychoacoustics_mod": 1,
     "salmon_cannons_mod": 1,

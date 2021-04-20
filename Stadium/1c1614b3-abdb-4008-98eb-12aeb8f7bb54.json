@@ -52,7 +52,17 @@
     "birdhouses_mod",
     "filthiness_cleanup"
   ],
-  "renoHand": [],
+  "renoHand": [
+    "fax_machine_mod",
+    "coffee_one_plus",
+    "viscosity_minus",
+    "big_bucket_mod",
+    "obtuseness_minus",
+    "inconvenience_plus",
+    "grandiosity_minus",
+    "inconvenience_minus",
+    "hotel_motel_mod"
+  ],
   "renoLog": {
     "birdhouses_mod": 1,
     "grind_rail_mod": 1,

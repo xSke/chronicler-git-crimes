@@ -52,7 +52,17 @@
     "forwardness_plus",
     "obtuseness_minus"
   ],
-  "renoHand": [],
+  "renoHand": [
+    "fax_machine_mod",
+    "sun_two_plus",
+    "coffee_threes_plus",
+    "birds_plus",
+    "echo_chamber_mod",
+    "grandiosity_plus",
+    "feedback_plus",
+    "peanuts_plus",
+    "inconvenience_minus"
+  ],
   "renoLog": {
     "grind_rail_mod": 1,
     "psychoacoustics_mod": 1,

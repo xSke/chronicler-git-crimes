@@ -53,7 +53,17 @@
     "inconvenience_minus",
     "fortifications_minus"
   ],
-  "renoHand": [],
+  "renoHand": [
+    "fax_machine_mod",
+    "flood_pumps_mod",
+    "filthiness_cleanup",
+    "inconvenience_minus",
+    "black_hole_plus",
+    "coffee_threes_plus",
+    "forwardness_plus",
+    "forwardness_minus",
+    "hotel_motel_mod"
+  ],
   "renoLog": {
     "big_bucket_mod": 1,
     "psychoacoustics_mod": 1,

@@ -52,7 +52,17 @@
     "solar_panels_mod",
     "ominousness_minus"
   ],
-  "renoHand": [],
+  "renoHand": [
+    "fax_machine_mod",
+    "black_hole_plus",
+    "fortifications_minus",
+    "filthiness_cleanup",
+    "coffee_one_plus",
+    "blooddrain_plus",
+    "hotel_motel_mod",
+    "birds_plus",
+    "obtuseness_minus"
+  ],
   "renoLog": {
     "grind_rail_mod": 1,
     "peanut_mister_mod": 1,

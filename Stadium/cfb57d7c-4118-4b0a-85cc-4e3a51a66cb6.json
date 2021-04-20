@@ -62,7 +62,17 @@
     "obtuseness_plus",
     "filthiness_cleanup"
   ],
-  "renoHand": [],
+  "renoHand": [
+    "fax_machine_mod",
+    "blooddrain_plus",
+    "hotel_motel_mod",
+    "sun_two_plus",
+    "peanuts_plus",
+    "feedback_plus",
+    "solar_eclipse_plus",
+    "obtuseness_minus",
+    "soundsystem_mod"
+  ],
   "renoLog": {
     "big_bucket_mod": 1,
     "flood_pumps_mod": 1,

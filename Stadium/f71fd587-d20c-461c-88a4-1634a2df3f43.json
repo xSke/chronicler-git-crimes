@@ -50,7 +50,17 @@
     "peanut_mister_mod",
     "ominousness_minus"
   ],
-  "renoHand": [],
+  "renoHand": [
+    "fax_machine_mod",
+    "flooding_plus",
+    "inconvenience_minus",
+    "solar_eclipse_plus",
+    "forwardness_minus",
+    "feedback_plus",
+    "filthiness_cleanup",
+    "solar_panels_mod",
+    "mysticism_plus"
+  ],
   "renoLog": {
     "big_bucket_mod": 1,
     "salmon_cannons_mod": 1

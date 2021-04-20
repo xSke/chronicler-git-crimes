@@ -50,7 +50,17 @@
     "filthiness_cleanup",
     "fire_insurance_mod"
   ],
-  "renoHand": [],
+  "renoHand": [
+    "fax_machine_mod",
+    "coffee_two_plus",
+    "feedback_plus",
+    "birds_plus",
+    "forwardness_minus",
+    "hotel_motel_mod",
+    "soundsystem_mod",
+    "mysticism_minus",
+    "coffee_threes_plus"
+  ],
   "renoLog": {
     "big_bucket_mod": 1,
     "sweetener_mod": 1
