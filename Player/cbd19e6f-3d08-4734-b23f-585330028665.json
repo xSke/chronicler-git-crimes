@@ -28,15 +28,14 @@
   "martyrdom": 1.142263679398823,
   "moxie": 1.1799069371857482,
   "musclitude": 1.3720543240233272,
-  "name": "Knight Triu-phant",
+  "name": "Knight Triumphant",
   "omniscience": 1.210074775959728,
   "overpowerment": 1.06396498024595,
   "patheticism": 0.13410355553665274,
   "peanutAllergy": false,
   "permAttr": [
     "SIPHON",
-    "PERK",
-    "SCATTERED"
+    "PERK"
   ],
   "pitchingRating": 0.9193013424985806,
   "pressurization": 0.7816458937113402,
@@ -45,9 +44,7 @@
   "seasAttr": [],
   "shakespearianism": 1.186994187752506,
   "soul": 5,
-  "state": {
-    "unscatteredName": "Knight Triumphant"
-  },
+  "state": {},
   "suppression": 0.48077650531026,
   "tenaciousness": 0.900668125010245,
   "thwackability": 1.2864869713015796,
