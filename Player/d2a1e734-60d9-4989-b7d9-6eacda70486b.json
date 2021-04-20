@@ -18,7 +18,7 @@
   "gameAttr": [],
   "groundFriction": 0.8311669400183188,
   "hitStreak": 0,
-  "hittingRating": 0.19320375131165105,
+  "hittingRating": 0.19328614067429736,
   "id": "d2a1e734-60d9-4989-b7d9-6eacda70486b",
   "indulgence": 0.17679402024095747,
   "itemAttr": [
@@ -73,12 +73,12 @@
   "patheticism": 0.4828712408410034,
   "peanutAllergy": false,
   "permAttr": [],
-  "pitchingRating": 0.6395397557928322,
+  "pitchingRating": 0.70156063551816,
   "pressurization": 0.10446151011552995,
   "ritual": "Runes",
   "ruthlessness": 0.9989514516519864,
   "seasAttr": [],
-  "shakespearianism": 0.02895415324880779,
+  "shakespearianism": 0.07306132253805808,
   "soul": 2,
   "state": {
     "itemModSources": {
@@ -92,7 +92,7 @@
   "thwackability": 0.2665594466031725,
   "totalFingers": 10,
   "tournamentTeamId": null,
-  "tragicness": 0.1,
+  "tragicness": 0.06079906641624997,
   "unthwackability": 0.9100649495283876,
   "watchfulness": 0.7961210324059489,
   "weekAttr": []
