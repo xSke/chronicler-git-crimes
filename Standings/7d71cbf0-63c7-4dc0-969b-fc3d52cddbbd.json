@@ -1,7 +1,7 @@
 {
   "gamesPlayed": {
     "105bc3ff-1320-4e37-8ef0-8d595cb95dd0": 25,
-    "23e4cbc1-e9cd-47fa-a35b-bfa06f726cb7": 25,
+    "23e4cbc1-e9cd-47fa-a35b-bfa06f726cb7": 26,
     "36569151-a2fb-43c1-9df7-2df512424c82": 25,
     "3f8bbb15-61c0-4e3f-8e4a-907a5fb1565e": 25,
     "46358869-dce9-4a01-bfba-ac24fc56f57e": 25,
@@ -23,7 +23,7 @@
     "ca3f1c8c-c025-4d8e-8eef-5be6accbeb16": 25,
     "d9f89a8a-c563-493e-9d64-78e4f9a55d4a": 25,
     "eb67ae5e-c4bf-46ca-bbbc-425cd34182ff": 26,
-    "f02aeae2-5e6a-4098-9842-02d2273f25c7": 25
+    "f02aeae2-5e6a-4098-9842-02d2273f25c7": 26
   },
   "id": "7d71cbf0-63c7-4dc0-969b-fc3d52cddbbd",
   "losses": {
@@ -50,11 +50,11 @@
     "ca3f1c8c-c025-4d8e-8eef-5be6accbeb16": 10,
     "d9f89a8a-c563-493e-9d64-78e4f9a55d4a": 11,
     "eb67ae5e-c4bf-46ca-bbbc-425cd34182ff": 13,
-    "f02aeae2-5e6a-4098-9842-02d2273f25c7": 17
+    "f02aeae2-5e6a-4098-9842-02d2273f25c7": 18
   },
   "runs": {
     "105bc3ff-1320-4e37-8ef0-8d595cb95dd0": 89.7,
-    "23e4cbc1-e9cd-47fa-a35b-bfa06f726cb7": 117.4,
+    "23e4cbc1-e9cd-47fa-a35b-bfa06f726cb7": 120.4,
     "36569151-a2fb-43c1-9df7-2df512424c82": 56.7,
     "3f8bbb15-61c0-4e3f-8e4a-907a5fb1565e": 91,
     "46358869-dce9-4a01-bfba-ac24fc56f57e": 70.7,
@@ -80,7 +80,7 @@
   },
   "wins": {
     "105bc3ff-1320-4e37-8ef0-8d595cb95dd0": 10,
-    "23e4cbc1-e9cd-47fa-a35b-bfa06f726cb7": 19,
+    "23e4cbc1-e9cd-47fa-a35b-bfa06f726cb7": 20,
     "36569151-a2fb-43c1-9df7-2df512424c82": 5,
     "3f8bbb15-61c0-4e3f-8e4a-907a5fb1565e": 10,
     "46358869-dce9-4a01-bfba-ac24fc56f57e": 8,
