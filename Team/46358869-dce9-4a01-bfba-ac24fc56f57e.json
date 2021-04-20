@@ -61,17 +61,11 @@
   "shorthand": "CORE",
   "slogan": "We Can Fix This",
   "stadium": "031670ae-97a5-4215-b1a1-98e9f1de7c50",
-  "state": {
-    "gameModSources": {
-      "AAA": [
-        "PSYCHOACOUSTICS"
-      ]
-    }
-  },
+  "state": {},
   "teamSpirit": 0,
   "totalShames": 28,
   "totalShamings": 10,
   "tournamentWins": 0,
   "weekAttr": [],
-  "winStreak": 3
+  "winStreak": -1
 }
