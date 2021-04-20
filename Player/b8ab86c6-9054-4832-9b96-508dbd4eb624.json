@@ -63,8 +63,7 @@
   "permAttr": [
     "FLINCH",
     "HAUNTED",
-    "EARLBIRDS",
-    "OVERPERFORMING"
+    "EARLBIRDS"
   ],
   "pitchingRating": 0.6970979786663787,
   "pressurization": 0.5195664478482989,
@@ -74,11 +73,7 @@
   "shakespearianism": 0.6734942253909827,
   "soul": 5,
   "state": {
-    "permModSources": {
-      "OVERPERFORMING": [
-        "EARLBIRDS"
-      ]
-    }
+    "permModSources": {}
   },
   "suppression": 0.4939787736613186,
   "tenaciousness": 0.5400434833259626,
