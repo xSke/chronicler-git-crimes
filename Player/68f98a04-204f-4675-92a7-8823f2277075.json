@@ -25,27 +25,43 @@
   "items": [
     {
       "baserunningRating": 0,
-      "defenseRating": 0,
-      "durability": 1,
+      "defenseRating": 0.03956349047753149,
+      "durability": 2,
       "forger": null,
       "forgerName": null,
-      "health": 0,
-      "hittingRating": 0.03234124808333627,
-      "id": "b2f7ee73-08c3-4185-93a7-100b97ca20f4",
-      "name": "Bat",
-      "pitchingRating": 0,
+      "health": 2,
+      "hittingRating": 0,
+      "id": "f1c09897-626f-43d3-b473-a5b09350bc2d",
+      "name": "Brambly Glove",
+      "pitchingRating": 0.03956374234641785,
       "postPrefix": null,
       "prePrefix": null,
-      "prefixes": null,
+      "prefixes": [
+        {
+          "adjustments": [
+            {
+              "stat": 19,
+              "type": 1,
+              "value": 0.16070144064134773
+            },
+            {
+              "stat": 24,
+              "type": 1,
+              "value": 0.1407315986594929
+            }
+          ],
+          "name": "Brambly"
+        }
+      ],
       "root": {
         "adjustments": [
           {
-            "stat": 2,
+            "stat": 21,
             "type": 1,
-            "value": 0.1019011253348694
+            "value": 0.14677206868539602
           }
         ],
-        "name": "Bat"
+        "name": "Glove"
       },
       "suffix": null
     }
