@@ -55,14 +55,12 @@
   "martyrdom": 0.07873440710222976,
   "moxie": 0.8306018256183649,
   "musclitude": 0.27346310667445034,
-  "name": "Riley Firewa-l",
+  "name": "Riley Firewall",
   "omniscience": 0.7254036574185854,
   "overpowerment": 0.7683590505323956,
   "patheticism": 0.6217580768411348,
   "peanutAllergy": false,
-  "permAttr": [
-    "SCATTERED"
-  ],
+  "permAttr": [],
   "pitchingRating": 0.7464716902858957,
   "pressurization": 0.8931464580044992,
   "ritual": "Listening to Them",
@@ -70,9 +68,7 @@
   "seasAttr": [],
   "shakespearianism": 0.5040808762248961,
   "soul": 4,
-  "state": {
-    "unscatteredName": "Riley Firewall"
-  },
+  "state": {},
   "suppression": 0.22296451685619975,
   "tenaciousness": 0.26655980654461126,
   "thwackability": 1.0333902151058287,
