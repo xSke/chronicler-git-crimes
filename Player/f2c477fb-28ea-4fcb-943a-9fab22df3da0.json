@@ -21,31 +21,43 @@
   "hittingRating": 0.8181424002770554,
   "id": "f2c477fb-28ea-4fcb-943a-9fab22df3da0",
   "indulgence": 0.43263263001288466,
-  "itemAttr": [],
+  "itemAttr": [
+    "PARASITE"
+  ],
   "items": [
     {
       "baserunningRating": 0,
       "defenseRating": 0,
-      "durability": 1,
+      "durability": 2,
       "forger": null,
       "forgerName": null,
-      "health": 1,
-      "hittingRating": 0.05441973804440936,
-      "id": "7ccd8c9a-05b0-4391-ab6e-02b0fc2b42e8",
-      "name": "Bat",
-      "pitchingRating": 0,
+      "health": 2,
+      "hittingRating": 0,
+      "id": "78f77cf0-8736-4a90-9108-1013d262d407",
+      "name": "Parasitic Cap",
+      "pitchingRating": 0.04692923999780019,
       "postPrefix": null,
       "prePrefix": null,
-      "prefixes": null,
+      "prefixes": [
+        {
+          "adjustments": [
+            {
+              "mod": "PARASITE",
+              "type": 0
+            }
+          ],
+          "name": "Parasitic"
+        }
+      ],
       "root": {
         "adjustments": [
           {
-            "stat": 2,
+            "stat": 16,
             "type": 1,
-            "value": 0.14582389385557873
+            "value": 0.10465155159268567
           }
         ],
-        "name": "Bat"
+        "name": "Cap"
       },
       "suffix": null
     }
@@ -68,7 +80,13 @@
   "seasAttr": [],
   "shakespearianism": 1.0734741597290447,
   "soul": 7,
-  "state": {},
+  "state": {
+    "itemModSources": {
+      "PARASITE": [
+        "78f77cf0-8736-4a90-9108-1013d262d407"
+      ]
+    }
+  },
   "suppression": 1.2808234472176616,
   "tenaciousness": 0.19897740767911232,
   "thwackability": 0.7218750266785342,
