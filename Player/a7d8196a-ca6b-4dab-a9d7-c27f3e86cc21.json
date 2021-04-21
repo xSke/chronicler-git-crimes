@@ -15,9 +15,7 @@
   "eDensity": 51.640425468994465,
   "evolution": 0,
   "fate": 80,
-  "gameAttr": [
-    "OVERPERFORMING"
-  ],
+  "gameAttr": [],
   "groundFriction": 0.36373150104575175,
   "hitStreak": 0,
   "hittingRating": 0.9429965619368776,
@@ -86,11 +84,6 @@
   "shakespearianism": 1.0346692664772996,
   "soul": 3,
   "state": {
-    "gameModSources": {
-      "OVERPERFORMING": [
-        "PERK"
-      ]
-    },
     "itemModSources": {
       "CHUNKY": [
         "7e6ddf9a-6ee0-4277-afb3-b438bbdce7db"
