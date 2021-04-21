@@ -55,10 +55,10 @@
   ],
   "rotationSlot": 35,
   "seasAttr": [],
-  "seasonShames": 2,
+  "seasonShames": 3,
   "seasonShamings": 3,
   "secondaryColor": "#9e82a4",
-  "shameRuns": 0,
+  "shameRuns": 2,
   "shorthand": "HOU",
   "slogan": "Bang BANG",
   "stadium": "43fbdf41-336f-46a8-9445-eb8a6e05d811",
@@ -66,9 +66,9 @@
     "permModSources": {}
   },
   "teamSpirit": 0,
-  "totalShames": 68,
+  "totalShames": 69,
   "totalShamings": 68,
   "tournamentWins": 0,
   "weekAttr": [],
-  "winStreak": -1
+  "winStreak": -2
 }
