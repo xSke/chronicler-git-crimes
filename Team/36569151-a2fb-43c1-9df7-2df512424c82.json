@@ -21,11 +21,13 @@
   ],
   "card": 5,
   "championships": 0,
-  "eDensity": 1658.749077344252,
+  "eDensity": 1659.5862287386635,
   "emoji": "0x1F4F1",
   "evolution": 0,
   "fullName": "New York Millennials",
-  "gameAttr": [],
+  "gameAttr": [
+    "SINKING_SHIP"
+  ],
   "id": "36569151-a2fb-43c1-9df7-2df512424c82",
   "level": 3,
   "lineup": [
@@ -52,7 +54,7 @@
     "6c346d8b-d186-4228-9adb-ae919d7131dd",
     "a3947fbc-50ec-45a4-bca4-49ffebb77dbe"
   ],
-  "rotationSlot": 47,
+  "rotationSlot": 48,
   "seasAttr": [],
   "seasonShames": 1,
   "seasonShamings": 4,
@@ -61,7 +63,13 @@
   "shorthand": "NYMI",
   "slogan": "Youth Will Save Us",
   "stadium": "ba794e99-4d6b-4e12-9450-6522745190f8",
-  "state": {},
+  "state": {
+    "gameModSources": {
+      "SINKING_SHIP": [
+        "PSYCHOACOUSTICS"
+      ]
+    }
+  },
   "teamSpirit": 0,
   "totalShames": 74,
   "totalShamings": 65,
