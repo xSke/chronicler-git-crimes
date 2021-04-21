@@ -57,18 +57,18 @@
   ],
   "rotationSlot": 35,
   "seasAttr": [],
-  "seasonShames": 2,
+  "seasonShames": 3,
   "seasonShamings": 1,
   "secondaryColor": "#5a83ea",
-  "shameRuns": 0,
+  "shameRuns": 1,
   "shorthand": "SEA",
   "slogan": "Park It!",
   "stadium": "cb94ac8b-003b-4d95-baf3-7c14b1c3fc29",
   "state": {},
   "teamSpirit": 0,
-  "totalShames": 72,
+  "totalShames": 73,
   "totalShamings": 63,
   "tournamentWins": 0,
   "weekAttr": [],
-  "winStreak": 1
+  "winStreak": -1
 }
