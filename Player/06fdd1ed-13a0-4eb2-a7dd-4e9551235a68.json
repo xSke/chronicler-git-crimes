@@ -60,7 +60,9 @@
   "overpowerment": 0.8551300368771677,
   "patheticism": 0.001,
   "peanutAllergy": false,
-  "permAttr": [],
+  "permAttr": [
+    "TRIPLE_THREAT"
+  ],
   "pitchingRating": 0.9836804470033323,
   "pressurization": 0.08304503906866878,
   "ritual": "Greeting fans",
