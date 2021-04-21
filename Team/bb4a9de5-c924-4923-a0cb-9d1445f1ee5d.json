@@ -19,11 +19,13 @@
   ],
   "card": -1,
   "championships": 4,
-  "eDensity": 1788.8517318134277,
+  "eDensity": 1790.3271773705792,
   "emoji": "0x1F40C",
   "evolution": 1,
   "fullName": "Ohio Worms",
-  "gameAttr": [],
+  "gameAttr": [
+    "GROWTH"
+  ],
   "id": "bb4a9de5-c924-4923-a0cb-9d1445f1ee5d",
   "level": 3,
   "lineup": [
@@ -49,7 +51,7 @@
     "ce7d33b7-1bba-48d6-a1d1-cd0e29231be8",
     "924de86d-260b-495b-80e1-57af5767703c"
   ],
-  "rotationSlot": 41,
+  "rotationSlot": 42,
   "seasAttr": [],
   "seasonShames": 2,
   "seasonShamings": 6,
@@ -58,7 +60,13 @@
   "shorthand": "OHWO",
   "slogan": "Oh, Worm?",
   "stadium": "8a84154e-80d7-47d5-8f56-295e9a9653d9",
-  "state": {},
+  "state": {
+    "gameModSources": {
+      "GROWTH": [
+        "PSYCHOACOUSTICS"
+      ]
+    }
+  },
   "teamSpirit": 0,
   "totalShames": 22,
   "totalShamings": 22,
