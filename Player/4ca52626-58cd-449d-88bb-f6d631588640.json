@@ -62,7 +62,8 @@
   "peanutAllergy": false,
   "permAttr": [
     "FIRE_EATER",
-    "HAUNTED"
+    "HAUNTED",
+    "ELSEWHERE"
   ],
   "pitchingRating": 0.751745529778001,
   "pressurization": 0.9384923224961412,
@@ -71,7 +72,12 @@
   "seasAttr": [],
   "shakespearianism": 0.4710836787009309,
   "soul": 6,
-  "state": {},
+  "state": {
+    "elsewhere": {
+      "day": 46,
+      "season": 16
+    }
+  },
   "suppression": 0.9223662005451,
   "tenaciousness": 0.4361984866497415,
   "thwackability": 1.1130194777986302,
