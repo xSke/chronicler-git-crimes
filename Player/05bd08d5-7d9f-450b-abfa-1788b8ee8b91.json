@@ -33,7 +33,9 @@
   "overpowerment": 0.5855829523494007,
   "patheticism": 0.30301627336664494,
   "peanutAllergy": true,
-  "permAttr": [],
+  "permAttr": [
+    "INHABITING"
+  ],
   "pitchingRating": 0.1176912225144678,
   "pressurization": 0.97238126556106,
   "ritual": "Antagonizing umpires",
