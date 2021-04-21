@@ -75,7 +75,8 @@
   "patheticism": 0.001,
   "peanutAllergy": false,
   "permAttr": [
-    "PERK"
+    "PERK",
+    "COFFEE_RALLY"
   ],
   "pitchingRating": 0.48958793058627775,
   "pressurization": 0.1099628146405358,
