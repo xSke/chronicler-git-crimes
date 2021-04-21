@@ -63,17 +63,11 @@
   "shorthand": "BALC",
   "slogan": "Claws Up!",
   "stadium": "cfb57d7c-4118-4b0a-85cc-4e3a51a66cb6",
-  "state": {
-    "gameModSources": {
-      "AFFINITY_FOR_CROWS": [
-        "PSYCHOACOUSTICS"
-      ]
-    }
-  },
+  "state": {},
   "teamSpirit": 0,
   "totalShames": 67,
   "totalShamings": 69,
   "tournamentWins": 0,
   "weekAttr": [],
-  "winStreak": -1
+  "winStreak": 1
 }
