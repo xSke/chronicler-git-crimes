@@ -36,7 +36,8 @@
     "90c2cec7-0ed5-426a-9de8-754f34d59b39",
     "73265ee3-bb35-40d1-b696-1f241a6f5966",
     "97af97a7-19dc-4d18-9f72-8bd89f7eeaa8",
-    "d89da2d2-674c-4b85-8959-a4bd406f760a"
+    "d89da2d2-674c-4b85-8959-a4bd406f760a",
+    "5991ccb3-7eed-46d9-9d7c-69dec9b56d4b"
   ],
   "location": "Baltimore",
   "mainColor": "#593037",
@@ -61,7 +62,16 @@
   "shorthand": "BALC",
   "slogan": "Claws Up!",
   "stadium": "cfb57d7c-4118-4b0a-85cc-4e3a51a66cb6",
-  "state": {},
+  "state": {
+    "stolenPlayers": [
+      {
+        "id": "5991ccb3-7eed-46d9-9d7c-69dec9b56d4b",
+        "victimIndex": 0,
+        "victimLocation": 0,
+        "victimTeamId": "46358869-dce9-4a01-bfba-ac24fc56f57e"
+      }
+    ]
+  },
   "teamSpirit": 0,
   "totalShames": 67,
   "totalShamings": 69,
