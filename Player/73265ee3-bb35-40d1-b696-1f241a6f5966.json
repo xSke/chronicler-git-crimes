@@ -15,9 +15,7 @@
   "eDensity": 57.35169660667359,
   "evolution": 0,
   "fate": 38,
-  "gameAttr": [
-    "OVERPERFORMING"
-  ],
+  "gameAttr": [],
   "groundFriction": 1.0599164987772507,
   "hitStreak": 0,
   "hittingRating": 0.23723141191905625,
@@ -76,11 +74,6 @@
   "shakespearianism": 0.8084109923932342,
   "soul": 8,
   "state": {
-    "gameModSources": {
-      "OVERPERFORMING": [
-        "PERK"
-      ]
-    },
     "unscatteredName": "Parker Meng"
   },
   "suppression": 0.735721114019327,
