@@ -52,18 +52,18 @@
   ],
   "rotationSlot": 34,
   "seasAttr": [],
-  "seasonShames": 1,
+  "seasonShames": 2,
   "seasonShamings": 0,
   "secondaryColor": "#ff5b29",
-  "shameRuns": 0,
+  "shameRuns": 1,
   "shorthand": "CORE",
   "slogan": "We Can Fix This",
   "stadium": "031670ae-97a5-4215-b1a1-98e9f1de7c50",
   "state": {},
   "teamSpirit": 0,
-  "totalShames": 28,
+  "totalShames": 29,
   "totalShamings": 10,
   "tournamentWins": 0,
   "weekAttr": [],
-  "winStreak": -3
+  "winStreak": -4
 }
