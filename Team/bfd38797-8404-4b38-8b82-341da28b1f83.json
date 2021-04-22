@@ -20,11 +20,13 @@
   ],
   "card": 9,
   "championships": 1,
-  "eDensity": 2000.4635292891085,
+  "eDensity": 2004.2678189902117,
   "emoji": "0x1F45F",
   "evolution": 0,
   "fullName": "Charleston Shoe Thieves",
-  "gameAttr": [],
+  "gameAttr": [
+    "MAINTENANCE_MODE"
+  ],
   "id": "bfd38797-8404-4b38-8b82-341da28b1f83",
   "level": 3,
   "lineup": [
@@ -54,7 +56,7 @@
     "5e4dfa16-f1b9-400f-b8ef-a1613c2b026a",
     "60026a9d-fc9a-4f5a-94fd-2225398fa3da"
   ],
-  "rotationSlot": 60,
+  "rotationSlot": 61,
   "seasAttr": [],
   "seasonShames": 4,
   "seasonShamings": 0,
@@ -63,7 +65,13 @@
   "shorthand": "CHST",
   "slogan": "Your Kicks are Our Kicks",
   "stadium": "36ae955c-6264-4437-8669-3053f62992e5",
-  "state": {},
+  "state": {
+    "gameModSources": {
+      "MAINTENANCE_MODE": [
+        "PSYCHOACOUSTICS"
+      ]
+    }
+  },
   "teamSpirit": 0,
   "totalShames": 85,
   "totalShamings": 58,
