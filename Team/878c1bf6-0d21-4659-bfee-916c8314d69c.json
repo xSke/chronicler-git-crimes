@@ -64,11 +64,6 @@
   "state": {
     "faxMachine": {
       "runsNeeded": 20
-    },
-    "gameModSources": {
-      "ELECTRIC": [
-        "PSYCHOACOUSTICS"
-      ]
     }
   },
   "teamSpirit": 0,
@@ -76,5 +71,5 @@
   "totalShamings": 58,
   "tournamentWins": 0,
   "weekAttr": [],
-  "winStreak": -1
+  "winStreak": 1
 }
