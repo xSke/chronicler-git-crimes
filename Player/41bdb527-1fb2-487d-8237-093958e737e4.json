@@ -15,9 +15,7 @@
   "eDensity": 31.692568722967184,
   "evolution": 0,
   "fate": 75,
-  "gameAttr": [
-    "OVERPERFORMING"
-  ],
+  "gameAttr": [],
   "groundFriction": 0.49459211256448254,
   "hitStreak": 0,
   "hittingRating": 0.9924000205663932,
@@ -73,11 +71,6 @@
   "shakespearianism": 0.6183463204733144,
   "soul": 7,
   "state": {
-    "gameModSources": {
-      "OVERPERFORMING": [
-        "AAA"
-      ]
-    },
     "unscatteredName": "Zephyr McCloud"
   },
   "suppression": 1.0059617019480311,
