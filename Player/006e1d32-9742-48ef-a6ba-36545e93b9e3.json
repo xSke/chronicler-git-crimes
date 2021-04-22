@@ -21,9 +21,7 @@
   "hittingRating": 0.5497636099157143,
   "id": "006e1d32-9742-48ef-a6ba-36545e93b9e3",
   "indulgence": 0.9362932518963564,
-  "itemAttr": [
-    "CHUNKY"
-  ],
+  "itemAttr": [],
   "items": [
     {
       "baserunningRating": 0,
@@ -31,7 +29,7 @@
       "durability": 2,
       "forger": null,
       "forgerName": null,
-      "health": 1,
+      "health": 0,
       "hittingRating": 0.03707179413251704,
       "id": "12c9ebdb-baf1-43a1-a01b-e646aa0f8ac7",
       "name": "Chunky Bat",
@@ -81,11 +79,7 @@
   "shakespearianism": 0.5152806683047602,
   "soul": 3,
   "state": {
-    "itemModSources": {
-      "CHUNKY": [
-        "12c9ebdb-baf1-43a1-a01b-e646aa0f8ac7"
-      ]
-    }
+    "itemModSources": {}
   },
   "suppression": 0.5639760167314403,
   "tenaciousness": 0.45272361179163,
