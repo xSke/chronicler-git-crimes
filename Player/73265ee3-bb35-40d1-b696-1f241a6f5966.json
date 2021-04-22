@@ -55,7 +55,7 @@
   "martyrdom": 0.31699202553438355,
   "moxie": 0.3260045800459648,
   "musclitude": 0.045560180024507374,
-  "name": "Pa-ker Meng",
+  "name": "Parker Meng",
   "omniscience": 0.35970985618596,
   "overpowerment": 0.6672730992548463,
   "patheticism": 0.7238825986795812,
@@ -63,8 +63,7 @@
   "permAttr": [
     "ALTERNATE",
     "PERK",
-    "MINIMALIST",
-    "SCATTERED"
+    "MINIMALIST"
   ],
   "pitchingRating": 0.8439730634955874,
   "pressurization": 0.6735110277965328,
@@ -73,9 +72,7 @@
   "seasAttr": [],
   "shakespearianism": 0.8084109923932342,
   "soul": 8,
-  "state": {
-    "unscatteredName": "Parker Meng"
-  },
+  "state": {},
   "suppression": 0.735721114019327,
   "tenaciousness": 0.5107959658367092,
   "thwackability": 0.977086583818663,
