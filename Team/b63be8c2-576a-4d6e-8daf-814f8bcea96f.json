@@ -59,17 +59,11 @@
   "shorthand": "MIA",
   "slogan": "¡Dale!",
   "stadium": "a0851e18-d5d7-4749-b3c5-c6023fe1cc61",
-  "state": {
-    "gameModSources": {
-      "UNDERSEA": [
-        "PSYCHOACOUSTICS"
-      ]
-    }
-  },
+  "state": {},
   "teamSpirit": 0,
   "totalShames": 83,
   "totalShamings": 60,
   "tournamentWins": 0,
   "weekAttr": [],
-  "winStreak": 1
+  "winStreak": -1
 }
