@@ -22,7 +22,55 @@
   "id": "e376a90b-7ffe-47a2-a934-f36d6806f17d",
   "indulgence": 0.5641301224824535,
   "itemAttr": [],
-  "items": [],
+  "items": [
+    {
+      "baserunningRating": 0.047326078713338715,
+      "defenseRating": 0,
+      "durability": 2,
+      "forger": null,
+      "forgerName": null,
+      "health": 2,
+      "hittingRating": 0.04702639001358111,
+      "id": "a22f9931-d643-459f-aa08-acffeeaa577e",
+      "name": "Cool Bat",
+      "pitchingRating": 0.003823372315075902,
+      "postPrefix": null,
+      "prePrefix": null,
+      "prefixes": [
+        {
+          "adjustments": [
+            {
+              "stat": 3,
+              "type": 1,
+              "value": 0.14882082058569196
+            },
+            {
+              "stat": 17,
+              "type": 1,
+              "value": 0.10080047900052432
+            },
+            {
+              "stat": 10,
+              "type": 1,
+              "value": 0.10833437943976436
+            }
+          ],
+          "name": "Cool"
+        }
+      ],
+      "root": {
+        "adjustments": [
+          {
+            "stat": 2,
+            "type": 1,
+            "value": 0.18097954298158064
+          }
+        ],
+        "name": "Bat"
+      },
+      "suffix": null
+    }
+  ],
   "laserlikeness": 0.7074457572177812,
   "leagueTeamId": "a37f9158-7f82-46bc-908c-c9e2dda7c33b",
   "martyrdom": 0.933845585255802,
