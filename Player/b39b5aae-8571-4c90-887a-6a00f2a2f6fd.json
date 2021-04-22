@@ -15,7 +15,9 @@
   "eDensity": 17.90295608327706,
   "evolution": 0,
   "fate": 76,
-  "gameAttr": [],
+  "gameAttr": [
+    "OVERPERFORMING"
+  ],
   "groundFriction": 0.740702642195914,
   "hitStreak": 0,
   "hittingRating": 0.4270602001267057,
@@ -91,6 +93,11 @@
   "shakespearianism": 0.5226103070971544,
   "soul": 1,
   "state": {
+    "gameModSources": {
+      "OVERPERFORMING": [
+        "AAA"
+      ]
+    },
     "itemModSources": {
       "SQUIDDISH": [
         "f57fe258-3190-4730-b7f3-7b5d312222b3"
