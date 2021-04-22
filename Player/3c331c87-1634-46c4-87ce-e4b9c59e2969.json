@@ -24,28 +24,36 @@
   "itemAttr": [],
   "items": [
     {
-      "baserunningRating": 0,
+      "baserunningRating": 0.06863111552793844,
       "defenseRating": 0,
       "durability": 1,
       "forger": null,
       "forgerName": null,
       "health": 1,
-      "hittingRating": 0.03691549692154761,
-      "id": "c6387eb3-dd95-4980-886c-dad37631a8f1",
-      "name": "Bat",
+      "hittingRating": 0,
+      "id": "a7d9ab8c-a614-4312-919e-983664d51368",
+      "name": "Paper Shoes",
       "pitchingRating": 0,
-      "postPrefix": null,
+      "postPrefix": {
+        "adjustments": [
+          {
+            "type": 3,
+            "value": -3
+          }
+        ],
+        "name": "Paper"
+      },
       "prePrefix": null,
       "prefixes": null,
       "root": {
         "adjustments": [
           {
-            "stat": 2,
+            "stat": 10,
             "type": 1,
-            "value": 0.11321214293898622
+            "value": 0.16587147348977954
           }
         ],
-        "name": "Bat"
+        "name": "Shoes"
       },
       "suffix": null
     }
