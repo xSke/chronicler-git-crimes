@@ -25,27 +25,57 @@
   "items": [
     {
       "baserunningRating": 0,
-      "defenseRating": 0,
-      "durability": 1,
+      "defenseRating": 0.031178628567156252,
+      "durability": 3,
       "forger": null,
       "forgerName": null,
-      "health": 1,
-      "hittingRating": 0.07120323348586177,
-      "id": "4e02c58d-4bfa-4960-b597-d7c0c9e43fd3",
-      "name": "Bat",
-      "pitchingRating": 0,
-      "postPrefix": null,
+      "health": 3,
+      "hittingRating": 0.03826069872103721,
+      "id": "35b184ed-f7df-4d34-8279-06ee4fe140f4",
+      "name": "Mesh Head Jersey",
+      "pitchingRating": -0.013891028933994631,
+      "postPrefix": {
+        "adjustments": [
+          {
+            "stat": 3,
+            "type": 1,
+            "value": 0.1529311663926582
+          },
+          {
+            "stat": 21,
+            "type": 1,
+            "value": 0.16565639377850072
+          }
+        ],
+        "name": "Head"
+      },
       "prePrefix": null,
-      "prefixes": null,
+      "prefixes": [
+        {
+          "adjustments": [
+            {
+              "stat": 3,
+              "type": 1,
+              "value": 0.26769785030468574
+            },
+            {
+              "stat": 18,
+              "type": 1,
+              "value": -0.08452244573518666
+            }
+          ],
+          "name": "Mesh"
+        }
+      ],
       "root": {
         "adjustments": [
           {
-            "stat": 2,
+            "stat": 5,
             "type": 1,
-            "value": 0.1464900070274948
+            "value": 0.170630359492769
           }
         ],
-        "name": "Bat"
+        "name": "Jersey"
       },
       "suffix": null
     }

@@ -21,74 +21,52 @@
   "hittingRating": 0.7342883033802067,
   "id": "4ffd2e50-bb5b-45d0-b7c4-e24d41b2ff5d",
   "indulgence": 1.1074093517070505,
-  "itemAttr": [
-    "SOUNDPROOF",
-    "AMBITIOUS"
-  ],
+  "itemAttr": [],
   "items": [
     {
-      "baserunningRating": -0.02080802951025429,
+      "baserunningRating": 0,
       "defenseRating": 0,
-      "durability": 4,
+      "durability": 2,
       "forger": null,
       "forgerName": null,
-      "health": 4,
-      "hittingRating": 0.03425962883100764,
-      "id": "bbb4f0d5-5e4a-4093-aabd-6e9344c76daa",
-      "name": "Noise-Cancelling Ambitious Blood Cap",
-      "pitchingRating": 0.08441410067818145,
-      "postPrefix": {
+      "health": 2,
+      "hittingRating": 0.07293178876372763,
+      "id": "0abe2b83-c476-4fa0-940e-6254dbe94329",
+      "name": "Necklace of Charisma",
+      "pitchingRating": 0,
+      "postPrefix": null,
+      "prePrefix": null,
+      "prefixes": null,
+      "root": {
         "adjustments": [
           {
-            "stat": 7,
+            "stat": 3,
             "type": 1,
-            "value": 0.11329037971116047
+            "value": 0.12310562408961326
+          }
+        ],
+        "name": "Necklace"
+      },
+      "suffix": {
+        "adjustments": [
+          {
+            "stat": 3,
+            "type": 1,
+            "value": 0.1489408056669017
           },
           {
-            "stat": 9,
+            "stat": 8,
             "type": 1,
-            "value": -0.0953559510506837
+            "value": 0.19516720361244888
           },
           {
             "stat": 4,
             "type": 1,
-            "value": 0.17711324428847647
+            "value": 0.191936974492734
           }
         ],
-        "name": "Blood"
-      },
-      "prePrefix": null,
-      "prefixes": [
-        {
-          "adjustments": [
-            {
-              "mod": "SOUNDPROOF",
-              "type": 0
-            }
-          ],
-          "name": "Noise-Cancelling"
-        },
-        {
-          "adjustments": [
-            {
-              "mod": "AMBITIOUS",
-              "type": 0
-            }
-          ],
-          "name": "Ambitious"
-        }
-      ],
-      "root": {
-        "adjustments": [
-          {
-            "stat": 16,
-            "type": 1,
-            "value": 0.17627267883459863
-          }
-        ],
-        "name": "Cap"
-      },
-      "suffix": null
+        "name": "Charisma"
+      }
     }
   ],
   "laserlikeness": 0.9469144452530012,
@@ -110,14 +88,7 @@
   "shakespearianism": 0.5756521891336078,
   "soul": 4,
   "state": {
-    "itemModSources": {
-      "AMBITIOUS": [
-        "bbb4f0d5-5e4a-4093-aabd-6e9344c76daa"
-      ],
-      "SOUNDPROOF": [
-        "bbb4f0d5-5e4a-4093-aabd-6e9344c76daa"
-      ]
-    }
+    "itemModSources": {}
   },
   "suppression": 0.6434852223842624,
   "tenaciousness": 0.5240996938198681,

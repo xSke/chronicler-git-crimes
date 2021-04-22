@@ -25,16 +25,30 @@
   "items": [
     {
       "baserunningRating": 0,
-      "defenseRating": 0,
-      "durability": 1,
+      "defenseRating": 0.03367173442669397,
+      "durability": 2,
       "forger": null,
       "forgerName": null,
-      "health": 1,
-      "hittingRating": 0,
-      "id": "48e80165-a4b0-4d05-ad5d-be2e3ef58b08",
-      "name": "Cap",
-      "pitchingRating": 0.03959798982464313,
-      "postPrefix": null,
+      "health": 2,
+      "hittingRating": 0.02684114777069113,
+      "id": "1d12b823-c0e8-461c-8911-fa899b874138",
+      "name": "Head Cap",
+      "pitchingRating": 0.050034935839247174,
+      "postPrefix": {
+        "adjustments": [
+          {
+            "stat": 3,
+            "type": 1,
+            "value": 0.10104832225922972
+          },
+          {
+            "stat": 21,
+            "type": 1,
+            "value": 0.13944232274502336
+          }
+        ],
+        "name": "Head"
+      },
       "prePrefix": null,
       "prefixes": null,
       "root": {
@@ -42,7 +56,7 @@
           {
             "stat": 16,
             "type": 1,
-            "value": 0.13010124445607382
+            "value": 0.17943084238800405
           }
         ],
         "name": "Cap"

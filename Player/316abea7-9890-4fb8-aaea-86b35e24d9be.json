@@ -24,30 +24,49 @@
   "itemAttr": [],
   "items": [
     {
-      "baserunningRating": 0,
-      "defenseRating": 0,
-      "durability": 1,
+      "baserunningRating": 0.017713925096929317,
+      "defenseRating": 0.18642152188661715,
+      "durability": 2,
       "forger": null,
       "forgerName": null,
-      "health": 1,
-      "hittingRating": 0.049665102239200176,
-      "id": "87a516ad-30e8-44c7-b768-87dd407fea85",
-      "name": "Bat",
-      "pitchingRating": 0,
+      "health": 2,
+      "hittingRating": 0,
+      "id": "8938818d-6cad-441b-b528-acb3f9c2daa9",
+      "name": "Ring of Wisdom",
+      "pitchingRating": 0.04992898760593012,
       "postPrefix": null,
       "prePrefix": null,
       "prefixes": null,
       "root": {
         "adjustments": [
           {
-            "stat": 2,
+            "stat": 19,
             "type": 1,
-            "value": 0.12535954754669887
+            "value": 0.19347671145630063
           }
         ],
-        "name": "Bat"
+        "name": "Ring"
       },
-      "suffix": null
+      "suffix": {
+        "adjustments": [
+          {
+            "stat": 21,
+            "type": 1,
+            "value": 0.11159471888308337
+          },
+          {
+            "stat": 23,
+            "type": 1,
+            "value": 0.122962517586898
+          },
+          {
+            "stat": 12,
+            "type": 1,
+            "value": 0.18530977950477903
+          }
+        ],
+        "name": "Wisdom"
+      }
     }
   ],
   "laserlikeness": 0.13200519260877752,

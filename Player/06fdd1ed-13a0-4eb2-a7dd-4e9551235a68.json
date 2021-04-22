@@ -25,27 +25,48 @@
   "items": [
     {
       "baserunningRating": 0,
-      "defenseRating": 0,
-      "durability": 1,
+      "defenseRating": -0.03452378959360303,
+      "durability": 2,
       "forger": null,
       "forgerName": null,
-      "health": 0,
-      "hittingRating": 0.05292797625403545,
-      "id": "c6b06440-01b5-4e2f-b703-49d67c9d3cd3",
-      "name": "Bat",
-      "pitchingRating": 0,
+      "health": 2,
+      "hittingRating": 0.031186305390413786,
+      "id": "299817e7-547a-4018-afa7-f1f50ebef30c",
+      "name": "Hard Ring",
+      "pitchingRating": 0.1283629391218789,
       "postPrefix": null,
       "prePrefix": null,
-      "prefixes": null,
+      "prefixes": [
+        {
+          "adjustments": [
+            {
+              "stat": 19,
+              "type": 1,
+              "value": 0.22629747097211664
+            },
+            {
+              "stat": 5,
+              "type": 1,
+              "value": 0.18098923299537123
+            },
+            {
+              "stat": 21,
+              "type": 1,
+              "value": -0.1213953948472372
+            }
+          ],
+          "name": "Hard"
+        }
+      ],
       "root": {
         "adjustments": [
           {
-            "stat": 2,
+            "stat": 19,
             "type": 1,
-            "value": 0.14951981456523844
+            "value": 0.13423260585584412
           }
         ],
-        "name": "Bat"
+        "name": "Ring"
       },
       "suffix": null
     }

@@ -24,25 +24,74 @@
   "itemAttr": [],
   "items": [
     {
-      "baserunningRating": 0,
-      "defenseRating": 0,
-      "durability": 1,
+      "baserunningRating": 0.08971078291319001,
+      "defenseRating": 0.011791818087256156,
+      "durability": 5,
       "forger": null,
       "forgerName": null,
-      "health": 1,
-      "hittingRating": 0.047011949585754165,
-      "id": "781faa85-49df-4296-bfc5-f02f32992dfc",
-      "name": "Bat",
-      "pitchingRating": 0,
-      "postPrefix": null,
+      "health": 5,
+      "hittingRating": 0.05599999597795846,
+      "id": "27f4fb3d-3402-4b3c-bfa1-6d99dcbf873c",
+      "name": "Hearty Cool Rock Bat",
+      "pitchingRating": 0.0033038755250529572,
+      "postPrefix": {
+        "adjustments": [
+          {
+            "type": 3,
+            "value": 1
+          }
+        ],
+        "name": "Rock"
+      },
       "prePrefix": null,
-      "prefixes": null,
+      "prefixes": [
+        {
+          "adjustments": [
+            {
+              "stat": 22,
+              "type": 1,
+              "value": 0.10468138921924285
+            },
+            {
+              "stat": 20,
+              "type": 1,
+              "value": 0.08998999607238588
+            },
+            {
+              "stat": 12,
+              "type": 1,
+              "value": 0.14939071717906194
+            }
+          ],
+          "name": "Hearty"
+        },
+        {
+          "adjustments": [
+            {
+              "stat": 3,
+              "type": 1,
+              "value": 0.12855051667051795
+            },
+            {
+              "stat": 17,
+              "type": 1,
+              "value": 0.11073784992474202
+            },
+            {
+              "stat": 10,
+              "type": 1,
+              "value": 0.11580520244856723
+            }
+          ],
+          "name": "Cool"
+        }
+      ],
       "root": {
         "adjustments": [
           {
             "stat": 2,
             "type": 1,
-            "value": 0.10413836892105252
+            "value": 0.12619928961872062
           }
         ],
         "name": "Bat"

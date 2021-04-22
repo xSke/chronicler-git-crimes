@@ -26,26 +26,34 @@
     {
       "baserunningRating": 0,
       "defenseRating": 0,
-      "durability": 1,
+      "durability": 4,
       "forger": null,
       "forgerName": null,
-      "health": 1,
-      "hittingRating": 0.030027899626581256,
-      "id": "8bb78e24-9d3c-4efd-92e2-8d6370fc81a7",
-      "name": "Bat",
-      "pitchingRating": 0,
-      "postPrefix": null,
+      "health": 4,
+      "hittingRating": 0,
+      "id": "cd2c1663-f59f-4925-8771-1b9576d1e8bf",
+      "name": "Concrete Cap",
+      "pitchingRating": 0.05556543106027212,
+      "postPrefix": {
+        "adjustments": [
+          {
+            "type": 3,
+            "value": 2
+          }
+        ],
+        "name": "Concrete"
+      },
       "prePrefix": null,
       "prefixes": null,
       "root": {
         "adjustments": [
           {
-            "stat": 2,
+            "stat": 16,
             "type": 1,
-            "value": 0.1103805284624984
+            "value": 0.17856153992874893
           }
         ],
-        "name": "Bat"
+        "name": "Cap"
       },
       "suffix": null
     }

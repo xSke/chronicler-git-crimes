@@ -21,8 +21,65 @@
   "hittingRating": 0.5797153654203558,
   "id": "f245f6c6-4613-40f5-bc3b-85aa9ee3cf7e",
   "indulgence": 0.013190626926588012,
-  "itemAttr": [],
+  "itemAttr": [
+    "SOUNDPROOF"
+  ],
   "items": [
+    {
+      "baserunningRating": 0,
+      "defenseRating": 0,
+      "durability": 3,
+      "forger": null,
+      "forgerName": null,
+      "health": 3,
+      "hittingRating": 0.07915367953276287,
+      "id": "4ce639be-405e-4a16-98dc-438d73747d72",
+      "name": "Noise-Cancelling Jersey of Charisma",
+      "pitchingRating": 0,
+      "postPrefix": null,
+      "prePrefix": null,
+      "prefixes": [
+        {
+          "adjustments": [
+            {
+              "mod": "SOUNDPROOF",
+              "type": 0
+            }
+          ],
+          "name": "Noise-Cancelling"
+        }
+      ],
+      "root": {
+        "adjustments": [
+          {
+            "stat": 5,
+            "type": 1,
+            "value": 0.11883491616951884
+          }
+        ],
+        "name": "Jersey"
+      },
+      "suffix": {
+        "adjustments": [
+          {
+            "stat": 3,
+            "type": 1,
+            "value": 0.1744100115057281
+          },
+          {
+            "stat": 8,
+            "type": 1,
+            "value": 0.13842978798752847
+          },
+          {
+            "stat": 4,
+            "type": 1,
+            "value": 0.10385976834184547
+          }
+        ],
+        "name": "Charisma"
+      }
+    },
     {
       "baserunningRating": 0,
       "defenseRating": 0,
@@ -48,32 +105,6 @@
         "name": "Bat"
       },
       "suffix": null
-    },
-    {
-      "baserunningRating": 0,
-      "defenseRating": 0,
-      "durability": 1,
-      "forger": null,
-      "forgerName": null,
-      "health": 0,
-      "hittingRating": 0.03073946672959249,
-      "id": "92ffc2d2-2d9c-4607-8794-831edca00905",
-      "name": "Bat",
-      "pitchingRating": 0,
-      "postPrefix": null,
-      "prePrefix": null,
-      "prefixes": null,
-      "root": {
-        "adjustments": [
-          {
-            "stat": 2,
-            "type": 1,
-            "value": 0.14231399991940236
-          }
-        ],
-        "name": "Bat"
-      },
-      "suffix": null
     }
   ],
   "laserlikeness": 0.8297265307168118,
@@ -94,7 +125,13 @@
   "seasAttr": [],
   "shakespearianism": 0.17228905993092325,
   "soul": 4,
-  "state": {},
+  "state": {
+    "itemModSources": {
+      "SOUNDPROOF": [
+        "4ce639be-405e-4a16-98dc-438d73747d72"
+      ]
+    }
+  },
   "suppression": 0.8473046456923368,
   "tenaciousness": 0.7407913643433623,
   "thwackability": 0.8946480834145719,

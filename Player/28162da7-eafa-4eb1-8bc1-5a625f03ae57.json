@@ -24,15 +24,15 @@
   "itemAttr": [],
   "items": [
     {
-      "baserunningRating": 0,
-      "defenseRating": 0,
-      "durability": 1,
+      "baserunningRating": 0.031242917163610384,
+      "defenseRating": 0.07911084866300877,
+      "durability": 2,
       "forger": null,
       "forgerName": null,
-      "health": 0,
-      "hittingRating": 0.02809835633932611,
-      "id": "7cb12293-ccab-4a3b-8604-c517f1738f8a",
-      "name": "Bat",
+      "health": 2,
+      "hittingRating": 0.005281562700310993,
+      "id": "afe68016-fc07-4adb-a62a-a8da006842cc",
+      "name": "Jersey of Stamina",
       "pitchingRating": 0,
       "postPrefix": null,
       "prePrefix": null,
@@ -40,14 +40,38 @@
       "root": {
         "adjustments": [
           {
-            "stat": 2,
+            "stat": 5,
             "type": 1,
-            "value": 0.1253031610629564
+            "value": 0.1723589573914618
           }
         ],
-        "name": "Bat"
+        "name": "Jersey"
       },
-      "suffix": null
+      "suffix": {
+        "adjustments": [
+          {
+            "stat": 22,
+            "type": 1,
+            "value": 0.17221936843315938
+          },
+          {
+            "stat": 25,
+            "type": 1,
+            "value": 0.10620644816200524
+          },
+          {
+            "stat": 11,
+            "type": 1,
+            "value": 0.1164828612092072
+          },
+          {
+            "stat": 9,
+            "type": 1,
+            "value": 0.14324690454652148
+          }
+        ],
+        "name": "Stamina"
+      }
     }
   ],
   "laserlikeness": 0.9410263723132072,

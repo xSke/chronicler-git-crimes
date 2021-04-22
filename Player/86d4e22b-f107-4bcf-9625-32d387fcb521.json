@@ -21,28 +21,48 @@
   "hittingRating": 0.8560366267822145,
   "id": "86d4e22b-f107-4bcf-9625-32d387fcb521",
   "indulgence": 0.6769676659607783,
-  "itemAttr": [],
+  "itemAttr": [
+    "FIREPROOF"
+  ],
   "items": [
     {
       "baserunningRating": 0,
       "defenseRating": 0,
-      "durability": 1,
+      "durability": 4,
       "forger": null,
       "forgerName": null,
-      "health": 0,
-      "hittingRating": 0.0365287499248218,
-      "id": "68555fb2-5aa8-4594-80f3-e43f96b12fd3",
-      "name": "Bat",
+      "health": 4,
+      "hittingRating": 0.045560218963570875,
+      "id": "263069f8-ac39-4612-ab3d-9518482a1ed9",
+      "name": "Fireproof Rock Bat",
       "pitchingRating": 0,
-      "postPrefix": null,
+      "postPrefix": {
+        "adjustments": [
+          {
+            "type": 3,
+            "value": 1
+          }
+        ],
+        "name": "Rock"
+      },
       "prePrefix": null,
-      "prefixes": null,
+      "prefixes": [
+        {
+          "adjustments": [
+            {
+              "mod": "FIREPROOF",
+              "type": 0
+            }
+          ],
+          "name": "Fireproof"
+        }
+      ],
       "root": {
         "adjustments": [
           {
             "stat": 2,
             "type": 1,
-            "value": 0.13781490098103844
+            "value": 0.17355189812558908
           }
         ],
         "name": "Bat"
@@ -74,7 +94,13 @@
   "seasAttr": [],
   "shakespearianism": 0.2832304038291618,
   "soul": 7,
-  "state": {},
+  "state": {
+    "itemModSources": {
+      "FIREPROOF": [
+        "263069f8-ac39-4612-ab3d-9518482a1ed9"
+      ]
+    }
+  },
   "suppression": 0.5498107476260636,
   "tenaciousness": 0.8530951472230703,
   "thwackability": 1.086785973716888,

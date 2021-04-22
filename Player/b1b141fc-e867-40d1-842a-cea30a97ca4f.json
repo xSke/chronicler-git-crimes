@@ -28,26 +28,34 @@
     {
       "baserunningRating": 0,
       "defenseRating": 0,
-      "durability": 1,
+      "durability": 3,
       "forger": null,
       "forgerName": null,
-      "health": 0,
-      "hittingRating": 0.028862023515011992,
-      "id": "93ec6b33-4894-4169-bba2-e681c1ea3ad4",
-      "name": "Bat",
+      "health": 3,
+      "hittingRating": 0,
+      "id": "56ec9cf8-4fd7-4e01-8b8a-8345daeecb33",
+      "name": "Rock Sunglasses",
       "pitchingRating": 0,
-      "postPrefix": null,
+      "postPrefix": {
+        "adjustments": [
+          {
+            "type": 3,
+            "value": 1
+          }
+        ],
+        "name": "Rock"
+      },
       "prePrefix": null,
       "prefixes": null,
       "root": {
         "adjustments": [
           {
-            "stat": 2,
+            "stat": 8,
             "type": 1,
-            "value": 0.1124426437989232
+            "value": 0.15458509004255197
           }
         ],
-        "name": "Bat"
+        "name": "Sunglasses"
       },
       "suffix": null
     }

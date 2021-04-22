@@ -21,31 +21,53 @@
   "hittingRating": 0.31800198642279437,
   "id": "c3ae0552-59e8-44bf-ba66-48a96aff35e6",
   "indulgence": 0.4784092980663881,
-  "itemAttr": [],
+  "itemAttr": [
+    "HIGH_PRESSURE",
+    "SOUNDPROOF"
+  ],
   "items": [
     {
       "baserunningRating": 0,
       "defenseRating": 0,
-      "durability": 1,
+      "durability": 3,
       "forger": null,
       "forgerName": null,
-      "health": 1,
-      "hittingRating": 0.05286685774782063,
-      "id": "00f68aa7-d57d-4136-b74b-6ab877e3e055",
-      "name": "Bat",
+      "health": 3,
+      "hittingRating": 0,
+      "id": "2401d9b0-2481-431b-b100-f829e125b2b3",
+      "name": "Clutch Noise-Cancelling Sunglasses",
       "pitchingRating": 0,
       "postPrefix": null,
       "prePrefix": null,
-      "prefixes": null,
+      "prefixes": [
+        {
+          "adjustments": [
+            {
+              "mod": "HIGH_PRESSURE",
+              "type": 0
+            }
+          ],
+          "name": "Clutch"
+        },
+        {
+          "adjustments": [
+            {
+              "mod": "SOUNDPROOF",
+              "type": 0
+            }
+          ],
+          "name": "Noise-Cancelling"
+        }
+      ],
       "root": {
         "adjustments": [
           {
-            "stat": 2,
+            "stat": 8,
             "type": 1,
-            "value": 0.1197627678594566
+            "value": 0.19799432577448017
           }
         ],
-        "name": "Bat"
+        "name": "Sunglasses"
       },
       "suffix": null
     }
@@ -71,7 +93,16 @@
   "seasAttr": [],
   "shakespearianism": 0.40360764872133503,
   "soul": 8,
-  "state": {},
+  "state": {
+    "itemModSources": {
+      "HIGH_PRESSURE": [
+        "2401d9b0-2481-431b-b100-f829e125b2b3"
+      ],
+      "SOUNDPROOF": [
+        "2401d9b0-2481-431b-b100-f829e125b2b3"
+      ]
+    }
+  },
   "suppression": 0.45639454217096026,
   "tenaciousness": 0.5122594903733665,
   "thwackability": 0.21704817966805884,

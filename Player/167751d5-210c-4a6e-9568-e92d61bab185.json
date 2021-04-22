@@ -24,42 +24,36 @@
   "itemAttr": [],
   "items": [
     {
-      "baserunningRating": 0,
-      "defenseRating": 0.03622359123072927,
-      "durability": 2,
+      "baserunningRating": 0.07651567003953974,
+      "defenseRating": 0,
+      "durability": 3,
       "forger": null,
       "forgerName": null,
-      "health": 2,
-      "hittingRating": 0.010397545905943996,
-      "id": "c22154f7-f1aa-48ae-b6cf-5f0459bacd5d",
-      "name": "Head Cap",
-      "pitchingRating": 0.05999979178578929,
+      "health": 3,
+      "hittingRating": 0,
+      "id": "9d0892a2-a9c9-492d-bfa9-382b4d47b8df",
+      "name": "Rock Shoes",
+      "pitchingRating": 0,
       "postPrefix": {
         "adjustments": [
           {
-            "stat": 3,
-            "type": 1,
-            "value": 0.18779824142013576
-          },
-          {
-            "stat": 21,
-            "type": 1,
-            "value": 0.13615691701027036
+            "type": 3,
+            "value": 1
           }
         ],
-        "name": "Head"
+        "name": "Rock"
       },
       "prePrefix": null,
       "prefixes": null,
       "root": {
         "adjustments": [
           {
-            "stat": 16,
+            "stat": 10,
             "type": 1,
-            "value": 0.1594308921162508
+            "value": 0.17754228555476215
           }
         ],
-        "name": "Cap"
+        "name": "Shoes"
       },
       "suffix": null
     }

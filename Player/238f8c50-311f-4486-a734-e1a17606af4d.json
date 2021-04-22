@@ -24,28 +24,59 @@
   "itemAttr": [],
   "items": [
     {
-      "baserunningRating": 0,
+      "baserunningRating": 0.07081184716758326,
       "defenseRating": 0,
-      "durability": 1,
+      "durability": 2,
       "forger": null,
       "forgerName": null,
-      "health": 1,
-      "hittingRating": 0.03253035785262903,
-      "id": "ff10cc55-97e1-4edb-94ee-24aadc723b4c",
-      "name": "Bat",
-      "pitchingRating": 0,
+      "health": 2,
+      "hittingRating": -0.023791442505744276,
+      "id": "25cfc8fe-1293-4bfe-9b2d-f7b1280e2b86",
+      "name": "Weird Shoes",
+      "pitchingRating": 0.0026028539366269587,
       "postPrefix": null,
       "prePrefix": null,
-      "prefixes": null,
+      "prefixes": [
+        {
+          "adjustments": [
+            {
+              "stat": 0,
+              "type": 1,
+              "value": 0.22575449527994632
+            },
+            {
+              "stat": 14,
+              "type": 1,
+              "value": 0.05570399648826683
+            },
+            {
+              "stat": 13,
+              "type": 1,
+              "value": 0.07656082810215732
+            },
+            {
+              "stat": 6,
+              "type": 1,
+              "value": 0.1027223228865152
+            },
+            {
+              "stat": 8,
+              "type": 1,
+              "value": 0.03676541960752173
+            }
+          ],
+          "name": "Weird"
+        }
+      ],
       "root": {
         "adjustments": [
           {
-            "stat": 2,
+            "stat": 10,
             "type": 1,
-            "value": 0.13218001138535332
+            "value": 0.10525740088231546
           }
         ],
-        "name": "Bat"
+        "name": "Shoes"
       },
       "suffix": null
     }

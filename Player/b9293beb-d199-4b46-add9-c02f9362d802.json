@@ -24,28 +24,49 @@
   "itemAttr": [],
   "items": [
     {
-      "baserunningRating": 0,
-      "defenseRating": 0,
-      "durability": 1,
+      "baserunningRating": -0.018868277338180302,
+      "defenseRating": null,
+      "durability": 2,
       "forger": null,
       "forgerName": null,
-      "health": 1,
-      "hittingRating": 0.0431084736561026,
-      "id": "aa6845d5-3cb4-43a0-9053-91b7c75a1a17",
-      "name": "Bat",
-      "pitchingRating": 0,
+      "health": 2,
+      "hittingRating": 0.06663492446882835,
+      "id": "03594fd5-1cb2-4957-9fe6-01832ede0c96",
+      "name": "Wooden Ring",
+      "pitchingRating": 0.1574413180461785,
       "postPrefix": null,
       "prePrefix": null,
-      "prefixes": null,
+      "prefixes": [
+        {
+          "adjustments": [
+            {
+              "stat": 2,
+              "type": 1,
+              "value": 0.22235926454361024
+            },
+            {
+              "stat": 10,
+              "type": 1,
+              "value": -0.052272331085210656
+            },
+            {
+              "stat": 22,
+              "type": 1,
+              "value": -0.11439867902440937
+            }
+          ],
+          "name": "Wooden"
+        }
+      ],
       "root": {
         "adjustments": [
           {
-            "stat": 2,
+            "stat": 19,
             "type": 1,
-            "value": 0.1404172121253157
+            "value": 0.1898252610321708
           }
         ],
-        "name": "Bat"
+        "name": "Ring"
       },
       "suffix": null
     }

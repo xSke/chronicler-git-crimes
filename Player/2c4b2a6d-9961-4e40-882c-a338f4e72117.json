@@ -24,6 +24,68 @@
   "itemAttr": [],
   "items": [
     {
+      "baserunningRating": 0.06101077948216305,
+      "defenseRating": 0,
+      "durability": 3,
+      "forger": null,
+      "forgerName": null,
+      "health": 3,
+      "hittingRating": -0.0004713271014535614,
+      "id": "a6c6a76d-50d7-4874-ae8b-3d275fff1c9b",
+      "name": "Cryogenic Smokey Shoes",
+      "pitchingRating": 0.03921977544692273,
+      "postPrefix": null,
+      "prePrefix": null,
+      "prefixes": [
+        {
+          "adjustments": [
+            {
+              "stat": 15,
+              "type": 1,
+              "value": 0.1655920017284106
+            },
+            {
+              "stat": 17,
+              "type": 1,
+              "value": 0.24617755812587672
+            },
+            {
+              "stat": 18,
+              "type": 1,
+              "value": 0.0888469927286008
+            }
+          ],
+          "name": "Cryogenic"
+        },
+        {
+          "adjustments": [
+            {
+              "stat": 19,
+              "type": 1,
+              "value": 0.194323625038533
+            },
+            {
+              "stat": 0,
+              "type": 1,
+              "value": 0.15775502644514905
+            }
+          ],
+          "name": "Smokey"
+        }
+      ],
+      "root": {
+        "adjustments": [
+          {
+            "stat": 10,
+            "type": 1,
+            "value": 0.1368428119478492
+          }
+        ],
+        "name": "Shoes"
+      },
+      "suffix": null
+    },
+    {
       "baserunningRating": 0,
       "defenseRating": 0,
       "durability": 1,

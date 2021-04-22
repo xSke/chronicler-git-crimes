@@ -21,8 +21,77 @@
   "hittingRating": 0.0981951995535275,
   "id": "1f145436-b25d-49b9-a1e3-2d3c91626211",
   "indulgence": 0.7003146283851673,
-  "itemAttr": [],
-  "items": [],
+  "itemAttr": [
+    "FIRE_EATER"
+  ],
+  "items": [
+    {
+      "baserunningRating": 0.09415190903497006,
+      "defenseRating": 0,
+      "durability": 3,
+      "forger": null,
+      "forgerName": null,
+      "health": 3,
+      "hittingRating": 0.14609233109992437,
+      "id": "8dc05824-9e09-45a5-9199-63a5b29e3967",
+      "name": "Fire Eating Weird Bat",
+      "pitchingRating": 0.011578977970743752,
+      "postPrefix": null,
+      "prePrefix": null,
+      "prefixes": [
+        {
+          "adjustments": [
+            {
+              "mod": "FIRE_EATER",
+              "type": 0
+            }
+          ],
+          "name": "Fire Eating"
+        },
+        {
+          "adjustments": [
+            {
+              "stat": 0,
+              "type": 1,
+              "value": 0.07840881042568994
+            },
+            {
+              "stat": 14,
+              "type": 1,
+              "value": 0.057238432387071006
+            },
+            {
+              "stat": 13,
+              "type": 1,
+              "value": 0.19919451810431876
+            },
+            {
+              "stat": 6,
+              "type": 1,
+              "value": 0.11929635694866364
+            },
+            {
+              "stat": 8,
+              "type": 1,
+              "value": 0.05237826054209093
+            }
+          ],
+          "name": "Weird"
+        }
+      ],
+      "root": {
+        "adjustments": [
+          {
+            "stat": 2,
+            "type": 1,
+            "value": 0.12966231971829495
+          }
+        ],
+        "name": "Bat"
+      },
+      "suffix": null
+    }
+  ],
   "laserlikeness": 0.30711584989828317,
   "leagueTeamId": "f02aeae2-5e6a-4098-9842-02d2273f25c7",
   "martyrdom": 0.2004515876385189,
@@ -41,7 +110,13 @@
   "seasAttr": [],
   "shakespearianism": 0.1260857874521016,
   "soul": 9,
-  "state": {},
+  "state": {
+    "itemModSources": {
+      "FIRE_EATER": [
+        "8dc05824-9e09-45a5-9199-63a5b29e3967"
+      ]
+    }
+  },
   "suppression": 0.17280071243802672,
   "tenaciousness": 0.6948658820978679,
   "thwackability": 0.01,

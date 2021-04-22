@@ -22,19 +22,19 @@
   "id": "8ecea7e0-b1fb-4b74-8c8c-3271cb54f659",
   "indulgence": 0.8800238787720435,
   "itemAttr": [
-    "TRAVELING"
+    "DOUBLE_PAYOUTS"
   ],
   "items": [
     {
-      "baserunningRating": 0.07783690945469601,
+      "baserunningRating": 0,
       "defenseRating": 0,
       "durability": 2,
       "forger": null,
       "forgerName": null,
-      "health": 1,
-      "hittingRating": 0,
-      "id": "ee1de386-9fcd-4480-bde3-c42734ef249f",
-      "name": "Travelling Shoes",
+      "health": 2,
+      "hittingRating": 0.013936102379242143,
+      "id": "361d0d4a-e486-4280-bf77-462b96d12e93",
+      "name": "Golden Necklace",
       "pitchingRating": 0,
       "postPrefix": null,
       "prePrefix": null,
@@ -42,22 +42,22 @@
         {
           "adjustments": [
             {
-              "mod": "TRAVELING",
+              "mod": "DOUBLE_PAYOUTS",
               "type": 0
             }
           ],
-          "name": "Travelling"
+          "name": "Golden"
         }
       ],
       "root": {
         "adjustments": [
           {
-            "stat": 10,
+            "stat": 3,
             "type": 1,
-            "value": 0.13673002118713198
+            "value": 0.1899248111362164
           }
         ],
-        "name": "Shoes"
+        "name": "Necklace"
       },
       "suffix": null
     }
@@ -82,8 +82,8 @@
   "soul": 4,
   "state": {
     "itemModSources": {
-      "TRAVELING": [
-        "ee1de386-9fcd-4480-bde3-c42734ef249f"
+      "DOUBLE_PAYOUTS": [
+        "361d0d4a-e486-4280-bf77-462b96d12e93"
       ]
     }
   },

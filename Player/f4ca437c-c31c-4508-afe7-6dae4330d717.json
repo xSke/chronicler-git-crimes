@@ -21,33 +21,54 @@
   "hittingRating": 0.7855264174104731,
   "id": "f4ca437c-c31c-4508-afe7-6dae4330d717",
   "indulgence": 1.06168083021569,
-  "itemAttr": [],
+  "itemAttr": [
+    "BLASERUNNING",
+    "HIGH_PRESSURE"
+  ],
   "items": [
     {
       "baserunningRating": 0,
       "defenseRating": 0,
-      "durability": 1,
+      "durability": 3,
       "forger": null,
       "forgerName": null,
-      "health": 0,
-      "hittingRating": 0.04001258744507985,
-      "id": "a67779b0-cb0e-4b04-aa93-43aa84520dde",
-      "name": "Bat",
-      "pitchingRating": 0,
+      "health": 3,
+      "hittingRating": 0,
+      "id": "2eff99f9-797c-400c-a52e-f746ec987c44",
+      "name": "Clutch Cap of Blaserunning",
+      "pitchingRating": 0.06120153295104591,
       "postPrefix": null,
       "prePrefix": null,
-      "prefixes": null,
+      "prefixes": [
+        {
+          "adjustments": [
+            {
+              "mod": "HIGH_PRESSURE",
+              "type": 0
+            }
+          ],
+          "name": "Clutch"
+        }
+      ],
       "root": {
         "adjustments": [
           {
-            "stat": 2,
+            "stat": 16,
             "type": 1,
-            "value": 0.1336288777431896
+            "value": 0.11482895178363411
           }
         ],
-        "name": "Bat"
+        "name": "Cap"
       },
-      "suffix": null
+      "suffix": {
+        "adjustments": [
+          {
+            "mod": "BLASERUNNING",
+            "type": 0
+          }
+        ],
+        "name": "Blaserunning"
+      }
     }
   ],
   "laserlikeness": 0.40356777823204726,
@@ -70,7 +91,16 @@
   "seasAttr": [],
   "shakespearianism": 0.48342380563170506,
   "soul": 2,
-  "state": {},
+  "state": {
+    "itemModSources": {
+      "BLASERUNNING": [
+        "2eff99f9-797c-400c-a52e-f746ec987c44"
+      ],
+      "HIGH_PRESSURE": [
+        "2eff99f9-797c-400c-a52e-f746ec987c44"
+      ]
+    }
+  },
   "suppression": 0.5271944310165098,
   "tenaciousness": 0.21735096079654048,
   "thwackability": 0.8530019310921486,

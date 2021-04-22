@@ -24,28 +24,47 @@
   "itemAttr": [],
   "items": [
     {
-      "baserunningRating": 0,
+      "baserunningRating": -0.020513400223220343,
       "defenseRating": 0,
-      "durability": 1,
+      "durability": 2,
       "forger": null,
       "forgerName": null,
-      "health": 0,
-      "hittingRating": 0.05173402652861614,
-      "id": "4d1b0fa9-c264-457e-a549-95760e98bcf0",
-      "name": "Bat",
-      "pitchingRating": 0,
-      "postPrefix": null,
+      "health": 2,
+      "hittingRating": 0.03512256492815291,
+      "id": "91b2f449-e9e0-422d-9ece-fc97f59801ff",
+      "name": "Blood Cap",
+      "pitchingRating": 0.023755644324762622,
+      "postPrefix": {
+        "adjustments": [
+          {
+            "stat": 7,
+            "type": 1,
+            "value": 0.1251892828093201
+          },
+          {
+            "stat": 9,
+            "type": 1,
+            "value": -0.140951791667456
+          },
+          {
+            "stat": 4,
+            "type": 1,
+            "value": 0.19870748420364984
+          }
+        ],
+        "name": "Blood"
+      },
       "prePrefix": null,
       "prefixes": null,
       "root": {
         "adjustments": [
           {
-            "stat": 2,
+            "stat": 16,
             "type": 1,
-            "value": 0.10346959933754855
+            "value": 0.1577931861432142
           }
         ],
-        "name": "Bat"
+        "name": "Cap"
       },
       "suffix": null
     }

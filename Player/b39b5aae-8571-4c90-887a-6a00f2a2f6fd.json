@@ -21,31 +21,53 @@
   "hittingRating": 0.4270602001267057,
   "id": "b39b5aae-8571-4c90-887a-6a00f2a2f6fd",
   "indulgence": 0.9077139031298386,
-  "itemAttr": [],
+  "itemAttr": [
+    "SQUIDDISH",
+    "TRAVELING"
+  ],
   "items": [
     {
       "baserunningRating": 0,
       "defenseRating": 0,
-      "durability": 1,
+      "durability": 3,
       "forger": null,
       "forgerName": null,
-      "health": 0,
-      "hittingRating": 0.016950440261999322,
-      "id": "8753fe24-8fb5-4d95-bf2a-a378f3dfab49",
-      "name": "Bat",
+      "health": 3,
+      "hittingRating": 0.0044763422767934435,
+      "id": "f57fe258-3190-4730-b7f3-7b5d312222b3",
+      "name": "Squiddish Travelling Jersey",
       "pitchingRating": 0,
       "postPrefix": null,
       "prePrefix": null,
-      "prefixes": null,
+      "prefixes": [
+        {
+          "adjustments": [
+            {
+              "mod": "SQUIDDISH",
+              "type": 0
+            }
+          ],
+          "name": "Squiddish"
+        },
+        {
+          "adjustments": [
+            {
+              "mod": "TRAVELING",
+              "type": 0
+            }
+          ],
+          "name": "Travelling"
+        }
+      ],
       "root": {
         "adjustments": [
           {
-            "stat": 2,
+            "stat": 5,
             "type": 1,
-            "value": 0.1229161253417284
+            "value": 0.16063403751781002
           }
         ],
-        "name": "Bat"
+        "name": "Jersey"
       },
       "suffix": null
     }
@@ -68,7 +90,16 @@
   "seasAttr": [],
   "shakespearianism": 0.5226103070971544,
   "soul": 1,
-  "state": {},
+  "state": {
+    "itemModSources": {
+      "SQUIDDISH": [
+        "f57fe258-3190-4730-b7f3-7b5d312222b3"
+      ],
+      "TRAVELING": [
+        "f57fe258-3190-4730-b7f3-7b5d312222b3"
+      ]
+    }
+  },
   "suppression": 0.3757030793720793,
   "tenaciousness": 0.605952642957144,
   "thwackability": 1.0449411444757448,
