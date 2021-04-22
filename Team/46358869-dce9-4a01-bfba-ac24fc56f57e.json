@@ -19,7 +19,7 @@
   ],
   "card": -1,
   "championships": 3,
-  "eDensity": 1521.974577665057,
+  "eDensity": 1526.974577665057,
   "emoji": "0x1F6E0",
   "evolution": 1,
   "fullName": "Core Mechanics",
@@ -65,5 +65,5 @@
   "totalShamings": 10,
   "tournamentWins": 0,
   "weekAttr": [],
-  "winStreak": -4
+  "winStreak": -5
 }
