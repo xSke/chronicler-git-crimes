@@ -60,7 +60,9 @@
   "overpowerment": 0.4271622338185585,
   "patheticism": 0.05746516565342653,
   "peanutAllergy": false,
-  "permAttr": [],
+  "permAttr": [
+    "COFFEE_RALLY"
+  ],
   "pitchingRating": 0.3834085879283912,
   "pressurization": 0.7117634129525612,
   "ritual": "Comics",
