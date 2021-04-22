@@ -56,10 +56,10 @@
   ],
   "rotationSlot": 78,
   "seasAttr": [],
-  "seasonShames": 6,
+  "seasonShames": 7,
   "seasonShamings": 4,
   "secondaryColor": "#f5feff",
-  "shameRuns": 0,
+  "shameRuns": 1,
   "shorthand": "CAN",
   "slogan": "Talk Spit, Get Hits",
   "stadium": "f71fd587-d20c-461c-88a4-1634a2df3f43",
@@ -67,9 +67,9 @@
     "permModSources": {}
   },
   "teamSpirit": 0,
-  "totalShames": 86,
+  "totalShames": 87,
   "totalShamings": 76,
   "tournamentWins": 0,
   "weekAttr": [],
-  "winStreak": 3
+  "winStreak": -1
 }
