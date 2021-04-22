@@ -84,7 +84,11 @@
     "secret_base_mod": 1
   },
   "secondaryColor": "#ab8287",
-  "state": {},
+  "state": {
+    "faxMachine": {
+      "runsNeeded": 20
+    }
+  },
   "teamId": "8d87c468-699a-47a8-b40d-cfb73a5660ad",
   "tertiaryColor": "#d9c1c3",
   "viscosity": 0.342355352110473,
