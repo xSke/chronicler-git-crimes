@@ -11,7 +11,7 @@
     "eac00ec9-3376-423c-8684-93dd2cbd6ed4",
     "305921e8-3f4d-4c91-a280-d7bf1a449b08",
     "30fa4bf1-8f3b-45dc-9aa3-6511e998040a",
-    "51dab868-820b-4969-8bba-bde0be8090d7",
+    "9c813008-b2a9-4257-80e7-a709c67189fe",
     "096bb9b5-5ea8-4da1-a113-57a5fc9e9b67",
     "b0c20916-7097-47e6-8226-cbf67da176e0",
     "9e75ff7c-fe9b-428b-a1b6-f9e6a1748c86",
@@ -47,7 +47,7 @@
   "rotation": [
     "338694b7-6256-4724-86b6-3884299a5d9e",
     "b629cb7a-414b-4695-a115-7528ab700346",
-    "9c813008-b2a9-4257-80e7-a709c67189fe",
+    "51dab868-820b-4969-8bba-bde0be8090d7",
     "888fce7a-0d21-478a-9b45-4662193fe9aa"
   ],
   "rotationSlot": 75,
@@ -59,7 +59,11 @@
   "shorthand": "CORE",
   "slogan": "We Can Fix This",
   "stadium": "031670ae-97a5-4215-b1a1-98e9f1de7c50",
-  "state": {},
+  "state": {
+    "faxMachine": {
+      "runsNeeded": 20
+    }
+  },
   "teamSpirit": 0,
   "totalShames": 29,
   "totalShamings": 10,
