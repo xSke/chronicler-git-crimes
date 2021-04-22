@@ -21,7 +21,7 @@
   ],
   "card": 13,
   "championships": 1,
-  "eDensity": 2128.115435993629,
+  "eDensity": 2126.115435993629,
   "emoji": "0x1F525",
   "evolution": 0,
   "fullName": "Chicago Firefighters",
@@ -51,14 +51,14 @@
     "94baa9ac-ff96-4f56-a987-10358e917d91",
     "f4a5d734-0ade-4410-abb6-c0cd5a7a1c26"
   ],
-  "rotationSlot": 75,
+  "rotationSlot": 76,
   "seasAttr": [
     "EXTRA_STRIKE"
   ],
   "seasonShames": 4,
   "seasonShamings": 1,
   "secondaryColor": "#d13757",
-  "shameRuns": 2,
+  "shameRuns": 0,
   "shorthand": "CHIF",
   "slogan": "We Are From Chicago",
   "stadium": "06c991f6-4ef3-4a9a-8254-8a2bc7d3a1e1",
