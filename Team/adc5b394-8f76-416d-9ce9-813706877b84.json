@@ -59,11 +59,6 @@
   "slogan": "Fresh Breath, Here We Come.",
   "stadium": "21ce1233-b2d6-4bd2-8d03-68a8915afdc5",
   "state": {
-    "gameModSources": {
-      "LOVE": [
-        "PSYCHOACOUSTICS"
-      ]
-    },
     "permModSources": {}
   },
   "teamSpirit": 0,
@@ -71,5 +66,5 @@
   "totalShamings": 64,
   "tournamentWins": 0,
   "weekAttr": [],
-  "winStreak": 1
+  "winStreak": 2
 }
