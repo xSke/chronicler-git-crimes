@@ -23,11 +23,13 @@
   ],
   "card": 6,
   "championships": 0,
-  "eDensity": 1846.7325138940096,
+  "eDensity": 1853.2620771507536,
   "emoji": "0x1F32E",
   "evolution": 0,
   "fullName": "LA Unlimited Tacos",
-  "gameAttr": [],
+  "gameAttr": [
+    "ELECTRIC"
+  ],
   "id": "878c1bf6-0d21-4659-bfee-916c8314d69c",
   "level": 3,
   "lineup": [
@@ -50,7 +52,7 @@
     "0ecf6190-f869-421a-b339-29195d30d37c",
     "691f9ab2-9dd4-42e8-bf95-9fd01253c801"
   ],
-  "rotationSlot": 74,
+  "rotationSlot": 75,
   "seasAttr": [],
   "seasonShames": 6,
   "seasonShamings": 2,
@@ -62,6 +64,11 @@
   "state": {
     "faxMachine": {
       "runsNeeded": 20
+    },
+    "gameModSources": {
+      "ELECTRIC": [
+        "PSYCHOACOUSTICS"
+      ]
     }
   },
   "teamSpirit": 0,
