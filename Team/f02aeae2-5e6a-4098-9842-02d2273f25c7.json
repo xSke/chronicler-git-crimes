@@ -23,11 +23,13 @@
   ],
   "card": 11,
   "championships": 1,
-  "eDensity": 1776.5409133298317,
+  "eDensity": 1794.6060978111852,
   "emoji": "0x1F31E",
   "evolution": 0,
   "fullName": "Hellmouth Sunbeams",
-  "gameAttr": [],
+  "gameAttr": [
+    "POPCORN_PAYOUTS"
+  ],
   "id": "f02aeae2-5e6a-4098-9842-02d2273f25c7",
   "level": 3,
   "lineup": [
@@ -53,7 +55,7 @@
     "20fd71e7-4fa0-4132-9f47-06a314ed539a",
     "333067fd-c2b4-4045-a9a4-e87a8d0332d0"
   ],
-  "rotationSlot": 76,
+  "rotationSlot": 77,
   "seasAttr": [],
   "seasonShames": 5,
   "seasonShamings": 2,
@@ -62,7 +64,13 @@
   "shorthand": "SUN",
   "slogan": "Stare into the Sun...",
   "stadium": "8e900d85-7d4c-47d0-a67f-6432144f0210",
-  "state": {},
+  "state": {
+    "gameModSources": {
+      "POPCORN_PAYOUTS": [
+        "PSYCHOACOUSTICS"
+      ]
+    }
+  },
   "teamSpirit": 0,
   "totalShames": 85,
   "totalShamings": 66,
