@@ -23,9 +23,7 @@
   "emoji": "0x1F36C",
   "evolution": 0,
   "fullName": "Kansas City Breath Mints",
-  "gameAttr": [
-    "CARCINIZATION"
-  ],
+  "gameAttr": [],
   "id": "adc5b394-8f76-416d-9ce9-813706877b84",
   "level": 3,
   "lineup": [
@@ -59,11 +57,6 @@
   "slogan": "Fresh Breath, Here We Come.",
   "stadium": "21ce1233-b2d6-4bd2-8d03-68a8915afdc5",
   "state": {
-    "gameModSources": {
-      "CARCINIZATION": [
-        "PSYCHOACOUSTICS"
-      ]
-    },
     "permModSources": {}
   },
   "teamSpirit": 0,
@@ -71,5 +64,5 @@
   "totalShamings": 63,
   "tournamentWins": 0,
   "weekAttr": [],
-  "winStreak": -1
+  "winStreak": 1
 }
