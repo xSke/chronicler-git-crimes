@@ -61,7 +61,8 @@
   "patheticism": 0.08932495483239938,
   "peanutAllergy": true,
   "permAttr": [
-    "FLINCH"
+    "FLINCH",
+    "TRIPLE_THREAT"
   ],
   "pitchingRating": 0.9331990408794928,
   "pressurization": 0.9224335434501654,
