@@ -55,13 +55,13 @@
   "martyrdom": 1.0591524411308535,
   "moxie": 0.4794755659450589,
   "musclitude": 0.9135356637645092,
-  "name": "Wesley Poole",
+  "name": "W-s--- Poo--",
   "omniscience": 1.0718073233901777,
   "overpowerment": 0.3984195867436258,
   "patheticism": 0.16699551710572968,
   "peanutAllergy": true,
   "permAttr": [
-    "ELSEWHERE"
+    "SCATTERED"
   ],
   "pitchingRating": 0.828929758949988,
   "pressurization": 0.7877088456465753,
@@ -71,10 +71,7 @@
   "shakespearianism": 1.032953321248989,
   "soul": 7,
   "state": {
-    "elsewhere": {
-      "day": 30,
-      "season": 16
-    }
+    "unscatteredName": "Wesley Poole"
   },
   "suppression": 0.8347118289516755,
   "tenaciousness": 1.3625844448977498,
