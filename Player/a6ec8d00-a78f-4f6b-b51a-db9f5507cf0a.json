@@ -33,7 +33,9 @@
   "overpowerment": 0.20880546208587947,
   "patheticism": 0.2451124216890721,
   "peanutAllergy": true,
-  "permAttr": [],
+  "permAttr": [
+    "COFFEE_RALLY"
+  ],
   "pitchingRating": 0.2863381605128632,
   "pressurization": 0.8369630148805476,
   "ritual": "Pointing at the sky",
