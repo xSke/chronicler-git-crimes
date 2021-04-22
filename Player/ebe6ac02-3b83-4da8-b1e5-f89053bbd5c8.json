@@ -60,7 +60,9 @@
   "overpowerment": 1.146427987055397,
   "patheticism": 0.06604526257554305,
   "peanutAllergy": false,
-  "permAttr": [],
+  "permAttr": [
+    "TRIPLE_THREAT"
+  ],
   "pitchingRating": 0.5451357608865907,
   "pressurization": 0.09890834442096884,
   "ritual": "Mystery novels",
