@@ -60,7 +60,9 @@
   "overpowerment": 0.8676222006824816,
   "patheticism": 0.302169307873866,
   "peanutAllergy": false,
-  "permAttr": [],
+  "permAttr": [
+    "ELSEWHERE"
+  ],
   "pitchingRating": 0.3585501407301715,
   "pressurization": 0.8198831108644654,
   "ritual": "Jumping in mud",
