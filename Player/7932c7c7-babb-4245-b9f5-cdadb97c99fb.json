@@ -61,7 +61,8 @@
   "patheticism": 0.703871858851337,
   "peanutAllergy": false,
   "permAttr": [
-    "LATE_TO_PARTY"
+    "LATE_TO_PARTY",
+    "OVERPERFORMING"
   ],
   "pitchingRating": 0.21987760870661208,
   "pressurization": 0.24853449628553115,
@@ -70,7 +71,13 @@
   "seasAttr": [],
   "shakespearianism": 0.9253409934115802,
   "soul": 3,
-  "state": {},
+  "state": {
+    "permModSources": {
+      "OVERPERFORMING": [
+        "LATE_TO_PARTY"
+      ]
+    }
+  },
   "suppression": 0.7826140986691406,
   "tenaciousness": 0.21777006372639263,
   "thwackability": 0.9667035147880852,
