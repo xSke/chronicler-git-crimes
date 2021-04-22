@@ -20,10 +20,10 @@
     "bb4a9de5-c924-4923-a0cb-9d1445f1ee5d": 60,
     "bfd38797-8404-4b38-8b82-341da28b1f83": 60,
     "c73b705c-40ad-4633-a6ed-d357ee2e2bcf": 60,
-    "ca3f1c8c-c025-4d8e-8eef-5be6accbeb16": 59,
+    "ca3f1c8c-c025-4d8e-8eef-5be6accbeb16": 60,
     "d9f89a8a-c563-493e-9d64-78e4f9a55d4a": 60,
     "eb67ae5e-c4bf-46ca-bbbc-425cd34182ff": 60,
-    "f02aeae2-5e6a-4098-9842-02d2273f25c7": 59
+    "f02aeae2-5e6a-4098-9842-02d2273f25c7": 60
   },
   "id": "7d71cbf0-63c7-4dc0-969b-fc3d52cddbbd",
   "losses": {
@@ -47,7 +47,7 @@
     "bb4a9de5-c924-4923-a0cb-9d1445f1ee5d": 22,
     "bfd38797-8404-4b38-8b82-341da28b1f83": 31,
     "c73b705c-40ad-4633-a6ed-d357ee2e2bcf": 34,
-    "ca3f1c8c-c025-4d8e-8eef-5be6accbeb16": 26,
+    "ca3f1c8c-c025-4d8e-8eef-5be6accbeb16": 27,
     "d9f89a8a-c563-493e-9d64-78e4f9a55d4a": 32,
     "eb67ae5e-c4bf-46ca-bbbc-425cd34182ff": 26,
     "f02aeae2-5e6a-4098-9842-02d2273f25c7": 42
@@ -73,10 +73,10 @@
     "bb4a9de5-c924-4923-a0cb-9d1445f1ee5d": 272.4,
     "bfd38797-8404-4b38-8b82-341da28b1f83": 260.1,
     "c73b705c-40ad-4633-a6ed-d357ee2e2bcf": 244.7,
-    "ca3f1c8c-c025-4d8e-8eef-5be6accbeb16": 253.4,
+    "ca3f1c8c-c025-4d8e-8eef-5be6accbeb16": 261.4,
     "d9f89a8a-c563-493e-9d64-78e4f9a55d4a": 234.9,
     "eb67ae5e-c4bf-46ca-bbbc-425cd34182ff": 252.1,
-    "f02aeae2-5e6a-4098-9842-02d2273f25c7": 143
+    "f02aeae2-5e6a-4098-9842-02d2273f25c7": 160
   },
   "wins": {
     "105bc3ff-1320-4e37-8ef0-8d595cb95dd0": 29,
@@ -102,6 +102,6 @@
     "ca3f1c8c-c025-4d8e-8eef-5be6accbeb16": 33,
     "d9f89a8a-c563-493e-9d64-78e4f9a55d4a": 29,
     "eb67ae5e-c4bf-46ca-bbbc-425cd34182ff": 34,
-    "f02aeae2-5e6a-4098-9842-02d2273f25c7": 17
+    "f02aeae2-5e6a-4098-9842-02d2273f25c7": 18
   }
 }
