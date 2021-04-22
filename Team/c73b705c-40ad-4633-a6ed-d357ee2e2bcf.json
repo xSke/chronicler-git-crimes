@@ -52,18 +52,18 @@
   ],
   "rotationSlot": 72,
   "seasAttr": [],
-  "seasonShames": 3,
+  "seasonShames": 4,
   "seasonShamings": 4,
   "secondaryColor": "#e830ab",
-  "shameRuns": 0,
+  "shameRuns": 1,
   "shorthand": "TKL",
   "slogan": "Heart and Swole",
   "stadium": "7f09624b-b3cf-4493-b768-adf090bebf21",
   "state": {},
   "teamSpirit": 0,
-  "totalShames": 39,
+  "totalShames": 40,
   "totalShamings": 20,
   "tournamentWins": 0,
   "weekAttr": [],
-  "winStreak": 1
+  "winStreak": -1
 }
