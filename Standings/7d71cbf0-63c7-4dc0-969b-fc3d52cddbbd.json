@@ -1,8 +1,8 @@
 {
   "gamesPlayed": {
-    "105bc3ff-1320-4e37-8ef0-8d595cb95dd0": 58,
+    "105bc3ff-1320-4e37-8ef0-8d595cb95dd0": 59,
     "23e4cbc1-e9cd-47fa-a35b-bfa06f726cb7": 59,
-    "36569151-a2fb-43c1-9df7-2df512424c82": 58,
+    "36569151-a2fb-43c1-9df7-2df512424c82": 59,
     "3f8bbb15-61c0-4e3f-8e4a-907a5fb1565e": 59,
     "46358869-dce9-4a01-bfba-ac24fc56f57e": 59,
     "57ec08cc-0411-4643-b304-0e80dbc15ac7": 59,
@@ -20,16 +20,16 @@
     "bb4a9de5-c924-4923-a0cb-9d1445f1ee5d": 59,
     "bfd38797-8404-4b38-8b82-341da28b1f83": 59,
     "c73b705c-40ad-4633-a6ed-d357ee2e2bcf": 59,
-    "ca3f1c8c-c025-4d8e-8eef-5be6accbeb16": 58,
+    "ca3f1c8c-c025-4d8e-8eef-5be6accbeb16": 59,
     "d9f89a8a-c563-493e-9d64-78e4f9a55d4a": 59,
     "eb67ae5e-c4bf-46ca-bbbc-425cd34182ff": 59,
-    "f02aeae2-5e6a-4098-9842-02d2273f25c7": 58
+    "f02aeae2-5e6a-4098-9842-02d2273f25c7": 59
   },
   "id": "7d71cbf0-63c7-4dc0-969b-fc3d52cddbbd",
   "losses": {
     "105bc3ff-1320-4e37-8ef0-8d595cb95dd0": 30,
     "23e4cbc1-e9cd-47fa-a35b-bfa06f726cb7": 18,
-    "36569151-a2fb-43c1-9df7-2df512424c82": 35,
+    "36569151-a2fb-43c1-9df7-2df512424c82": 36,
     "3f8bbb15-61c0-4e3f-8e4a-907a5fb1565e": 35,
     "46358869-dce9-4a01-bfba-ac24fc56f57e": 41,
     "57ec08cc-0411-4643-b304-0e80dbc15ac7": 31,
@@ -50,12 +50,12 @@
     "ca3f1c8c-c025-4d8e-8eef-5be6accbeb16": 26,
     "d9f89a8a-c563-493e-9d64-78e4f9a55d4a": 31,
     "eb67ae5e-c4bf-46ca-bbbc-425cd34182ff": 26,
-    "f02aeae2-5e6a-4098-9842-02d2273f25c7": 41
+    "f02aeae2-5e6a-4098-9842-02d2273f25c7": 42
   },
   "runs": {
-    "105bc3ff-1320-4e37-8ef0-8d595cb95dd0": 225.4,
+    "105bc3ff-1320-4e37-8ef0-8d595cb95dd0": 232.4,
     "23e4cbc1-e9cd-47fa-a35b-bfa06f726cb7": 281.4,
-    "36569151-a2fb-43c1-9df7-2df512424c82": 196.6,
+    "36569151-a2fb-43c1-9df7-2df512424c82": 200.6,
     "3f8bbb15-61c0-4e3f-8e4a-907a5fb1565e": 181,
     "46358869-dce9-4a01-bfba-ac24fc56f57e": 150.7,
     "57ec08cc-0411-4643-b304-0e80dbc15ac7": 177,
@@ -73,13 +73,13 @@
     "bb4a9de5-c924-4923-a0cb-9d1445f1ee5d": 265.4,
     "bfd38797-8404-4b38-8b82-341da28b1f83": 257.1,
     "c73b705c-40ad-4633-a6ed-d357ee2e2bcf": 235.7,
-    "ca3f1c8c-c025-4d8e-8eef-5be6accbeb16": 245,
+    "ca3f1c8c-c025-4d8e-8eef-5be6accbeb16": 253.4,
     "d9f89a8a-c563-493e-9d64-78e4f9a55d4a": 229.9,
     "eb67ae5e-c4bf-46ca-bbbc-425cd34182ff": 246.1,
     "f02aeae2-5e6a-4098-9842-02d2273f25c7": 143
   },
   "wins": {
-    "105bc3ff-1320-4e37-8ef0-8d595cb95dd0": 28,
+    "105bc3ff-1320-4e37-8ef0-8d595cb95dd0": 29,
     "23e4cbc1-e9cd-47fa-a35b-bfa06f726cb7": 42,
     "36569151-a2fb-43c1-9df7-2df512424c82": 23,
     "3f8bbb15-61c0-4e3f-8e4a-907a5fb1565e": 24,
@@ -99,7 +99,7 @@
     "bb4a9de5-c924-4923-a0cb-9d1445f1ee5d": 39,
     "bfd38797-8404-4b38-8b82-341da28b1f83": 28,
     "c73b705c-40ad-4633-a6ed-d357ee2e2bcf": 24,
-    "ca3f1c8c-c025-4d8e-8eef-5be6accbeb16": 32,
+    "ca3f1c8c-c025-4d8e-8eef-5be6accbeb16": 33,
     "d9f89a8a-c563-493e-9d64-78e4f9a55d4a": 29,
     "eb67ae5e-c4bf-46ca-bbbc-425cd34182ff": 33,
     "f02aeae2-5e6a-4098-9842-02d2273f25c7": 17
