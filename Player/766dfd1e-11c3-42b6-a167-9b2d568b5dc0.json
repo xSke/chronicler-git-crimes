@@ -62,7 +62,8 @@
   "peanutAllergy": true,
   "permAttr": [
     "SPICY",
-    "PERK"
+    "PERK",
+    "ELSEWHERE"
   ],
   "pitchingRating": 0.6190093057191488,
   "pressurization": 0.5287515061488359,
@@ -71,7 +72,12 @@
   "seasAttr": [],
   "shakespearianism": 1.0664959202593844,
   "soul": 5,
-  "state": {},
+  "state": {
+    "elsewhere": {
+      "day": 75,
+      "season": 16
+    }
+  },
   "suppression": 0.017270810975004686,
   "tenaciousness": 0.3358911497180488,
   "thwackability": 0.919446235146057,
