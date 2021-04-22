@@ -18,7 +18,7 @@
   "gameAttr": [],
   "groundFriction": 0.8311669400183188,
   "hitStreak": 0,
-  "hittingRating": 0.21243789490802772,
+  "hittingRating": 0.21252207469114268,
   "id": "d2a1e734-60d9-4989-b7d9-6eacda70486b",
   "indulgence": 0.17679402024095747,
   "itemAttr": [
@@ -92,7 +92,7 @@
   "thwackability": 0.34916145235071777,
   "totalFingers": 10,
   "tournamentTeamId": null,
-  "tragicness": 0.06079906641624997,
+  "tragicness": 0.022843141084337555,
   "unthwackability": 0.9479051916788196,
   "watchfulness": 0.8372234583080168,
   "weekAttr": []
