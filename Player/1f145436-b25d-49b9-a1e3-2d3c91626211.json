@@ -102,7 +102,9 @@
   "overpowerment": 0.8809483360648481,
   "patheticism": 0.37151718102409936,
   "peanutAllergy": true,
-  "permAttr": [],
+  "permAttr": [
+    "SHELLED"
+  ],
   "pitchingRating": 0.30360199125338616,
   "pressurization": 0.0572267051848292,
   "ritual": "Synchronizing",
