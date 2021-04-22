@@ -1,7 +1,7 @@
 {
   "birds": 0,
   "elongation": 0.4782296658569385,
-  "filthiness": 0.37329975003151666,
+  "filthiness": 0,
   "fortification": 0.5856417592675257,
   "forwardness": 0.6530515014978483,
   "grandiosity": 0.7946209333683352,
@@ -15,7 +15,8 @@
     "PSYCHOACOUSTICS",
     "PEANUT_MISTER",
     "GRIND_RAIL",
-    "SWEETENER"
+    "SWEETENER",
+    "HOTEL_MOTEL"
   ],
   "mysticism": 0.5031709071895855,
   "name": "Tokyo Fitness Center",
@@ -50,9 +51,7 @@
     "coffee_one_plus",
     "feedback_plus",
     "solar_panels_mod",
-    "ominousness_minus"
-  ],
-  "renoHand": [
+    "ominousness_minus",
     "fax_machine_mod",
     "black_hole_plus",
     "fortifications_minus",
@@ -63,8 +62,10 @@
     "birds_plus",
     "obtuseness_minus"
   ],
+  "renoHand": [],
   "renoLog": {
     "grind_rail_mod": 1,
+    "hotel_motel_mod": 1,
     "peanut_mister_mod": 1,
     "psychoacoustics_mod": 1,
     "sweetener_mod": 1

@@ -14,7 +14,9 @@
   "mods": [
     "PSYCHOACOUSTICS",
     "GRIND_RAIL",
-    "SWEETENER"
+    "SWEETENER",
+    "FAX_MACHINE",
+    "HOTEL_MOTEL"
   ],
   "mysticism": 0.5394549078823694,
   "name": "New York, New York Arena, Arena",
@@ -49,9 +51,7 @@
     "obtuseness_minus",
     "mysticism_plus",
     "flooding_plus",
-    "reverb_plus"
-  ],
-  "renoHand": [
+    "reverb_plus",
     "fax_machine_mod",
     "obtuseness_plus",
     "forwardness_minus",
@@ -62,8 +62,11 @@
     "birds_plus",
     "inconvenience_minus"
   ],
+  "renoHand": [],
   "renoLog": {
+    "fax_machine_mod": 1,
     "grind_rail_mod": 1,
+    "hotel_motel_mod": 1,
     "peanut_mister_mod": 1,
     "psychoacoustics_mod": 1,
     "sweetener_mod": 1
@@ -74,6 +77,7 @@
   "tertiaryColor": "#c2656e",
   "viscosity": 0.2357024279575276,
   "weather": {
+    "16": 1,
     "17": 1
   }
 }

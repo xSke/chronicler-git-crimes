@@ -16,12 +16,13 @@
     "SOUNDSYSTEM",
     "SECRET_BASE",
     "SWEETENER",
-    "SALMON_CANNONS"
+    "SALMON_CANNONS",
+    "HOTEL_MOTEL"
   ],
   "mysticism": 0.5907127643182942,
   "name": "The Atlantean Dome",
   "nickname": "The Bubble",
-  "obtuseness": 0.5330753156607573,
+  "obtuseness": 0.668573276039462,
   "ominousness": 0.447159090235261,
   "renoCost": -1,
   "renoDiscard": [
@@ -51,9 +52,7 @@
     "viscosity_minus",
     "peanut_mister_mod",
     "ominousness_minus",
-    "mysticism_plus"
-  ],
-  "renoHand": [
+    "mysticism_plus",
     "fax_machine_mod",
     "blooddrain_plus",
     "coffee_one_plus",
@@ -64,7 +63,9 @@
     "reverb_plus",
     "hotel_motel_mod"
   ],
+  "renoHand": [],
   "renoLog": {
+    "hotel_motel_mod": 1,
     "psychoacoustics_mod": 1,
     "salmon_cannons_mod": 1,
     "secret_base_mod": 1,

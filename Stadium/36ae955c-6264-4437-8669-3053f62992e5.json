@@ -15,7 +15,9 @@
     "PSYCHOACOUSTICS",
     "SECRET_BASE",
     "GRIND_RAIL",
-    "SWEETENER"
+    "SWEETENER",
+    "HOTEL_MOTEL",
+    "FAX_MACHINE"
   ],
   "mysticism": 0.48330562996753273,
   "name": "Choux Stadium",
@@ -50,9 +52,7 @@
     "peanut_mister_mod",
     "filthiness_cleanup",
     "forwardness_plus",
-    "obtuseness_minus"
-  ],
-  "renoHand": [
+    "obtuseness_minus",
     "fax_machine_mod",
     "fortifications_plus",
     "feedback_plus",
@@ -63,8 +63,11 @@
     "coffee_one_plus",
     "hotel_motel_mod"
   ],
+  "renoHand": [],
   "renoLog": {
+    "fax_machine_mod": 1,
     "grind_rail_mod": 1,
+    "hotel_motel_mod": 1,
     "psychoacoustics_mod": 1,
     "secret_base_mod": 1,
     "sweetener_mod": 1
@@ -74,5 +77,7 @@
   "teamId": "bfd38797-8404-4b38-8b82-341da28b1f83",
   "tertiaryColor": "#4d3d00",
   "viscosity": 0.528370617263836,
-  "weather": {}
+  "weather": {
+    "15": 1
+  }
 }

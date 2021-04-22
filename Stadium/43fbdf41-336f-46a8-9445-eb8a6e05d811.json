@@ -16,7 +16,9 @@
     "PEANUT_MISTER",
     "SECRET_BASE",
     "FLOOD_PUMPS",
-    "SALMON_CANNONS"
+    "SALMON_CANNONS",
+    "FAX_MACHINE",
+    "SOUNDSYSTEM"
   ],
   "mysticism": 0.4087364786522717,
   "name": "An Undisclosed Location",
@@ -51,9 +53,7 @@
     "filthiness_cleanup",
     "fortifications_minus",
     "fortifications_plus",
-    "elongation_plus"
-  ],
-  "renoHand": [
+    "elongation_plus",
     "fax_machine_mod",
     "blooddrain_plus",
     "birds_plus",
@@ -64,17 +64,22 @@
     "soundsystem_mod",
     "peanuts_plus"
   ],
+  "renoHand": [],
   "renoLog": {
     "big_bucket_mod": 1,
+    "fax_machine_mod": 1,
     "flood_pumps_mod": 1,
     "peanut_mister_mod": 1,
     "salmon_cannons_mod": 1,
-    "secret_base_mod": 1
+    "secret_base_mod": 1,
+    "soundsystem_mod": 1
   },
   "secondaryColor": "#a589ab",
   "state": {},
   "teamId": "9debc64f-74b7-4ae1-a4d6-fce0144b6ea5",
   "tertiaryColor": "#e5dae6",
   "viscosity": 0.43277112562358416,
-  "weather": {}
+  "weather": {
+    "11": 1
+  }
 }

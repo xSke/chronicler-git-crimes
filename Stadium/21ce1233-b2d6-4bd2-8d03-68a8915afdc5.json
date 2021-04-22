@@ -3,7 +3,7 @@
   "elongation": 0.4148049861299987,
   "filthiness": 0.2689733141392736,
   "fortification": 0.3007557131332617,
-  "forwardness": 0.40592456021305384,
+  "forwardness": 0.5054620513399977,
   "grandiosity": 0.45142904244452936,
   "hype": 0,
   "id": "21ce1233-b2d6-4bd2-8d03-68a8915afdc5",
@@ -14,7 +14,8 @@
   "mods": [
     "BIG_BUCKET",
     "PSYCHOACOUSTICS",
-    "ECHO_CHAMBER"
+    "ECHO_CHAMBER",
+    "FAX_MACHINE"
   ],
   "mysticism": 0.7347539006037183,
   "name": "Kansas City FreshDome",
@@ -49,9 +50,7 @@
     "viscosity_plus",
     "solar_eclipse_plus",
     "mysticism_minus",
-    "coffee_one_plus"
-  ],
-  "renoHand": [
+    "coffee_one_plus",
     "fax_machine_mod",
     "filthiness_cleanup",
     "forwardness_plus",
@@ -62,9 +61,11 @@
     "coffee_threes_plus",
     "coffee_two_plus"
   ],
+  "renoHand": [],
   "renoLog": {
     "big_bucket_mod": 1,
     "echo_chamber_mod": 1,
+    "fax_machine_mod": 1,
     "psychoacoustics_mod": 1
   },
   "secondaryColor": "#7acca5",
@@ -73,7 +74,7 @@
   "tertiaryColor": "#dbfaec",
   "viscosity": 0.4697632871152416,
   "weather": {
-    "13": 1,
+    "13": 2,
     "7": 1
   }
 }

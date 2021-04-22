@@ -15,7 +15,9 @@
     "BIG_BUCKET",
     "PEANUT_MISTER",
     "SECRET_BASE",
-    "GRIND_RAIL"
+    "GRIND_RAIL",
+    "HOTEL_MOTEL",
+    "BIRDHOUSES"
   ],
   "mysticism": 0.7884468986774216,
   "name": "Sixth Circle Stadium",
@@ -50,9 +52,7 @@
     "blooddrain_plus",
     "mysticism_plus",
     "forwardness_minus",
-    "event_horizon_mod"
-  ],
-  "renoHand": [
+    "event_horizon_mod",
     "fax_machine_mod",
     "echo_chamber_mod",
     "mysticism_minus",
@@ -63,9 +63,12 @@
     "birds_plus",
     "birdhouses_mod"
   ],
+  "renoHand": [],
   "renoLog": {
     "big_bucket_mod": 1,
+    "birdhouses_mod": 1,
     "grind_rail_mod": 1,
+    "hotel_motel_mod": 1,
     "peanut_mister_mod": 1,
     "secret_base_mod": 1
   },
@@ -75,6 +78,6 @@
   "tertiaryColor": "#e8b5b5",
   "viscosity": 0.5441491334505063,
   "weather": {
-    "9": 1
+    "9": 2
   }
 }

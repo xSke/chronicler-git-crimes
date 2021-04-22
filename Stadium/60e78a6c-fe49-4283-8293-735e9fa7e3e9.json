@@ -4,7 +4,7 @@
   "filthiness": 0.32793873231700116,
   "fortification": 0.2689209714097342,
   "forwardness": 0.4408548169896554,
-  "grandiosity": 0.5583868457447113,
+  "grandiosity": 0.633452671723467,
   "hype": 0,
   "id": "60e78a6c-fe49-4283-8293-735e9fa7e3e9",
   "inconvenience": 0.5405005662530378,
@@ -16,7 +16,8 @@
     "PSYCHOACOUSTICS",
     "GRIND_RAIL",
     "SOUNDSYSTEM",
-    "SWEETENER"
+    "SWEETENER",
+    "HOTEL_MOTEL"
   ],
   "mysticism": 0.6398231967453444,
   "name": "Breckenridge Community Field",
@@ -51,9 +52,7 @@
     "feedback_plus",
     "forwardness_plus",
     "obtuseness_plus",
-    "elongation_minus"
-  ],
-  "renoHand": [
+    "elongation_minus",
     "fax_machine_mod",
     "coffee_two_plus",
     "hotel_motel_mod",
@@ -64,8 +63,10 @@
     "blooddrain_plus",
     "filthiness_cleanup"
   ],
+  "renoHand": [],
   "renoLog": {
     "grind_rail_mod": 1,
+    "hotel_motel_mod": 1,
     "peanut_mister_mod": 1,
     "psychoacoustics_mod": 1,
     "soundsystem_mod": 1,
@@ -77,6 +78,7 @@
   "tertiaryColor": "#111a22",
   "viscosity": 0.5442719081863592,
   "weather": {
-    "15": 1
+    "15": 1,
+    "17": 1
   }
 }

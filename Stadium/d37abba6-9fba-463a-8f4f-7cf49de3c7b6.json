@@ -1,7 +1,7 @@
 {
   "birds": 0,
   "elongation": 0.4696297982921877,
-  "filthiness": 0.2966153985873822,
+  "filthiness": 0,
   "fortification": 0.5342454937183025,
   "forwardness": 0.4856451813964252,
   "grandiosity": 0.3589449382287126,
@@ -15,7 +15,8 @@
     "PSYCHOACOUSTICS",
     "SOLAR_PANELS",
     "BIG_BUCKET",
-    "SALMON_CANNONS"
+    "SALMON_CANNONS",
+    "FLOOD_PUMPS"
   ],
   "mysticism": 0.5754439841690367,
   "name": "Boston Garden",
@@ -50,9 +51,7 @@
     "coffee_threes_plus",
     "viscosity_plus",
     "coffee_two_plus",
-    "feedback_plus"
-  ],
-  "renoHand": [
+    "feedback_plus",
     "fax_machine_mod",
     "black_hole_plus",
     "flooding_plus",
@@ -63,8 +62,10 @@
     "filthiness_cleanup",
     "viscosity_plus"
   ],
+  "renoHand": [],
   "renoLog": {
     "big_bucket_mod": 1,
+    "flood_pumps_mod": 1,
     "psychoacoustics_mod": 1,
     "salmon_cannons_mod": 1,
     "solar_panels_mod": 1

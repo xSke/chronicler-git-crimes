@@ -1,7 +1,7 @@
 {
   "birds": 0,
   "elongation": 0.5965971688594097,
-  "filthiness": 0.285247229652547,
+  "filthiness": 0,
   "fortification": 0.651624985250431,
   "forwardness": 0.43122772504615015,
   "grandiosity": 0.5040876241199652,
@@ -50,9 +50,7 @@
     "solar_eclipse_plus",
     "forwardness_minus",
     "reverb_plus",
-    "elongation_minus"
-  ],
-  "renoHand": [
+    "elongation_minus",
     "fax_machine_mod",
     "feedback_plus",
     "secret_base_mod",
@@ -63,6 +61,7 @@
     "coffee_two_plus",
     "filthiness_cleanup"
   ],
+  "renoHand": [],
   "renoLog": {
     "big_bucket_mod": 1,
     "flood_pumps_mod": 1,
@@ -76,6 +75,7 @@
   "viscosity": 0.4813975790750718,
   "weather": {
     "1": 1,
-    "11": 1
+    "11": 1,
+    "16": 1
   }
 }

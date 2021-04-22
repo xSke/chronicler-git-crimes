@@ -4,7 +4,7 @@
   "filthiness": 0.3292997888224201,
   "fortification": 0.5502516277472869,
   "forwardness": 0.7697243846572969,
-  "grandiosity": 0.4899933874380886,
+  "grandiosity": 0.5945987414565932,
   "hype": 0,
   "id": "cb94ac8b-003b-4d95-baf3-7c14b1c3fc29",
   "inconvenience": 0.5962457551826605,
@@ -15,7 +15,8 @@
     "PSYCHOACOUSTICS",
     "GRIND_RAIL",
     "SALMON_CANNONS",
-    "SWEETENER"
+    "SWEETENER",
+    "FAX_MACHINE"
   ],
   "mysticism": 0.5626868198807364,
   "name": "The Hotdogfingers Memorial Climate Pledge Garage and Parking Facility",
@@ -50,9 +51,7 @@
     "black_hole_plus",
     "inconvenience_minus",
     "forwardness_plus",
-    "obtuseness_minus"
-  ],
-  "renoHand": [
+    "obtuseness_minus",
     "fax_machine_mod",
     "sun_two_plus",
     "coffee_threes_plus",
@@ -63,7 +62,9 @@
     "peanuts_plus",
     "inconvenience_minus"
   ],
+  "renoHand": [],
   "renoLog": {
+    "fax_machine_mod": 1,
     "grind_rail_mod": 1,
     "psychoacoustics_mod": 1,
     "salmon_cannons_mod": 1,
@@ -74,5 +75,7 @@
   "teamId": "105bc3ff-1320-4e37-8ef0-8d595cb95dd0",
   "tertiaryColor": "#d4daec",
   "viscosity": 0.5751864596590106,
-  "weather": {}
+  "weather": {
+    "17": 1
+  }
 }

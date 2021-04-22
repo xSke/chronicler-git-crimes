@@ -1,9 +1,9 @@
 {
   "birds": 0,
   "elongation": 0.43654265137776965,
-  "filthiness": 0.3172543500262597,
+  "filthiness": 0,
   "fortification": 0.6070407692089913,
-  "forwardness": 0.5860283120781291,
+  "forwardness": 0.6502700445926669,
   "grandiosity": 0.5112050242221085,
   "hype": 0,
   "id": "06c991f6-4ef3-4a9a-8254-8a2bc7d3a1e1",
@@ -16,7 +16,8 @@
     "SECRET_BASE",
     "ECHO_CHAMBER",
     "SALMON_CANNONS",
-    "SWEETENER"
+    "SWEETENER",
+    "HOTEL_MOTEL"
   ],
   "mysticism": 0.2343003613218557,
   "name": "The Fire Safety Awareness Center",
@@ -51,9 +52,7 @@
     "peanuts_plus",
     "coffee_two_plus",
     "mysticism_plus",
-    "grandiosity_minus"
-  ],
-  "renoHand": [
+    "grandiosity_minus",
     "fax_machine_mod",
     "sun_two_plus",
     "hotel_motel_mod",
@@ -64,9 +63,11 @@
     "flooding_plus",
     "mysticism_minus"
   ],
+  "renoHand": [],
   "renoLog": {
     "big_bucket_mod": 1,
     "echo_chamber_mod": 1,
+    "hotel_motel_mod": 1,
     "salmon_cannons_mod": 1,
     "secret_base_mod": 1,
     "sweetener_mod": 1

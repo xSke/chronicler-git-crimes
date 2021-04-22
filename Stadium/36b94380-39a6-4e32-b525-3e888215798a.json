@@ -14,7 +14,9 @@
   "mods": [
     "BIG_BUCKET",
     "PSYCHOACOUSTICS",
-    "SECRET_BASE"
+    "SECRET_BASE",
+    "HOTEL_MOTEL",
+    "FAX_MACHINE"
   ],
   "mysticism": 0.4382990376095283,
   "name": "Al Pastor Memorial Park",
@@ -49,9 +51,7 @@
     "sun_two_plus",
     "obtuseness_plus",
     "inconvenience_plus",
-    "viscosity_plus"
-  ],
-  "renoHand": [
+    "viscosity_plus",
     "fax_machine_mod",
     "grandiosity_plus",
     "solar_eclipse_plus",
@@ -62,8 +62,11 @@
     "inconvenience_plus",
     "viscosity_minus"
   ],
+  "renoHand": [],
   "renoLog": {
     "big_bucket_mod": 1,
+    "fax_machine_mod": 1,
+    "hotel_motel_mod": 1,
     "psychoacoustics_mod": 1,
     "secret_base_mod": 1
   },

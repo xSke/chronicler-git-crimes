@@ -48,9 +48,7 @@
     "flood_pumps_mod",
     "feedback_plus",
     "filthiness_cleanup",
-    "fire_insurance_mod"
-  ],
-  "renoHand": [
+    "fire_insurance_mod",
     "fax_machine_mod",
     "coffee_two_plus",
     "feedback_plus",
@@ -61,6 +59,7 @@
     "mysticism_minus",
     "coffee_threes_plus"
   ],
+  "renoHand": [],
   "renoLog": {
     "big_bucket_mod": 1,
     "sweetener_mod": 1
@@ -71,6 +70,7 @@
   "tertiaryColor": "#111112",
   "viscosity": 0.4221513168049069,
   "weather": {
-    "17": 1
+    "16": 1,
+    "17": 2
   }
 }

@@ -16,12 +16,14 @@
     "SECRET_BASE",
     "ECHO_CHAMBER",
     "SWEETENER",
-    "SALMON_CANNONS"
+    "SALMON_CANNONS",
+    "HOTEL_MOTEL",
+    "FAX_MACHINE"
   ],
   "mysticism": 0.4820887614858592,
   "name": "Core Pillar Center",
   "nickname": "The Pillars",
-  "obtuseness": 0.4521598407783409,
+  "obtuseness": 0.37428873746890134,
   "ominousness": 0.4391837802585088,
   "renoCost": -1,
   "renoDiscard": [
@@ -51,9 +53,7 @@
     "filthiness_cleanup",
     "coffee_one_plus",
     "solar_panels_mod",
-    "forwardness_plus"
-  ],
-  "renoHand": [
+    "forwardness_plus",
     "fax_machine_mod",
     "ominousness_minus",
     "obtuseness_minus",
@@ -64,8 +64,11 @@
     "coffee_one_plus",
     "reverb_plus"
   ],
+  "renoHand": [],
   "renoLog": {
     "echo_chamber_mod": 1,
+    "fax_machine_mod": 1,
+    "hotel_motel_mod": 1,
     "psychoacoustics_mod": 1,
     "salmon_cannons_mod": 1,
     "secret_base_mod": 1,

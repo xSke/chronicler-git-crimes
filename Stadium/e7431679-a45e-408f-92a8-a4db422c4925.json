@@ -16,7 +16,8 @@
     "GRIND_RAIL",
     "FLOOD_PUMPS",
     "BIRDHOUSES",
-    "SALMON_CANNONS"
+    "SALMON_CANNONS",
+    "HOTEL_MOTEL"
   ],
   "mysticism": 0.7370254366197266,
   "name": "Hawai'i Viberight Field",
@@ -51,9 +52,7 @@
     "elongation_plus",
     "birdhouses_mod",
     "soundsystem_mod",
-    "viscosity_plus"
-  ],
-  "renoHand": [
+    "viscosity_plus",
     "fax_machine_mod",
     "peanuts_plus",
     "viscosity_plus",
@@ -64,10 +63,12 @@
     "inconvenience_plus",
     "coffee_two_plus"
   ],
+  "renoHand": [],
   "renoLog": {
     "birdhouses_mod": 1,
     "flood_pumps_mod": 1,
     "grind_rail_mod": 1,
+    "hotel_motel_mod": 1,
     "peanut_mister_mod": 1,
     "salmon_cannons_mod": 1
   },
@@ -75,6 +76,6 @@
   "state": {},
   "teamId": "979aee4a-6d80-4863-bf1c-ee1a78e06024",
   "tertiaryColor": "#073b0e",
-  "viscosity": 0.5819348100602006,
+  "viscosity": 0.730985274588315,
   "weather": {}
 }

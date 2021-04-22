@@ -3,7 +3,7 @@
   "elongation": 0.5471392506253375,
   "filthiness": 0.06380181850122764,
   "fortification": 0.42410791017212784,
-  "forwardness": 0.5984538834873534,
+  "forwardness": 0.5415294727901162,
   "grandiosity": 0.730681997444272,
   "hype": 0,
   "id": "f71fd587-d20c-461c-88a4-1634a2df3f43",
@@ -13,7 +13,8 @@
   "model": 8,
   "mods": [
     "BIG_BUCKET",
-    "SALMON_CANNONS"
+    "SALMON_CANNONS",
+    "FAX_MACHINE"
   ],
   "mysticism": 0.5802136293864534,
   "name": "Gleek Arena",
@@ -48,9 +49,7 @@
     "event_horizon_mod",
     "coffee_threes_plus",
     "peanut_mister_mod",
-    "ominousness_minus"
-  ],
-  "renoHand": [
+    "ominousness_minus",
     "fax_machine_mod",
     "flooding_plus",
     "inconvenience_minus",
@@ -61,8 +60,10 @@
     "solar_panels_mod",
     "mysticism_plus"
   ],
+  "renoHand": [],
   "renoLog": {
     "big_bucket_mod": 1,
+    "fax_machine_mod": 1,
     "salmon_cannons_mod": 1
   },
   "secondaryColor": "#5fa7b0",
@@ -71,6 +72,6 @@
   "tertiaryColor": "#275b62",
   "viscosity": 0.5487322736948579,
   "weather": {
-    "18": 1
+    "18": 2
   }
 }

@@ -15,12 +15,13 @@
     "GRIND_RAIL",
     "SECRET_BASE",
     "BIRDHOUSES",
-    "SWEETENER"
+    "SWEETENER",
+    "HOTEL_MOTEL"
   ],
   "mysticism": 0.3770574015656983,
   "name": "San Franstadium",
   "nickname": "The Polyhedron",
-  "obtuseness": 0.440766599802753,
+  "obtuseness": 0.35696914222174214,
   "ominousness": 0.49529640777130407,
   "renoCost": -1,
   "renoDiscard": [
@@ -50,9 +51,7 @@
     "forwardness_minus",
     "elongation_plus",
     "birdhouses_mod",
-    "filthiness_cleanup"
-  ],
-  "renoHand": [
+    "filthiness_cleanup",
     "fax_machine_mod",
     "coffee_one_plus",
     "viscosity_minus",
@@ -63,9 +62,11 @@
     "inconvenience_minus",
     "hotel_motel_mod"
   ],
+  "renoHand": [],
   "renoLog": {
     "birdhouses_mod": 1,
     "grind_rail_mod": 1,
+    "hotel_motel_mod": 1,
     "secret_base_mod": 1,
     "sweetener_mod": 1
   },

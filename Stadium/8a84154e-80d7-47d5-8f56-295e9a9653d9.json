@@ -3,8 +3,8 @@
   "elongation": 0.4040771749168108,
   "filthiness": 0.33812388927771425,
   "fortification": 0.5247785781278169,
-  "forwardness": 0.7006272118342692,
-  "grandiosity": 0.5053671963554746,
+  "forwardness": 0.8167610881154783,
+  "grandiosity": 0.6324015333752339,
   "hype": 0,
   "id": "8a84154e-80d7-47d5-8f56-295e9a9653d9",
   "inconvenience": 0.6819910875419015,
@@ -15,7 +15,8 @@
     "PSYCHOACOUSTICS",
     "SECRET_BASE",
     "FLOOD_PUMPS",
-    "SALMON_CANNONS"
+    "SALMON_CANNONS",
+    "BIRDHOUSES"
   ],
   "mysticism": 0.4617130261512937,
   "name": "Wapakoneta Air, Space, and Worm Museum and Ballpark",
@@ -50,9 +51,7 @@
     "fortifications_minus",
     "soundsystem_mod",
     "reverb_plus",
-    "mysticism_plus"
-  ],
-  "renoHand": [
+    "mysticism_plus",
     "fax_machine_mod",
     "fortifications_minus",
     "viscosity_minus",
@@ -63,7 +62,9 @@
     "coffee_one_plus",
     "birdhouses_mod"
   ],
+  "renoHand": [],
   "renoLog": {
+    "birdhouses_mod": 1,
     "flood_pumps_mod": 1,
     "psychoacoustics_mod": 1,
     "salmon_cannons_mod": 1,

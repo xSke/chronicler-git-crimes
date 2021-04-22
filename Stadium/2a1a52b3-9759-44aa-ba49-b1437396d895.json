@@ -16,12 +16,13 @@
     "SOLAR_PANELS",
     "SECRET_BASE",
     "GRIND_RAIL",
-    "SWEETENER"
+    "SWEETENER",
+    "BIG_BUCKET"
   ],
-  "mysticism": 0.4493541480949242,
+  "mysticism": 0.5885946230469012,
   "name": "Yellowstone National (Ball)Park",
   "nickname": "Yellowstone",
-  "obtuseness": 0.62670850403186,
+  "obtuseness": 0.7185796169473672,
   "ominousness": 0.49897353685967183,
   "renoCost": -1,
   "renoDiscard": [
@@ -51,9 +52,7 @@
     "mysticism_plus",
     "coffee_threes_plus",
     "sun_two_plus",
-    "black_hole_plus"
-  ],
-  "renoHand": [
+    "black_hole_plus",
     "fax_machine_mod",
     "flooding_plus",
     "ominousness_minus",
@@ -64,7 +63,9 @@
     "big_bucket_mod",
     "peanut_mister_mod"
   ],
+  "renoHand": [],
   "renoLog": {
+    "big_bucket_mod": 1,
     "fire_insurance_mod": 1,
     "grind_rail_mod": 1,
     "secret_base_mod": 1,

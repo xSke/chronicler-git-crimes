@@ -16,7 +16,9 @@
     "PSYCHOACOUSTICS",
     "SECRET_BASE",
     "FLOOD_PUMPS",
-    "SALMON_CANNONS"
+    "SALMON_CANNONS",
+    "HOTEL_MOTEL",
+    "FAX_MACHINE"
   ],
   "mysticism": 0.5041285467234323,
   "name": "Chesapeake Racetrack and Ballpark",
@@ -60,9 +62,7 @@
     "flooding_plus",
     "solar_panels_mod",
     "obtuseness_plus",
-    "filthiness_cleanup"
-  ],
-  "renoHand": [
+    "filthiness_cleanup",
     "fax_machine_mod",
     "blooddrain_plus",
     "hotel_motel_mod",
@@ -73,9 +73,12 @@
     "obtuseness_minus",
     "soundsystem_mod"
   ],
+  "renoHand": [],
   "renoLog": {
     "big_bucket_mod": 1,
+    "fax_machine_mod": 1,
     "flood_pumps_mod": 1,
+    "hotel_motel_mod": 1,
     "peanut_mister_mod": 1,
     "salmon_cannons_mod": 1,
     "secret_base_mod": 1
@@ -85,5 +88,7 @@
   "teamId": "8d87c468-699a-47a8-b40d-cfb73a5660ad",
   "tertiaryColor": "#d9c1c3",
   "viscosity": 0.342355352110473,
-  "weather": {}
+  "weather": {
+    "9": 1
+  }
 }
