@@ -24,9 +24,7 @@
   "emoji": "0x1F45F",
   "evolution": 0,
   "fullName": "Charleston Shoe Thieves",
-  "gameAttr": [
-    "UNDERSEA"
-  ],
+  "gameAttr": [],
   "id": "bfd38797-8404-4b38-8b82-341da28b1f83",
   "level": 4,
   "lineup": [
@@ -57,7 +55,9 @@
     "5e4dfa16-f1b9-400f-b8ef-a1613c2b026a"
   ],
   "rotationSlot": 92,
-  "seasAttr": [],
+  "seasAttr": [
+    "PARTY_TIME"
+  ],
   "seasonShames": 4,
   "seasonShamings": 4,
   "secondaryColor": "#ffce0a",
