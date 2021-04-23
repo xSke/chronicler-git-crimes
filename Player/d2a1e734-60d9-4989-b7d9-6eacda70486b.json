@@ -1,7 +1,7 @@
 {
   "anticapitalism": 0.9950744250072344,
   "baseThirst": 0.587106578113598,
-  "baserunningRating": 0.5338381594857772,
+  "baserunningRating": 0.5473333821429349,
   "blood": 4,
   "buoyancy": 0.1858250836384248,
   "chasiness": 0.3102670383588562,
@@ -20,7 +20,7 @@
   "hitStreak": 0,
   "hittingRating": 0.2670921556853487,
   "id": "d2a1e734-60d9-4989-b7d9-6eacda70486b",
-  "indulgence": 0.17679402024095747,
+  "indulgence": 0.226929415381802,
   "itemAttr": [
     "PARASITE"
   ],
@@ -69,11 +69,11 @@
   "musclitude": 1.0175293775736969,
   "name": "Tiana Takahashi",
   "omniscience": 0.8153971038739746,
-  "overpowerment": 0.960045985540602,
+  "overpowerment": 0.9973073609169156,
   "patheticism": 0.4178730237225948,
   "peanutAllergy": false,
   "permAttr": [],
-  "pitchingRating": 0.8055512855609536,
+  "pitchingRating": 0.8101654963769417,
   "pressurization": 0.18765823310585017,
   "ritual": "Runes",
   "ruthlessness": 1.1146039834004833,
