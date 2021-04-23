@@ -42,7 +42,8 @@
   "mainColor": "#ffd4d8",
   "nickname": "Millennials",
   "permAttr": [
-    "BIRD_SEED"
+    "BIRD_SEED",
+    "FREE_WILL"
   ],
   "rotation": [
     "ae4acebd-edb5-4d20-bf69-f2d5151312ff",
@@ -69,5 +70,5 @@
   "totalShamings": 68,
   "tournamentWins": 0,
   "weekAttr": [],
-  "winStreak": -4
+  "winStreak": -5
 }

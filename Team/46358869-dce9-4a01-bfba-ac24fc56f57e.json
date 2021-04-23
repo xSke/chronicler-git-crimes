@@ -42,7 +42,8 @@
   "nickname": "Mechanics",
   "permAttr": [
     "MAINTENANCE_MODE",
-    "STALEPOPCORN_PAYOUTS"
+    "STALEPOPCORN_PAYOUTS",
+    "FREE_WILL"
   ],
   "rotation": [
     "9e75ff7c-fe9b-428b-a1b6-f9e6a1748c86",
