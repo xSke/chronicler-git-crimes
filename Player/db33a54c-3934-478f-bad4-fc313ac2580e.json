@@ -1,7 +1,7 @@
 {
   "anticapitalism": 0.7758988537009835,
   "baseThirst": 0.9408281680906464,
-  "baserunningRating": 0.5936467972654313,
+  "baserunningRating": 0.577531704363062,
   "blood": 9,
   "buoyancy": 0.6052481763538826,
   "chasiness": 0.9442859457885072,
@@ -50,7 +50,7 @@
       "suffix": null
     }
   ],
-  "laserlikeness": 0.6502288691716753,
+  "laserlikeness": 0.6154058922765089,
   "leagueTeamId": "b72f3061-f573-40d7-832a-5ad475bd7909",
   "martyrdom": 0.2728996305408909,
   "moxie": 0.9566303346314556,
