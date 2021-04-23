@@ -58,18 +58,18 @@
   "seasAttr": [
     "PARTY_TIME"
   ],
-  "seasonShames": 9,
+  "seasonShames": 10,
   "seasonShamings": 2,
   "secondaryColor": "#f7d1ff",
-  "shameRuns": 0,
+  "shameRuns": 1,
   "shorthand": "BOF",
   "slogan": "Let's Grow!",
   "stadium": "d37abba6-9fba-463a-8f4f-7cf49de3c7b6",
   "state": {},
   "teamSpirit": 0,
-  "totalShames": 69,
+  "totalShames": 70,
   "totalShamings": 72,
   "tournamentWins": 0,
   "weekAttr": [],
-  "winStreak": 1
+  "winStreak": -1
 }
