@@ -24,6 +24,53 @@
   "itemAttr": [],
   "items": [
     {
+      "baserunningRating": 0,
+      "defenseRating": 0.05031406785550263,
+      "durability": 2,
+      "forger": null,
+      "forgerName": null,
+      "health": 2,
+      "hittingRating": 0,
+      "id": "3a612405-3589-4c75-aac3-32ed895695dd",
+      "name": "Plant-Based Cap",
+      "pitchingRating": 0.11754337827914908,
+      "postPrefix": null,
+      "prePrefix": null,
+      "prefixes": [
+        {
+          "adjustments": [
+            {
+              "stat": 23,
+              "type": 1,
+              "value": 0.35971949220681715
+            },
+            {
+              "stat": 15,
+              "type": 1,
+              "value": 0.22944730982086312
+            },
+            {
+              "stat": 1,
+              "type": 1,
+              "value": -0.06221421738168054
+            }
+          ],
+          "name": "Plant-Based"
+        }
+      ],
+      "root": {
+        "adjustments": [
+          {
+            "stat": 16,
+            "type": 1,
+            "value": 0.17719528284515662
+          }
+        ],
+        "name": "Cap"
+      },
+      "suffix": null
+    },
+    {
       "baserunningRating": 0.06101077948216305,
       "defenseRating": 0,
       "durability": 3,
@@ -82,32 +129,6 @@
           }
         ],
         "name": "Shoes"
-      },
-      "suffix": null
-    },
-    {
-      "baserunningRating": 0,
-      "defenseRating": 0,
-      "durability": 1,
-      "forger": null,
-      "forgerName": null,
-      "health": 0,
-      "hittingRating": 0.053423936628670565,
-      "id": "0d2259e3-73cf-46c1-8b14-bb3700c8f389",
-      "name": "Bat",
-      "pitchingRating": 0,
-      "postPrefix": null,
-      "prePrefix": null,
-      "prefixes": null,
-      "root": {
-        "adjustments": [
-          {
-            "stat": 2,
-            "type": 1,
-            "value": 0.14665625909811758
-          }
-        ],
-        "name": "Bat"
       },
       "suffix": null
     }

@@ -21,33 +21,83 @@
   "hittingRating": 0.44123201192623646,
   "id": "58c9e294-bd49-457c-883f-fb3162fc668e",
   "indulgence": 0.680869923840165,
-  "itemAttr": [],
+  "itemAttr": [
+    "PRO_SKATER"
+  ],
   "items": [
     {
-      "baserunningRating": 0,
+      "baserunningRating": -0.06169022916872147,
       "defenseRating": 0,
-      "durability": 1,
+      "durability": 4,
       "forger": null,
       "forgerName": null,
-      "health": 1,
-      "hittingRating": 0.05873252452418082,
-      "id": "2ab3bcf4-6544-4123-89fd-924dcf7dfc9e",
-      "name": "Bat",
-      "pitchingRating": 0,
-      "postPrefix": null,
+      "health": 4,
+      "hittingRating": 0.07661201334647555,
+      "id": "cfedb43e-0f8a-4375-9cd4-6fb7d40fa450",
+      "name": "Rubber Skate Bat of Strength",
+      "pitchingRating": 0.10881617923633274,
+      "postPrefix": {
+        "adjustments": [
+          {
+            "mod": "PRO_SKATER",
+            "type": 0
+          }
+        ],
+        "name": "Skate"
+      },
       "prePrefix": null,
-      "prefixes": null,
+      "prefixes": [
+        {
+          "adjustments": [
+            {
+              "stat": 13,
+              "type": 1,
+              "value": -0.04387585272395661
+            },
+            {
+              "stat": 10,
+              "type": 1,
+              "value": -0.11910098506938407
+            },
+            {
+              "stat": 16,
+              "type": 1,
+              "value": 0.32739503753999716
+            },
+            {
+              "stat": 18,
+              "type": 1,
+              "value": -0.10777908498813824
+            }
+          ],
+          "name": "Rubber"
+        }
+      ],
       "root": {
         "adjustments": [
           {
             "stat": 2,
             "type": 1,
-            "value": 0.10238665423989532
+            "value": 0.12191164202876711
           }
         ],
         "name": "Bat"
       },
-      "suffix": null
+      "suffix": {
+        "adjustments": [
+          {
+            "stat": 5,
+            "type": 1,
+            "value": 0.20549643282243887
+          },
+          {
+            "stat": 18,
+            "type": 1,
+            "value": 0.16756501204660978
+          }
+        ],
+        "name": "Strength"
+      }
     }
   ],
   "laserlikeness": 0.8906220730800448,
@@ -71,7 +121,13 @@
   "seasAttr": [],
   "shakespearianism": 0.6957713588684994,
   "soul": 3,
-  "state": {},
+  "state": {
+    "itemModSources": {
+      "PRO_SKATER": [
+        "cfedb43e-0f8a-4375-9cd4-6fb7d40fa450"
+      ]
+    }
+  },
   "suppression": 0.9465997547905464,
   "tenaciousness": 0.7323255498624183,
   "thwackability": 0.2386064998549647,

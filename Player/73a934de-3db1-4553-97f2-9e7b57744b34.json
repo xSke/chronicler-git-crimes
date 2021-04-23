@@ -21,47 +21,64 @@
   "hittingRating": 0.2803738600112386,
   "id": "73a934de-3db1-4553-97f2-9e7b57744b34",
   "indulgence": 0.01962010633127909,
-  "itemAttr": [],
+  "itemAttr": [
+    "DOUBLE_PAYOUTS"
+  ],
   "items": [
     {
       "baserunningRating": 0,
-      "defenseRating": 0,
-      "durability": 2,
+      "defenseRating": 0.03920787774847989,
+      "durability": 3,
       "forger": null,
       "forgerName": null,
-      "health": 2,
-      "hittingRating": 0.07497669164230875,
-      "id": "70eaf198-8ced-4c44-b5d9-3d2baefa5bba",
-      "name": "Arm Jersey",
-      "pitchingRating": 0.02552368319739039,
-      "postPrefix": {
-        "adjustments": [
-          {
-            "stat": 2,
-            "type": 1,
-            "value": 0.12533514566369605
-          },
-          {
-            "stat": 16,
-            "type": 1,
-            "value": 0.1642202209400331
-          }
-        ],
-        "name": "Arm"
-      },
+      "health": 3,
+      "hittingRating": 0,
+      "id": "c9c31624-d389-4e8d-96d5-8b641da0519f",
+      "name": "Golden Ring of Intelligence",
+      "pitchingRating": 0.08838812610218238,
+      "postPrefix": null,
       "prePrefix": null,
-      "prefixes": null,
+      "prefixes": [
+        {
+          "adjustments": [
+            {
+              "mod": "DOUBLE_PAYOUTS",
+              "type": 0
+            }
+          ],
+          "name": "Golden"
+        }
+      ],
       "root": {
         "adjustments": [
           {
-            "stat": 5,
+            "stat": 19,
             "type": 1,
-            "value": 0.16785221497430525
+            "value": 0.1456438020882375
           }
         ],
-        "name": "Jersey"
+        "name": "Ring"
       },
-      "suffix": null
+      "suffix": {
+        "adjustments": [
+          {
+            "stat": 19,
+            "type": 1,
+            "value": 0.10029297232055744
+          },
+          {
+            "stat": 24,
+            "type": 1,
+            "value": 0.17892438938286526
+          },
+          {
+            "stat": 14,
+            "type": 1,
+            "value": 0.1851690538583871
+          }
+        ],
+        "name": "Intelligence"
+      }
     }
   ],
   "laserlikeness": 0.3674839777516616,
@@ -82,7 +99,13 @@
   "seasAttr": [],
   "shakespearianism": 0.04891010992459477,
   "soul": 3,
-  "state": {},
+  "state": {
+    "itemModSources": {
+      "DOUBLE_PAYOUTS": [
+        "c9c31624-d389-4e8d-96d5-8b641da0519f"
+      ]
+    }
+  },
   "suppression": 0.5189203917855065,
   "tenaciousness": 0.5606130919555823,
   "thwackability": 0.20150764155589895,

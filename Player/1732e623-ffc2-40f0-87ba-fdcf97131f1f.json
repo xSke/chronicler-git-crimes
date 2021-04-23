@@ -24,28 +24,74 @@
   "itemAttr": [],
   "items": [
     {
-      "baserunningRating": 0,
-      "defenseRating": 0,
-      "durability": 1,
+      "baserunningRating": 0.011418605743326982,
+      "defenseRating": 0.07604195422628945,
+      "durability": 3,
       "forger": null,
       "forgerName": null,
-      "health": 1,
-      "hittingRating": 0.026328243515548855,
-      "id": "63b5724d-6f4e-46c3-a45d-48f0ea5c48cb",
-      "name": "Bat",
-      "pitchingRating": 0,
+      "health": 3,
+      "hittingRating": 0,
+      "id": "25a99e17-076f-40c8-bbd9-e34b6b02c014",
+      "name": "Hearty Rubber Cap",
+      "pitchingRating": 0.3332661709409281,
       "postPrefix": null,
       "prePrefix": null,
-      "prefixes": null,
+      "prefixes": [
+        {
+          "adjustments": [
+            {
+              "stat": 22,
+              "type": 1,
+              "value": 0.1703958689487174
+            },
+            {
+              "stat": 20,
+              "type": 1,
+              "value": 0.12394363760202232
+            },
+            {
+              "stat": 12,
+              "type": 1,
+              "value": 0.1632827497719154
+            }
+          ],
+          "name": "Hearty"
+        },
+        {
+          "adjustments": [
+            {
+              "stat": 13,
+              "type": 1,
+              "value": -0.046090833474256854
+            },
+            {
+              "stat": 10,
+              "type": 1,
+              "value": -0.05372644229455949
+            },
+            {
+              "stat": 16,
+              "type": 1,
+              "value": 0.33572614515962146
+            },
+            {
+              "stat": 18,
+              "type": 1,
+              "value": -0.12029869010853148
+            }
+          ],
+          "name": "Rubber"
+        }
+      ],
       "root": {
         "adjustments": [
           {
-            "stat": 2,
+            "stat": 16,
             "type": 1,
-            "value": 0.10667729525090658
+            "value": 0.1948049938779466
           }
         ],
-        "name": "Bat"
+        "name": "Cap"
       },
       "suffix": null
     }

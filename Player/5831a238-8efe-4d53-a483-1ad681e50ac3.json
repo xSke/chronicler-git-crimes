@@ -24,15 +24,15 @@
   "itemAttr": [],
   "items": [
     {
-      "baserunningRating": 0,
-      "defenseRating": 0,
-      "durability": 1,
+      "baserunningRating": 0.04810315364493262,
+      "defenseRating": 0.039817077840672566,
+      "durability": 2,
       "forger": null,
       "forgerName": null,
-      "health": 1,
-      "hittingRating": 0.033223343563927366,
-      "id": "22e40d41-69ca-4c94-8bd6-8af51f4cce09",
-      "name": "Bat",
+      "health": 2,
+      "hittingRating": 0,
+      "id": "169e3a1c-70d8-483f-a191-79a44e0c3f7a",
+      "name": "Glove of Vitality",
       "pitchingRating": 0,
       "postPrefix": null,
       "prePrefix": null,
@@ -40,14 +40,33 @@
       "root": {
         "adjustments": [
           {
-            "stat": 2,
+            "stat": 21,
             "type": 1,
-            "value": 0.14684010568902756
+            "value": 0.199146417664982
           }
         ],
-        "name": "Bat"
+        "name": "Glove"
       },
-      "suffix": null
+      "suffix": {
+        "adjustments": [
+          {
+            "stat": 13,
+            "type": 1,
+            "value": 0.12636660441336944
+          },
+          {
+            "stat": 9,
+            "type": 1,
+            "value": 0.1873861761627753
+          },
+          {
+            "stat": 20,
+            "type": 1,
+            "value": 0.15460467445719803
+          }
+        ],
+        "name": "Vitality"
+      }
     }
   ],
   "laserlikeness": 0.6147894980779633,

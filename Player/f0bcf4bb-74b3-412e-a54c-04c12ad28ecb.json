@@ -25,27 +25,48 @@
   "items": [
     {
       "baserunningRating": 0,
-      "defenseRating": 0,
-      "durability": 1,
+      "defenseRating": 0.017415286285657472,
+      "durability": 2,
       "forger": null,
       "forgerName": null,
-      "health": 1,
-      "hittingRating": 0.03937490114112585,
-      "id": "b7d33c71-80c8-42cb-aece-5dbe4a2f9cd1",
-      "name": "Bat",
+      "health": 2,
+      "hittingRating": 0.02195986308309361,
+      "id": "b834d914-f6f2-4f4a-a55d-6359c8c95412",
+      "name": "Plant-Based Necklace",
       "pitchingRating": 0,
       "postPrefix": null,
       "prePrefix": null,
-      "prefixes": null,
+      "prefixes": [
+        {
+          "adjustments": [
+            {
+              "stat": 23,
+              "type": 1,
+              "value": 0.3402621607185279
+            },
+            {
+              "stat": 15,
+              "type": 1,
+              "value": 0.1727657784805916
+            },
+            {
+              "stat": 1,
+              "type": 1,
+              "value": -0.08317092135797129
+            }
+          ],
+          "name": "Plant-Based"
+        }
+      ],
       "root": {
         "adjustments": [
           {
-            "stat": 2,
+            "stat": 3,
             "type": 1,
-            "value": 0.12969382196333093
+            "value": 0.18735384383877057
           }
         ],
-        "name": "Bat"
+        "name": "Necklace"
       },
       "suffix": null
     }

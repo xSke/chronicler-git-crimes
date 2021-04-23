@@ -24,28 +24,47 @@
   "itemAttr": [],
   "items": [
     {
-      "baserunningRating": 0,
+      "baserunningRating": 0.07709695772992053,
       "defenseRating": 0,
-      "durability": 1,
+      "durability": 2,
       "forger": null,
       "forgerName": null,
-      "health": 1,
-      "hittingRating": 0.0325235966287416,
-      "id": "70760fd5-1dd3-467c-8a1b-c858853d105a",
-      "name": "Bat",
-      "pitchingRating": 0,
-      "postPrefix": null,
+      "health": 2,
+      "hittingRating": 0.04541949789880184,
+      "id": "aca41169-c510-4bb5-b7f2-c2ec42523e54",
+      "name": "Air Cap",
+      "pitchingRating": 0.07427613825159729,
+      "postPrefix": {
+        "adjustments": [
+          {
+            "stat": 1,
+            "type": 1,
+            "value": 0.10740795697994578
+          },
+          {
+            "stat": 4,
+            "type": 1,
+            "value": 0.11508620883419088
+          },
+          {
+            "stat": 10,
+            "type": 1,
+            "value": 0.12066677968196136
+          }
+        ],
+        "name": "Air"
+      },
       "prePrefix": null,
       "prefixes": null,
       "root": {
         "adjustments": [
           {
-            "stat": 2,
+            "stat": 16,
             "type": 1,
-            "value": 0.12211805296083
+            "value": 0.1909376487829104
           }
         ],
-        "name": "Bat"
+        "name": "Cap"
       },
       "suffix": null
     }

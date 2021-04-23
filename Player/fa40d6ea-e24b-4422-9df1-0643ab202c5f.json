@@ -26,26 +26,72 @@
     {
       "baserunningRating": 0,
       "defenseRating": 0,
-      "durability": 1,
+      "durability": 3,
       "forger": null,
       "forgerName": null,
-      "health": 1,
-      "hittingRating": 0.043086096656966166,
-      "id": "1999fac4-f657-4158-bfcc-b1072a0c4dd0",
-      "name": "Bat",
-      "pitchingRating": 0,
+      "health": 3,
+      "hittingRating": 0.07289959796997636,
+      "id": "9704ec40-48b7-4ea9-9cee-52e8152d77fa",
+      "name": "Lucky Cryogenic Ring",
+      "pitchingRating": 0.05633636040522272,
       "postPrefix": null,
       "prePrefix": null,
-      "prefixes": null,
+      "prefixes": [
+        {
+          "adjustments": [
+            {
+              "stat": 2,
+              "type": 1,
+              "value": 0.16461794537888524
+            },
+            {
+              "stat": 4,
+              "type": 1,
+              "value": 0.14847624455401143
+            },
+            {
+              "stat": 3,
+              "type": 1,
+              "value": -0.14196956986636575
+            },
+            {
+              "stat": 6,
+              "type": 1,
+              "value": 0.10355886079116164
+            }
+          ],
+          "name": "Lucky"
+        },
+        {
+          "adjustments": [
+            {
+              "stat": 15,
+              "type": 1,
+              "value": 0.15846953333108466
+            },
+            {
+              "stat": 17,
+              "type": 1,
+              "value": 0.2279163061436094
+            },
+            {
+              "stat": 18,
+              "type": 1,
+              "value": 0.0977642362636402
+            }
+          ],
+          "name": "Cryogenic"
+        }
+      ],
       "root": {
         "adjustments": [
           {
-            "stat": 2,
+            "stat": 19,
             "type": 1,
-            "value": 0.14721579559119596
+            "value": 0.13985734652499918
           }
         ],
-        "name": "Bat"
+        "name": "Ring"
       },
       "suffix": null
     }

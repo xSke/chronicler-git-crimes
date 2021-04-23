@@ -21,53 +21,67 @@
   "hittingRating": 0.5907649740448401,
   "id": "97af97a7-19dc-4d18-9f72-8bd89f7eeaa8",
   "indulgence": 0.9997444610371562,
-  "itemAttr": [
-    "TRAVELING",
-    "HIGH_PRESSURE"
-  ],
+  "itemAttr": [],
   "items": [
     {
       "baserunningRating": 0,
-      "defenseRating": 0,
+      "defenseRating": 0.01943728819146917,
       "durability": 3,
       "forger": null,
       "forgerName": null,
       "health": 3,
-      "hittingRating": 0.014424552016976231,
-      "id": "f5551ed9-631a-44e6-9ab5-e5655846e712",
-      "name": "Travelling Clutch Jersey",
-      "pitchingRating": 0,
+      "hittingRating": 0.10072058626788516,
+      "id": "c15c4379-4b61-4d7a-93a1-5d274598db89",
+      "name": "Mesh Hot Glove",
+      "pitchingRating": -0.012886667521080808,
       "postPrefix": null,
       "prePrefix": null,
       "prefixes": [
         {
           "adjustments": [
             {
-              "mod": "TRAVELING",
-              "type": 0
+              "stat": 3,
+              "type": 1,
+              "value": 0.3140911735633987
+            },
+            {
+              "stat": 18,
+              "type": 1,
+              "value": -0.1127235401913835
             }
           ],
-          "name": "Travelling"
+          "name": "Mesh"
         },
         {
           "adjustments": [
             {
-              "mod": "HIGH_PRESSURE",
-              "type": 0
+              "stat": 2,
+              "type": 1,
+              "value": 0.316237112732962
+            },
+            {
+              "stat": 17,
+              "type": 1,
+              "value": -0.11773575056392784
+            },
+            {
+              "stat": 3,
+              "type": 1,
+              "value": -0.045328334453863264
             }
           ],
-          "name": "Clutch"
+          "name": "Hot"
         }
       ],
       "root": {
         "adjustments": [
           {
-            "stat": 5,
+            "stat": 21,
             "type": 1,
-            "value": 0.11017821143826356
+            "value": 0.11072503607207757
           }
         ],
-        "name": "Jersey"
+        "name": "Glove"
       },
       "suffix": null
     }
@@ -91,14 +105,7 @@
   "shakespearianism": 0.08575550796571352,
   "soul": 4,
   "state": {
-    "itemModSources": {
-      "HIGH_PRESSURE": [
-        "f5551ed9-631a-44e6-9ab5-e5655846e712"
-      ],
-      "TRAVELING": [
-        "f5551ed9-631a-44e6-9ab5-e5655846e712"
-      ]
-    }
+    "itemModSources": {}
   },
   "suppression": 0.162142374280279,
   "tenaciousness": 0.8005013095000364,

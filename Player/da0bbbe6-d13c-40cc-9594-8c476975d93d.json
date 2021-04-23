@@ -21,52 +21,68 @@
   "hittingRating": 0.6324427792067364,
   "id": "da0bbbe6-d13c-40cc-9594-8c476975d93d",
   "indulgence": 0.446944502103701,
-  "itemAttr": [],
+  "itemAttr": [
+    "TRAVELING"
+  ],
   "items": [
     {
-      "baserunningRating": 0.01754683037356064,
-      "defenseRating": 0.029221666876408592,
-      "durability": 2,
+      "baserunningRating": 0,
+      "defenseRating": 0,
+      "durability": 3,
       "forger": null,
       "forgerName": null,
-      "health": 2,
-      "hittingRating": 0.005926727989368663,
-      "id": "0f6b3d3b-34f4-45f6-8d19-c389d524f87d",
-      "name": "Hearty Necklace",
-      "pitchingRating": 0,
+      "health": 3,
+      "hittingRating": 0.1240244380243406,
+      "id": "aa3c3483-8c3f-493a-bf3c-583fa80d5a7d",
+      "name": "Holey Travelling Bat",
+      "pitchingRating": -0.025189199145650737,
       "postPrefix": null,
       "prePrefix": null,
       "prefixes": [
         {
           "adjustments": [
             {
-              "stat": 22,
+              "stat": 4,
               "type": 1,
-              "value": 0.19837324265403744
+              "value": 0.21578843092394057
             },
             {
-              "stat": 20,
+              "stat": 18,
               "type": 1,
-              "value": 0.15118946205833905
+              "value": -0.12017481372864548
             },
             {
-              "stat": 12,
+              "stat": 6,
               "type": 1,
-              "value": 0.12237650192774174
+              "value": 0.1564081084742369
+            },
+            {
+              "stat": 0,
+              "type": 1,
+              "value": 0.1725325512501777
             }
           ],
-          "name": "Hearty"
+          "name": "Holey"
+        },
+        {
+          "adjustments": [
+            {
+              "mod": "TRAVELING",
+              "type": 0
+            }
+          ],
+          "name": "Travelling"
         }
       ],
       "root": {
         "adjustments": [
           {
-            "stat": 3,
+            "stat": 2,
             "type": 1,
-            "value": 0.12472677805630328
+            "value": 0.10129090146958564
           }
         ],
-        "name": "Necklace"
+        "name": "Bat"
       },
       "suffix": null
     }
@@ -89,7 +105,13 @@
   "seasAttr": [],
   "shakespearianism": 0.9558573052267376,
   "soul": 6,
-  "state": {},
+  "state": {
+    "itemModSources": {
+      "TRAVELING": [
+        "aa3c3483-8c3f-493a-bf3c-583fa80d5a7d"
+      ]
+    }
+  },
   "suppression": 1.0113485906024364,
   "tenaciousness": 0.9405241054695046,
   "thwackability": 0.8127218134985983,

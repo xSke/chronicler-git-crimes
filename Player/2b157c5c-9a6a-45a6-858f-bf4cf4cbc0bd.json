@@ -24,77 +24,54 @@
   "itemAttr": [],
   "items": [
     {
-      "baserunningRating": 0.08971078291319001,
-      "defenseRating": 0.011791818087256156,
-      "durability": 5,
+      "baserunningRating": 0.017275645822812824,
+      "defenseRating": 0.034568835873237225,
+      "durability": 2,
       "forger": null,
       "forgerName": null,
-      "health": 5,
-      "hittingRating": 0.05599999597795846,
-      "id": "27f4fb3d-3402-4b3c-bfa1-6d99dcbf873c",
-      "name": "Hearty Cool Rock Bat",
-      "pitchingRating": 0.0033038755250529572,
-      "postPrefix": {
-        "adjustments": [
-          {
-            "type": 3,
-            "value": 1
-          }
-        ],
-        "name": "Rock"
-      },
+      "health": 2,
+      "hittingRating": 0.058046218810074546,
+      "id": "21441eeb-881c-4313-8614-d7c60afd2c48",
+      "name": "Sharp Glove",
+      "pitchingRating": 0.046200763387827304,
+      "postPrefix": null,
       "prePrefix": null,
       "prefixes": [
         {
           "adjustments": [
             {
+              "stat": 2,
+              "type": 1,
+              "value": 0.1485748300750487
+            },
+            {
+              "stat": 16,
+              "type": 1,
+              "value": 0.11988504826237888
+            },
+            {
+              "stat": 13,
+              "type": 1,
+              "value": 0.14668703345690406
+            },
+            {
               "stat": 22,
               "type": 1,
-              "value": 0.10468138921924285
-            },
-            {
-              "stat": 20,
-              "type": 1,
-              "value": 0.08998999607238588
-            },
-            {
-              "stat": 12,
-              "type": 1,
-              "value": 0.14939071717906194
+              "value": -0.10520146229318586
             }
           ],
-          "name": "Hearty"
-        },
-        {
-          "adjustments": [
-            {
-              "stat": 3,
-              "type": 1,
-              "value": 0.12855051667051795
-            },
-            {
-              "stat": 17,
-              "type": 1,
-              "value": 0.11073784992474202
-            },
-            {
-              "stat": 10,
-              "type": 1,
-              "value": 0.11580520244856723
-            }
-          ],
-          "name": "Cool"
+          "name": "Sharp"
         }
       ],
       "root": {
         "adjustments": [
           {
-            "stat": 2,
+            "stat": 21,
             "type": 1,
-            "value": 0.12619928961872062
+            "value": 0.18412870281953
           }
         ],
-        "name": "Bat"
+        "name": "Glove"
       },
       "suffix": null
     }

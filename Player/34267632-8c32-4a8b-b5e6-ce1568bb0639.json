@@ -24,30 +24,44 @@
   "itemAttr": [],
   "items": [
     {
-      "baserunningRating": 0,
+      "baserunningRating": 0.0909554555325004,
       "defenseRating": 0,
-      "durability": 1,
+      "durability": 2,
       "forger": null,
       "forgerName": null,
-      "health": 1,
-      "hittingRating": 0.033990167423187057,
-      "id": "b5e03708-5ed4-446e-889d-d4cf8a482c43",
-      "name": "Bat",
-      "pitchingRating": 0,
+      "health": 2,
+      "hittingRating": -0.03931914123412783,
+      "id": "5df93198-52eb-45fb-909a-8b59b1ca099d",
+      "name": "Shoes of the Famine",
+      "pitchingRating": 0.07944533152172184,
       "postPrefix": null,
       "prePrefix": null,
       "prefixes": null,
       "root": {
         "adjustments": [
           {
-            "stat": 2,
+            "stat": 10,
             "type": 1,
-            "value": 0.14880690327627022
+            "value": 0.14335855201274325
           }
         ],
-        "name": "Bat"
+        "name": "Shoes"
       },
-      "suffix": null
+      "suffix": {
+        "adjustments": [
+          {
+            "stat": 2,
+            "type": 1,
+            "value": -0.15802836890215902
+          },
+          {
+            "stat": 16,
+            "type": 1,
+            "value": 0.1203396611954643
+          }
+        ],
+        "name": "the Famine"
+      }
     }
   ],
   "laserlikeness": 0.4985697911489557,

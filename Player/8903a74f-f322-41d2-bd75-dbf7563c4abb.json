@@ -24,35 +24,30 @@
   "itemAttr": [],
   "items": [
     {
-      "baserunningRating": -0.01212057026815494,
-      "defenseRating": 0.07311547630371162,
-      "durability": 2,
+      "baserunningRating": 0.08975745963057491,
+      "defenseRating": 0.13334391458608597,
+      "durability": 3,
       "forger": null,
       "forgerName": null,
-      "health": 2,
-      "hittingRating": 0.05113726220329673,
-      "id": "a4a5ab8a-1352-4eb0-8894-313a78a7cee5",
-      "name": "Blood Glove",
+      "health": 3,
+      "hittingRating": 0,
+      "id": "537dfe6d-3887-4b5a-8a4d-5b6c6ddf9488",
+      "name": "Leg Glove of Stamina",
       "pitchingRating": 0,
       "postPrefix": {
         "adjustments": [
           {
-            "stat": 7,
+            "stat": 10,
             "type": 1,
-            "value": 0.11222500399833273
+            "value": 0.1174706386146926
           },
           {
-            "stat": 9,
+            "stat": 25,
             "type": 1,
-            "value": -0.12535525944616488
-          },
-          {
-            "stat": 4,
-            "type": 1,
-            "value": 0.10339704042267248
+            "value": 0.1010106908381356
           }
         ],
-        "name": "Blood"
+        "name": "Leg"
       },
       "prePrefix": null,
       "prefixes": null,
@@ -61,12 +56,36 @@
           {
             "stat": 21,
             "type": 1,
-            "value": 0.1832605376351959
+            "value": 0.19290736457858249
           }
         ],
         "name": "Glove"
       },
-      "suffix": null
+      "suffix": {
+        "adjustments": [
+          {
+            "stat": 22,
+            "type": 1,
+            "value": 0.15206307770663352
+          },
+          {
+            "stat": 25,
+            "type": 1,
+            "value": 0.116538174303656
+          },
+          {
+            "stat": 11,
+            "type": 1,
+            "value": 0.12465661242619648
+          },
+          {
+            "stat": 9,
+            "type": 1,
+            "value": 0.17926354257554994
+          }
+        ],
+        "name": "Stamina"
+      }
     }
   ],
   "laserlikeness": 0.7968466854409745,

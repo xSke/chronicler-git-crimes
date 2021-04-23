@@ -25,24 +25,53 @@
   "items": [
     {
       "baserunningRating": 0,
-      "defenseRating": 0,
-      "durability": 1,
+      "defenseRating": 0.04547145344784109,
+      "durability": 5,
       "forger": null,
       "forgerName": null,
-      "health": 1,
-      "hittingRating": 0.03462235631142907,
-      "id": "b926c676-571b-47fa-b2cc-a4be059257ea",
-      "name": "Bat",
-      "pitchingRating": 0,
-      "postPrefix": null,
+      "health": 5,
+      "hittingRating": 0.04168815123986891,
+      "id": "8c50f395-4c59-43d9-ac17-17bff9125037",
+      "name": "Frosty Concrete Bat",
+      "pitchingRating": 0.004744381374794382,
+      "postPrefix": {
+        "adjustments": [
+          {
+            "type": 3,
+            "value": 2
+          }
+        ],
+        "name": "Concrete"
+      },
       "prePrefix": null,
-      "prefixes": null,
+      "prefixes": [
+        {
+          "adjustments": [
+            {
+              "stat": 17,
+              "type": 1,
+              "value": 0.1381579932178581
+            },
+            {
+              "stat": 25,
+              "type": 1,
+              "value": 0.17161784764159368
+            },
+            {
+              "stat": 23,
+              "type": 1,
+              "value": 0.28058506460200405
+            }
+          ],
+          "name": "Frosty"
+        }
+      ],
       "root": {
         "adjustments": [
           {
             "stat": 2,
             "type": 1,
-            "value": 0.13266763428532047
+            "value": 0.16092814276163625
           }
         ],
         "name": "Bat"

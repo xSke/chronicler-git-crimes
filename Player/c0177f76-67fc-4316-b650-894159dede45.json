@@ -21,8 +21,65 @@
   "hittingRating": 0.8275765745685961,
   "id": "c0177f76-67fc-4316-b650-894159dede45",
   "indulgence": 0.8167133328106483,
-  "itemAttr": [],
+  "itemAttr": [
+    "PARASITE"
+  ],
   "items": [
+    {
+      "baserunningRating": 0,
+      "defenseRating": 0.028362550508333303,
+      "durability": 3,
+      "forger": null,
+      "forgerName": null,
+      "health": 3,
+      "hittingRating": 0,
+      "id": "868be9a6-8019-4a77-af71-533c07412519",
+      "name": "Parasitic Ring of Intelligence",
+      "pitchingRating": 0.09860266812674769,
+      "postPrefix": null,
+      "prePrefix": null,
+      "prefixes": [
+        {
+          "adjustments": [
+            {
+              "mod": "PARASITE",
+              "type": 0
+            }
+          ],
+          "name": "Parasitic"
+        }
+      ],
+      "root": {
+        "adjustments": [
+          {
+            "stat": 19,
+            "type": 1,
+            "value": 0.14319263642502666
+          }
+        ],
+        "name": "Ring"
+      },
+      "suffix": {
+        "adjustments": [
+          {
+            "stat": 19,
+            "type": 1,
+            "value": 0.1496511368313167
+          },
+          {
+            "stat": 24,
+            "type": 1,
+            "value": 0.1049149992222774
+          },
+          {
+            "stat": 14,
+            "type": 1,
+            "value": 0.11680957491156292
+          }
+        ],
+        "name": "Intelligence"
+      }
+    },
     {
       "baserunningRating": 0,
       "defenseRating": 0,
@@ -70,7 +127,13 @@
   "seasAttr": [],
   "shakespearianism": 0.31097263910973516,
   "soul": 5,
-  "state": {},
+  "state": {
+    "itemModSources": {
+      "PARASITE": [
+        "868be9a6-8019-4a77-af71-533c07412519"
+      ]
+    }
+  },
   "suppression": 0.5265577366928109,
   "tenaciousness": 0.5402691015834695,
   "thwackability": 0.6948524920942037,

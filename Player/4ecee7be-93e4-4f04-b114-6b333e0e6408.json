@@ -24,30 +24,65 @@
   "itemAttr": [],
   "items": [
     {
-      "baserunningRating": 0,
+      "baserunningRating": 0.021810339139681556,
       "defenseRating": 0,
-      "durability": 1,
+      "durability": 3,
       "forger": null,
       "forgerName": null,
-      "health": 1,
-      "hittingRating": 0.053594855624899074,
-      "id": "7d34993b-ff23-445a-b35e-8efde8a01e9b",
-      "name": "Bat",
-      "pitchingRating": 0,
+      "health": 3,
+      "hittingRating": 0.013368334827829507,
+      "id": "019ec1cc-ac19-4eff-aa1b-09eb4e1c7cf1",
+      "name": "Mesh Cap of Vitality",
+      "pitchingRating": 0.009380590270705811,
       "postPrefix": null,
       "prePrefix": null,
-      "prefixes": null,
+      "prefixes": [
+        {
+          "adjustments": [
+            {
+              "stat": 3,
+              "type": 1,
+              "value": 0.2252764217776595
+            },
+            {
+              "stat": 18,
+              "type": 1,
+              "value": -0.10328452778362002
+            }
+          ],
+          "name": "Mesh"
+        }
+      ],
       "root": {
         "adjustments": [
           {
-            "stat": 2,
+            "stat": 16,
             "type": 1,
-            "value": 0.1442957640974755
+            "value": 0.13177127478385042
           }
         ],
-        "name": "Bat"
+        "name": "Cap"
       },
-      "suffix": null
+      "suffix": {
+        "adjustments": [
+          {
+            "stat": 13,
+            "type": 1,
+            "value": 0.1919174758157502
+          },
+          {
+            "stat": 9,
+            "type": 1,
+            "value": 0.15613291265060458
+          },
+          {
+            "stat": 20,
+            "type": 1,
+            "value": 0.12838695255774402
+          }
+        ],
+        "name": "Vitality"
+      }
     }
   ],
   "laserlikeness": 0.36447784861618304,

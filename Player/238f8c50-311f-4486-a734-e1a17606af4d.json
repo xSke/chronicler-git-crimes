@@ -24,61 +24,70 @@
   "itemAttr": [],
   "items": [
     {
-      "baserunningRating": 0.07081184716758326,
+      "baserunningRating": 0,
       "defenseRating": 0,
-      "durability": 2,
+      "durability": 3,
       "forger": null,
       "forgerName": null,
-      "health": 2,
-      "hittingRating": -0.023791442505744276,
-      "id": "25cfc8fe-1293-4bfe-9b2d-f7b1280e2b86",
-      "name": "Weird Shoes",
-      "pitchingRating": 0.0026028539366269587,
+      "health": 3,
+      "hittingRating": 0.06391142376152992,
+      "id": "ffb3e791-74d7-48a8-9b35-abe642048bc5",
+      "name": "Holey Sunglasses of Strength",
+      "pitchingRating": 0.003077859655427728,
       "postPrefix": null,
       "prePrefix": null,
       "prefixes": [
         {
           "adjustments": [
             {
-              "stat": 0,
+              "stat": 4,
               "type": 1,
-              "value": 0.22575449527994632
+              "value": 0.2056487908203894
             },
             {
-              "stat": 14,
+              "stat": 18,
               "type": 1,
-              "value": 0.05570399648826683
-            },
-            {
-              "stat": 13,
-              "type": 1,
-              "value": 0.07656082810215732
+              "value": -0.10691302235314834
             },
             {
               "stat": 6,
               "type": 1,
-              "value": 0.1027223228865152
+              "value": 0.18766328368378504
             },
             {
-              "stat": 8,
+              "stat": 0,
               "type": 1,
-              "value": 0.03676541960752173
+              "value": 0.13685469406176032
             }
           ],
-          "name": "Weird"
+          "name": "Holey"
         }
       ],
       "root": {
         "adjustments": [
           {
-            "stat": 10,
+            "stat": 8,
             "type": 1,
-            "value": 0.10525740088231546
+            "value": 0.14405282874857603
           }
         ],
-        "name": "Shoes"
+        "name": "Sunglasses"
       },
-      "suffix": null
+      "suffix": {
+        "adjustments": [
+          {
+            "stat": 5,
+            "type": 1,
+            "value": 0.15909707484607238
+          },
+          {
+            "stat": 18,
+            "type": 1,
+            "value": 0.15435635544597123
+          }
+        ],
+        "name": "Strength"
+      }
     }
   ],
   "laserlikeness": 0.24538381762423947,

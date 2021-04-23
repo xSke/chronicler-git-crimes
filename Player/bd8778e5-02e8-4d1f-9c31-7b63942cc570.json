@@ -24,28 +24,78 @@
   "itemAttr": [],
   "items": [
     {
-      "baserunningRating": 0,
-      "defenseRating": 0,
-      "durability": 1,
+      "baserunningRating": 0.07160882168574012,
+      "defenseRating": 0.023064501645266744,
+      "durability": 4,
       "forger": null,
       "forgerName": null,
-      "health": 1,
-      "hittingRating": 0.0948052668548396,
-      "id": "396ffdb3-1396-47de-b2e3-78fbc7c10ec6",
-      "name": "Bat",
-      "pitchingRating": 0,
-      "postPrefix": null,
+      "health": 4,
+      "hittingRating": 0.02624434102462614,
+      "id": "e748f7f4-616e-4ba5-afc4-3bdabe96cc9f",
+      "name": "Mesh Cool Leg Jersey",
+      "pitchingRating": -0.01658891073178259,
+      "postPrefix": {
+        "adjustments": [
+          {
+            "stat": 10,
+            "type": 1,
+            "value": 0.10344806641587452
+          },
+          {
+            "stat": 25,
+            "type": 1,
+            "value": 0.1091516121254188
+          }
+        ],
+        "name": "Leg"
+      },
       "prePrefix": null,
-      "prefixes": null,
+      "prefixes": [
+        {
+          "adjustments": [
+            {
+              "stat": 3,
+              "type": 1,
+              "value": 0.3386548137530673
+            },
+            {
+              "stat": 18,
+              "type": 1,
+              "value": -0.14939833397915644
+            }
+          ],
+          "name": "Mesh"
+        },
+        {
+          "adjustments": [
+            {
+              "stat": 3,
+              "type": 1,
+              "value": 0.12698804252654483
+            },
+            {
+              "stat": 17,
+              "type": 1,
+              "value": 0.12151392710015305
+            },
+            {
+              "stat": 10,
+              "type": 1,
+              "value": 0.1081400442321282
+            }
+          ],
+          "name": "Cool"
+        }
+      ],
       "root": {
         "adjustments": [
           {
-            "stat": 2,
+            "stat": 5,
             "type": 1,
-            "value": 0.14183337237164317
+            "value": 0.1351476003454215
           }
         ],
-        "name": "Bat"
+        "name": "Jersey"
       },
       "suffix": null
     }

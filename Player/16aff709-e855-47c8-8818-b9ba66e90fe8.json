@@ -21,31 +21,78 @@
   "hittingRating": 0.7566790016088096,
   "id": "16aff709-e855-47c8-8818-b9ba66e90fe8",
   "indulgence": 0.3716162026870226,
-  "itemAttr": [],
+  "itemAttr": [
+    "CAREFUL",
+    "REPEATING"
+  ],
   "items": [
     {
-      "baserunningRating": 0,
-      "defenseRating": 0,
-      "durability": 1,
+      "baserunningRating": -0.07525759043525015,
+      "defenseRating": 0.09134352169441716,
+      "durability": 4,
       "forger": null,
       "forgerName": null,
-      "health": 0,
-      "hittingRating": 0.025890408097770323,
-      "id": "98b33443-6949-4038-b5c1-a39cc9bfc91d",
-      "name": "Bat",
+      "health": 4,
+      "hittingRating": 0,
+      "id": "e4df1b09-d0b5-4ab1-b8b4-53b8fcb0139e",
+      "name": "Slimy Careful Repeating Glove",
       "pitchingRating": 0,
       "postPrefix": null,
       "prePrefix": null,
-      "prefixes": null,
+      "prefixes": [
+        {
+          "adjustments": [
+            {
+              "stat": 10,
+              "type": 1,
+              "value": -0.14041128297291003
+            },
+            {
+              "stat": 23,
+              "type": 1,
+              "value": 0.1291647479849663
+            },
+            {
+              "stat": 21,
+              "type": 1,
+              "value": 0.18813048841989
+            },
+            {
+              "stat": 22,
+              "type": 1,
+              "value": 0.1719443687749796
+            }
+          ],
+          "name": "Slimy"
+        },
+        {
+          "adjustments": [
+            {
+              "mod": "CAREFUL",
+              "type": 0
+            }
+          ],
+          "name": "Careful"
+        },
+        {
+          "adjustments": [
+            {
+              "mod": "REPEATING",
+              "type": 0
+            }
+          ],
+          "name": "Repeating"
+        }
+      ],
       "root": {
         "adjustments": [
           {
-            "stat": 2,
+            "stat": 21,
             "type": 1,
-            "value": 0.1025893181470639
+            "value": 0.1284490013705759
           }
         ],
-        "name": "Bat"
+        "name": "Glove"
       },
       "suffix": null
     }
@@ -68,7 +115,16 @@
   "seasAttr": [],
   "shakespearianism": 0.5990059456255273,
   "soul": 2,
-  "state": {},
+  "state": {
+    "itemModSources": {
+      "CAREFUL": [
+        "e4df1b09-d0b5-4ab1-b8b4-53b8fcb0139e"
+      ],
+      "REPEATING": [
+        "e4df1b09-d0b5-4ab1-b8b4-53b8fcb0139e"
+      ]
+    }
+  },
   "suppression": 1.1017015724320316,
   "tenaciousness": 1.1672009940469152,
   "thwackability": 1.01678408092524,

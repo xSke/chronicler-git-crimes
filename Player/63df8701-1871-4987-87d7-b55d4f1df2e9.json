@@ -21,61 +21,71 @@
   "hittingRating": 0.9579926877643488,
   "id": "63df8701-1871-4987-87d7-b55d4f1df2e9",
   "indulgence": 0.9285619573261408,
-  "itemAttr": [],
+  "itemAttr": [
+    "HIGH_PRESSURE"
+  ],
   "items": [
     {
-      "baserunningRating": 0,
-      "defenseRating": 0.031178628567156252,
-      "durability": 3,
+      "baserunningRating": -0.08821028837561462,
+      "defenseRating": -0.011779034252582976,
+      "durability": 5,
       "forger": null,
       "forgerName": null,
-      "health": 3,
-      "hittingRating": 0.03826069872103721,
-      "id": "35b184ed-f7df-4d34-8279-06ee4fe140f4",
-      "name": "Mesh Head Jersey",
-      "pitchingRating": -0.013891028933994631,
+      "health": 5,
+      "hittingRating": 0.17028354965871462,
+      "id": "c9fd7f45-1890-4dea-a217-a2d4ab7e4b51",
+      "name": "Clutch Wooden Rock Ring",
+      "pitchingRating": 0.03328820682922451,
       "postPrefix": {
         "adjustments": [
           {
-            "stat": 3,
-            "type": 1,
-            "value": 0.1529311663926582
-          },
-          {
-            "stat": 21,
-            "type": 1,
-            "value": 0.16565639377850072
+            "type": 3,
+            "value": 1
           }
         ],
-        "name": "Head"
+        "name": "Rock"
       },
       "prePrefix": null,
       "prefixes": [
         {
           "adjustments": [
             {
-              "stat": 3,
-              "type": 1,
-              "value": 0.26769785030468574
-            },
-            {
-              "stat": 18,
-              "type": 1,
-              "value": -0.08452244573518666
+              "mod": "HIGH_PRESSURE",
+              "type": 0
             }
           ],
-          "name": "Mesh"
+          "name": "Clutch"
+        },
+        {
+          "adjustments": [
+            {
+              "stat": 2,
+              "type": 1,
+              "value": 0.384011028743896
+            },
+            {
+              "stat": 10,
+              "type": 1,
+              "value": -0.1436522112197752
+            },
+            {
+              "stat": 22,
+              "type": 1,
+              "value": -0.06330161272672419
+            }
+          ],
+          "name": "Wooden"
         }
       ],
       "root": {
         "adjustments": [
           {
-            "stat": 5,
+            "stat": 19,
             "type": 1,
-            "value": 0.170630359492769
+            "value": 0.1554794076380741
           }
         ],
-        "name": "Jersey"
+        "name": "Ring"
       },
       "suffix": null
     }
@@ -98,7 +108,13 @@
   "seasAttr": [],
   "shakespearianism": 0.8331999858997376,
   "soul": 4,
-  "state": {},
+  "state": {
+    "itemModSources": {
+      "HIGH_PRESSURE": [
+        "c9fd7f45-1890-4dea-a217-a2d4ab7e4b51"
+      ]
+    }
+  },
   "suppression": 0.7183672939816974,
   "tenaciousness": 1.133550427429019,
   "thwackability": 0.6444076110932262,

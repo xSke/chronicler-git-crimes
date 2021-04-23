@@ -22,7 +22,7 @@
   "id": "f2c477fb-28ea-4fcb-943a-9fab22df3da0",
   "indulgence": 0.43263263001288466,
   "itemAttr": [
-    "PARASITE"
+    "SQUIDDISH"
   ],
   "items": [
     {
@@ -33,31 +33,31 @@
       "forgerName": null,
       "health": 2,
       "hittingRating": 0,
-      "id": "78f77cf0-8736-4a90-9108-1013d262d407",
-      "name": "Parasitic Cap",
-      "pitchingRating": 0.04692923999780019,
+      "id": "a7e70b68-7a33-4a80-98ed-bdc9d0046f5a",
+      "name": "Squiddish Sunglasses",
+      "pitchingRating": 0,
       "postPrefix": null,
       "prePrefix": null,
       "prefixes": [
         {
           "adjustments": [
             {
-              "mod": "PARASITE",
+              "mod": "SQUIDDISH",
               "type": 0
             }
           ],
-          "name": "Parasitic"
+          "name": "Squiddish"
         }
       ],
       "root": {
         "adjustments": [
           {
-            "stat": 16,
+            "stat": 8,
             "type": 1,
-            "value": 0.10465155159268567
+            "value": 0.16931790572955424
           }
         ],
-        "name": "Cap"
+        "name": "Sunglasses"
       },
       "suffix": null
     }
@@ -82,8 +82,8 @@
   "soul": 7,
   "state": {
     "itemModSources": {
-      "PARASITE": [
-        "78f77cf0-8736-4a90-9108-1013d262d407"
+      "SQUIDDISH": [
+        "a7e70b68-7a33-4a80-98ed-bdc9d0046f5a"
       ]
     }
   },

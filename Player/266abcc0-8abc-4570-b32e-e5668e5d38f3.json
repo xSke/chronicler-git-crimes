@@ -21,33 +21,62 @@
   "hittingRating": 0.8123134512380047,
   "id": "266abcc0-8abc-4570-b32e-e5668e5d38f3",
   "indulgence": 1.1756984313655852,
-  "itemAttr": [],
+  "itemAttr": [
+    "PRO_SKATER"
+  ],
   "items": [
     {
-      "baserunningRating": 0,
-      "defenseRating": 0,
-      "durability": 1,
+      "baserunningRating": 0.07112347568009547,
+      "defenseRating": 0.010176789828670874,
+      "durability": 3,
       "forger": null,
       "forgerName": null,
-      "health": 1,
-      "hittingRating": 0.027441931344279743,
-      "id": "dd954eae-6bc2-4184-bea8-02659f6e095c",
-      "name": "Bat",
-      "pitchingRating": 0,
-      "postPrefix": null,
+      "health": 3,
+      "hittingRating": 0,
+      "id": "68e1654d-1bbf-4f9e-96a1-34282b02b6bd",
+      "name": "Skate Shoes of Intelligence",
+      "pitchingRating": 0.06398218982893478,
+      "postPrefix": {
+        "adjustments": [
+          {
+            "mod": "PRO_SKATER",
+            "type": 0
+          }
+        ],
+        "name": "Skate"
+      },
       "prePrefix": null,
       "prefixes": null,
       "root": {
         "adjustments": [
           {
-            "stat": 2,
+            "stat": 10,
             "type": 1,
-            "value": 0.10884410013927014
+            "value": 0.1804380043897572
           }
         ],
-        "name": "Bat"
+        "name": "Shoes"
       },
-      "suffix": null
+      "suffix": {
+        "adjustments": [
+          {
+            "stat": 19,
+            "type": 1,
+            "value": 0.12475151147187404
+          },
+          {
+            "stat": 24,
+            "type": 1,
+            "value": 0.18634278300637128
+          },
+          {
+            "stat": 14,
+            "type": 1,
+            "value": 0.16753715643170197
+          }
+        ],
+        "name": "Intelligence"
+      }
     }
   ],
   "laserlikeness": 1.19413001183446,
@@ -70,7 +99,13 @@
   "seasAttr": [],
   "shakespearianism": 1.258930545495501,
   "soul": 9,
-  "state": {},
+  "state": {
+    "itemModSources": {
+      "PRO_SKATER": [
+        "68e1654d-1bbf-4f9e-96a1-34282b02b6bd"
+      ]
+    }
+  },
   "suppression": 0.8389958208396415,
   "tenaciousness": 0.5473763450234785,
   "thwackability": 1.0930507771124751,

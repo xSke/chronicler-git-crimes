@@ -25,29 +25,69 @@
   "items": [
     {
       "baserunningRating": 0,
-      "defenseRating": 0,
-      "durability": 1,
+      "defenseRating": -0.0017678629310181604,
+      "durability": 3,
       "forger": null,
       "forgerName": null,
-      "health": 1,
-      "hittingRating": 0.01500095572606358,
-      "id": "ad8ffb19-9208-440e-9934-898676fdfaed",
-      "name": "Bat",
-      "pitchingRating": 0,
+      "health": 3,
+      "hittingRating": 0.05931705117095987,
+      "id": "ca59edb4-62f3-4b0e-bc8c-a084223538dd",
+      "name": "Hard Bat of Intelligence",
+      "pitchingRating": 0.3049300438981797,
       "postPrefix": null,
       "prePrefix": null,
-      "prefixes": null,
+      "prefixes": [
+        {
+          "adjustments": [
+            {
+              "stat": 19,
+              "type": 1,
+              "value": 0.23708549195126155
+            },
+            {
+              "stat": 5,
+              "type": 1,
+              "value": 0.2311055284118542
+            },
+            {
+              "stat": 21,
+              "type": 1,
+              "value": -0.1038795809643074
+            }
+          ],
+          "name": "Hard"
+        }
+      ],
       "root": {
         "adjustments": [
           {
             "stat": 2,
             "type": 1,
-            "value": 0.13907214306472265
+            "value": 0.17172727999047233
           }
         ],
         "name": "Bat"
       },
-      "suffix": null
+      "suffix": {
+        "adjustments": [
+          {
+            "stat": 19,
+            "type": 1,
+            "value": 0.1871673792516782
+          },
+          {
+            "stat": 24,
+            "type": 1,
+            "value": 0.1962209507154501
+          },
+          {
+            "stat": 14,
+            "type": 1,
+            "value": 0.13324494941300866
+          }
+        ],
+        "name": "Intelligence"
+      }
     }
   ],
   "laserlikeness": 0.19577508492280168,
