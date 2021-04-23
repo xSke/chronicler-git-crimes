@@ -21,13 +21,13 @@
   ],
   "card": 2,
   "championships": 0,
-  "eDensity": 1957.3342307691112,
+  "eDensity": 1964.6663163882756,
   "emoji": "0x1F339",
   "evolution": 0,
   "fullName": "Boston Flowers",
   "gameAttr": [],
   "id": "3f8bbb15-61c0-4e3f-8e4a-907a5fb1565e",
-  "level": 3,
+  "level": 4,
   "lineup": [
     "a647388d-fc59-4c1b-90d3-8c1826e07775",
     "855775c1-266f-40f6-b07b-3a67ccdf8551",
@@ -54,7 +54,7 @@
     "defbc540-a36d-460b-afd8-07da2375ee63",
     "97dfc1f6-ac94-4cdc-b0d5-1cb9f8984aa5"
   ],
-  "rotationSlot": 97,
+  "rotationSlot": 98,
   "seasAttr": [
     "PARTY_TIME"
   ],

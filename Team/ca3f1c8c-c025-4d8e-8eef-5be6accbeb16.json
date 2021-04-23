@@ -21,13 +21,13 @@
   ],
   "card": 13,
   "championships": 1,
-  "eDensity": 2357.5607584349004,
+  "eDensity": 2371.5607584349004,
   "emoji": "0x1F525",
   "evolution": 0,
   "fullName": "Chicago Firefighters",
   "gameAttr": [],
   "id": "ca3f1c8c-c025-4d8e-8eef-5be6accbeb16",
-  "level": 4,
+  "level": 5,
   "lineup": [
     "e4e4c17d-8128-4704-9e04-f244d4573c4d",
     "ab36c776-b520-429b-a85f-bf633d7b081a",
@@ -51,7 +51,7 @@
     "94baa9ac-ff96-4f56-a987-10358e917d91",
     "f4a5d734-0ade-4410-abb6-c0cd5a7a1c26"
   ],
-  "rotationSlot": 97,
+  "rotationSlot": 98,
   "seasAttr": [
     "EXTRA_STRIKE"
   ],

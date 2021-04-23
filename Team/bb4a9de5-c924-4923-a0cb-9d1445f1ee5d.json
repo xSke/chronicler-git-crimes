@@ -20,13 +20,13 @@
   ],
   "card": -1,
   "championships": 4,
-  "eDensity": 2505.0332486937973,
+  "eDensity": 2521.8465423481216,
   "emoji": "0x1F40C",
   "evolution": 1,
   "fullName": "Ohio Worms",
   "gameAttr": [],
   "id": "bb4a9de5-c924-4923-a0cb-9d1445f1ee5d",
-  "level": 4,
+  "level": 5,
   "lineup": [
     "750a7ba9-e595-40be-93e5-4021f1f9460d",
     "57a19a22-f2cd-4e59-aa84-15cb0af30ba3",
@@ -50,7 +50,7 @@
     "ce7d33b7-1bba-48d6-a1d1-cd0e29231be8",
     "924de86d-260b-495b-80e1-57af5767703c"
   ],
-  "rotationSlot": 97,
+  "rotationSlot": 98,
   "seasAttr": [
     "PARTY_TIME"
   ],

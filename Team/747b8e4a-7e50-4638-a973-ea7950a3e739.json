@@ -24,13 +24,13 @@
   ],
   "card": 14,
   "championships": 3,
-  "eDensity": 2230.3481474465093,
+  "eDensity": 2240.3251044189306,
   "emoji": "0x1F405",
   "evolution": 1,
   "fullName": "Hades Tigers",
   "gameAttr": [],
   "id": "747b8e4a-7e50-4638-a973-ea7950a3e739",
-  "level": 4,
+  "level": 5,
   "lineup": [
     "efafe75e-2f00-4418-914c-9b6675d39264",
     "c0177f76-67fc-4316-b650-894159dede45",
@@ -55,7 +55,7 @@
     "7aeb8e0b-f6fb-4a9e-bba2-335dada5f0a3",
     "b3e512df-c411-4100-9544-0ceadddb28cf"
   ],
-  "rotationSlot": 97,
+  "rotationSlot": 98,
   "seasAttr": [
     "PARTY_TIME"
   ],
