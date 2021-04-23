@@ -60,7 +60,9 @@
   "overpowerment": 0.7507606231851728,
   "patheticism": 0.3240572578886535,
   "peanutAllergy": false,
-  "permAttr": [],
+  "permAttr": [
+    "COFFEE_RALLY"
+  ],
   "pitchingRating": 0.7783809151859574,
   "pressurization": 0.8825811012321547,
   "ritual": "Tattooing",
