@@ -18,11 +18,13 @@
   ],
   "card": 15,
   "championships": 0,
-  "eDensity": 2252.1228737646184,
+  "eDensity": 2258.6325823615525,
   "emoji": "0x1F450",
   "evolution": 0,
   "fullName": "Breckenridge Jazz Hands",
-  "gameAttr": [],
+  "gameAttr": [
+    "PSYCHIC"
+  ],
   "id": "a37f9158-7f82-46bc-908c-c9e2dda7c33b",
   "level": 3,
   "lineup": [
@@ -48,7 +50,7 @@
     "b348c037-eefc-4b81-8edd-dfa96188a97e",
     "ae81e172-801a-4236-929a-b990fc7190ce"
   ],
-  "rotationSlot": 83,
+  "rotationSlot": 84,
   "seasAttr": [],
   "seasonShames": 2,
   "seasonShamings": 10,
@@ -58,6 +60,11 @@
   "slogan": "We’ve Got Winning to Do. Just for You.",
   "stadium": "60e78a6c-fe49-4283-8293-735e9fa7e3e9",
   "state": {
+    "gameModSources": {
+      "PSYCHIC": [
+        "PSYCHOACOUSTICS"
+      ]
+    },
     "permModSources": {}
   },
   "teamSpirit": 0,
