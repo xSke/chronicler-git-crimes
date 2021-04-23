@@ -20,13 +20,13 @@
   ],
   "card": 18,
   "championships": 1,
-  "eDensity": 2067.0486960891494,
+  "eDensity": 2071.1161483996784,
   "emoji": "0x1F357",
   "evolution": 0,
   "fullName": "Mexico City Wild Wings",
   "gameAttr": [],
   "id": "57ec08cc-0411-4643-b304-0e80dbc15ac7",
-  "level": 4,
+  "level": 5,
   "lineup": [
     "bd8778e5-02e8-4d1f-9c31-7b63942cc570",
     "4542f0b0-3409-4a4a-a9e1-e8e8e5d73fcf",
@@ -49,7 +49,7 @@
     "c0732e36-3731-4f1a-abdc-daa9563b6506",
     "089af518-e27c-4256-adc8-62e3f4b30f43"
   ],
-  "rotationSlot": 98,
+  "rotationSlot": 99,
   "seasAttr": [
     "PARTY_TIME"
   ],

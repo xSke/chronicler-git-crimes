@@ -20,13 +20,13 @@
   ],
   "card": 19,
   "championships": 0,
-  "eDensity": 2037.643168563858,
+  "eDensity": 2050.1444946168035,
   "emoji": "0x1F48B",
   "evolution": 0,
   "fullName": "San Francisco Lovers",
   "gameAttr": [],
   "id": "b72f3061-f573-40d7-832a-5ad475bd7909",
-  "level": 4,
+  "level": 5,
   "lineup": [
     "ee55248b-318a-4bfb-8894-1cc70e4e0720",
     "c9e4a49e-e35a-4034-a4c7-293896b40c58",
@@ -51,7 +51,7 @@
     "d97835fd-2e92-4698-8900-1f5abea0a3b6",
     "7158d158-e7bf-4e9b-9259-62e5b25e3de8"
   ],
-  "rotationSlot": 98,
+  "rotationSlot": 99,
   "seasAttr": [
     "PARTY_TIME"
   ],
