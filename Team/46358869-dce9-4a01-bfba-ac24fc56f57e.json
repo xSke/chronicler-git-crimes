@@ -55,7 +55,7 @@
     "PARTY_TIME"
   ],
   "seasonShames": 5,
-  "seasonShamings": 1,
+  "seasonShamings": 2,
   "secondaryColor": "#ff5b29",
   "shameRuns": 0,
   "shorthand": "CORE",
@@ -64,8 +64,8 @@
   "state": {},
   "teamSpirit": 0,
   "totalShames": 32,
-  "totalShamings": 11,
+  "totalShamings": 12,
   "tournamentWins": 0,
   "weekAttr": [],
-  "winStreak": -3
+  "winStreak": 1
 }
