@@ -59,23 +59,17 @@
     "PARTY_TIME"
   ],
   "seasonShames": 1,
-  "seasonShamings": 6,
+  "seasonShamings": 7,
   "secondaryColor": "#ffd4d8",
   "shameRuns": 0,
   "shorthand": "NYMI",
   "slogan": "Youth Will Save Us",
   "stadium": "ba794e99-4d6b-4e12-9450-6522745190f8",
-  "state": {
-    "gameModSources": {
-      "SUN_KISSED": [
-        "PSYCHOACOUSTICS"
-      ]
-    }
-  },
+  "state": {},
   "teamSpirit": 0,
   "totalShames": 74,
-  "totalShamings": 67,
+  "totalShamings": 68,
   "tournamentWins": 0,
   "weekAttr": [],
-  "winStreak": 2
+  "winStreak": 3
 }
