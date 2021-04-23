@@ -1,7 +1,7 @@
 {
   "birds": 0,
   "elongation": 0.4855436358299496,
-  "filthiness": 0.3576882547016024,
+  "filthiness": 0.3577648726179378,
   "fortification": 0.5226367089250308,
   "forwardness": 0.5969603414053106,
   "grandiosity": 0.5641918901049738,
@@ -72,7 +72,11 @@
     "sweetener_mod": 1
   },
   "secondaryColor": "#9e3d47",
-  "state": {},
+  "state": {
+    "faxMachine": {
+      "runsNeeded": 20
+    }
+  },
   "teamId": "36569151-a2fb-43c1-9df7-2df512424c82",
   "tertiaryColor": "#c2656e",
   "viscosity": 0.2357024279575276,
