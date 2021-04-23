@@ -20,13 +20,13 @@
   ],
   "card": 7,
   "championships": 0,
-  "eDensity": 2239.2723264243987,
+  "eDensity": 2245.6160621865174,
   "emoji": "0x1F3B8",
   "evolution": 0,
   "fullName": "Seattle Garages",
   "gameAttr": [],
   "id": "105bc3ff-1320-4e37-8ef0-8d595cb95dd0",
-  "level": 3,
+  "level": 4,
   "lineup": [
     "f2468055-e880-40bf-8ac6-a0763d846eb2",
     "542af915-79c5-431c-a271-f7185e37c6ae",
@@ -55,14 +55,14 @@
     "7e9a514a-7850-4ed0-93ab-f3a6e2f41c03",
     "f1cc4d7d-bef0-43dd-ba0a-17c7628aa775"
   ],
-  "rotationSlot": 96,
+  "rotationSlot": 97,
   "seasAttr": [
     "PARTY_TIME"
   ],
   "seasonShames": 6,
   "seasonShamings": 2,
   "secondaryColor": "#5a83ea",
-  "shameRuns": 1,
+  "shameRuns": 0,
   "shorthand": "SEA",
   "slogan": "Park It!",
   "stadium": "cb94ac8b-003b-4d95-baf3-7c14b1c3fc29",

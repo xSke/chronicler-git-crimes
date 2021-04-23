@@ -22,13 +22,13 @@
   ],
   "card": 4,
   "championships": 2,
-  "eDensity": 2008.23446114443,
+  "eDensity": 2025.8417765979716,
   "emoji": "0x1F5E3",
   "evolution": 0,
   "fullName": "Canada Moist Talkers",
   "gameAttr": [],
   "id": "eb67ae5e-c4bf-46ca-bbbc-425cd34182ff",
-  "level": 3,
+  "level": 4,
   "lineup": [
     "d4a10c2a-0c28-466a-9213-38ba3339b65e",
     "a7d8196a-ca6b-4dab-a9d7-c27f3e86cc21",
@@ -54,7 +54,7 @@
     "8f11ad58-e0b9-465c-9442-f46991274557",
     "3ebb5361-3895-4a50-801e-e7a0ee61750c"
   ],
-  "rotationSlot": 96,
+  "rotationSlot": 97,
   "seasAttr": [
     "PARTY_TIME"
   ],
