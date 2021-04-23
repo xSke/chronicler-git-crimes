@@ -24,59 +24,28 @@
   "itemAttr": [],
   "items": [
     {
-      "baserunningRating": 0.012669209611062215,
+      "baserunningRating": 0,
       "defenseRating": 0,
-      "durability": 2,
+      "durability": 1,
       "forger": null,
       "forgerName": null,
       "health": 1,
-      "hittingRating": 0.024425613888445108,
-      "id": "e38dfd6b-acf5-41ec-8329-dfbdbb22cd47",
-      "name": "Weird Bat",
-      "pitchingRating": 0.0017875058792156118,
+      "hittingRating": 0,
+      "id": "02d4a72a-c41a-42f1-a54f-e220b6358846",
+      "name": "Ring",
+      "pitchingRating": 0.05781584421184793,
       "postPrefix": null,
       "prePrefix": null,
-      "prefixes": [
-        {
-          "adjustments": [
-            {
-              "stat": 0,
-              "type": 1,
-              "value": 0.09265468923283514
-            },
-            {
-              "stat": 14,
-              "type": 1,
-              "value": 0.022110808585843203
-            },
-            {
-              "stat": 13,
-              "type": 1,
-              "value": 0.10986740951672688
-            },
-            {
-              "stat": 6,
-              "type": 1,
-              "value": 0.107194381869014
-            },
-            {
-              "stat": 8,
-              "type": 1,
-              "value": 0.022237714463535764
-            }
-          ],
-          "name": "Weird"
-        }
-      ],
+      "prefixes": null,
       "root": {
         "adjustments": [
           {
-            "stat": 2,
+            "stat": 19,
             "type": 1,
-            "value": 0.10605726577953974
+            "value": 0.12249490434327098
           }
         ],
-        "name": "Bat"
+        "name": "Ring"
       },
       "suffix": null
     }
