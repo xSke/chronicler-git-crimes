@@ -58,10 +58,10 @@
   "seasAttr": [
     "PARTY_TIME"
   ],
-  "seasonShames": 8,
+  "seasonShames": 9,
   "seasonShamings": 4,
   "secondaryColor": "#f5feff",
-  "shameRuns": 0,
+  "shameRuns": 2,
   "shorthand": "CAN",
   "slogan": "Talk Spit, Get Hits",
   "stadium": "f71fd587-d20c-461c-88a4-1634a2df3f43",
@@ -69,9 +69,9 @@
     "permModSources": {}
   },
   "teamSpirit": 0,
-  "totalShames": 88,
+  "totalShames": 89,
   "totalShamings": 76,
   "tournamentWins": 0,
   "weekAttr": [],
-  "winStreak": 2
+  "winStreak": -1
 }
