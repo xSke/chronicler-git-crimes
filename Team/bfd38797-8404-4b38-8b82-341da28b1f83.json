@@ -65,17 +65,11 @@
   "shorthand": "CHST",
   "slogan": "Your Kicks are Our Kicks",
   "stadium": "36ae955c-6264-4437-8669-3053f62992e5",
-  "state": {
-    "gameModSources": {
-      "UNDERSEA": [
-        "PSYCHOACOUSTICS"
-      ]
-    }
-  },
+  "state": {},
   "teamSpirit": 0,
   "totalShames": 85,
   "totalShamings": 62,
   "tournamentWins": 0,
   "weekAttr": [],
-  "winStreak": 1
+  "winStreak": 2
 }
