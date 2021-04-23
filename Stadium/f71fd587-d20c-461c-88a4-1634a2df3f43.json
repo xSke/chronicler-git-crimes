@@ -67,7 +67,11 @@
     "salmon_cannons_mod": 1
   },
   "secondaryColor": "#5fa7b0",
-  "state": {},
+  "state": {
+    "faxMachine": {
+      "runsNeeded": 21
+    }
+  },
   "teamId": "eb67ae5e-c4bf-46ca-bbbc-425cd34182ff",
   "tertiaryColor": "#275b62",
   "viscosity": 0.5487322736948579,
