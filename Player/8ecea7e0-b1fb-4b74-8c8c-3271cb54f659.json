@@ -7,7 +7,7 @@
   "chasiness": 1.0568337705563595,
   "cinnamon": 0.46078780086337623,
   "coffee": 6,
-  "coldness": 0.4446924636383149,
+  "coldness": 0.34469246363831485,
   "continuation": 0.41773777539044415,
   "deceased": false,
   "defenseRating": 0.92833530794419,
@@ -69,16 +69,16 @@
   "musclitude": 0.901843421577096,
   "name": "Fitzgerald Blackburn",
   "omniscience": 0.6108192381830195,
-  "overpowerment": 1.0000591266261247,
+  "overpowerment": 0.9000591266261248,
   "patheticism": 0.4054615813241408,
   "peanutAllergy": false,
   "permAttr": [],
-  "pitchingRating": 0.8942605606566106,
+  "pitchingRating": 0.778277434153718,
   "pressurization": 0.16242999732426483,
   "ritual": "Showtunes",
-  "ruthlessness": 1.0243732343173604,
+  "ruthlessness": 0.9243732343173604,
   "seasAttr": [],
-  "shakespearianism": 0.774466367578002,
+  "shakespearianism": 0.674466367578002,
   "soul": 4,
   "state": {
     "itemModSources": {
@@ -87,13 +87,13 @@
       ]
     }
   },
-  "suppression": 0.7946180037055985,
+  "suppression": 0.6946180037055986,
   "tenaciousness": 1.2297235562151172,
   "thwackability": 0.8426790902069987,
   "totalFingers": 14,
   "tournamentTeamId": "4e5d0063-73b4-440a-b2d1-214a7345cf16",
   "tragicness": 0.06103208125262848,
-  "unthwackability": 0.859706822130298,
+  "unthwackability": 0.759706822130298,
   "watchfulness": 0.8247323227427749,
   "weekAttr": []
 }
