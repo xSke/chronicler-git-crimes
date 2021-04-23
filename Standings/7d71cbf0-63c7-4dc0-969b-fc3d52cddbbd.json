@@ -21,9 +21,9 @@
     "bfd38797-8404-4b38-8b82-341da28b1f83": 82,
     "c73b705c-40ad-4633-a6ed-d357ee2e2bcf": 83,
     "ca3f1c8c-c025-4d8e-8eef-5be6accbeb16": 82,
-    "d9f89a8a-c563-493e-9d64-78e4f9a55d4a": 82,
+    "d9f89a8a-c563-493e-9d64-78e4f9a55d4a": 83,
     "eb67ae5e-c4bf-46ca-bbbc-425cd34182ff": 83,
-    "f02aeae2-5e6a-4098-9842-02d2273f25c7": 82
+    "f02aeae2-5e6a-4098-9842-02d2273f25c7": 83
   },
   "id": "7d71cbf0-63c7-4dc0-969b-fc3d52cddbbd",
   "losses": {
@@ -48,7 +48,7 @@
     "bfd38797-8404-4b38-8b82-341da28b1f83": 42,
     "c73b705c-40ad-4633-a6ed-d357ee2e2bcf": 48,
     "ca3f1c8c-c025-4d8e-8eef-5be6accbeb16": 35,
-    "d9f89a8a-c563-493e-9d64-78e4f9a55d4a": 45,
+    "d9f89a8a-c563-493e-9d64-78e4f9a55d4a": 46,
     "eb67ae5e-c4bf-46ca-bbbc-425cd34182ff": 40,
     "f02aeae2-5e6a-4098-9842-02d2273f25c7": 53
   },
@@ -76,7 +76,7 @@
     "ca3f1c8c-c025-4d8e-8eef-5be6accbeb16": 380.4,
     "d9f89a8a-c563-493e-9d64-78e4f9a55d4a": 327.9,
     "eb67ae5e-c4bf-46ca-bbbc-425cd34182ff": 335.1,
-    "f02aeae2-5e6a-4098-9842-02d2273f25c7": 223
+    "f02aeae2-5e6a-4098-9842-02d2273f25c7": 224
   },
   "wins": {
     "105bc3ff-1320-4e37-8ef0-8d595cb95dd0": 42,
@@ -102,6 +102,6 @@
     "ca3f1c8c-c025-4d8e-8eef-5be6accbeb16": 47,
     "d9f89a8a-c563-493e-9d64-78e4f9a55d4a": 38,
     "eb67ae5e-c4bf-46ca-bbbc-425cd34182ff": 43,
-    "f02aeae2-5e6a-4098-9842-02d2273f25c7": 29
+    "f02aeae2-5e6a-4098-9842-02d2273f25c7": 30
   }
 }
