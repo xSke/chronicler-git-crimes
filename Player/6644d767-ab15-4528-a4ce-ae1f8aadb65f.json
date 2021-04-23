@@ -34,7 +34,8 @@
   "patheticism": 0.11245042285997896,
   "peanutAllergy": true,
   "permAttr": [
-    "AMBITIOUS"
+    "AMBITIOUS",
+    "OVERPERFORMING"
   ],
   "pitchingRating": 0.32073860315763275,
   "pressurization": 0.04007210959742325,
@@ -43,7 +44,13 @@
   "seasAttr": [],
   "shakespearianism": 0.8947076009945745,
   "soul": 3,
-  "state": {},
+  "state": {
+    "permModSources": {
+      "OVERPERFORMING": [
+        "AMBITIOUS"
+      ]
+    }
+  },
   "suppression": 0.9046892760393984,
   "tenaciousness": 0.9432599764819578,
   "thwackability": 0.8578964000807425,
