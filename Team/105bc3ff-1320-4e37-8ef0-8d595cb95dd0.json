@@ -20,11 +20,13 @@
   ],
   "card": 7,
   "championships": 0,
-  "eDensity": 2126.6270343214383,
+  "eDensity": 2148.553944600045,
   "emoji": "0x1F3B8",
   "evolution": 0,
   "fullName": "Seattle Garages",
-  "gameAttr": [],
+  "gameAttr": [
+    "AAA"
+  ],
   "id": "105bc3ff-1320-4e37-8ef0-8d595cb95dd0",
   "level": 3,
   "lineup": [
@@ -55,7 +57,7 @@
     "7e9a514a-7850-4ed0-93ab-f3a6e2f41c03",
     "f1cc4d7d-bef0-43dd-ba0a-17c7628aa775"
   ],
-  "rotationSlot": 84,
+  "rotationSlot": 85,
   "seasAttr": [],
   "seasonShames": 5,
   "seasonShamings": 2,
@@ -64,7 +66,13 @@
   "shorthand": "SEA",
   "slogan": "Park It!",
   "stadium": "cb94ac8b-003b-4d95-baf3-7c14b1c3fc29",
-  "state": {},
+  "state": {
+    "gameModSources": {
+      "AAA": [
+        "PSYCHOACOUSTICS"
+      ]
+    }
+  },
   "teamSpirit": 0,
   "totalShames": 75,
   "totalShamings": 64,
