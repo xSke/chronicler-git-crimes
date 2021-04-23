@@ -46,18 +46,18 @@
   ],
   "rotationSlot": 81,
   "seasAttr": [],
-  "seasonShames": 0,
+  "seasonShames": 1,
   "seasonShamings": 7,
   "secondaryColor": "#f60f63",
-  "shameRuns": 0,
+  "shameRuns": 0.3,
   "shorthand": "YELL",
   "slogan": "As Above, So Below",
   "stadium": "2a1a52b3-9759-44aa-ba49-b1437396d895",
   "state": {},
   "teamSpirit": 0,
-  "totalShames": 74,
+  "totalShames": 75,
   "totalShamings": 76,
   "tournamentWins": 0,
   "weekAttr": [],
-  "winStreak": -1
+  "winStreak": -2
 }
