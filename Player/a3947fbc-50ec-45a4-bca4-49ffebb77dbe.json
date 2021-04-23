@@ -37,7 +37,7 @@
     "HOMEBODY",
     "MARKED",
     "ATTRACTOR",
-    "UNDERPERFORMING"
+    "OVERPERFORMING"
   ],
   "pitchingRating": 1.5145678449703284,
   "pressurization": 0.7857967407463393,
@@ -48,7 +48,7 @@
   "soul": 0,
   "state": {
     "permModSources": {
-      "UNDERPERFORMING": [
+      "OVERPERFORMING": [
         "HOMEBODY"
       ]
     }
