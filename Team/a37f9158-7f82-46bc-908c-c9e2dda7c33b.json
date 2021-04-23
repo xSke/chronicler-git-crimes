@@ -50,10 +50,10 @@
   ],
   "rotationSlot": 89,
   "seasAttr": [],
-  "seasonShames": 2,
+  "seasonShames": 3,
   "seasonShamings": 11,
   "secondaryColor": "#7ba9d7",
-  "shameRuns": 0,
+  "shameRuns": 7,
   "shorthand": "BJAZ",
   "slogan": "We’ve Got Winning to Do. Just for You.",
   "stadium": "60e78a6c-fe49-4283-8293-735e9fa7e3e9",
@@ -61,9 +61,9 @@
     "permModSources": {}
   },
   "teamSpirit": 0,
-  "totalShames": 77,
+  "totalShames": 78,
   "totalShamings": 77,
   "tournamentWins": 0,
   "weekAttr": [],
-  "winStreak": -2
+  "winStreak": -3
 }
