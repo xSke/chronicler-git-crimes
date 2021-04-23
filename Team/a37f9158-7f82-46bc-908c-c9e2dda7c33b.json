@@ -60,11 +60,6 @@
   "slogan": "We’ve Got Winning to Do. Just for You.",
   "stadium": "60e78a6c-fe49-4283-8293-735e9fa7e3e9",
   "state": {
-    "gameModSources": {
-      "PSYCHIC": [
-        "PSYCHOACOUSTICS"
-      ]
-    },
     "permModSources": {}
   },
   "teamSpirit": 0,
@@ -72,5 +67,5 @@
   "totalShamings": 76,
   "tournamentWins": 0,
   "weekAttr": [],
-  "winStreak": -1
+  "winStreak": 1
 }
