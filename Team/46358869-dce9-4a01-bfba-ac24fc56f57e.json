@@ -19,13 +19,13 @@
   ],
   "card": -1,
   "championships": 3,
-  "eDensity": 1712.938993331771,
+  "eDensity": 1720.863970942149,
   "emoji": "0x1F6E0",
   "evolution": 1,
   "fullName": "Core Mechanics",
   "gameAttr": [],
   "id": "46358869-dce9-4a01-bfba-ac24fc56f57e",
-  "level": 2,
+  "level": 3,
   "lineup": [
     "5991ccb3-7eed-46d9-9d7c-69dec9b56d4b",
     "a6ec8d00-a78f-4f6b-b51a-db9f5507cf0a",
@@ -50,7 +50,7 @@
     "04e14d7b-5021-4250-a3cd-932ba8e0a889",
     "888fce7a-0d21-478a-9b45-4662193fe9aa"
   ],
-  "rotationSlot": 91,
+  "rotationSlot": 92,
   "seasAttr": [
     "PARTY_TIME"
   ],
