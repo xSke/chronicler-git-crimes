@@ -55,14 +55,14 @@
   "martyrdom": 1.0813228629347686,
   "moxie": 0.3711271408671055,
   "musclitude": 0.6826185699225683,
-  "name": "Conner Haley",
+  "name": "C----r H---y",
   "omniscience": 1.1348313295510883,
   "overpowerment": 0.7353969409022726,
   "patheticism": 0.32219282724334486,
   "peanutAllergy": true,
   "permAttr": [
     "SPICY",
-    "ELSEWHERE"
+    "SCATTERED"
   ],
   "pitchingRating": 0.6121787126393836,
   "pressurization": 0.08034602736685281,
@@ -72,10 +72,7 @@
   "shakespearianism": 0.370241797431184,
   "soul": 2,
   "state": {
-    "elsewhere": {
-      "day": 43,
-      "season": 16
-    }
+    "unscatteredName": "Conner Haley"
   },
   "suppression": 1.0811607684782398,
   "tenaciousness": 0.5610512945586021,
