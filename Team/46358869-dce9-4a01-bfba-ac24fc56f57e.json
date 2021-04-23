@@ -54,18 +54,18 @@
   "seasAttr": [
     "PARTY_TIME"
   ],
-  "seasonShames": 4,
+  "seasonShames": 5,
   "seasonShamings": 1,
   "secondaryColor": "#ff5b29",
-  "shameRuns": 0,
+  "shameRuns": 2,
   "shorthand": "CORE",
   "slogan": "We Can Fix This",
   "stadium": "031670ae-97a5-4215-b1a1-98e9f1de7c50",
   "state": {},
   "teamSpirit": 0,
-  "totalShames": 31,
+  "totalShames": 32,
   "totalShamings": 11,
   "tournamentWins": 0,
   "weekAttr": [],
-  "winStreak": -1
+  "winStreak": -2
 }
