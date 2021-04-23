@@ -114,7 +114,8 @@
   "peanutAllergy": false,
   "permAttr": [
     "HOMEBODY",
-    "UNDERPERFORMING"
+    "UNDERPERFORMING",
+    "COFFEE_RALLY"
   ],
   "pitchingRating": 0.5643764831809015,
   "pressurization": 0.38717811631454,
