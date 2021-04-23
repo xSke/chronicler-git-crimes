@@ -15,9 +15,7 @@
   "eDensity": 34.009834858126126,
   "evolution": 0,
   "fate": 43,
-  "gameAttr": [
-    "TEMP_STOLEN"
-  ],
+  "gameAttr": [],
   "groundFriction": 0.6351933186025511,
   "hitStreak": 0,
   "hittingRating": 0.903716693450704,
@@ -53,7 +51,7 @@
     }
   ],
   "laserlikeness": 1.387597818356973,
-  "leagueTeamId": "8d87c468-699a-47a8-b40d-cfb73a5660ad",
+  "leagueTeamId": "adc5b394-8f76-416d-9ce9-813706877b84",
   "martyrdom": 0.884947858308211,
   "moxie": 1.2596198127843845,
   "musclitude": 1.0253013383581688,
