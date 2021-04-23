@@ -79,7 +79,9 @@
   "overpowerment": 0.9317478241135052,
   "patheticism": 0.4614170843909727,
   "peanutAllergy": false,
-  "permAttr": [],
+  "permAttr": [
+    "TRIPLE_THREAT"
+  ],
   "pitchingRating": 0.906167788452638,
   "pressurization": 0.501814646990403,
   "ritual": "Swearing an oath",
