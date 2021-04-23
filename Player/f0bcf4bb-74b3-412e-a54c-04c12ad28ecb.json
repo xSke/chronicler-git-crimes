@@ -81,7 +81,9 @@
   "overpowerment": 0.46893592517185023,
   "patheticism": 0.5181574906689393,
   "peanutAllergy": false,
-  "permAttr": [],
+  "permAttr": [
+    "ELSEWHERE"
+  ],
   "pitchingRating": 0.6513156011307035,
   "pressurization": 0.6097971828349589,
   "ritual": "Kissing up to ownership",
@@ -89,7 +91,12 @@
   "seasAttr": [],
   "shakespearianism": 0.5835708637081554,
   "soul": 7,
-  "state": {},
+  "state": {
+    "elsewhere": {
+      "day": 94,
+      "season": 16
+    }
+  },
   "suppression": 1.0060733550215206,
   "tenaciousness": 0.3930154552261812,
   "thwackability": 1.0203690810643449,
