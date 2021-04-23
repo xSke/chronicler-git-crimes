@@ -26,7 +26,7 @@
   "fullName": "Hawai'i Fridays",
   "gameAttr": [],
   "id": "979aee4a-6d80-4863-bf1c-ee1a78e06024",
-  "level": 6,
+  "level": 5,
   "lineup": [
     "9965eed5-086c-4977-9470-fe410f92d353",
     "4ecee7be-93e4-4f04-b114-6b333e0e6408",
@@ -51,7 +51,7 @@
     "3c331c87-1634-46c4-87ce-e4b9c59e2969",
     "a5f8ce83-02b2-498c-9e48-533a1d81aebf"
   ],
-  "rotationSlot": 102,
+  "rotationSlot": 103,
   "seasAttr": [],
   "seasonShames": 3,
   "seasonShamings": 6,

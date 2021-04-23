@@ -31,7 +31,7 @@
   "fullName": "Houston Spies",
   "gameAttr": [],
   "id": "9debc64f-74b7-4ae1-a4d6-fce0144b6ea5",
-  "level": 6,
+  "level": 5,
   "lineup": [
     "d2d76815-cbdc-4c4b-9c9e-32ebf2297cc7",
     "d8ee256f-e3d0-46cb-8c77-b1f88d8c9df9",
@@ -54,7 +54,7 @@
     "7dca7137-b872-46f5-8e59-8c9c996e9d22",
     "fcb08e4f-df3a-446c-ab50-58a496ac5f3f"
   ],
-  "rotationSlot": 99,
+  "rotationSlot": 100,
   "seasAttr": [],
   "seasonShames": 4,
   "seasonShamings": 7,
