@@ -75,7 +75,11 @@
     "sweetener_mod": 1
   },
   "secondaryColor": "#ffaf96",
-  "state": {},
+  "state": {
+    "faxMachine": {
+      "runsNeeded": 20
+    }
+  },
   "teamId": "46358869-dce9-4a01-bfba-ac24fc56f57e",
   "tertiaryColor": "#ffddc4",
   "viscosity": 0.2769749520408473,
