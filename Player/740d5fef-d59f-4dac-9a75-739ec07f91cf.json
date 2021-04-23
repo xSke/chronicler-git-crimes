@@ -62,7 +62,8 @@
   "peanutAllergy": true,
   "permAttr": [
     "SPICY",
-    "SCATTERED"
+    "SCATTERED",
+    "ON_FIRE"
   ],
   "pitchingRating": 0.6121787126393836,
   "pressurization": 0.08034602736685281,
