@@ -55,13 +55,13 @@
   "martyrdom": 1.0949835715537086,
   "moxie": 0.8524144688373523,
   "musclitude": 0.3036764449557637,
-  "name": "Stephanie Winters",
+  "name": "S-ephani- Wi-t---",
   "omniscience": 1.076872636828225,
   "overpowerment": 0.5172577811885188,
   "patheticism": 0.41417125251598474,
   "peanutAllergy": false,
   "permAttr": [
-    "ELSEWHERE"
+    "SCATTERED"
   ],
   "pitchingRating": 0.4819701252819855,
   "pressurization": 0.5473153051552009,
@@ -71,10 +71,7 @@
   "shakespearianism": 0.6811273710646238,
   "soul": 8,
   "state": {
-    "elsewhere": {
-      "day": 56,
-      "season": 16
-    }
+    "unscatteredName": "Stephanie Winters"
   },
   "suppression": 0.6738686876229805,
   "tenaciousness": 0.14013321807675777,
