@@ -48,19 +48,21 @@
     "cbd19e6f-3d08-4734-b23f-585330028665"
   ],
   "rotationSlot": 91,
-  "seasAttr": [],
-  "seasonShames": 8,
+  "seasAttr": [
+    "PARTY_TIME"
+  ],
+  "seasonShames": 9,
   "seasonShamings": 2,
   "secondaryColor": "#5cffec",
-  "shameRuns": 0,
+  "shameRuns": 1,
   "shorthand": "ATL",
   "slogan": "You Sink, We Swim",
   "stadium": "37c2743f-1a15-4e3f-bdb1-a6461df93434",
   "state": {},
   "teamSpirit": 0,
-  "totalShames": 25,
+  "totalShames": 26,
   "totalShamings": 16,
   "tournamentWins": 0,
   "weekAttr": [],
-  "winStreak": 1
+  "winStreak": -1
 }
