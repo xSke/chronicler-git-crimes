@@ -55,13 +55,13 @@
   "martyrdom": 1.0427081844769532,
   "moxie": 0.9163571981295326,
   "musclitude": 0.7923940603455634,
-  "name": "Niq Nyong'o",
+  "name": "N-q -yong'o",
   "omniscience": 0.39673632569970535,
   "overpowerment": 1.1533272539939745,
   "patheticism": 0.17315237132021777,
   "peanutAllergy": false,
   "permAttr": [
-    "ELSEWHERE"
+    "SCATTERED"
   ],
   "pitchingRating": 0.6702341717961172,
   "pressurization": 0.7309416046329924,
@@ -71,10 +71,7 @@
   "shakespearianism": 1.2733361697656502,
   "soul": 4,
   "state": {
-    "elsewhere": {
-      "day": 50,
-      "season": 16
-    }
+    "unscatteredName": "Niq Nyong'o"
   },
   "suppression": 1.0475279857195987,
   "tenaciousness": 0.479433632643241,
