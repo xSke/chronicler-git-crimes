@@ -53,23 +53,17 @@
   "rotationSlot": 94,
   "seasAttr": [],
   "seasonShames": 4,
-  "seasonShamings": 6,
+  "seasonShamings": 7,
   "secondaryColor": "#cd76fa",
   "shameRuns": 0,
   "shorthand": "MIA",
   "slogan": "¡Dale!",
   "stadium": "a0851e18-d5d7-4749-b3c5-c6023fe1cc61",
-  "state": {
-    "gameModSources": {
-      "PARTY_TIME": [
-        "PSYCHOACOUSTICS"
-      ]
-    }
-  },
+  "state": {},
   "teamSpirit": 0,
   "totalShames": 84,
-  "totalShamings": 62,
+  "totalShamings": 63,
   "tournamentWins": 0,
   "weekAttr": [],
-  "winStreak": -2
+  "winStreak": 1
 }
