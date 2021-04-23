@@ -23,7 +23,7 @@
   ],
   "card": 11,
   "championships": 1,
-  "eDensity": 1910.9360307766665,
+  "eDensity": 1938.4394498535232,
   "emoji": "0x1F31E",
   "evolution": 0,
   "fullName": "Hellmouth Sunbeams",
@@ -53,7 +53,7 @@
     "20fd71e7-4fa0-4132-9f47-06a314ed539a",
     "333067fd-c2b4-4045-a9a4-e87a8d0332d0"
   ],
-  "rotationSlot": 89,
+  "rotationSlot": 90,
   "seasAttr": [
     "PARTY_TIME"
   ],
@@ -64,9 +64,7 @@
   "shorthand": "SUN",
   "slogan": "Stare into the Sun...",
   "stadium": "8e900d85-7d4c-47d0-a67f-6432144f0210",
-  "state": {
-    "overflowRuns": 2
-  },
+  "state": {},
   "teamSpirit": 0,
   "totalShames": 85,
   "totalShamings": 68,
