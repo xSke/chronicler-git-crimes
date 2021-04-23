@@ -12,7 +12,7 @@
   "deceased": false,
   "defenseRating": 1.3048720983641893,
   "divinity": 0.771587864433773,
-  "eDensity": 213.4569716933711,
+  "eDensity": 214.11537441155755,
   "evolution": 0,
   "fate": 46,
   "gameAttr": [],
@@ -40,7 +40,7 @@
     "DOUBLE_PAYOUTS",
     "MARKED",
     "ATTRACTOR",
-    "EGO4"
+    "LEGENDARY"
   ],
   "pitchingRating": 0.8620403773685528,
   "pressurization": 0.572681607691041,

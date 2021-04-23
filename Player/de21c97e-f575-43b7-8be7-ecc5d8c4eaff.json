@@ -12,7 +12,7 @@
   "deceased": false,
   "defenseRating": 0.8758989605654517,
   "divinity": 1.1942527846910276,
-  "eDensity": 71.73614460942261,
+  "eDensity": 73.5640569760478,
   "evolution": 0,
   "fate": 71,
   "gameAttr": [],
@@ -63,8 +63,8 @@
   "permAttr": [
     "HONEY_ROASTED",
     "UNCERTAIN",
-    "EGO3",
-    "COFFEE_RALLY"
+    "COFFEE_RALLY",
+    "EGO4"
   ],
   "pitchingRating": 1.3471753949539578,
   "pressurization": 0.3439608525396183,
