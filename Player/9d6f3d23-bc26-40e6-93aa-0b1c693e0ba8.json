@@ -55,13 +55,13 @@
   "martyrdom": 0.07873440710222976,
   "moxie": 0.8306018256183649,
   "musclitude": 0.27346310667445034,
-  "name": "Riley Firewall",
+  "name": "Ri--- F-r-wall",
   "omniscience": 0.7254036574185854,
   "overpowerment": 0.7683590505323956,
   "patheticism": 0.6217580768411348,
   "peanutAllergy": false,
   "permAttr": [
-    "ELSEWHERE"
+    "SCATTERED"
   ],
   "pitchingRating": 0.7464716902858957,
   "pressurization": 0.8931464580044992,
@@ -71,10 +71,7 @@
   "shakespearianism": 0.5040808762248961,
   "soul": 4,
   "state": {
-    "elsewhere": {
-      "day": 79,
-      "season": 16
-    }
+    "unscatteredName": "Riley Firewall"
   },
   "suppression": 0.22296451685619975,
   "tenaciousness": 0.26655980654461126,
