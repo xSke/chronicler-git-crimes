@@ -52,7 +52,9 @@
     "d2a1e734-60d9-4989-b7d9-6eacda70486b"
   ],
   "rotationSlot": 108,
-  "seasAttr": [],
+  "seasAttr": [
+    "PARTY_TIME"
+  ],
   "seasonShames": 7,
   "seasonShamings": 5,
   "secondaryColor": "#58c3b4",
@@ -66,5 +68,5 @@
   "totalShamings": 61,
   "tournamentWins": 0,
   "weekAttr": [],
-  "winStreak": -1
+  "winStreak": -2
 }
