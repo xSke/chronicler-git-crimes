@@ -26,7 +26,7 @@
   "fullName": "Yellowstone Magic",
   "gameAttr": [],
   "id": "7966eb04-efcc-499b-8f03-d13916330531",
-  "level": 6,
+  "level": 5,
   "lineup": [
     "8adb084b-19fe-4295-bcd2-f92afdb62bd7",
     "ac69dba3-6225-4afd-ab4b-23fc78f730fb",
@@ -45,7 +45,7 @@
     "09f2787a-3352-41a6-8810-d80e97b253b5",
     "1af239ae-7e12-42be-9120-feff90453c85"
   ],
-  "rotationSlot": 101,
+  "rotationSlot": 102,
   "seasAttr": [],
   "seasonShames": 1,
   "seasonShamings": 8,

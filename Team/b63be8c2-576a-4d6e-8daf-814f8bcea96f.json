@@ -23,7 +23,9 @@
   "emoji": "0x1F6A4",
   "evolution": 0,
   "fullName": "Miami Dale",
-  "gameAttr": [],
+  "gameAttr": [
+    "PSYCHIC"
+  ],
   "id": "b63be8c2-576a-4d6e-8daf-814f8bcea96f",
   "level": 4,
   "lineup": [
@@ -49,7 +51,7 @@
     "af6b3edc-ed52-4edc-b0c9-14e0a5ae0ee3",
     "889c9ef9-d521-4436-b41c-9021b81b4dfb"
   ],
-  "rotationSlot": 102,
+  "rotationSlot": 103,
   "seasAttr": [],
   "seasonShames": 4,
   "seasonShamings": 7,
@@ -58,7 +60,13 @@
   "shorthand": "MIA",
   "slogan": "¡Dale!",
   "stadium": "a0851e18-d5d7-4749-b3c5-c6023fe1cc61",
-  "state": {},
+  "state": {
+    "gameModSources": {
+      "PSYCHIC": [
+        "PSYCHOACOUSTICS"
+      ]
+    }
+  },
   "teamSpirit": 0,
   "totalShames": 84,
   "totalShamings": 63,
