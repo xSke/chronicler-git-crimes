@@ -27,12 +27,12 @@
   "id": "b63be8c2-576a-4d6e-8daf-814f8bcea96f",
   "level": 4,
   "lineup": [
-    "af6b3edc-ed52-4edc-b0c9-14e0a5ae0ee3",
+    "0eddd056-9d72-4804-bd60-53144b785d5c",
     "80e474a3-7d2b-431d-8192-2f1e27162607",
     "9d6f3d23-bc26-40e6-93aa-0b1c693e0ba8",
-    "0eddd056-9d72-4804-bd60-53144b785d5c",
-    "5a26fc61-d75d-4c01-9ce2-1880ffb5550f",
+    "20be1c34-071d-40c6-8824-dde2af184b4d",
     "006e1d32-9742-48ef-a6ba-36545e93b9e3",
+    "5a26fc61-d75d-4c01-9ce2-1880ffb5550f",
     "c22e3af5-9001-465f-b450-864d7db2b4a0",
     "12577256-bc4e-4955-81d6-b422d895fb12",
     "8903a74f-f322-41d2-bd75-dbf7563c4abb"
@@ -46,10 +46,10 @@
   ],
   "rotation": [
     "a38ada0a-aeac-4a3d-b9a5-968687ccd2f9",
-    "20be1c34-071d-40c6-8824-dde2af184b4d",
+    "af6b3edc-ed52-4edc-b0c9-14e0a5ae0ee3",
     "889c9ef9-d521-4436-b41c-9021b81b4dfb"
   ],
-  "rotationSlot": 101,
+  "rotationSlot": 102,
   "seasAttr": [],
   "seasonShames": 4,
   "seasonShamings": 7,
