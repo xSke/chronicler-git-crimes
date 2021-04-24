@@ -62,7 +62,8 @@
   "peanutAllergy": false,
   "permAttr": [
     "SIPHON",
-    "WALK_IN_THE_PARK"
+    "WALK_IN_THE_PARK",
+    "COFFEE_RALLY"
   ],
   "pitchingRating": 0.465726110385035,
   "pressurization": 0.7418632026108982,
