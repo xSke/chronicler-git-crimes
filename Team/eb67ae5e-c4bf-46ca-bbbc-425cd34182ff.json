@@ -54,12 +54,10 @@
     "8f11ad58-e0b9-465c-9442-f46991274557",
     "3ebb5361-3895-4a50-801e-e7a0ee61750c"
   ],
-  "rotationSlot": 99,
-  "seasAttr": [
-    "PARTY_TIME"
-  ],
-  "seasonShames": 9,
-  "seasonShamings": 4,
+  "rotationSlot": 0,
+  "seasAttr": [],
+  "seasonShames": 0,
+  "seasonShamings": 0,
   "secondaryColor": "#f5feff",
   "shameRuns": 0,
   "shorthand": "CAN",

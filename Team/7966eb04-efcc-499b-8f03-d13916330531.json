@@ -45,12 +45,10 @@
     "09f2787a-3352-41a6-8810-d80e97b253b5",
     "1af239ae-7e12-42be-9120-feff90453c85"
   ],
-  "rotationSlot": 103,
-  "seasAttr": [
-    "PARTY_TIME"
-  ],
-  "seasonShames": 1,
-  "seasonShamings": 8,
+  "rotationSlot": 0,
+  "seasAttr": [],
+  "seasonShames": 0,
+  "seasonShamings": 0,
   "secondaryColor": "#f60f63",
   "shameRuns": 0,
   "shorthand": "YELL",

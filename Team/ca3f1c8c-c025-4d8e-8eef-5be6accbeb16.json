@@ -52,13 +52,10 @@
     "94baa9ac-ff96-4f56-a987-10358e917d91",
     "f4a5d734-0ade-4410-abb6-c0cd5a7a1c26"
   ],
-  "rotationSlot": 105,
-  "seasAttr": [
-    "EXTRA_STRIKE",
-    "PARTY_TIME"
-  ],
-  "seasonShames": 4,
-  "seasonShamings": 2,
+  "rotationSlot": 0,
+  "seasAttr": [],
+  "seasonShames": 0,
+  "seasonShamings": 0,
   "secondaryColor": "#d13757",
   "shameRuns": 0,
   "shorthand": "CHIF",

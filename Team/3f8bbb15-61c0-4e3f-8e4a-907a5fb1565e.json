@@ -54,12 +54,10 @@
     "defbc540-a36d-460b-afd8-07da2375ee63",
     "97dfc1f6-ac94-4cdc-b0d5-1cb9f8984aa5"
   ],
-  "rotationSlot": 99,
-  "seasAttr": [
-    "PARTY_TIME"
-  ],
-  "seasonShames": 10,
-  "seasonShamings": 2,
+  "rotationSlot": 0,
+  "seasAttr": [],
+  "seasonShames": 0,
+  "seasonShamings": 0,
   "secondaryColor": "#f7d1ff",
   "shameRuns": 0,
   "shorthand": "BOF",

@@ -51,12 +51,10 @@
     "80dff591-2393-448a-8d88-122bd424fa4c",
     "d2a1e734-60d9-4989-b7d9-6eacda70486b"
   ],
-  "rotationSlot": 108,
-  "seasAttr": [
-    "PARTY_TIME"
-  ],
-  "seasonShames": 7,
-  "seasonShamings": 5,
+  "rotationSlot": 0,
+  "seasAttr": [],
+  "seasonShames": 0,
+  "seasonShamings": 0,
   "secondaryColor": "#58c3b4",
   "shameRuns": 0,
   "shorthand": "PHIL",

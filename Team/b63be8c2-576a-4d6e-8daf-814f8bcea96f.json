@@ -49,12 +49,10 @@
     "af6b3edc-ed52-4edc-b0c9-14e0a5ae0ee3",
     "889c9ef9-d521-4436-b41c-9021b81b4dfb"
   ],
-  "rotationSlot": 106,
-  "seasAttr": [
-    "PARTY_TIME"
-  ],
-  "seasonShames": 4,
-  "seasonShamings": 7,
+  "rotationSlot": 0,
+  "seasAttr": [],
+  "seasonShames": 0,
+  "seasonShamings": 0,
   "secondaryColor": "#cd76fa",
   "shameRuns": 0,
   "shorthand": "MIA",

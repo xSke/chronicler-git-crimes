@@ -48,12 +48,10 @@
     "7663c3ca-40a1-4f13-a430-14637dce797a",
     "f2a27a7e-bf04-4d31-86f5-16bfa3addbe7"
   ],
-  "rotationSlot": 100,
-  "seasAttr": [
-    "PARTY_TIME"
-  ],
-  "seasonShames": 4,
-  "seasonShamings": 4,
+  "rotationSlot": 0,
+  "seasAttr": [],
+  "seasonShames": 0,
+  "seasonShamings": 0,
   "secondaryColor": "#178f55",
   "shameRuns": 0,
   "shorthand": "KCBM",

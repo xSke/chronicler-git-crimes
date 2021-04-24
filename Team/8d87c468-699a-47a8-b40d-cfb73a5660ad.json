@@ -52,12 +52,10 @@
     "d0d7b8fe-bad8-481f-978e-cb659304ed49",
     "f9930cb1-7ed2-4b9a-bf4f-7e35f2586d71"
   ],
-  "rotationSlot": 99,
-  "seasAttr": [
-    "PARTY_TIME"
-  ],
-  "seasonShames": 7,
-  "seasonShamings": 2,
+  "rotationSlot": 0,
+  "seasAttr": [],
+  "seasonShames": 0,
+  "seasonShamings": 0,
   "secondaryColor": "#b05c6b",
   "shameRuns": 0,
   "shorthand": "BALC",

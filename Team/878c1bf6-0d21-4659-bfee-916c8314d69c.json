@@ -23,7 +23,7 @@
     "ecffa9aa-45a6-4997-a0a1-89925d89f3b6"
   ],
   "card": 6,
-  "championships": 0,
+  "championships": 1,
   "eDensity": 2095.9177942108645,
   "emoji": "0x1F32E",
   "evolution": 0,
@@ -51,10 +51,10 @@
     "d81ce662-07b6-4a73-baa4-acbbb41f9dc5",
     "691f9ab2-9dd4-42e8-bf95-9fd01253c801"
   ],
-  "rotationSlot": 109,
+  "rotationSlot": 0,
   "seasAttr": [],
-  "seasonShames": 10,
-  "seasonShamings": 2,
+  "seasonShames": 0,
+  "seasonShamings": 0,
   "secondaryColor": "#b063c1",
   "shameRuns": 0,
   "shorthand": "LATA",
@@ -63,7 +63,7 @@
   "state": {},
   "teamSpirit": 0,
   "totalShames": 103,
-  "totalShamings": 58,
+  "totalShamings": 59,
   "tournamentWins": 0,
   "weekAttr": [],
   "winStreak": 1

@@ -48,12 +48,10 @@
     "7007cbd3-7c7b-44fd-9d6b-393e82b1c06e",
     "089af518-e27c-4256-adc8-62e3f4b30f43"
   ],
-  "rotationSlot": 99,
-  "seasAttr": [
-    "PARTY_TIME"
-  ],
-  "seasonShames": 4,
-  "seasonShamings": 7,
+  "rotationSlot": 0,
+  "seasAttr": [],
+  "seasonShames": 0,
+  "seasonShamings": 0,
   "secondaryColor": "#ee6300",
   "shameRuns": 0,
   "shorthand": "MCWW",

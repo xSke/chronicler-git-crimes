@@ -52,20 +52,20 @@
     "3c331c87-1634-46c4-87ce-e4b9c59e2969",
     "a5f8ce83-02b2-498c-9e48-533a1d81aebf"
   ],
-  "rotationSlot": 114,
+  "rotationSlot": 0,
   "seasAttr": [],
-  "seasonShames": 3,
-  "seasonShamings": 6,
+  "seasonShames": 0,
+  "seasonShamings": 0,
   "secondaryColor": "#3ee652",
-  "shameRuns": 0,
+  "shameRuns": 1,
   "shorthand": "HF",
   "slogan": "It's Island Time!",
   "stadium": "e7431679-a45e-408f-92a8-a4db422c4925",
   "state": {},
   "teamSpirit": 0,
-  "totalShames": 69,
+  "totalShames": 70,
   "totalShamings": 72,
   "tournamentWins": 0,
   "weekAttr": [],
-  "winStreak": -2
+  "winStreak": -3
 }
