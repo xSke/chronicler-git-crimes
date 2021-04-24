@@ -29,7 +29,7 @@
       "durability": 1,
       "forger": null,
       "forgerName": null,
-      "health": 1,
+      "health": 0,
       "hittingRating": 0.07018474926307894,
       "id": "611e9b15-2581-42e9-a544-645ca76b1a89",
       "name": "Bat",
@@ -61,7 +61,8 @@
   "patheticism": 0.42767052687882817,
   "peanutAllergy": false,
   "permAttr": [
-    "OVERUNDER"
+    "OVERUNDER",
+    "UNDERPERFORMING"
   ],
   "pitchingRating": 1.2044163158272423,
   "pressurization": 0.938320263049088,
@@ -71,7 +72,11 @@
   "shakespearianism": 0.9922261489535772,
   "soul": 8,
   "state": {
-    "permModSources": {}
+    "permModSources": {
+      "UNDERPERFORMING": [
+        "OVERUNDER"
+      ]
+    }
   },
   "suppression": 0.9140916956318438,
   "tenaciousness": 1.3579671197692833,
