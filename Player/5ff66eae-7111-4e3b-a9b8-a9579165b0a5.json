@@ -1,14 +1,14 @@
 {
   "anticapitalism": 0.4991938005962541,
-  "baseThirst": 0.2647271733059932,
-  "baserunningRating": 0.2648180601504011,
+  "baseThirst": 0.3647271733059933,
+  "baserunningRating": 0.39194438440925383,
   "blood": 5,
   "buoyancy": 0.14059162787866306,
   "chasiness": 0.7546484948616266,
   "cinnamon": 0.7234934128681174,
   "coffee": 9,
   "coldness": 0.4101150093883937,
-  "continuation": 0.7460225504937954,
+  "continuation": 0.8460225504937954,
   "deceased": false,
   "defenseRating": 0.6777892237997682,
   "divinity": 0.6384537062996876,
@@ -16,11 +16,11 @@
   "evolution": 0,
   "fate": 37,
   "gameAttr": [],
-  "groundFriction": 0.768004225991114,
+  "groundFriction": 0.8680042259911139,
   "hitStreak": 0,
   "hittingRating": 0.7433678979098125,
   "id": "5ff66eae-7111-4e3b-a9b8-a9579165b0a5",
-  "indulgence": 0.663925221431516,
+  "indulgence": 0.763925221431516,
   "itemAttr": [],
   "items": [
     {
@@ -50,7 +50,7 @@
       "suffix": null
     }
   ],
-  "laserlikeness": 0.11099120053287588,
+  "laserlikeness": 0.21099120053287587,
   "leagueTeamId": "ca3f1c8c-c025-4d8e-8eef-5be6accbeb16",
   "martyrdom": 0.24371979083114773,
   "moxie": 0.5702023124540337,
