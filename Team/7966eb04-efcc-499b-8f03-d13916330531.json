@@ -26,7 +26,7 @@
   "fullName": "Yellowstone Magic",
   "gameAttr": [],
   "id": "7966eb04-efcc-499b-8f03-d13916330531",
-  "level": 5,
+  "level": 6,
   "lineup": [
     "8adb084b-19fe-4295-bcd2-f92afdb62bd7",
     "ac69dba3-6225-4afd-ab4b-23fc78f730fb",
@@ -46,7 +46,9 @@
     "1af239ae-7e12-42be-9120-feff90453c85"
   ],
   "rotationSlot": 103,
-  "seasAttr": [],
+  "seasAttr": [
+    "PARTY_TIME"
+  ],
   "seasonShames": 1,
   "seasonShamings": 8,
   "secondaryColor": "#f60f63",
@@ -60,5 +62,5 @@
   "totalShamings": 77,
   "tournamentWins": 0,
   "weekAttr": [],
-  "winStreak": -2
+  "winStreak": -3
 }

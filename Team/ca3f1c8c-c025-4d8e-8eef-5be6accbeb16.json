@@ -22,7 +22,7 @@
   ],
   "card": 13,
   "championships": 1,
-  "eDensity": 2417.0838829686427,
+  "eDensity": 2418.4568850873484,
   "emoji": "0x1F525",
   "evolution": 0,
   "fullName": "Chicago Firefighters",
@@ -54,7 +54,8 @@
   ],
   "rotationSlot": 105,
   "seasAttr": [
-    "EXTRA_STRIKE"
+    "EXTRA_STRIKE",
+    "PARTY_TIME"
   ],
   "seasonShames": 4,
   "seasonShamings": 2,
@@ -69,5 +70,5 @@
   "totalShamings": 70,
   "tournamentWins": 0,
   "weekAttr": [],
-  "winStreak": -2
+  "winStreak": -3
 }
