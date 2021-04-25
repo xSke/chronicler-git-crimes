@@ -24,6 +24,40 @@
   "itemAttr": [],
   "items": [
     {
+      "baserunningRating": 0,
+      "defenseRating": 0,
+      "durability": 3,
+      "forger": null,
+      "forgerName": null,
+      "health": 3,
+      "hittingRating": 0.01625079864211232,
+      "id": "b02077b0-13a3-4bc0-8c17-9118da3517d7",
+      "name": "Rock Jersey",
+      "pitchingRating": 0,
+      "postPrefix": {
+        "adjustments": [
+          {
+            "type": 3,
+            "value": 1
+          }
+        ],
+        "name": "Rock"
+      },
+      "prePrefix": null,
+      "prefixes": null,
+      "root": {
+        "adjustments": [
+          {
+            "stat": 5,
+            "type": 1,
+            "value": 0.16133389005800702
+          }
+        ],
+        "name": "Jersey"
+      },
+      "suffix": null
+    },
+    {
       "baserunningRating": 0.0034534273672801596,
       "defenseRating": 0,
       "durability": 2,

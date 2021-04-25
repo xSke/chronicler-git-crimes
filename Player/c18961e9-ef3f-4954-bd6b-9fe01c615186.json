@@ -25,6 +25,40 @@
   "items": [
     {
       "baserunningRating": 0,
+      "defenseRating": 0,
+      "durability": 3,
+      "forger": null,
+      "forgerName": null,
+      "health": 3,
+      "hittingRating": 0,
+      "id": "39663fd2-a0fb-49e5-8b5b-c5b41a8d4b82",
+      "name": "Rock Sunglasses",
+      "pitchingRating": 0,
+      "postPrefix": {
+        "adjustments": [
+          {
+            "type": 3,
+            "value": 1
+          }
+        ],
+        "name": "Rock"
+      },
+      "prePrefix": null,
+      "prefixes": null,
+      "root": {
+        "adjustments": [
+          {
+            "stat": 8,
+            "type": 1,
+            "value": 0.15311897081205195
+          }
+        ],
+        "name": "Sunglasses"
+      },
+      "suffix": null
+    },
+    {
+      "baserunningRating": 0,
       "defenseRating": -0.09373669520361122,
       "durability": 2,
       "forger": null,
@@ -69,36 +103,10 @@
         "name": "Sunglasses"
       },
       "suffix": null
-    },
-    {
-      "baserunningRating": 0,
-      "defenseRating": 0,
-      "durability": 1,
-      "forger": null,
-      "forgerName": null,
-      "health": 0,
-      "hittingRating": 0.038447505233901225,
-      "id": "71de890f-cb03-40c2-8c5a-29e18d0dbffa",
-      "name": "Bat",
-      "pitchingRating": 0,
-      "postPrefix": null,
-      "prePrefix": null,
-      "prefixes": null,
-      "root": {
-        "adjustments": [
-          {
-            "stat": 2,
-            "type": 1,
-            "value": 0.1158442704383897
-          }
-        ],
-        "name": "Bat"
-      },
-      "suffix": null
     }
   ],
   "laserlikeness": 0.6247027783265481,
-  "leagueTeamId": "eb67ae5e-c4bf-46ca-bbbc-425cd34182ff",
+  "leagueTeamId": "ca3f1c8c-c025-4d8e-8eef-5be6accbeb16",
   "martyrdom": 0.1392524090474094,
   "moxie": 0.3209269739056197,
   "musclitude": 0.45296172317256617,

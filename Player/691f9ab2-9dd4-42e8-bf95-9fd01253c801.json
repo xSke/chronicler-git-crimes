@@ -30,6 +30,32 @@
       "forger": null,
       "forgerName": null,
       "health": 1,
+      "hittingRating": 0.0031288242603680627,
+      "id": "b83f20d5-623f-4212-b536-0f9561d17bd3",
+      "name": "Jersey",
+      "pitchingRating": 0,
+      "postPrefix": null,
+      "prePrefix": null,
+      "prefixes": null,
+      "root": {
+        "adjustments": [
+          {
+            "stat": 5,
+            "type": 1,
+            "value": 0.13813335400040738
+          }
+        ],
+        "name": "Jersey"
+      },
+      "suffix": null
+    },
+    {
+      "baserunningRating": 0,
+      "defenseRating": 0,
+      "durability": 1,
+      "forger": null,
+      "forgerName": null,
+      "health": 1,
       "hittingRating": 0.01560257152944225,
       "id": "100efad2-cd67-446f-830b-2a6c0aef3451",
       "name": "Bat",
@@ -51,7 +77,7 @@
     }
   ],
   "laserlikeness": 0.3548335190872882,
-  "leagueTeamId": "878c1bf6-0d21-4659-bfee-916c8314d69c",
+  "leagueTeamId": "d9f89a8a-c563-493e-9d64-78e4f9a55d4a",
   "martyrdom": 0.7192102111420118,
   "moxie": 0.1109440649731927,
   "musclitude": 0.6340206717267778,

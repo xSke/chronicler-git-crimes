@@ -24,48 +24,43 @@
   "itemAttr": [],
   "items": [
     {
-      "baserunningRating": 0.017713925096929317,
-      "defenseRating": 0.18642152188661715,
+      "baserunningRating": 0,
+      "defenseRating": 0,
       "durability": 2,
       "forger": null,
       "forgerName": null,
-      "health": 0,
-      "hittingRating": 0,
-      "id": "8938818d-6cad-441b-b528-acb3f9c2daa9",
-      "name": "Ring of Wisdom",
-      "pitchingRating": 0.04992898760593012,
+      "health": 2,
+      "hittingRating": 0.008280204605455976,
+      "id": "d27a1a86-5826-41a4-8265-2fa1dee775fe",
+      "name": "Sunglasses of Strength",
+      "pitchingRating": 0.014200182334595524,
       "postPrefix": null,
       "prePrefix": null,
       "prefixes": null,
       "root": {
         "adjustments": [
           {
-            "stat": 19,
+            "stat": 8,
             "type": 1,
-            "value": 0.19347671145630063
+            "value": 0.15052498243013696
           }
         ],
-        "name": "Ring"
+        "name": "Sunglasses"
       },
       "suffix": {
         "adjustments": [
           {
-            "stat": 21,
+            "stat": 5,
             "type": 1,
-            "value": 0.11159471888308337
+            "value": 0.1340651707483825
           },
           {
-            "stat": 23,
+            "stat": 18,
             "type": 1,
-            "value": 0.122962517586898
-          },
-          {
-            "stat": 12,
-            "type": 1,
-            "value": 0.18530977950477903
+            "value": 0.16899228472093675
           }
         ],
-        "name": "Wisdom"
+        "name": "Strength"
       }
     }
   ],

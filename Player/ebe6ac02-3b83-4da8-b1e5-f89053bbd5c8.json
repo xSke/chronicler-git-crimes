@@ -21,8 +21,46 @@
   "hittingRating": 0.43697239525517095,
   "id": "ebe6ac02-3b83-4da8-b1e5-f89053bbd5c8",
   "indulgence": 0.3099374865799789,
-  "itemAttr": [],
+  "itemAttr": [
+    "CHUNKY"
+  ],
   "items": [
+    {
+      "baserunningRating": 0,
+      "defenseRating": 0,
+      "durability": 2,
+      "forger": null,
+      "forgerName": null,
+      "health": 2,
+      "hittingRating": 0.0051096753528094285,
+      "id": "15380f4b-81b2-440c-941e-a0245afcb124",
+      "name": "Chunky Jersey",
+      "pitchingRating": 0,
+      "postPrefix": null,
+      "prePrefix": null,
+      "prefixes": [
+        {
+          "adjustments": [
+            {
+              "mod": "CHUNKY",
+              "type": 0
+            }
+          ],
+          "name": "Chunky"
+        }
+      ],
+      "root": {
+        "adjustments": [
+          {
+            "stat": 5,
+            "type": 1,
+            "value": 0.13296108858810415
+          }
+        ],
+        "name": "Jersey"
+      },
+      "suffix": null
+    },
     {
       "baserunningRating": 0,
       "defenseRating": 0,
@@ -68,7 +106,13 @@
   "seasAttr": [],
   "shakespearianism": 0.4790534372145282,
   "soul": 8,
-  "state": {},
+  "state": {
+    "itemModSources": {
+      "CHUNKY": [
+        "15380f4b-81b2-440c-941e-a0245afcb124"
+      ]
+    }
+  },
   "suppression": 0.7131677084848361,
   "tenaciousness": 0.7779264182340899,
   "thwackability": 0.38331982629900496,

@@ -21,31 +21,57 @@
   "hittingRating": 0.7018639436298403,
   "id": "f3ddfd87-73a2-4681-96fe-829476c97886",
   "indulgence": 0.6489341733382323,
-  "itemAttr": [],
+  "itemAttr": [
+    "TRAVELING"
+  ],
   "items": [
     {
       "baserunningRating": 0,
-      "defenseRating": 0,
-      "durability": 1,
+      "defenseRating": 0.01935250159545948,
+      "durability": 3,
       "forger": null,
       "forgerName": null,
-      "health": 0,
-      "hittingRating": 0.04896623052501681,
-      "id": "319c4b24-b3b8-469a-a28c-71c87784ed88",
-      "name": "Bat",
+      "health": 3,
+      "hittingRating": 0.037790496925674266,
+      "id": "7540f9f2-9a2e-4d6c-8506-5a0b58d1ff57",
+      "name": "Travelling Head Jersey",
       "pitchingRating": 0,
-      "postPrefix": null,
+      "postPrefix": {
+        "adjustments": [
+          {
+            "stat": 3,
+            "type": 1,
+            "value": 0.14129141442584253
+          },
+          {
+            "stat": 21,
+            "type": 1,
+            "value": 0.158040706522385
+          }
+        ],
+        "name": "Head"
+      },
       "prePrefix": null,
-      "prefixes": null,
+      "prefixes": [
+        {
+          "adjustments": [
+            {
+              "mod": "TRAVELING",
+              "type": 0
+            }
+          ],
+          "name": "Travelling"
+        }
+      ],
       "root": {
         "adjustments": [
           {
-            "stat": 2,
+            "stat": 5,
             "type": 1,
-            "value": 0.13597542637280197
+            "value": 0.15091206948733366
           }
         ],
-        "name": "Bat"
+        "name": "Jersey"
       },
       "suffix": null
     }
@@ -70,7 +96,13 @@
   "seasAttr": [],
   "shakespearianism": 0.18794498830763723,
   "soul": 6,
-  "state": {},
+  "state": {
+    "itemModSources": {
+      "TRAVELING": [
+        "7540f9f2-9a2e-4d6c-8506-5a0b58d1ff57"
+      ]
+    }
+  },
   "suppression": 0.14311919828177155,
   "tenaciousness": 0.05005799312116018,
   "thwackability": 0.6436544222950773,

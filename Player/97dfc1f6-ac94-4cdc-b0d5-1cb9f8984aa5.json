@@ -57,13 +57,13 @@
   "musclitude": 0.34990627899382865,
   "name": "Brock Forbes",
   "omniscience": 0.9073490142209668,
-  "overpowerment": 0.4904764563002208,
+  "overpowerment": 0.8904764563002208,
   "patheticism": 0.1597208118765192,
   "peanutAllergy": false,
   "permAttr": [
     "WILD"
   ],
-  "pitchingRating": 0.9259065818635,
+  "pitchingRating": 0.911133860378356,
   "pressurization": 0.49843552394620527,
   "ritual": "Playing fetch",
   "ruthlessness": 1.1967478109304417,
@@ -77,7 +77,7 @@
   "totalFingers": 14,
   "tournamentTeamId": null,
   "tragicness": 0.001,
-  "unthwackability": 1.0510196025292269,
+  "unthwackability": 0.8510196025292269,
   "watchfulness": 0.3546429777814785,
   "weekAttr": []
 }

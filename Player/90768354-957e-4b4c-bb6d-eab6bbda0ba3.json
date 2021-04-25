@@ -29,20 +29,12 @@
       "durability": 2,
       "forger": null,
       "forgerName": null,
-      "health": 0,
-      "hittingRating": 0.02676480290619776,
-      "id": "92fce679-944f-43d6-88ba-8344ca47cfa2",
-      "name": "Inflatable Plastic Bat",
-      "pitchingRating": -0.01241430456160464,
-      "postPrefix": {
-        "adjustments": [
-          {
-            "type": 3,
-            "value": -1
-          }
-        ],
-        "name": "Plastic"
-      },
+      "health": 2,
+      "hittingRating": 0.01170488080888754,
+      "id": "fc59ce8b-9b08-4049-a990-a4174afd82f5",
+      "name": "Inflatable Necklace",
+      "pitchingRating": -0.011579912196247544,
+      "postPrefix": null,
       "prePrefix": null,
       "prefixes": [
         {
@@ -50,17 +42,17 @@
             {
               "stat": 1,
               "type": 1,
-              "value": 0.21746986414386116
+              "value": 0.2253335621444967
             },
             {
               "stat": 18,
               "type": 1,
-              "value": -0.06658648450619205
+              "value": -0.06228925211034911
             },
             {
               "stat": 6,
               "type": 1,
-              "value": 0.08566300696034593
+              "value": 0.10271223818480628
             }
           ],
           "name": "Inflatable"
@@ -69,12 +61,12 @@
       "root": {
         "adjustments": [
           {
-            "stat": 2,
+            "stat": 3,
             "type": 1,
-            "value": 0.1277887422102491
+            "value": 0.11571796579920736
           }
         ],
-        "name": "Bat"
+        "name": "Necklace"
       },
       "suffix": null
     }

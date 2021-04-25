@@ -2,7 +2,7 @@
   "anticapitalism": 0.7382523313971773,
   "baseThirst": 0.6272170441063764,
   "baserunningRating": 0.6739566589675456,
-  "blood": 4,
+  "blood": 3,
   "buoyancy": 1.1923074407413492,
   "chasiness": 0.2617974327396124,
   "cinnamon": 0.887759530762145,
@@ -51,19 +51,19 @@
     }
   ],
   "laserlikeness": 0.5541652257649426,
-  "leagueTeamId": "8d87c468-699a-47a8-b40d-cfb73a5660ad",
+  "leagueTeamId": "878c1bf6-0d21-4659-bfee-916c8314d69c",
   "martyrdom": 0.7633142292007002,
   "moxie": 0.870999389441883,
   "musclitude": 0.8447803089834687,
   "name": "Fish Summer",
   "omniscience": 0.15492516264742617,
-  "overpowerment": 0.5132270027069166,
+  "overpowerment": 0.31322700270691656,
   "patheticism": 0.001,
   "peanutAllergy": false,
   "permAttr": [
     "FIRE_EATER"
   ],
-  "pitchingRating": 0.1733876940477766,
+  "pitchingRating": 0.344182158951637,
   "pressurization": 0.7609978072552137,
   "ritual": "Having an epiphany",
   "ruthlessness": 0.3146960738671203,
@@ -77,7 +77,7 @@
   "totalFingers": 10,
   "tournamentTeamId": "9e42c12a-7561-42a2-b2d0-7cf81a817a5e",
   "tragicness": 0.001,
-  "unthwackability": 0.11205834031198886,
+  "unthwackability": 0.5120583403119889,
   "watchfulness": 0.21599660539497997,
   "weekAttr": []
 }

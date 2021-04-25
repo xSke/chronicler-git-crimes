@@ -29,10 +29,10 @@
       "durability": 1,
       "forger": null,
       "forgerName": null,
-      "health": 0,
-      "hittingRating": 0.03627680474899886,
-      "id": "b7df141a-7d2e-400f-87b9-296748d28d44",
-      "name": "Bat",
+      "health": 1,
+      "hittingRating": 0,
+      "id": "f8d9274e-117b-483e-81e5-0c479839d31c",
+      "name": "Sunglasses",
       "pitchingRating": 0,
       "postPrefix": null,
       "prePrefix": null,
@@ -40,12 +40,12 @@
       "root": {
         "adjustments": [
           {
-            "stat": 2,
+            "stat": 8,
             "type": 1,
-            "value": 0.13311986487215777
+            "value": 0.14861718801302298
           }
         ],
-        "name": "Bat"
+        "name": "Sunglasses"
       },
       "suffix": null
     }

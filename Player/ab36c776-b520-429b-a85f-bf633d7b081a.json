@@ -29,10 +29,10 @@
       "durability": 1,
       "forger": null,
       "forgerName": null,
-      "health": 0,
-      "hittingRating": 0.03342775493105865,
-      "id": "a0d89e28-b1e9-4e19-9fcd-0efc30e2e1e3",
-      "name": "Bat",
+      "health": 1,
+      "hittingRating": 0.013294759954991188,
+      "id": "0326d82c-6144-4c05-b568-01ff62a4e41c",
+      "name": "Necklace",
       "pitchingRating": 0,
       "postPrefix": null,
       "prePrefix": null,
@@ -40,18 +40,18 @@
       "root": {
         "adjustments": [
           {
-            "stat": 2,
+            "stat": 3,
             "type": 1,
-            "value": 0.1229540419395104
+            "value": 0.11788632276361836
           }
         ],
-        "name": "Bat"
+        "name": "Necklace"
       },
       "suffix": null
     }
   ],
   "laserlikeness": 0.36378969844915354,
-  "leagueTeamId": "ca3f1c8c-c025-4d8e-8eef-5be6accbeb16",
+  "leagueTeamId": "eb67ae5e-c4bf-46ca-bbbc-425cd34182ff",
   "martyrdom": 0.8047526975054573,
   "moxie": 0.4401340309870821,
   "musclitude": 0.847116475038679,

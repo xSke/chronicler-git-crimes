@@ -22,7 +22,34 @@
   "id": "667cb445-c288-4e62-b603-27291c1e475d",
   "indulgence": 0.8483076429872157,
   "itemAttr": [],
-  "items": [],
+  "items": [
+    {
+      "baserunningRating": 0,
+      "defenseRating": 0,
+      "durability": 1,
+      "forger": null,
+      "forgerName": null,
+      "health": 1,
+      "hittingRating": 0,
+      "id": "10b03965-28c2-4a85-ab9c-89c3a98cca17",
+      "name": "Ring",
+      "pitchingRating": 0.04583056212695702,
+      "postPrefix": null,
+      "prePrefix": null,
+      "prefixes": null,
+      "root": {
+        "adjustments": [
+          {
+            "stat": 19,
+            "type": 1,
+            "value": 0.1136857639763078
+          }
+        ],
+        "name": "Ring"
+      },
+      "suffix": null
+    }
+  ],
   "laserlikeness": 0.6188057697311512,
   "leagueTeamId": "23e4cbc1-e9cd-47fa-a35b-bfa06f726cb7",
   "martyrdom": 0.5581811917368732,

@@ -24,30 +24,79 @@
   "itemAttr": [],
   "items": [
     {
-      "baserunningRating": 0,
-      "defenseRating": 0,
-      "durability": 1,
+      "baserunningRating": 0.113220493939876,
+      "defenseRating": 0.08944316296021804,
+      "durability": 4,
       "forger": null,
       "forgerName": null,
-      "health": 1,
-      "hittingRating": 0.049964998177783326,
-      "id": "cc9ccb97-5817-41c1-bd48-0f7e24087e6b",
-      "name": "Bat",
+      "health": 4,
+      "hittingRating": 0.06410442516055215,
+      "id": "2a0e7fcd-5b1d-40e1-b4b2-a47b2032fe88",
+      "name": "Passionate Leg Necklace of Dexterity",
       "pitchingRating": 0,
-      "postPrefix": null,
+      "postPrefix": {
+        "adjustments": [
+          {
+            "stat": 10,
+            "type": 1,
+            "value": 0.11695048683405795
+          },
+          {
+            "stat": 25,
+            "type": 1,
+            "value": 0.14950467434766074
+          }
+        ],
+        "name": "Leg"
+      },
       "prePrefix": null,
-      "prefixes": null,
+      "prefixes": [
+        {
+          "adjustments": [
+            {
+              "stat": 9,
+              "type": 1,
+              "value": 0.1634555110868538
+            },
+            {
+              "stat": 11,
+              "type": 1,
+              "value": 0.18861350416948416
+            }
+          ],
+          "name": "Passionate"
+        }
+      ],
       "root": {
+        "adjustments": [
+          {
+            "stat": 3,
+            "type": 1,
+            "value": 0.18507697758627611
+          }
+        ],
+        "name": "Necklace"
+      },
+      "suffix": {
         "adjustments": [
           {
             "stat": 2,
             "type": 1,
-            "value": 0.13034337576762772
+            "value": 0.12579358656658574
+          },
+          {
+            "stat": 21,
+            "type": 1,
+            "value": 0.15108066105693052
+          },
+          {
+            "stat": 11,
+            "type": 1,
+            "value": 0.17062900606599796
           }
         ],
-        "name": "Bat"
-      },
-      "suffix": null
+        "name": "Dexterity"
+      }
     }
   ],
   "laserlikeness": 0.9461002484609276,

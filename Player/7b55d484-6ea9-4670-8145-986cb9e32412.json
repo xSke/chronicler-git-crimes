@@ -24,28 +24,63 @@
   "itemAttr": [],
   "items": [
     {
-      "baserunningRating": 0,
+      "baserunningRating": -0.007054241267817285,
       "defenseRating": 0,
-      "durability": 1,
+      "durability": 3,
       "forger": null,
       "forgerName": null,
-      "health": 1,
-      "hittingRating": 0.04816825164542615,
-      "id": "68613ddb-706d-44c4-bcd0-669debec655e",
-      "name": "Bat",
-      "pitchingRating": 0,
-      "postPrefix": null,
+      "health": 3,
+      "hittingRating": 0.05019696328204548,
+      "id": "f413b608-6808-4c40-83b3-70f779fc6f63",
+      "name": "Smokey Blood Sunglasses",
+      "pitchingRating": 0.04058176621024412,
+      "postPrefix": {
+        "adjustments": [
+          {
+            "stat": 7,
+            "type": 1,
+            "value": 0.17870896695127642
+          },
+          {
+            "stat": 9,
+            "type": 1,
+            "value": -0.08788983319482335
+          },
+          {
+            "stat": 4,
+            "type": 1,
+            "value": 0.17881812151630205
+          }
+        ],
+        "name": "Blood"
+      },
       "prePrefix": null,
-      "prefixes": null,
+      "prefixes": [
+        {
+          "adjustments": [
+            {
+              "stat": 19,
+              "type": 1,
+              "value": 0.16890420755071228
+            },
+            {
+              "stat": 0,
+              "type": 1,
+              "value": 0.1350552714199155
+            }
+          ],
+          "name": "Smokey"
+        }
+      ],
       "root": {
         "adjustments": [
           {
-            "stat": 2,
+            "stat": 8,
             "type": 1,
-            "value": 0.13174809367621548
+            "value": 0.1882729282835248
           }
         ],
-        "name": "Bat"
+        "name": "Sunglasses"
       },
       "suffix": null
     }

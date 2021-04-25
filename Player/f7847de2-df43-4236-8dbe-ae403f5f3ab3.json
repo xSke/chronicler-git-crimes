@@ -24,25 +24,65 @@
   "itemAttr": [],
   "items": [
     {
-      "baserunningRating": 0,
-      "defenseRating": 0,
-      "durability": 1,
+      "baserunningRating": -0.006056316866438816,
+      "defenseRating": 0.081448972631459,
+      "durability": 3,
       "forger": null,
       "forgerName": null,
-      "health": 1,
-      "hittingRating": 0.052798362616640504,
-      "id": "3c3e985d-853a-4e09-84ec-9727a5a80482",
-      "name": "Bat",
+      "health": 3,
+      "hittingRating": 0.04191409984568151,
+      "id": "eb60c65d-4a79-41b1-9e6d-aaf389e8f742",
+      "name": "Slimy Leg Bat",
       "pitchingRating": 0,
-      "postPrefix": null,
+      "postPrefix": {
+        "adjustments": [
+          {
+            "stat": 10,
+            "type": 1,
+            "value": 0.11847553108171416
+          },
+          {
+            "stat": 25,
+            "type": 1,
+            "value": 0.13643645353328182
+          }
+        ],
+        "name": "Leg"
+      },
       "prePrefix": null,
-      "prefixes": null,
+      "prefixes": [
+        {
+          "adjustments": [
+            {
+              "stat": 10,
+              "type": 1,
+              "value": -0.12698974589500617
+            },
+            {
+              "stat": 23,
+              "type": 1,
+              "value": 0.13932618939696237
+            },
+            {
+              "stat": 21,
+              "type": 1,
+              "value": 0.1170298214005082
+            },
+            {
+              "stat": 22,
+              "type": 1,
+              "value": 0.13330004336526569
+            }
+          ],
+          "name": "Slimy"
+        }
+      ],
       "root": {
         "adjustments": [
           {
             "stat": 2,
             "type": 1,
-            "value": 0.14295680508024314
+            "value": 0.11230645614473728
           }
         ],
         "name": "Bat"

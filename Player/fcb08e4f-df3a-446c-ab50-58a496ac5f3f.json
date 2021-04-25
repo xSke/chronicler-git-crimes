@@ -1,16 +1,16 @@
 {
-  "anticapitalism": 0.9039631057798606,
+  "anticapitalism": 0.8293014466727207,
   "baseThirst": 0.31108250805150456,
   "baserunningRating": 0.2487269648195593,
   "blood": 11,
   "buoyancy": 0.5225451304240065,
-  "chasiness": 0.9734695120429128,
+  "chasiness": 0.933471564312876,
   "cinnamon": 0.3987067310057121,
   "coffee": 8,
-  "coldness": 0.8423538305460065,
+  "coldness": 1.108024138277651,
   "continuation": 0.9655238997823146,
   "deceased": false,
-  "defenseRating": 0.5808502362059706,
+  "defenseRating": 0.5316205628547628,
   "divinity": 0.30459699746924984,
   "eDensity": 19.70700875317956,
   "evolution": 0,
@@ -25,29 +25,84 @@
   "items": [
     {
       "baserunningRating": 0,
-      "defenseRating": 0,
-      "durability": 1,
+      "defenseRating": 0.036159375717386255,
+      "durability": 4,
       "forger": null,
       "forgerName": null,
-      "health": 0,
-      "hittingRating": 0.06387677350234283,
-      "id": "81f4a915-886c-4169-a9fc-991a3622cbde",
-      "name": "Bat",
-      "pitchingRating": 0,
+      "health": 4,
+      "hittingRating": null,
+      "id": "2dca8ee7-f097-4609-b313-16e1367caa42",
+      "name": "Smokey Plant-Based Sunglasses of Intelligence",
+      "pitchingRating": 0.11872481364038356,
       "postPrefix": null,
       "prePrefix": null,
-      "prefixes": null,
+      "prefixes": [
+        {
+          "adjustments": [
+            {
+              "stat": 19,
+              "type": 1,
+              "value": 0.10385162936102268
+            },
+            {
+              "stat": 0,
+              "type": 1,
+              "value": 0.14045575607890207
+            }
+          ],
+          "name": "Smokey"
+        },
+        {
+          "adjustments": [
+            {
+              "stat": 23,
+              "type": 1,
+              "value": 0.3373738804014091
+            },
+            {
+              "stat": 15,
+              "type": 1,
+              "value": 0.2378803389693323
+            },
+            {
+              "stat": 1,
+              "type": 1,
+              "value": -0.0510783808926807
+            }
+          ],
+          "name": "Plant-Based"
+        }
+      ],
       "root": {
         "adjustments": [
           {
-            "stat": 2,
+            "stat": 8,
             "type": 1,
-            "value": 0.13538519645262037
+            "value": 0.1643616551361778
           }
         ],
-        "name": "Bat"
+        "name": "Sunglasses"
       },
-      "suffix": null
+      "suffix": {
+        "adjustments": [
+          {
+            "stat": 19,
+            "type": 1,
+            "value": 0.15736894245429378
+          },
+          {
+            "stat": 24,
+            "type": 1,
+            "value": 0.1922721571932815
+          },
+          {
+            "stat": 14,
+            "type": 1,
+            "value": 0.1722016546053231
+          }
+        ],
+        "name": "Intelligence"
+      }
     }
   ],
   "laserlikeness": 0.09579740502845643,
@@ -56,28 +111,28 @@
   "moxie": 0.8084214276358905,
   "musclitude": 1.0115261334000796,
   "name": "Bennett Bluesky",
-  "omniscience": 0.4174874334458865,
-  "overpowerment": 0.2755166743426213,
+  "omniscience": 0.37087187940241273,
+  "overpowerment": 0.5690569802808115,
   "patheticism": 0.30723039800780755,
   "peanutAllergy": false,
   "permAttr": [
     "TRIPLE_THREAT"
   ],
-  "pitchingRating": 0.7549883062845876,
+  "pitchingRating": 1.028889336441663,
   "pressurization": 0.4817777052719996,
   "ritual": "Bonsai",
-  "ruthlessness": 0.8380341605030568,
+  "ruthlessness": 1.0107548507146191,
   "seasAttr": [],
-  "shakespearianism": 0.7623232833128171,
+  "shakespearianism": 0.9143123750206728,
   "soul": 3,
   "state": {},
-  "suppression": 0.8504856016458583,
-  "tenaciousness": 0.20858096213652047,
+  "suppression": 1.033354118254043,
+  "tenaciousness": 0.16878356924171933,
   "thwackability": 0.2375743376103329,
   "totalFingers": 10,
   "tournamentTeamId": null,
   "tragicness": 0.8694695420725064,
-  "unthwackability": 1.0292577401077343,
-  "watchfulness": 0.6551375540880637,
+  "unthwackability": 1.2590052983580813,
+  "watchfulness": 0.5944236086670216,
   "weekAttr": []
 }

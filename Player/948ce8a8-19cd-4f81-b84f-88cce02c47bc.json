@@ -29,6 +29,32 @@
       "durability": 1,
       "forger": null,
       "forgerName": null,
+      "health": 1,
+      "hittingRating": 0.00752325803140963,
+      "id": "b65bd56c-9ef6-4d72-9fdc-55a12eb9f285",
+      "name": "Jersey",
+      "pitchingRating": 0,
+      "postPrefix": null,
+      "prePrefix": null,
+      "prefixes": null,
+      "root": {
+        "adjustments": [
+          {
+            "stat": 5,
+            "type": 1,
+            "value": 0.13769637513616895
+          }
+        ],
+        "name": "Jersey"
+      },
+      "suffix": null
+    },
+    {
+      "baserunningRating": 0,
+      "defenseRating": 0,
+      "durability": 1,
+      "forger": null,
+      "forgerName": null,
       "health": 0,
       "hittingRating": 0.06416742649020557,
       "id": "e269b1a5-0a2b-4ab1-bbd1-e6704b113e88",

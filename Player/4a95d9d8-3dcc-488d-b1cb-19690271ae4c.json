@@ -25,6 +25,40 @@
   "items": [
     {
       "baserunningRating": 0,
+      "defenseRating": 0,
+      "durability": 1,
+      "forger": null,
+      "forgerName": null,
+      "health": 1,
+      "hittingRating": 0.012737270850838422,
+      "id": "2b5c8dd1-2919-477e-a627-74454e719d63",
+      "name": "Plastic Jersey",
+      "pitchingRating": 0,
+      "postPrefix": {
+        "adjustments": [
+          {
+            "type": 3,
+            "value": -1
+          }
+        ],
+        "name": "Plastic"
+      },
+      "prePrefix": null,
+      "prefixes": null,
+      "root": {
+        "adjustments": [
+          {
+            "stat": 5,
+            "type": 1,
+            "value": 0.11653205826383176
+          }
+        ],
+        "name": "Jersey"
+      },
+      "suffix": null
+    },
+    {
+      "baserunningRating": 0,
       "defenseRating": -0.021185263279255295,
       "durability": 3,
       "forger": null,
@@ -82,32 +116,6 @@
           }
         ],
         "name": "Sunglasses"
-      },
-      "suffix": null
-    },
-    {
-      "baserunningRating": 0,
-      "defenseRating": 0,
-      "durability": 1,
-      "forger": null,
-      "forgerName": null,
-      "health": 0,
-      "hittingRating": 0.03588740764634324,
-      "id": "ffb0716d-1725-4678-819e-8aed181f84f2",
-      "name": "Bat",
-      "pitchingRating": 0,
-      "postPrefix": null,
-      "prePrefix": null,
-      "prefixes": null,
-      "root": {
-        "adjustments": [
-          {
-            "stat": 2,
-            "type": 1,
-            "value": 0.11356010278963297
-          }
-        ],
-        "name": "Bat"
       },
       "suffix": null
     }

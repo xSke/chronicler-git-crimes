@@ -24,7 +24,7 @@
   "itemAttr": [],
   "items": [],
   "laserlikeness": 1.3198920718779616,
-  "leagueTeamId": "36569151-a2fb-43c1-9df7-2df512424c82",
+  "leagueTeamId": "3f8bbb15-61c0-4e3f-8e4a-907a5fb1565e",
   "martyrdom": 0.7183735143025503,
   "moxie": 0.6377267794149947,
   "musclitude": 0.781462563449712,
@@ -35,9 +35,9 @@
   "peanutAllergy": false,
   "permAttr": [
     "HOMEBODY",
-    "MARKED",
     "ATTRACTOR",
-    "OVERPERFORMING"
+    "OVERPERFORMING",
+    "FRIEND_OF_CROWS"
   ],
   "pitchingRating": 1.5145678449703284,
   "pressurization": 0.7857967407463393,

@@ -22,7 +22,34 @@
   "id": "ce0a156b-ba7b-4313-8fea-75807b4bc77f",
   "indulgence": 0.5103440237004144,
   "itemAttr": [],
-  "items": [],
+  "items": [
+    {
+      "baserunningRating": 0,
+      "defenseRating": 0,
+      "durability": 1,
+      "forger": null,
+      "forgerName": null,
+      "health": 1,
+      "hittingRating": 0,
+      "id": "d8ffa791-24ce-4aa5-a4a6-e827ec5cb3aa",
+      "name": "Sunglasses",
+      "pitchingRating": 0,
+      "postPrefix": null,
+      "prePrefix": null,
+      "prefixes": null,
+      "root": {
+        "adjustments": [
+          {
+            "stat": 8,
+            "type": 1,
+            "value": 0.14831569635159697
+          }
+        ],
+        "name": "Sunglasses"
+      },
+      "suffix": null
+    }
+  ],
   "laserlikeness": 0.5805763512088034,
   "leagueTeamId": "ca3f1c8c-c025-4d8e-8eef-5be6accbeb16",
   "martyrdom": 0.7215209007740409,

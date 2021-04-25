@@ -29,23 +29,31 @@
       "durability": 1,
       "forger": null,
       "forgerName": null,
-      "health": 0,
-      "hittingRating": 0.03161004365729536,
-      "id": "2bc6f770-b8a0-44bb-876b-247ebdd2bec1",
-      "name": "Bat",
+      "health": 1,
+      "hittingRating": 0.012409090381013566,
+      "id": "7cd45b10-8a8f-4008-8d7f-ffa3347c77e9",
+      "name": "Glass Necklace",
       "pitchingRating": 0,
-      "postPrefix": null,
+      "postPrefix": {
+        "adjustments": [
+          {
+            "type": 3,
+            "value": -2
+          }
+        ],
+        "name": "Glass"
+      },
       "prePrefix": null,
       "prefixes": null,
       "root": {
         "adjustments": [
           {
-            "stat": 2,
+            "stat": 3,
             "type": 1,
-            "value": 0.1007857307971955
+            "value": 0.10930770321688828
           }
         ],
-        "name": "Bat"
+        "name": "Necklace"
       },
       "suffix": null
     }

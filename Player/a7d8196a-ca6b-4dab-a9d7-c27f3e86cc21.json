@@ -21,43 +21,45 @@
   "hittingRating": 1.0563481426865642,
   "id": "a7d8196a-ca6b-4dab-a9d7-c27f3e86cc21",
   "indulgence": 0.7253474371476671,
-  "itemAttr": [
-    "CHUNKY"
-  ],
+  "itemAttr": [],
   "items": [
     {
       "baserunningRating": 0,
-      "defenseRating": 0,
+      "defenseRating": 0.03328006715095988,
       "durability": 2,
       "forger": null,
       "forgerName": null,
       "health": 2,
-      "hittingRating": 0.03232249530465037,
-      "id": "7e6ddf9a-6ee0-4277-afb3-b438bbdce7db",
-      "name": "Chunky Bat",
+      "hittingRating": 0.01751741530028772,
+      "id": "28b80062-39e2-4b7e-afb3-dbfd80e90ccd",
+      "name": "Head Necklace",
       "pitchingRating": 0,
-      "postPrefix": null,
+      "postPrefix": {
+        "adjustments": [
+          {
+            "stat": 3,
+            "type": 1,
+            "value": 0.1591802490185862
+          },
+          {
+            "stat": 21,
+            "type": 1,
+            "value": 0.13469347291797829
+          }
+        ],
+        "name": "Head"
+      },
       "prePrefix": null,
-      "prefixes": [
-        {
-          "adjustments": [
-            {
-              "mod": "CHUNKY",
-              "type": 0
-            }
-          ],
-          "name": "Chunky"
-        }
-      ],
+      "prefixes": null,
       "root": {
         "adjustments": [
           {
-            "stat": 2,
+            "stat": 3,
             "type": 1,
-            "value": 0.10592359107288524
+            "value": 0.15105269950151326
           }
         ],
-        "name": "Bat"
+        "name": "Necklace"
       },
       "suffix": null
     }
@@ -83,11 +85,7 @@
   "shakespearianism": 1.1463592157571554,
   "soul": 3,
   "state": {
-    "itemModSources": {
-      "CHUNKY": [
-        "7e6ddf9a-6ee0-4277-afb3-b438bbdce7db"
-      ]
-    }
+    "itemModSources": {}
   },
   "suppression": 0.6514097153045205,
   "tenaciousness": 0.6338401295297168,

@@ -2,7 +2,7 @@
   "anticapitalism": 0.5351777418929591,
   "baseThirst": 0.8406476847967972,
   "baserunningRating": 0.7143788788148064,
-  "blood": 8,
+  "blood": 3,
   "buoyancy": 0.8584000989910588,
   "chasiness": 0.1958296828853719,
   "cinnamon": 0.5281584438684465,
@@ -63,7 +63,7 @@
   "permAttr": [
     "FIRE_EATER",
     "SHELLED",
-    "MAGMATIC"
+    "MARKED"
   ],
   "pitchingRating": 0.5716935055514534,
   "pressurization": 0.130306564204822,

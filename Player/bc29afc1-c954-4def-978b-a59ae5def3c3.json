@@ -30,6 +30,40 @@
       "forger": null,
       "forgerName": null,
       "health": 1,
+      "hittingRating": 0.006851824155692077,
+      "id": "471d2d2c-759a-4e67-aa79-15bbd1bf654e",
+      "name": "Plastic Jersey",
+      "pitchingRating": 0,
+      "postPrefix": {
+        "adjustments": [
+          {
+            "type": 3,
+            "value": -1
+          }
+        ],
+        "name": "Plastic"
+      },
+      "prePrefix": null,
+      "prefixes": null,
+      "root": {
+        "adjustments": [
+          {
+            "stat": 5,
+            "type": 1,
+            "value": 0.15341704381727167
+          }
+        ],
+        "name": "Jersey"
+      },
+      "suffix": null
+    },
+    {
+      "baserunningRating": 0,
+      "defenseRating": 0,
+      "durability": 1,
+      "forger": null,
+      "forgerName": null,
+      "health": 1,
       "hittingRating": 0.03946511490896354,
       "id": "cf1a18f9-2333-4426-ac40-7c3543b76f6b",
       "name": "Bat",

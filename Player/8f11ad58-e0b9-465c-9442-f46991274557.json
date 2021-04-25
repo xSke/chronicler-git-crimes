@@ -22,7 +22,34 @@
   "id": "8f11ad58-e0b9-465c-9442-f46991274557",
   "indulgence": 0.5318963604903488,
   "itemAttr": [],
-  "items": [],
+  "items": [
+    {
+      "baserunningRating": 0,
+      "defenseRating": 0,
+      "durability": 1,
+      "forger": null,
+      "forgerName": null,
+      "health": 1,
+      "hittingRating": 0.024441634769731768,
+      "id": "dacabc54-a5cc-4bb7-ad41-05f50500c223",
+      "name": "Necklace",
+      "pitchingRating": 0,
+      "postPrefix": null,
+      "prePrefix": null,
+      "prefixes": null,
+      "root": {
+        "adjustments": [
+          {
+            "stat": 3,
+            "type": 1,
+            "value": 0.11916897615766514
+          }
+        ],
+        "name": "Necklace"
+      },
+      "suffix": null
+    }
+  ],
   "laserlikeness": 0.6901909081730968,
   "leagueTeamId": "eb67ae5e-c4bf-46ca-bbbc-425cd34182ff",
   "martyrdom": 0.11193824118519231,

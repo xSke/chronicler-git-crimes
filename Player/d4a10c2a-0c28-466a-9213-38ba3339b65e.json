@@ -21,8 +21,46 @@
   "hittingRating": 0.7702536716758119,
   "id": "d4a10c2a-0c28-466a-9213-38ba3339b65e",
   "indulgence": 0.2920681019671898,
-  "itemAttr": [],
+  "itemAttr": [
+    "CHUNKY"
+  ],
   "items": [
+    {
+      "baserunningRating": 0,
+      "defenseRating": 0,
+      "durability": 2,
+      "forger": null,
+      "forgerName": null,
+      "health": 2,
+      "hittingRating": 0.014256433812710134,
+      "id": "2a5d63e9-01e5-4dbf-bb4e-a18a781e1649",
+      "name": "Chunky Necklace",
+      "pitchingRating": 0,
+      "postPrefix": null,
+      "prePrefix": null,
+      "prefixes": [
+        {
+          "adjustments": [
+            {
+              "mod": "CHUNKY",
+              "type": 0
+            }
+          ],
+          "name": "Chunky"
+        }
+      ],
+      "root": {
+        "adjustments": [
+          {
+            "stat": 3,
+            "type": 1,
+            "value": 0.13526177878075396
+          }
+        ],
+        "name": "Necklace"
+      },
+      "suffix": null
+    },
     {
       "baserunningRating": 0,
       "defenseRating": 0,
@@ -70,7 +108,13 @@
   "seasAttr": [],
   "shakespearianism": 0.7001158670575789,
   "soul": 5,
-  "state": {},
+  "state": {
+    "itemModSources": {
+      "CHUNKY": [
+        "2a5d63e9-01e5-4dbf-bb4e-a18a781e1649"
+      ]
+    }
+  },
   "suppression": 0.5851256501092098,
   "tenaciousness": 1.34286798328447,
   "thwackability": 0.7396989652468305,

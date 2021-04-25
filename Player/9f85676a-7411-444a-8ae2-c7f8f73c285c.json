@@ -29,10 +29,10 @@
       "durability": 1,
       "forger": null,
       "forgerName": null,
-      "health": 0,
-      "hittingRating": 0.04526393887297031,
-      "id": "d31e50cf-c0ce-4f74-ad4c-6460780e4711",
-      "name": "Bat",
+      "health": 1,
+      "hittingRating": 0.015719414032521528,
+      "id": "46d3960d-ad2f-4bd6-975c-cdd3d448f5b4",
+      "name": "Necklace",
       "pitchingRating": 0,
       "postPrefix": null,
       "prePrefix": null,
@@ -40,12 +40,12 @@
       "root": {
         "adjustments": [
           {
-            "stat": 2,
+            "stat": 3,
             "type": 1,
-            "value": 0.10632899377854184
+            "value": 0.1449917151521062
           }
         ],
-        "name": "Bat"
+        "name": "Necklace"
       },
       "suffix": null
     }

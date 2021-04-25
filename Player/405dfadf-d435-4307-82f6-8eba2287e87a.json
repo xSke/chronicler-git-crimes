@@ -2,7 +2,7 @@
   "anticapitalism": 0.9278705850222702,
   "baseThirst": 0.6067220321787331,
   "baserunningRating": 0.792694511228035,
-  "blood": 7,
+  "blood": 2,
   "buoyancy": 1.3935035787365695,
   "chasiness": 0.4154020558451746,
   "cinnamon": 0.7492815690894248,
@@ -29,23 +29,23 @@
       "durability": 1,
       "forger": null,
       "forgerName": null,
-      "health": 0,
-      "hittingRating": 0.04186738089580411,
-      "id": "86476232-5f45-4dd2-b681-24b819dacfcc",
-      "name": "Bat",
-      "pitchingRating": 0,
+      "health": 1,
+      "hittingRating": 0,
+      "id": "f610317a-7a5c-4ea0-ad7d-05f15245e168",
+      "name": "Ring",
+      "pitchingRating": 0.0538551237416961,
       "postPrefix": null,
       "prePrefix": null,
       "prefixes": null,
       "root": {
         "adjustments": [
           {
-            "stat": 2,
+            "stat": 19,
             "type": 1,
-            "value": 0.1464246849403986
+            "value": 0.16453971283373064
           }
         ],
-        "name": "Bat"
+        "name": "Ring"
       },
       "suffix": null
     }
