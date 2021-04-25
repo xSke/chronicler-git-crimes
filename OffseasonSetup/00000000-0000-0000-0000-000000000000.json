@@ -4,8 +4,9 @@
       "description": "Two Adjacent Players in your Team's Lineup will gain +15% Moxie.",
       "id": "team_adjacent_players_moxie",
       "metadata": {
-        "groupType": 0,
-        "percentage": 0.15,
+        "amount": 0.15,
+        "groupSelection": 1,
+        "groupSize": 2,
         "sourceLocation": [
           0
         ],
@@ -19,6 +20,9 @@
     {
       "description": "Chaarge! Give your Team AA Blood.",
       "id": "team_aa_blood_type",
+      "metadata": {
+        "bloodType": 2
+      },
       "title": "Power Chaarge",
       "type": 178,
       "value": 1
@@ -26,13 +30,22 @@
     {
       "description": "Give your Team Acidic Blood.",
       "id": "team_acidic_blood_type",
+      "metadata": {
+        "bloodType": 3
+      },
       "title": "Xenomorph",
-      "type": 179,
+      "type": 178,
       "value": 1
     },
     {
       "description": "Call the Alternate for all Players in your Shadows.",
       "id": "all_shadows_alternates",
+      "metadata": {
+        "sourceLocation": [
+          2,
+          3
+        ]
+      },
       "title": "On Deck",
       "type": 182,
       "value": 1
@@ -41,11 +54,11 @@
       "description": "All Players on your Team with an available Item slot (empty or broken) will open a Generic Jersey Crate.",
       "id": "team_items_generic_jerseys",
       "metadata": {
+        "crate": "generic_jerseys",
         "sourceLocation": [
           0,
           1
-        ],
-        "table": "generic_jerseys"
+        ]
       },
       "title": "Jerseys Supply Run",
       "type": 176,
@@ -55,11 +68,11 @@
       "description": "All Players on your Team with an available Item slot (empty or broken) will open a Generic Rings Crate.",
       "id": "team_items_generic_rings",
       "metadata": {
+        "crate": "generic_rings",
         "sourceLocation": [
           0,
           1
-        ],
-        "table": "generic_rings"
+        ]
       },
       "title": "Rings Supply Run",
       "type": 176,
@@ -69,11 +82,11 @@
       "description": "All Players on your Team with an available Item slot (empty or broken) will open a Generic Necklace Crate.",
       "id": "team_items_generic_necklaces",
       "metadata": {
+        "crate": "generic_necklaces",
         "sourceLocation": [
           0,
           1
-        ],
-        "table": "generic_necklaces"
+        ]
       },
       "title": "Necklace Supply Run",
       "type": 176,
@@ -83,11 +96,11 @@
       "description": "All Players on your Team with an available Item slot (empty or broken) will open a Generic Sunglasses Crate.",
       "id": "team_items_generic_sunglasses",
       "metadata": {
+        "crate": "generic_sunglasses",
         "sourceLocation": [
           0,
           1
-        ],
-        "table": "generic_sunglasses"
+        ]
       },
       "title": "Sunglasses Supply Run",
       "type": 176,
@@ -97,11 +110,11 @@
       "description": "A Random Hitter on your Team with an available Item slot (empty or broken) will open a Handcrafted Jersey Crate.",
       "id": "random_player_handcrafted_jersey",
       "metadata": {
+        "crate": "handcrafted_jerseys",
         "playerSelection": 0,
         "sourceLocation": [
           0
-        ],
-        "table": "handcrafted_jerseys"
+        ]
       },
       "title": "Handcrafted Jersey Drop",
       "type": 177,
@@ -111,11 +124,11 @@
       "description": "A Random Pitcher on your Team with an available Item slot (empty or broken) will open a Handcrafted Ring Crate.",
       "id": "random_player_handcrafted_ring",
       "metadata": {
+        "crate": "handcrafted_rings",
         "playerSelection": 0,
         "sourceLocation": [
           1
-        ],
-        "table": "handcrafted_rings"
+        ]
       },
       "title": "Handcrafted Ring Drop",
       "type": 177,
@@ -125,11 +138,11 @@
       "description": "A Random Hitter on your Team with an available Item slot (empty or broken) will open a Handcrafted Necklace Crate.",
       "id": "random_player_handcrafted_necklace",
       "metadata": {
+        "crate": "handcrafted_necklaces",
         "playerSelection": 0,
         "sourceLocation": [
           0
-        ],
-        "table": "handcrafted_necklaces"
+        ]
       },
       "title": "Handcrafted Necklace Drop",
       "type": 177,
@@ -139,12 +152,12 @@
       "description": "A Random Player on your Team with an available Item slot (empty or broken) will open a Handcrafted Sunglasses Crate.",
       "id": "random_player_handcrafted_sunglasses",
       "metadata": {
+        "crate": "handcrafted_sunglasses",
         "playerSelection": 0,
         "sourceLocation": [
           0,
           1
-        ],
-        "table": "handcrafted_sunglasses"
+        ]
       },
       "title": "Handcrafted Sunglasses Drop",
       "type": 177,
@@ -154,12 +167,11 @@
       "description": "A Random Hitter on your Team with an available Item slot (empty or broken) will open a Dexterity Crate.",
       "id": "random_player_dexterity_item",
       "metadata": {
+        "crate": "dexterity_items",
         "playerSelection": 0,
         "sourceLocation": [
-          0,
-          1
-        ],
-        "table": "dexterity_items"
+          0
+        ]
       },
       "title": "Dexterity Crate Drop",
       "type": 177,
@@ -169,12 +181,12 @@
       "description": "A Random Player on your Team with an available Item slot (empty or broken) will open a Slime Crate.",
       "id": "random_player_slime_item",
       "metadata": {
+        "crate": "slime_items",
         "playerSelection": 0,
         "sourceLocation": [
           0,
           1
-        ],
-        "table": "slime_items"
+        ]
       },
       "title": "Slime Crate Drop",
       "type": 177,
@@ -184,12 +196,11 @@
       "description": "A Random Hitter on your Team with an available Item slot (empty or broken) will open a Blood Crate.",
       "id": "random_player_blood_item",
       "metadata": {
+        "crate": "blood_items",
         "playerSelection": 0,
         "sourceLocation": [
-          0,
-          1
-        ],
-        "table": "blood_items"
+          0
+        ]
       },
       "title": "Blood Crate Drop",
       "type": 177,
@@ -199,12 +210,11 @@
       "description": "A Random Pitcher on your Team with an available Item slot (empty or broken) will open an Intelligence Crate.",
       "id": "random_player_intelligence_item",
       "metadata": {
+        "crate": "intelligence_items",
         "playerSelection": 0,
         "sourceLocation": [
-          0,
           1
-        ],
-        "table": "intelligence_items"
+        ]
       },
       "title": "Intelligence Crate Drop",
       "type": 177,
@@ -278,8 +288,9 @@
       "description": "The Last Three Players in your Team's Lineup will gain 10% Thwackability.",
       "id": "team_last_three_thwackability",
       "metadata": {
-        "groupType": 1,
-        "percentage": 0.1,
+        "amount": 0.1,
+        "groupSelection": 1,
+        "groupSize": 3,
         "sourceLocation": [
           0
         ],
@@ -317,7 +328,7 @@
         "boostStat": 18,
         "impairAmount": 0.2,
         "impairStat": 16,
-        "selectionType": 0,
+        "playerSelection": 0,
         "sourceLocation": [
           1
         ]
@@ -334,7 +345,7 @@
         "boostStat": 16,
         "impairAmount": 0.2,
         "impairStat": 18,
-        "selectionType": 0,
+        "playerSelection": 0,
         "sourceLocation": [
           1
         ]
