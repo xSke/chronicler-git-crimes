@@ -16,7 +16,8 @@
     "SOLAR_PANELS",
     "BIG_BUCKET",
     "SALMON_CANNONS",
-    "FLOOD_PUMPS"
+    "FLOOD_PUMPS",
+    "SMITHY"
   ],
   "mysticism": 0.5754439841690367,
   "name": "Boston Garden",

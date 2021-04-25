@@ -51,7 +51,9 @@
     "924de86d-260b-495b-80e1-57af5767703c"
   ],
   "rotationSlot": 0,
-  "seasAttr": [],
+  "seasAttr": [
+    "HOME_FIELD"
+  ],
   "seasonShames": 0,
   "seasonShamings": 0,
   "secondaryColor": "#ba9c65",

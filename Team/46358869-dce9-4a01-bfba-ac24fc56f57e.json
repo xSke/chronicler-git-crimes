@@ -2,6 +2,7 @@
   "bench": [
     "7e910e86-84b4-43c3-a68e-67b6612ddbee",
     "84a17f48-0393-4166-864a-f7cd27557701",
+    "9e75ff7c-fe9b-428b-a1b6-f9e6a1748c86",
     "f7de0227-6739-48e2-bbd6-9dc7b247ab9a",
     "6f9f50e6-81bf-4371-9a27-de3c85bd5a82"
   ],
@@ -13,7 +14,7 @@
     "30fa4bf1-8f3b-45dc-9aa3-6511e998040a",
     "9c813008-b2a9-4257-80e7-a709c67189fe",
     "096bb9b5-5ea8-4da1-a113-57a5fc9e9b67",
-    "b0c20916-7097-47e6-8226-cbf67da176e0",
+    "888fce7a-0d21-478a-9b45-4662193fe9aa",
     "338694b7-6256-4724-86b6-3884299a5d9e",
     "13676ab5-afb3-4650-af23-bcde1037d25b"
   ],
@@ -23,7 +24,9 @@
   "emoji": "0x1F6E0",
   "evolution": 1,
   "fullName": "Core Mechanics",
-  "gameAttr": [],
+  "gameAttr": [
+    "EXTRA_OUT"
+  ],
   "id": "46358869-dce9-4a01-bfba-ac24fc56f57e",
   "level": 4,
   "lineup": [
@@ -34,22 +37,19 @@
     "a1fba555-a48c-44f3-afb6-522ea256947c",
     "5bc7e5d4-39be-4d64-a242-abb39aca6f42",
     "c83b82e8-b8d2-4cb7-9982-97593283acc2",
-    "b643a520-af38-42e3-8f7b-f660e52facc9",
-    "2c4b2a6d-9961-4e40-882c-a338f4e72117"
+    "b643a520-af38-42e3-8f7b-f660e52facc9"
   ],
   "location": "Core",
   "mainColor": "#d13100",
   "nickname": "Mechanics",
   "permAttr": [
     "MAINTENANCE_MODE",
-    "STALEPOPCORN_PAYOUTS",
-    "FREE_WILL"
+    "STALEPOPCORN_PAYOUTS"
   ],
   "rotation": [
-    "9e75ff7c-fe9b-428b-a1b6-f9e6a1748c86",
     "b629cb7a-414b-4695-a115-7528ab700346",
     "04e14d7b-5021-4250-a3cd-932ba8e0a889",
-    "888fce7a-0d21-478a-9b45-4662193fe9aa"
+    "b0c20916-7097-47e6-8226-cbf67da176e0"
   ],
   "rotationSlot": 0,
   "seasAttr": [],

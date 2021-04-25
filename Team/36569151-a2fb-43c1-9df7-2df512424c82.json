@@ -12,6 +12,7 @@
   "bullpen": [
     "ab9b2592-a64a-4913-bf6c-3ae5bd5d26a5",
     "29bf512a-cd8c-4ceb-b25a-d96300c184bb",
+    "8d81b190-d3b8-4cd9-bcec-0e59fdd7f2bc",
     "94d772c7-0254-4f08-814c-f6fc58fcfb9b",
     "1e229fe5-a191-48ef-a7dd-6f6e13d6d73f",
     "c4dec95e-78a1-4840-b209-b3b597181534",
@@ -43,16 +44,14 @@
   "mainColor": "#ffd4d8",
   "nickname": "Millennials",
   "permAttr": [
-    "BIRD_SEED",
-    "FREE_WILL"
+    "BIRD_SEED"
   ],
   "rotation": [
     "ae4acebd-edb5-4d20-bf69-f2d5151312ff",
     "81d7d022-19d6-427d-aafc-031fcb79b29e",
-    "8d81b190-d3b8-4cd9-bcec-0e59fdd7f2bc",
     "5dbf11c0-994a-4482-bd1e-99379148ee45",
     "6c346d8b-d186-4228-9adb-ae919d7131dd",
-    "a3947fbc-50ec-45a4-bca4-49ffebb77dbe"
+    "defbc540-a36d-460b-afd8-07da2375ee63"
   ],
   "rotationSlot": 0,
   "seasAttr": [],

@@ -10,7 +10,6 @@
   "bullpen": [
     "17392be2-7344-48a0-b4db-8a040a7fb532",
     "450e6483-d116-41d8-933b-1b541d5f0026",
-    "44c92d97-bb39-469d-a13b-f2dd9ae644d1",
     "94f30f21-f889-4a2e-9b94-818475bb1ca0",
     "1ded0384-d290-4ea1-a72b-4f9d220cbe37",
     "82733eb4-103d-4be1-843e-6eb6df35ecd7",
@@ -29,9 +28,11 @@
   "level": 5,
   "lineup": [
     "8adb084b-19fe-4295-bcd2-f92afdb62bd7",
-    "ac69dba3-6225-4afd-ab4b-23fc78f730fb",
+    "0bb35615-63f2-4492-80ec-b6b322dc5450",
     "89ec77d8-c186-4027-bd45-f407b4800c2c",
-    "2ffbaec8-a646-4435-a17a-3a0a2b5f3e16"
+    "44c92d97-bb39-469d-a13b-f2dd9ae644d1",
+    "2ffbaec8-a646-4435-a17a-3a0a2b5f3e16",
+    "9a031b9a-16f8-4165-a468-5d0e28a81151"
   ],
   "location": "Yellowstone",
   "mainColor": "#bf0043",

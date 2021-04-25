@@ -2,6 +2,7 @@
   "bench": [
     "8e1eeeb8-1b80-4781-9d85-bda3b58a45f4",
     "9337389f-4301-4e30-a108-4680c02ee1fe",
+    "3c19aa93-3f9d-4be0-ae5a-8ade100a9668",
     "35acb6ea-9a7c-49b6-809c-59409f557651"
   ],
   "bullpen": [
@@ -31,10 +32,9 @@
     "4a95d9d8-3dcc-488d-b1cb-19690271ae4c",
     "3d293d6c-3a20-43ab-a895-2b7f1f28779f",
     "5361e381-6658-488b-8236-dde6a264554f",
-    "3c19aa93-3f9d-4be0-ae5a-8ade100a9668",
     "ad56f749-ee48-4a85-9827-8455aeafe276",
     "0ef1bc34-64ee-4c7b-8be2-88322b407a58",
-    "1ffb1153-909d-44c7-9df1-6ed3a9a45bbd"
+    "691f9ab2-9dd4-42e8-bf95-9fd01253c801"
   ],
   "location": "Atlantis",
   "mainColor": "#00dbc2",
@@ -45,7 +45,7 @@
   "rotation": [
     "ebe6ac02-3b83-4da8-b1e5-f89053bbd5c8",
     "bc29afc1-c954-4def-978b-a59ae5def3c3",
-    "cbd19e6f-3d08-4734-b23f-585330028665"
+    "de21c97e-f575-43b7-8be7-ecc5d8c4eaff"
   ],
   "rotationSlot": 0,
   "seasAttr": [],

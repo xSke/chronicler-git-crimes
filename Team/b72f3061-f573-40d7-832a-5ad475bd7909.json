@@ -1,7 +1,7 @@
 {
   "bench": [
     "26f01324-9d1c-470b-8eaa-1b9bfbcd8b65",
-    "9f6d06d6-c616-4599-996b-ec4eefcff8b8",
+    "7c5ae357-e079-4427-a90f-97d164c7262e",
     "0e27df51-ad0c-4546-acf5-96b3cb4d7501",
     "0268b35f-b19b-4b2f-90c4-89fb36403686",
     "8997123f-b24d-4326-80c8-3c862f80f623",
@@ -30,9 +30,10 @@
   "lineup": [
     "ee55248b-318a-4bfb-8894-1cc70e4e0720",
     "c9e4a49e-e35a-4034-a4c7-293896b40c58",
-    "de21c97e-f575-43b7-8be7-ecc5d8c4eaff",
+    "cbd19e6f-3d08-4734-b23f-585330028665",
     "91f5298e-a2ec-4f54-a541-1818702d1b6d",
     "db33a54c-3934-478f-bad4-fc313ac2580e",
+    "c0998a08-de15-4187-b903-2e096ffa08e5",
     "0eea4a48-c84b-4538-97e7-3303671934d2",
     "11de4da3-8208-43ff-a1ff-0b3480a0fbf1"
   ],
@@ -40,15 +41,13 @@
   "mainColor": "#780018",
   "nickname": "Lovers",
   "permAttr": [
-    "LOVE",
-    "FREE_WILL"
+    "LOVE"
   ],
   "rotation": [
     "bd24e18b-800d-4f15-878d-e334fb4803c4",
-    "7c5ae357-e079-4427-a90f-97d164c7262e",
+    "9f6d06d6-c616-4599-996b-ec4eefcff8b8",
     "f2c477fb-28ea-4fcb-943a-9fab22df3da0",
     "c3ae0552-59e8-44bf-ba66-48a96aff35e6",
-    "c0998a08-de15-4187-b903-2e096ffa08e5",
     "d97835fd-2e92-4698-8900-1f5abea0a3b6",
     "7158d158-e7bf-4e9b-9259-62e5b25e3de8"
   ],

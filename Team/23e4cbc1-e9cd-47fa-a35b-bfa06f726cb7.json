@@ -6,7 +6,7 @@
     "e495cadc-a645-439d-a556-e41de7493f18",
     "a0e7445f-2b93-4ca7-a69d-ff32593700ee",
     "7f3f2e75-900e-40b6-846b-db585541490d",
-    "667cb445-c288-4e62-b603-27291c1e475d",
+    "dd6044ef-c635-4aed-97bd-d18068432b8f",
     "4ec6951f-6822-4861-bc25-79826dd8c554"
   ],
   "bullpen": [
@@ -36,14 +36,15 @@
     "814bae61-071a-449b-981e-e7afc839d6d6",
     "405dfadf-d435-4307-82f6-8eba2287e87a",
     "da0bbbe6-d13c-40cc-9594-8c476975d93d",
-    "dd6044ef-c635-4aed-97bd-d18068432b8f",
+    "667cb445-c288-4e62-b603-27291c1e475d",
     "f245f6c6-4613-40f5-bc3b-85aa9ee3cf7e"
   ],
   "location": "Philly",
   "mainColor": "#399d8f",
   "nickname": "Pies",
   "permAttr": [
-    "AFFINITY_FOR_CROWS"
+    "AFFINITY_FOR_CROWS",
+    "AA"
   ],
   "rotation": [
     "c6e2e389-ed04-4626-a5ba-fe398fe89568",
